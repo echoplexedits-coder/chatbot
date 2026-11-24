@@ -1,0 +1,1069 @@
+[
+  {
+    "id": "pol-constitution-why-how",
+    "title": "Constitution: why and how",
+    "subject": "Political Science",
+    "classes": [
+      11
+    ],
+    "summary": "A constitution sets the rules of government, limits power and expresses a country's values and identity.",
+    "points": [
+      "It allocates power between institutions and between the state and citizens.",
+      "The Indian Constitution was framed by a Constituent Assembly and adopted on 26 November 1949, effective 26 January 1950.",
+      "It draws on multiple sources but was shaped by Indian conditions and debates.",
+      "It can be amended, but some features are protected by the basic structure doctrine."
+    ],
+    "example": "The Constituent Assembly debated for nearly three years, producing a constitution with a lengthy bill of rights.",
+    "aliases": [
+      "constitution why and how",
+      "constituent assembly",
+      "framing of constitution",
+      "basic structure",
+      "need for constitution"
+    ],
+    "mistakes": [
+      "Saying the Constitution was written by one person.",
+      "Ignoring that the Constitution came into force in 1950."
+    ]
+  },
+  {
+    "id": "pol-election-representation",
+    "title": "Elections and representation",
+    "subject": "Political Science",
+    "classes": [
+      11
+    ],
+    "summary": "Elections choose representatives, and the electoral system decides how votes become seats.",
+    "points": [
+      "The first-past-the-post system elects the candidate with the most votes in a constituency, not a majority.",
+      "Proportional representation allotts seats in proportion to vote share and is used for the Rajya Sabha indirectly.",
+      "The Election Commission conducts and supervises elections and registers parties.",
+      "Free and fair elections need an updated roll, fair expenditure rules and independent machinery.",
+      "Universal adult franchise means every adult citizen can vote regardless of gender, caste or income."
+    ],
+    "example": "In a three-cornered contest a candidate can win with 35% of the vote under first-past-the-post.",
+    "aliases": [
+      "elections and representation",
+      "first past the post",
+      "proportional representation",
+      "election commission",
+      "franchise",
+      "election and representation"
+    ],
+    "mistakes": [
+      "Assuming the winner always has a majority of votes.",
+      "Confusing the Rajya Sabha and Lok Sabha election methods."
+    ]
+  },
+  {
+    "id": "pol-indian-executive",
+    "title": "The executive",
+    "subject": "Political Science",
+    "classes": [
+      11
+    ],
+    "summary": "The executive implements laws and runs the government, and in India the political executive is accountable to Parliament.",
+    "points": [
+      "The President is the constitutional head; the Prime Minister and Council of Ministers hold real executive power.",
+      "The Council of Ministers is collectively responsible to the Lok Sabha.",
+      "The civil service is the permanent executive that administers policy.",
+      "The Prime Minister chooses ministers and coordinates the government."
+    ],
+    "example": "A government that loses a confidence vote in the Lok Sabha must resign, showing collective responsibility.",
+    "aliases": [
+      "the executive",
+      "president prime minister",
+      "council of ministers",
+      "permanent executive",
+      "collective responsibility"
+    ],
+    "mistakes": [
+      "Assuming the President governs directly.",
+      "Forgetting that ministers must be members of the legislature."
+    ]
+  },
+  {
+    "id": "pol-indian-legislature",
+    "title": "The legislature",
+    "subject": "Political Science",
+    "classes": [
+      11
+    ],
+    "summary": "Parliament makes laws, controls the executive, represents citizens and controls the public purse.",
+    "points": [
+      "Parliament has the President, the Lok Sabha and the Rajya Sabha.",
+      "A bill becomes law after passage in both houses and presidential assent.",
+      "The Lok Sabha can pass a no-confidence motion; the Rajya Sabha cannot.",
+      "Question hour, debates and committees scrutinise government work.",
+      "Money bills can originate only in the Lok Sabha."
+    ],
+    "example": "The Public Accounts Committee examines government spending on Parliament's behalf.",
+    "aliases": [
+      "legislature",
+      "parliament",
+      "lok sabha rajya sabha",
+      "bill to law",
+      "no confidence motion",
+      "money bill",
+      "the legislature"
+    ],
+    "mistakes": [
+      "Thinking the Rajya Sabha can pass a no-confidence motion.",
+      "Ignoring the role of committees."
+    ]
+  },
+  {
+    "id": "pol-indian-judiciary",
+    "title": "The judiciary",
+    "subject": "Political Science",
+    "classes": [
+      11
+    ],
+    "summary": "The judiciary settles disputes, interprets the Constitution and protects fundamental rights.",
+    "points": [
+      "The Supreme Court is the highest court and its decisions bind all courts.",
+      "Judicial review lets courts strike down laws that violate the Constitution.",
+      "Independence of the judiciary is protected by fixed tenure, secure salaries and appointment procedures.",
+      "Public interest litigation allows any citizen to approach the court for a public cause.",
+      "The Supreme Court has original, appellate and advisory jurisdiction."
+    ],
+    "example": "In Kesavananda Bharati the Supreme Court held that Parliament cannot destroy the basic structure.",
+    "aliases": [
+      "judiciary",
+      "supreme court",
+      "judicial review",
+      "public interest litigation",
+      "independence of judiciary",
+      "high court",
+      "the judiciary"
+    ],
+    "mistakes": [
+      "Thinking courts can change the Constitution at will.",
+      "Confusing appellate and advisory jurisdiction."
+    ]
+  },
+  {
+    "id": "pol-federalism",
+    "title": "Federalism",
+    "subject": "Political Science",
+    "classes": [
+      10,
+      11
+    ],
+    "summary": "Federalism divides power between a central government and states, each with its own defined sphere.",
+    "points": [
+      "India has a three-tier structure: Union, State and local government.",
+      "The Seventh Schedule lists Union, State and Concurrent subjects.",
+      "The Constitution is supreme and disputes go to the judiciary.",
+      "Residual powers rest with the Union, and the Governor represents the Centre in states.",
+      "Cooperative federalism appears in bodies like the GST Council and NITI Aayog."
+    ],
+    "example": "Education is a Concurrent subject, so both Parliament and state legislatures can legislate on it.",
+    "aliases": [
+      "federalism",
+      "union state concurrent list",
+      "seventh schedule",
+      "centre state relations",
+      "cooperative federalism",
+      "federalism class 10"
+    ],
+    "mistakes": [
+      "Calling India purely unitary or purely federal.",
+      "Forgetting that residuary powers go to the Union."
+    ]
+  },
+  {
+    "id": "pol-local-governments",
+    "title": "Local governments",
+    "subject": "Political Science",
+    "classes": [
+      10,
+      11
+    ],
+    "summary": "Panchayati Raj and municipal bodies bring government to the village, block and district level.",
+    "points": [
+      "The 73rd and 74th Amendments made local bodies constitutional in 1992.",
+      "Panchayats operate at village, intermediate and district levels in larger states.",
+      "One-third of seats are reserved for women, with reservations for SC and ST in proportion.",
+      "State Election Commissions conduct local elections and State Finance Commissions allocate funds.",
+      "Gram Sabha is the assembly of all village voters."
+    ],
+    "example": "A gram panchayat builds local roads using funds devolved by the state finance commission.",
+    "aliases": [
+      "local government",
+      "panchayati raj",
+      "73rd amendment",
+      "municipality",
+      "gram sabha",
+      "urban local bodies"
+    ],
+    "mistakes": [
+      "Thinking the 73rd Amendment applies to urban bodies; that is the 74th.",
+      "Confusing gram sabha with gram panchayat."
+    ]
+  },
+  {
+    "id": "pol-political-theory",
+    "title": "Political theory: freedom, equality and justice",
+    "subject": "Political Science",
+    "classes": [
+      11
+    ],
+    "summary": "Political theory examines concepts such as freedom, equality, justice, rights, citizenship, nationalism and secularism.",
+    "points": [
+      "Negative freedom means absence of interference; positive freedom means the capacity to act and develop.",
+      "Equality means equal treatment and equal opportunity, and sometimes equal outcomes for the disadvantaged.",
+      "Justice includes distributive fairness and corrective redress for wrongs.",
+      "Rights are justified claims recognised by society or law.",
+      "Secularism in India means the state has no religion of its own and treats all faiths equally."
+    ],
+    "example": "Reservation for disadvantaged groups is defended as a way to make equal opportunity real.",
+    "aliases": [
+      "political theory",
+      "freedom equality justice",
+      "rights citizenship",
+      "nationalism secularism",
+      "positive negative liberty"
+    ],
+    "mistakes": [
+      "Equating freedom with doing anything at all.",
+      "Assuming Indian secularism is anti-religion."
+    ]
+  },
+  {
+    "id": "pol-cold-war",
+    "title": "The Cold War and bipolarity",
+    "subject": "Political Science",
+    "classes": [
+      12
+    ],
+    "summary": "After the Second World War the world divided into a capitalist bloc led by the USA and a communist bloc led by the USSR.",
+    "points": [
+      "The USA and USSR competed through alliances, ideology, arms and proxy wars rather than direct war.",
+      "NATO and the Warsaw Pact were the two military alliances.",
+      "The Berlin Wall, the Cuban missile crisis and the arms race marked the rivalry.",
+      "The Non-Aligned Movement offered newly independent countries a third path.",
+      "The USSR dissolved in 1991, ending the bipolar order."
+    ],
+    "example": "The Cuban missile crisis of 1962 brought the superpowers close to nuclear war.",
+    "aliases": [
+      "cold war",
+      "bipolarity",
+      "nato warsaw pact",
+      "non aligned movement",
+      "disintegration of ussr",
+      "superpowers"
+    ],
+    "mistakes": [
+      "Thinking the Cold War was a direct war.",
+      "Ignoring the role of proxy conflicts."
+    ]
+  },
+  {
+    "id": "pol-us-hegemony",
+    "title": "US hegemony and alternative centres",
+    "subject": "Political Science",
+    "classes": [
+      12
+    ],
+    "summary": "After the Cold War the USA became the dominant power, while the EU, China, Japan, Russia and others emerged as alternative centres.",
+    "points": [
+      "US power rests on military reach, economic weight, technology and cultural influence.",
+      "Hegemony is accepted partly through institutions and partly through coercion.",
+      "The European Union is a major economic bloc with a common currency for many members.",
+      "China's rapid growth made it the strongest challenge to US primacy in Asia.",
+      "Regional organisations such as ASEAN and SAARC shape multipolar trends."
+    ],
+    "example": "The USA's control over global financial institutions adds to its structural power.",
+    "aliases": [
+      "us hegemony",
+      "alternative centres of power",
+      "unipolar world",
+      "european union",
+      "china rise",
+      "multipolarity",
+      "contemporary centres of power",
+      "us hegemony in world politics"
+    ],
+    "mistakes": [
+      "Treating hegemony as only military strength.",
+      "Assuming the EU is a single federal state."
+    ]
+  },
+  {
+    "id": "pol-international-organisations",
+    "title": "International organisations: the UN",
+    "subject": "Political Science",
+    "classes": [
+      12
+    ],
+    "summary": "The United Nations is the main global organisation for peace, security, development and human rights.",
+    "points": [
+      "The General Assembly has one vote per member; the Security Council has five permanent and ten elected members.",
+      "Permanent members hold veto power, which is why reform is debated.",
+      "Specialised agencies such as WHO, UNESCO, UNICEF and ILO handle specific fields.",
+      "Peacekeeping missions need consent and adequate mandates to work.",
+      "The UN can authorise sanctions but depends on member states to enforce them."
+    ],
+    "example": "UNICEF works on child health and education, while the Security Council deals with threats to peace.",
+    "aliases": [
+      "united nations",
+      "un security council",
+      "general assembly",
+      "veto",
+      "un agencies",
+      "international organisations"
+    ],
+    "mistakes": [
+      "Thinking the General Assembly can override the Security Council.",
+      "Treating the UN as a world government."
+    ]
+  },
+  {
+    "id": "pol-security-contemporary",
+    "title": "Security in the contemporary world",
+    "subject": "Political Science",
+    "classes": [
+      12
+    ],
+    "summary": "Security now includes not only war between states but terrorism, internal conflict, human rights and environmental threats.",
+    "points": [
+      "Traditional security focuses on military defence of territory.",
+      "Non-traditional security includes migration, disease, climate change and resource scarcity.",
+      "Cooperative security seeks peace through institutions, arms control and dialogue.",
+      "Human security puts the safety and dignity of individuals at the centre.",
+      "India faces both external and internal security challenges."
+    ],
+    "example": "A pandemic is a security threat because it disrupts health, economy and social order.",
+    "aliases": [
+      "security in the contemporary world",
+      "non traditional security",
+      "human security",
+      "terrorism",
+      "arms control",
+      "cooperative security"
+    ],
+    "mistakes": [
+      "Defining security only as military defence.",
+      "Ignoring internal security challenges."
+    ]
+  },
+  {
+    "id": "pol-environment-globalisation",
+    "title": "Environment, global commons and globalisation",
+    "subject": "Political Science",
+    "classes": [
+      12
+    ],
+    "summary": "Global environmental problems and economic globalisation require cooperation because their effects cross borders.",
+    "points": [
+      "The atmosphere, oceans, Antarctica and space are global commons that no single state owns.",
+      "Common but differentiated responsibilities accept that richer states have greater historical responsibility.",
+      "Globalisation increases flows of trade, capital, people and ideas and reduces the power of the state in some areas.",
+      "Globalisation can raise growth while widening inequality and weakening local cultures.",
+      "Resistance movements and fair-trade initiatives respond to its costs."
+    ],
+    "example": "The Montreal Protocol phased out ozone-depleting substances through collective action.",
+    "aliases": [
+      "global commons",
+      "environment politics",
+      "globalisation",
+      "sustainable development",
+      "common but differentiated responsibilities",
+      "climate negotiations"
+    ],
+    "mistakes": [
+      "Treating globalisation as only economic.",
+      "Assuming environmental treaties bind states automatically."
+    ]
+  },
+  {
+    "id": "pol-nation-building",
+    "title": "Nation building and Indian politics after independence",
+    "subject": "Political Science",
+    "classes": [
+      12
+    ],
+    "summary": "Independent India faced the tasks of unifying states, holding democratic elections and managing diversity.",
+    "points": [
+      "The integration of princely states was achieved through negotiation and, in some cases, force.",
+      "Linguistic reorganisation created states along language lines in 1956.",
+      "The first general election of 1952 established a working democracy with universal adult franchise.",
+      "Planning and land reform shaped the early economic agenda.",
+      "Coalition politics and regional parties grew from the 1960s onwards."
+    ],
+    "example": "The States Reorganisation Act 1956 created linguistic states such as Andhra Pradesh and Kerala.",
+    "aliases": [
+      "nation building",
+      "integration of princely states",
+      "states reorganisation",
+      "first general election",
+      "indian politics after independence",
+      "challenges of nation building"
+    ],
+    "mistakes": [
+      "Assuming partition ended all territorial disputes.",
+      "Ignoring the role of regional parties."
+    ]
+  },
+  {
+    "id": "pol-india-foreign-policy",
+    "title": "India's foreign policy",
+    "subject": "Political Science",
+    "classes": [
+      12
+    ],
+    "summary": "India's foreign policy aims at sovereignty, non-alignment in spirit, development cooperation and regional stability.",
+    "points": [
+      "Panchsheel set out principles of peaceful coexistence with China in 1954.",
+      "Non-alignment meant independent judgement rather than neutrality in every dispute.",
+      "India has used the UN, the Commonwealth and the Non-Aligned Movement as platforms.",
+      "Relations with Pakistan and China involve long-standing border disputes.",
+      "Economic reforms shifted focus towards trade, energy security and strategic partnerships."
+    ],
+    "example": "India's 1971 treaty with the USSR showed strategic flexibility during the Cold War.",
+    "aliases": [
+      "india foreign policy",
+      "non alignment",
+      "panchsheel",
+      "india china pakistan relations",
+      "strategic autonomy"
+    ],
+    "mistakes": [
+      "Equating non-alignment with isolationism.",
+      "Treating foreign policy as unchanging."
+    ]
+  },
+  {
+    "id": "hist-writing-history",
+    "title": "Writing and the city (early societies)",
+    "subject": "History",
+    "classes": [
+      11
+    ],
+    "summary": "The earliest written records come from river-valley cities such as Mesopotamia, where writing served administration and trade.",
+    "points": [
+      "Cuneiform writing on clay tablets recorded transactions, laws and letters.",
+      "Cities like Uruk and Ur had temples, granaries and specialised crafts.",
+      "Writing allows historians to move from archaeology to documented history.",
+      "Epics such as Gilgamesh reveal the values of Mesopotamian society."
+    ],
+    "example": "The Code of Hammurabi recorded laws on a stone stele, showing state administration of justice.",
+    "aliases": [
+      "writing and city life",
+      "mesopotamia",
+      "cuneiform",
+      "early cities",
+      "gilgamesh"
+    ],
+    "mistakes": [
+      "Assuming writing is the only source for early societies.",
+      "Confusing Mesopotamian and Egyptian scripts."
+    ]
+  },
+  {
+    "id": "hist-roman-empire",
+    "title": "The Roman Empire",
+    "subject": "History",
+    "classes": [
+      11
+    ],
+    "summary": "Rome grew from a republic into a vast empire whose administration, law and culture shaped later Europe.",
+    "points": [
+      "The republic gave way to imperial rule under Augustus.",
+      "Roman law, citizenship and infrastructure held a diverse empire together.",
+      "Slavery and a large army were central to the economy and expansion.",
+      "Christianity grew within the empire and was eventually adopted by the state.",
+      "Its decline in the west involved political fragmentation, economic strain and invasions."
+    ],
+    "example": "Roman roads and aqueducts supported trade and urban life across the Mediterranean.",
+    "aliases": [
+      "roman empire",
+      "roman republic",
+      "augustus",
+      "roman law",
+      "fall of rome"
+    ],
+    "mistakes": [
+      "Dating the fall of Rome as the end of the eastern empire.",
+      "Ignoring the role of slavery in the economy."
+    ]
+  },
+  {
+    "id": "hist-three-orders",
+    "title": "The three orders: feudalism",
+    "subject": "History",
+    "classes": [
+      11
+    ],
+    "summary": "Medieval Europe is often described through three orders: clergy, nobility and peasantry.",
+    "points": [
+      "Land was the main form of wealth and was held by lords in return for service.",
+      "Serfs were tied to the land and owed labour to the lord.",
+      "The Church owned extensive land and shaped education and culture.",
+      "Towns and guilds slowly created a commercial economy outside the manorial system.",
+      "The Black Death and later revolts weakened feudal bonds."
+    ],
+    "example": "A serf worked the lord's demesne for part of the week in exchange for a plot to farm.",
+    "aliases": [
+      "three orders",
+      "feudalism",
+      "medieval europe",
+      "serfs manor",
+      "black death"
+    ],
+    "mistakes": [
+      "Treating feudalism as identical everywhere in Europe.",
+      "Assuming all peasants were slaves."
+    ]
+  },
+  {
+    "id": "hist-cultural-traditions",
+    "title": "Changing cultural traditions (Renaissance)",
+    "subject": "History",
+    "classes": [
+      11
+    ],
+    "summary": "The Renaissance revived classical learning and placed human beings and observation at the centre of art and thought.",
+    "points": [
+      "Italian city-states such as Florence funded artists and scholars.",
+      "Humanism emphasised individual potential and secular knowledge.",
+      "Printing spread new ideas rapidly across Europe.",
+      "Science shifted towards observation and experiment.",
+      "The Reformation challenged the authority of the Church."
+    ],
+    "example": "Leonardo da Vinci combined art with anatomy and engineering, showing the Renaissance spirit.",
+    "aliases": [
+      "renaissance",
+      "changing cultural traditions",
+      "humanism",
+      "reformation",
+      "printing press",
+      "italian city states"
+    ],
+    "mistakes": [
+      "Calling the Renaissance a sudden break with the past.",
+      "Ignoring the role of printing."
+    ]
+  },
+  {
+    "id": "hist-industrial-revolution",
+    "title": "The Industrial Revolution",
+    "subject": "History",
+    "classes": [
+      10,
+      11
+    ],
+    "summary": "Machine production, factories and new energy sources transformed Britain's economy from the late eighteenth century.",
+    "points": [
+      "Textile machinery and the steam engine raised output enormously.",
+      "Factory work imposed long hours, low pay and child labour.",
+      "Railways and canals expanded markets and moved raw materials.",
+      "Urbanisation created overcrowding and public health crises.",
+      "Trade unions and reform laws slowly improved working conditions."
+    ],
+    "example": "The spinning jenny let one worker spin many threads at once, increasing cloth production.",
+    "aliases": [
+      "industrial revolution",
+      "factory system",
+      "steam engine",
+      "urbanisation",
+      "trade unions"
+    ],
+    "mistakes": [
+      "Saying the Industrial Revolution began in the twentieth century.",
+      "Ignoring its human costs."
+    ]
+  },
+  {
+    "id": "hist-harappan-archaeology",
+    "title": "Bricks, beads and bones: Harappan archaeology",
+    "subject": "History",
+    "classes": [
+      12
+    ],
+    "summary": "The Harappan civilisation is reconstructed from archaeology because its script is undeciphered.",
+    "points": [
+      "Cities such as Mohenjo-daro and Harappa had grid streets, drains and planned houses.",
+      "Beads, seals and weights show craft production and trade.",
+      "The Great Bath and granaries suggest public ritual and storage.",
+      "Burials, pottery and artefacts indicate social differences.",
+      "No conclusive evidence establishes kingship or a single ruling class."
+    ],
+    "example": "Standardised Harappan weights suggest regulated trade across a wide region.",
+    "aliases": [
+      "harappan civilisation",
+      "indus valley archaeology",
+      "bricks beads bones",
+      "mohenjo daro",
+      "harappan seals",
+      "bricks beads and bones"
+    ],
+    "mistakes": [
+      "Claiming the Harappan script has been deciphered.",
+      "Assuming Harappan society was identical across all sites."
+    ]
+  },
+  {
+    "id": "hist-kings-kingdoms",
+    "title": "Kings, farmers and towns",
+    "subject": "History",
+    "classes": [
+      12
+    ],
+    "summary": "From the sixth century BCE, states, cities and trade expanded in the Ganga valley and beyond.",
+    "points": [
+      "Mahajanapadas were early territorial states with armies and taxation.",
+      "Ashoka's inscriptions are the main source for Mauryan administration and policy.",
+      "Land grants to brahmanas and officials changed agrarian relations.",
+      "Trade routes and guilds connected India to Central Asia and the Roman world.",
+      "Puranas and inscriptions record dynastic histories and donations."
+    ],
+    "example": "Ashoka's edicts on rock and pillar proclaim dhamma and record administrative concerns.",
+    "aliases": [
+      "kings farmers and towns",
+      "mauryan administration",
+      "ashoka edicts",
+      "mahajanapadas",
+      "land grants"
+    ],
+    "mistakes": [
+      "Treating inscriptions as unbiased records.",
+      "Ignoring regional variation in state formation."
+    ]
+  },
+  {
+    "id": "hist-kinship-caste-class",
+    "title": "Kinship, caste and class",
+    "subject": "History",
+    "classes": [
+      12
+    ],
+    "summary": "Social history uses texts, inscriptions and archaeology to study family, caste and class in early India.",
+    "points": [
+      "The Mahabharata reflects debates about kinship, succession and duty.",
+      "Dharmashastras and Dharmasutras laid down norms for varna and gender roles.",
+      "Satavahana inscriptions show marriages across social groups and patronage by women.",
+      "Caste was fluid in practice, and social mobility occurred despite normative texts.",
+      "Historians read texts critically for their ideal rather than actual social order."
+    ],
+    "example": "The story of Satyavati in the Mahabharata shows how succession rules could be contested.",
+    "aliases": [
+      "kinship caste and class",
+      "mahabharata history",
+      "varna dharma",
+      "satavahana inscriptions",
+      "social history india"
+    ],
+    "mistakes": [
+      "Reading normative texts as descriptions of everyday life.",
+      "Assuming caste was never contested."
+    ]
+  },
+  {
+    "id": "hist-colonial-cities",
+    "title": "Colonial cities",
+    "subject": "History",
+    "classes": [
+      12
+    ],
+    "summary": "Colonial rule reshaped Indian cities, creating new administrative centres and segregating old and new areas.",
+    "points": [
+      "Madras, Calcutta and Bombay grew from trading posts into presidency cities.",
+      "The 'white town' and 'black town' division reflected racial hierarchy.",
+      "Sanitation, plague and housing policies changed urban life.",
+      "Railways and ports linked cities to global trade.",
+      "Urbanisation created new occupations and social groups."
+    ],
+    "example": "Bombay's reclamation of land from the sea expanded the city for trade and housing.",
+    "aliases": [
+      "colonial cities",
+      "presidency cities",
+      "white town black town",
+      "bombay madras calcutta",
+      "urban history india"
+    ],
+    "mistakes": [
+      "Assuming colonial cities were planned for all residents equally.",
+      "Ignoring the role of disease and sanitation policies."
+    ]
+  },
+  {
+    "id": "hist-rebels-raj",
+    "title": "Rebels and the Raj: the revolt of 1857",
+    "subject": "History",
+    "classes": [
+      12
+    ],
+    "summary": "The revolt of 1857 began among sepoys and spread into a wider uprising against British rule.",
+    "points": [
+      "Discontent over greased cartridges, pay and service conditions triggered the mutiny.",
+      "Leadership included Rani Lakshmibai, Nana Saheb, Kunwar Singh and Bakt Khan.",
+      "Peasants, artisans and zamindars joined for their own grievances.",
+      "The British recaptured Delhi in 1857 and suppressed the revolt brutally.",
+      "The revolt ended Company rule and brought the Crown directly into governance."
+    ],
+    "example": "The siege of Lucknow and the recapture of Delhi were turning points of the revolt.",
+    "aliases": [
+      "revolt of 1857",
+      "rebels and the raj",
+      "sepoy mutiny",
+      "rani lakshmibai",
+      "company rule end"
+    ],
+    "mistakes": [
+      "Calling 1857 the first coordinated national movement.",
+      "Ignoring the local grievances behind it."
+    ]
+  },
+  {
+    "id": "hist-framing-constitution",
+    "title": "The framing of the Constitution",
+    "subject": "History",
+    "classes": [
+      12
+    ],
+    "summary": "The Indian Constitution was written by a Constituent Assembly between 1946 and 1949 after long debate.",
+    "points": [
+      "The Assembly included members from many regions, castes and political views.",
+      "The Objectives Resolution set out sovereignty, justice, liberty and equality.",
+      "Committees drafted different parts, with the Drafting Committee under Ambedkar.",
+      "Debates addressed federalism, minority rights, language and untouchability.",
+      "It came into force on 26 January 1950."
+    ],
+    "example": "The Assembly abolished untouchability and adopted universal adult franchise despite opposition.",
+    "aliases": [
+      "framing of the constitution",
+      "constituent assembly debates",
+      "objectives resolution",
+      "ambedkar drafting committee"
+    ],
+    "mistakes": [
+      "Thinking the Constitution was imposed by the British.",
+      "Ignoring the debates recorded in the Assembly."
+    ]
+  },
+  {
+    "id": "geo-geography-discipline",
+    "title": "Geography as a discipline",
+    "subject": "Geography",
+    "classes": [
+      11
+    ],
+    "summary": "Geography studies the earth's surface as the home of people, linking physical and human phenomena across space.",
+    "points": [
+      "It integrates physical geography (landforms, climate, water, soils) with human geography (population, economy, settlement).",
+      "Spatial and temporal scales range from local to global.",
+      "Maps, remote sensing, GIS and field surveys are its main tools.",
+      "Geography is applied in planning, disaster management and resource management."
+    ],
+    "example": "A flood study combines rainfall data, topography and settlement patterns.",
+    "aliases": [
+      "geography as a discipline",
+      "nature of geography",
+      "physical human geography",
+      "gis remote sensing"
+    ],
+    "mistakes": [
+      "Treating geography as only memorising place names.",
+      "Separating physical from human geography completely."
+    ]
+  },
+  {
+    "id": "geo-origin-interior-earth",
+    "title": "The origin and interior of the earth",
+    "subject": "Geography",
+    "classes": [
+      11
+    ],
+    "summary": "The earth formed about 4.6 billion years ago and has a layered interior studied mainly through seismic waves.",
+    "points": [
+      "The earth has crust, mantle and core, with the core divided into liquid outer and solid inner parts.",
+      "Seismic P waves travel through solids and liquids; S waves cannot pass through liquids.",
+      "The crust is continental (sial) or oceanic (sima) and varies greatly in thickness.",
+      "Convection in the mantle drives plate movement."
+    ],
+    "example": "The shadow zone of S waves proves that the outer core is liquid.",
+    "aliases": [
+      "interior of the earth",
+      "origin of earth",
+      "crust mantle core",
+      "seismic waves",
+      "shadow zone",
+      "origin and evolution of the earth"
+    ],
+    "mistakes": [
+      "Confusing the mantle with the core.",
+      "Thinking S waves pass through the outer core."
+    ]
+  },
+  {
+    "id": "geo-distribution-oceans-continents",
+    "title": "Distribution of oceans and continents",
+    "subject": "Geography",
+    "classes": [
+      11
+    ],
+    "summary": "Continents drift on tectonic plates, and their present arrangement results from the breakup of earlier landmasses.",
+    "points": [
+      "Wegener's continental drift theory used the fit of coastlines, fossils and rock formations.",
+      "Sea-floor spreading at mid-ocean ridges creates new crust.",
+      "Plate tectonics explains collision, subduction and transform boundaries.",
+      "India's collision with Eurasia raised the Himalayas.",
+      "Earthquakes and volcanoes concentrate along plate margins."
+    ],
+    "example": "The Himalayas continue to rise as the Indian plate pushes into the Eurasian plate.",
+    "aliases": [
+      "distribution of oceans and continents",
+      "continental drift",
+      "plate tectonics",
+      "sea floor spreading",
+      "pangaea"
+    ],
+    "mistakes": [
+      "Thinking continents move because of ocean currents alone.",
+      "Confusing divergent and convergent boundaries."
+    ]
+  },
+  {
+    "id": "geo-minerals-rocks",
+    "title": "Minerals and rocks",
+    "subject": "Geography",
+    "classes": [
+      11
+    ],
+    "summary": "Minerals are natural inorganic solids, and rocks are aggregates of minerals classified as igneous, sedimentary or metamorphic.",
+    "points": [
+      "Igneous rocks form from cooling magma and may be intrusive or extrusive.",
+      "Sedimentary rocks form from deposition and compaction and often contain fossils.",
+      "Metamorphic rocks form when existing rocks are altered by heat and pressure.",
+      "The rock cycle links the three types through melting, weathering and metamorphism.",
+      "Mineral properties such as hardness and cleavage help identification."
+    ],
+    "example": "Limestone is sedimentary and becomes marble under heat and pressure.",
+    "aliases": [
+      "minerals and rocks",
+      "rock cycle",
+      "igneous sedimentary metamorphic",
+      "mineral properties"
+    ],
+    "mistakes": [
+      "Calling a rock a mineral.",
+      "Assuming all igneous rocks are extrusive."
+    ]
+  },
+  {
+    "id": "geo-geomorphic-processes",
+    "title": "Geomorphic processes",
+    "subject": "Geography",
+    "classes": [
+      11
+    ],
+    "summary": "Endogenic forces build landforms from within the earth, while exogenic processes wear them down at the surface.",
+    "points": [
+      "Endogenic processes include volcanism, diastrophism and earthquakes.",
+      "Exogenic processes include weathering, mass wasting, erosion and deposition.",
+      "Weathering may be physical, chemical or biological.",
+      "Running water, wind, ice and waves are the main agents of erosion and deposition.",
+      "Slope, climate and rock type control the rate of these processes."
+    ],
+    "example": "Frost wedging breaks rock in cold mountains as water freezes and expands in cracks.",
+    "aliases": [
+      "geomorphic processes",
+      "endogenic exogenic",
+      "weathering erosion",
+      "mass wasting",
+      "denudation"
+    ],
+    "mistakes": [
+      "Confusing weathering with erosion; weathering does not transport material.",
+      "Assuming rivers are the only erosional agent."
+    ]
+  },
+  {
+    "id": "geo-atmosphere-composition",
+    "title": "Composition and structure of the atmosphere",
+    "subject": "Geography",
+    "classes": [
+      11
+    ],
+    "summary": "The atmosphere is a layered mixture of gases that protects life and drives weather.",
+    "points": [
+      "Nitrogen and oxygen dominate; carbon dioxide, argon and water vapour are minor but vital.",
+      "Layers are troposphere, stratosphere, mesosphere, thermosphere and exosphere.",
+      "Temperature falls with height in the troposphere and rises in the stratosphere because of ozone.",
+      "The ozone layer absorbs ultraviolet radiation.",
+      "Weather occurs mainly in the troposphere."
+    ],
+    "example": "Jet aircraft cruise in the lower stratosphere to avoid turbulence and weather.",
+    "aliases": [
+      "composition of atmosphere",
+      "layers of atmosphere",
+      "troposphere stratosphere",
+      "ozone layer",
+      "atmospheric structure",
+      "composition and structure of atmosphere"
+    ],
+    "mistakes": [
+      "Saying temperature always falls with altitude.",
+      "Placing the ozone layer in the troposphere."
+    ]
+  },
+  {
+    "id": "geo-solar-radiation",
+    "title": "Solar radiation and the heat budget",
+    "subject": "Geography",
+    "classes": [
+      11
+    ],
+    "summary": "The earth receives shortwave solar radiation and loses longwave radiation, and the balance determines global temperature.",
+    "points": [
+      "Insolation varies with latitude, season and the angle of the sun's rays.",
+      "About half of incoming radiation reaches the surface; the rest is reflected or absorbed.",
+      "The earth's heat budget balances incoming and outgoing radiation.",
+      "The greenhouse effect keeps the surface warmer than it would otherwise be.",
+      "Temperature inversion traps pollutants in valleys."
+    ],
+    "formulas": [
+      {
+        "name": "Heat budget",
+        "expr": "incoming solar radiation = outgoing terrestrial radiation (long-term average)"
+      }
+    ],
+    "example": "Equatorial regions receive more insolation than poles because rays strike more directly.",
+    "aliases": [
+      "solar radiation",
+      "insolation",
+      "heat budget",
+      "greenhouse effect",
+      "temperature inversion"
+    ],
+    "mistakes": [
+      "Thinking the earth heats evenly.",
+      "Confusing the greenhouse effect with ozone depletion."
+    ]
+  },
+  {
+    "id": "geo-air-pressure-winds",
+    "title": "Air pressure and winds",
+    "subject": "Geography",
+    "classes": [
+      11
+    ],
+    "summary": "Air moves from high to low pressure, modified by the Coriolis force and friction, producing global and local wind systems.",
+    "points": [
+      "Pressure falls with altitude and varies with temperature and humidity.",
+      "The Coriolis force deflects winds right in the northern and left in the southern hemisphere.",
+      "Planetary winds are trade winds, westerlies and polar easterlies.",
+      "Monsoon winds reverse seasonally because of differential heating of land and sea.",
+      "Local winds include sea breeze, land breeze and mountain-valley winds."
+    ],
+    "example": "The Indian summer monsoon brings moisture-laden winds from the Indian Ocean.",
+    "aliases": [
+      "air pressure",
+      "winds",
+      "coriolis force",
+      "planetary winds",
+      "monsoon mechanism",
+      "sea breeze"
+    ],
+    "mistakes": [
+      "Ignoring the Coriolis force in wind direction.",
+      "Saying monsoons are only caused by the Himalayas."
+    ]
+  },
+  {
+    "id": "geo-water-atmosphere",
+    "title": "Water in the atmosphere",
+    "subject": "Geography",
+    "classes": [
+      11
+    ],
+    "summary": "Water vapour in the atmosphere condenses into clouds and returns to the surface as precipitation.",
+    "points": [
+      "Humidity is absolute or relative; relative humidity depends on temperature.",
+      "Condensation forms dew, fog, mist and clouds.",
+      "Clouds are classified by height and shape: cirrus, cumulus, stratus and nimbus.",
+      "Precipitation may be convective, orographic or cyclonic.",
+      "Rainfall distribution shapes vegetation and agriculture."
+    ],
+    "example": "Orographic rainfall makes the windward side of the Western Ghats wet and the leeward side dry.",
+    "aliases": [
+      "water in the atmosphere",
+      "humidity",
+      "clouds precipitation",
+      "orographic rainfall",
+      "condensation"
+    ],
+    "mistakes": [
+      "Confusing absolute and relative humidity.",
+      "Assuming all clouds produce rain."
+    ]
+  },
+  {
+    "id": "geo-world-climate",
+    "title": "World climate and climate change",
+    "subject": "Geography",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Köppen's classification groups world climates by temperature and rainfall, and human emissions are now changing the climate.",
+    "points": [
+      "Climate types include tropical, dry, temperate, continental and polar.",
+      "Climate is controlled by latitude, altitude, distance from sea, winds and ocean currents.",
+      "Greenhouse gas emissions from fossil fuels are raising global mean temperature.",
+      "Impacts include sea-level rise, glacier retreat, heatwaves and shifting rainfall.",
+      "Mitigation cuts emissions; adaptation reduces vulnerability."
+    ],
+    "example": "The Thar desert and the Kerala coast share a latitude range but differ in rainfall because of monsoon and relief.",
+    "aliases": [
+      "world climate",
+      "koppen classification",
+      "climate change",
+      "global warming",
+      "climate types",
+      "world climate and climate change"
+    ],
+    "mistakes": [
+      "Confusing weather with climate.",
+      "Assuming climate change affects all regions equally."
+    ]
+  },
+  {
+    "id": "geo-oceans",
+    "title": "Water (oceans)",
+    "subject": "Geography",
+    "classes": [
+      11
+    ],
+    "summary": "Oceans store heat, circulate water and drive climate through currents, tides and waves.",
+    "points": [
+      "Ocean temperature falls with depth; salinity varies with evaporation and freshwater input.",
+      "Surface currents are driven by winds and deflected by the Coriolis force.",
+      "Deep currents form when cold salty water sinks, creating the thermohaline circulation.",
+      "Tides result mainly from the gravitational pull of the moon and sun.",
+      "Oceans absorb carbon dioxide and are becoming more acidic."
+    ],
+    "formulas": [
+      {
+        "name": "Tidal range",
+        "expr": "difference between high and low tide levels"
+      }
+    ],
+    "example": "The Gulf Stream carries warm water north and moderates the climate of western Europe.",
+    "aliases": [
+      "oceans",
+      "ocean currents",
+      "tides",
+      "salinity",
+      "thermohaline circulation",
+      "water chapter",
+      "water oceans"
+    ],
+    "mistakes": [
+      "Thinking tides are caused by winds.",
+      "Treating deep and surface currents as the same system."
+    ]
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "id": "math-basic-geometry-6",
+    "title": "Basic geometrical ideas and elementary shapes",
+    "subject": "Mathematics",
+    "classes": [6],
+    "summary": "Geometry begins with points, lines, line segments, rays and angles, and with measuring and classifying shapes.",
+    "points": [
+      "A point has position, a line extends in both directions, a ray has one end and a line segment has two.",
+      "Angles are acute, right, obtuse, straight or reflex, and are measured in degrees with a protractor.",
+      "Triangles are classified by sides (equilateral, isosceles, scalene) and by angles.",
+      "Quadrilaterals include squares, rectangles, parallelograms, rhombuses and trapeziums.",
+      "A circle has a centre, radius, diameter, chord and arc."
+    ],
+    "formulas": [
+      { "name": "Straight angle", "expr": "180°" },
+      { "name": "Right angle", "expr": "90°" },
+      { "name": "Diameter", "expr": "d = 2r" }
+    ],
+    "example": "An angle of 120° is obtuse because it is more than 90° and less than 180°.",
+    "aliases": ["basic geometrical ideas", "understanding elementary shapes", "lines and angles basics", "types of angles", "quadrilaterals circles"],
+    "mistakes": ["Confusing a line with a line segment.", "Measuring an angle from the wrong zero mark on the protractor."]
+  },
+  {
+    "id": "math-areas-related-circles",
+    "title": "Areas related to circles",
+    "subject": "Mathematics",
+    "classes": [10],
+    "summary": "The area and perimeter of circles extend to sectors, segments and combinations of plane figures.",
+    "points": [
+      "Circumference is 2πr and area is πr².",
+      "A sector is a pie-shaped part bounded by two radii and an arc.",
+      "A segment is the region between a chord and the corresponding arc.",
+      "Problems often combine circles with squares, triangles or semicircles; add or subtract areas carefully."
+    ],
+    "formulas": [
+      { "name": "Circumference", "expr": "C = 2πr" },
+      { "name": "Area of circle", "expr": "A = πr²" },
+      { "name": "Sector area", "expr": "A = (θ/360°) × πr²" },
+      { "name": "Arc length", "expr": "l = (θ/360°) × 2πr" },
+      { "name": "Segment area", "expr": "sector area − triangle area" }
+    ],
+    "example": "A 90° sector of a circle of radius 7 cm has area ¼ × 22/7 × 49 = 38.5 cm².",
+    "aliases": ["areas related to circles", "sector segment", "area of sector", "arc length", "perimeter of sector"],
+    "mistakes": ["Using the diameter as the radius.", "Forgetting to subtract the triangle when finding a segment."]
+  },
+  {
+    "id": "sci-conservation-biodiversity",
+    "title": "Conservation of plants and animals",
+    "subject": "Science",
+    "classes": [8],
+    "summary": "Deforestation and habitat loss threaten species, and conservation protects wildlife, forests and ecosystems.",
+    "points": [
+      "Deforestation causes soil erosion, flooding, desertification and loss of species.",
+      "Endangered species face extinction; endemic species live only in one region.",
+      "National parks, sanctuaries and biosphere reserves protect habitats in place.",
+      "Zoos, seed banks and breeding programmes conserve species outside their habitat.",
+      "Reforestation and community forest management restore degraded land."
+    ],
+    "example": "Project Tiger protects tiger habitats and also conserves the species that share them.",
+    "aliases": ["conservation of plants and animals", "deforestation", "endangered species", "project tiger", "biosphere reserve", "reforestation"],
+    "mistakes": ["Thinking conservation means only protecting animals.", "Ignoring habitat loss as the main threat."]
+  },
+  {
+    "id": "hist-global-world",
+    "title": "The making of a global world",
+    "subject": "History",
+    "classes": [10],
+    "summary": "Trade, migration, colonialism and technology wove distant regions into a single world economy over five centuries.",
+    "points": [
+      "The silk routes linked Asia, Africa and Europe long before modern globalisation.",
+      "Columbus's voyages connected the Americas to Eurasia and began the Columbian exchange.",
+      "The slave trade and indentured labour moved millions of people across oceans.",
+      "The nineteenth century saw free trade, railways and steamships integrate markets.",
+      "The Great Depression of the 1930s showed how connected economies had become."
+    ],
+    "example": "Potatoes, maize and chillies reached India from the Americas through global exchange.",
+    "aliases": ["making of a global world", "globalisation history", "silk routes", "columbian exchange", "great depression"],
+    "mistakes": ["Dating globalisation only from the 1990s.", "Ignoring forced migration in global trade."]
+  },
+  {
+    "id": "pol-one-party-dominance",
+    "title": "Era of one-party dominance",
+    "subject": "Political Science",
+    "classes": [12],
+    "summary": "From 1952 to 1967 the Congress won national elections repeatedly, shaping India's early democratic practice.",
+    "points": [
+      "The Congress drew on the freedom movement's prestige and a broad coalition of social groups.",
+      "Opposition parties were fragmented and often lacked national reach.",
+      "Internal factionalism within the Congress acted as a channel for dissent.",
+      "The party's dominance was electoral, not the only legal party, so elections remained competitive.",
+      "This era ended with coalition politics and the rise of regional parties."
+    ],
+    "example": "The 1952, 1957 and 1962 general elections gave the Congress large majorities in the Lok Sabha.",
+    "aliases": ["era of one party dominance", "congress dominance", "one party dominance", "1952 general election", "coalition politics"],
+    "mistakes": ["Calling India a one-party state.", "Ignoring internal Congress factions."]
+  },
+  {
+    "id": "pol-regional-aspirations",
+    "title": "Regional aspirations",
+    "subject": "Political Science",
+    "classes": [12],
+    "summary": "Regional movements in Punjab, Assam, the North-East and Jammu and Kashmir tested India's federal accommodation.",
+    "points": [
+      "The Punjab crisis involved demands for greater autonomy and led to the Anandpur Sahib resolution and later accord.",
+      "The Assam movement opposed illegal migration and produced the Assam Accord of 1985.",
+      "North-Eastern states demanded autonomy and statehood, met through reorganisation and special provisions.",
+      "Jammu and Kashmir's special status under Article 370 was altered in 2019.",
+      "Accommodation through negotiation has been more successful than suppression."
+    ],
+    "example": "The Assam Accord set a cut-off date for identifying foreign nationals in Assam.",
+    "aliases": ["regional aspirations", "punjab crisis", "assam movement", "north east autonomy", "article 370"],
+    "mistakes": ["Treating all regional demands as separatist.", "Ignoring the role of negotiation."]
+  },
+  {
+    "id": "bus-principles-management",
+    "title": "Principles of management",
+    "subject": "Business Studies",
+    "classes": [12],
+    "summary": "Management principles are general guidelines; Fayol's fourteen principles and Taylor's scientific management are the classic frameworks.",
+    "points": [
+      "Fayol's principles include division of work, authority and responsibility, unity of command, unity of direction, and scalar chain.",
+      "Other Fayol principles include discipline, subordination of individual interest, remuneration, centralisation and esprit de corps.",
+      "Taylor's scientific management used time study, motion study and standardisation.",
+      "Taylor separated planning from execution and introduced functional foremanship.",
+      "Principles are guidelines, not rigid rules, and must suit the situation."
+    ],
+    "formulas": [
+      { "name": "Taylor's technique", "expr": "standard output per worker per day = optimum time from time and motion study" }
+    ],
+    "example": "Unity of command means an employee should receive orders from only one superior.",
+    "aliases": ["principles of management", "fayol principles", "taylor scientific management", "unity of command", "functional foremanship"],
+    "mistakes": ["Treating principles as laws with guaranteed results.", "Confusing unity of command with unity of direction."]
+  }
+]

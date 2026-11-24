@@ -1,0 +1,998 @@
+[
+  {
+    "id": "soc-introducing-sociology",
+    "title": "Introducing sociology",
+    "subject": "Sociology",
+    "classes": [
+      11
+    ],
+    "summary": "Sociology studies human society, social relationships and the patterns behind everyday life.",
+    "points": [
+      "Sociology emerged in Europe with industrialisation and new questions about social order.",
+      "It studies both small interactions and large structures such as class and state.",
+      "The sociological imagination connects personal troubles with public issues.",
+      "It differs from common sense by using systematic evidence and theory."
+    ],
+    "example": "Unemployment is a personal problem for one worker but a structural issue when a whole industry declines.",
+    "aliases": [
+      "introducing sociology",
+      "sociology",
+      "sociological imagination",
+      "what is sociology"
+    ],
+    "mistakes": [
+      "Treating sociology as opinion or common sense.",
+      "Ignoring the link between individual and structure."
+    ]
+  },
+  {
+    "id": "soc-terms-concepts",
+    "title": "Terms, concepts and their use in sociology",
+    "subject": "Sociology",
+    "classes": [
+      11
+    ],
+    "summary": "Sociology uses concepts such as society, community, association, institution, status, role and social group.",
+    "points": [
+      "Society is a web of relationships; a community is based on shared locality or identity.",
+      "An association is deliberately formed for a purpose; an institution is an established pattern of norms.",
+      "Status is a position in society; role is the expected behaviour attached to it.",
+      "Groups may be primary (close, personal) or secondary (formal, impersonal).",
+      "Ascribed status is inherited; achieved status is earned."
+    ],
+    "example": "A family is a primary group and an institution; a bank is a secondary group and an association.",
+    "aliases": [
+      "terms concepts and their use in sociology",
+      "status and role",
+      "primary secondary groups",
+      "social institution",
+      "community association"
+    ],
+    "mistakes": [
+      "Confusing status with role.",
+      "Calling every group a community."
+    ]
+  },
+  {
+    "id": "soc-social-institutions",
+    "title": "Understanding social institutions",
+    "subject": "Sociology",
+    "classes": [
+      11
+    ],
+    "summary": "Family, marriage, kinship, religion, education, economy and polity are institutions that organise social life.",
+    "points": [
+      "Family types include nuclear and extended, patrilineal and matrilineal.",
+      "Marriage rules include endogamy (within a group) and exogamy (outside a group).",
+      "Kinship links people through blood and marriage.",
+      "Religion provides meaning, ritual and social cohesion but can also divide.",
+      "Institutions change with economy, law and culture."
+    ],
+    "example": "A matrilineal system traces descent and inheritance through the mother's line.",
+    "aliases": [
+      "understanding social institutions",
+      "family marriage kinship",
+      "religion institution",
+      "endogamy exogamy"
+    ],
+    "mistakes": [
+      "Assuming the nuclear family is universal.",
+      "Treating institutions as unchanging."
+    ]
+  },
+  {
+    "id": "soc-culture-socialisation",
+    "title": "Culture and socialisation",
+    "subject": "Sociology",
+    "classes": [
+      11
+    ],
+    "summary": "Culture is learned and shared, and socialisation transmits it from one generation to the next.",
+    "points": [
+      "Culture includes norms, values, beliefs, language and material objects.",
+      "Ethnocentrism judges other cultures by one's own; cultural relativism avoids that.",
+      "Socialisation happens through family, school, peers and media.",
+      "Agents of socialisation may conflict, producing different values.",
+      "Sanskritisation and Westernisation are examples of cultural change in India."
+    ],
+    "example": "A child learning table manners at home is being socialised into cultural norms.",
+    "aliases": [
+      "culture and socialisation",
+      "norms values",
+      "ethnocentrism",
+      "agents of socialisation",
+      "sanskritisation"
+    ],
+    "mistakes": [
+      "Treating culture as purely material.",
+      "Judging another culture by your own standards."
+    ]
+  },
+  {
+    "id": "soc-research-methods",
+    "title": "Doing sociology: research methods",
+    "subject": "Sociology",
+    "classes": [
+      11
+    ],
+    "summary": "Sociologists use surveys, interviews, observation, case studies and documents to study society.",
+    "points": [
+      "Quantitative methods count and compare; qualitative methods interpret meaning.",
+      "A sample must represent the population for findings to generalise.",
+      "Participant observation studies people in their own setting.",
+      "Ethics require consent, confidentiality and avoiding harm.",
+      "Triangulation combines methods to strengthen conclusions."
+    ],
+    "formulas": [
+      {
+        "name": "Sampling",
+        "expr": "sample statistic estimates population parameter"
+      }
+    ],
+    "example": "A researcher living in a village to study migration is doing participant observation.",
+    "aliases": [
+      "research methods",
+      "doing sociology",
+      "survey interview observation",
+      "sampling",
+      "participant observation"
+    ],
+    "mistakes": [
+      "Assuming a small convenient sample represents everyone.",
+      "Ignoring consent and confidentiality."
+    ]
+  },
+  {
+    "id": "soc-demography-india",
+    "title": "The demographic structure of Indian society",
+    "subject": "Sociology",
+    "classes": [
+      12
+    ],
+    "summary": "India's population structure — age, sex, rural-urban split and migration — shapes its society.",
+    "points": [
+      "India's demographic transition has lowered death rates before birth rates.",
+      "A young population creates a demographic dividend if educated and employed.",
+      "Sex ratio imbalances reflect social preferences and discrimination.",
+      "Migration is rural-to-urban, seasonal and increasingly circular.",
+      "Ageing, urbanisation and employment are key policy concerns."
+    ],
+    "formulas": [
+      {
+        "name": "Sex ratio",
+        "expr": "females per 1000 males"
+      },
+      {
+        "name": "Dependency ratio",
+        "expr": "dependants / working-age population × 100"
+      }
+    ],
+    "example": "A falling sex ratio at birth signals son preference rather than a natural imbalance.",
+    "aliases": [
+      "demographic structure of indian society",
+      "demography",
+      "sex ratio",
+      "demographic dividend",
+      "population structure"
+    ],
+    "mistakes": [
+      "Reading sex ratio as a biological fact.",
+      "Ignoring circular migration."
+    ]
+  },
+  {
+    "id": "soc-institutions-india",
+    "title": "Social institutions: continuity and change",
+    "subject": "Sociology",
+    "classes": [
+      12
+    ],
+    "summary": "Caste, tribe, family and marriage in India have changed while retaining continuities.",
+    "points": [
+      "Caste has been transformed by law, education and politics but persists in marriage and networks.",
+      "Tribal societies are diverse and not isolated from the wider economy.",
+      "Family forms are shifting towards nuclear households in cities.",
+      "Marriage practices such as dowry persist despite legal prohibition.",
+      "State law and social movements have driven reform."
+    ],
+    "example": "Caste-based matrimonial advertisements show how caste continues in private choice.",
+    "aliases": [
+      "social institutions continuity and change",
+      "caste tribe family marriage india",
+      "dowry",
+      "caste change"
+    ],
+    "mistakes": [
+      "Claiming caste has disappeared.",
+      "Treating tribes as unchanged communities."
+    ]
+  },
+  {
+    "id": "soc-inequality-exclusion",
+    "title": "Patterns of social inequality and exclusion",
+    "subject": "Sociology",
+    "classes": [
+      12
+    ],
+    "summary": "Inequality is structured along caste, class, gender and minority status and produces exclusion.",
+    "points": [
+      "Caste inequality involves graded hierarchy and untouchability.",
+      "Class inequality comes from unequal access to income, education and property.",
+      "Gender inequality appears in wages, property, mobility and unpaid work.",
+      "Minorities face exclusion in access to services and representation.",
+      "Affirmative action and social movements respond to exclusion."
+    ],
+    "example": "Manual scavenging is an extreme form of caste-based occupational exclusion.",
+    "aliases": [
+      "patterns of social inequality and exclusion",
+      "social inequality",
+      "caste class gender",
+      "exclusion",
+      "untouchability"
+    ],
+    "mistakes": [
+      "Reducing inequality to income alone.",
+      "Assuming legal equality ends exclusion."
+    ]
+  },
+  {
+    "id": "soc-cultural-diversity",
+    "title": "The challenges of cultural diversity",
+    "subject": "Sociology",
+    "classes": [
+      12
+    ],
+    "summary": "India's diversity of language, religion and region raises questions of unity, federalism and minority rights.",
+    "points": [
+      "Regionalism may be a positive identity or a demand for autonomy.",
+      "Federalism accommodates diversity through shared and separate powers.",
+      "Minority rights protect language, culture and religion.",
+      "Communalism treats religion as the basis of political community and is a major challenge.",
+      "Secularism and constitutional patriotism offer integrative frameworks."
+    ],
+    "example": "Linguistic states accommodated language diversity without breaking the union.",
+    "aliases": [
+      "challenges of cultural diversity",
+      "diversity",
+      "regionalism",
+      "minority rights",
+      "communalism"
+    ],
+    "mistakes": [
+      "Equating diversity with division.",
+      "Treating regional identity as anti-national."
+    ]
+  },
+  {
+    "id": "soc-structural-change",
+    "title": "Structural change",
+    "subject": "Sociology",
+    "classes": [
+      12
+    ],
+    "summary": "Colonialism, industrialisation and urbanisation reshaped India's social structure.",
+    "points": [
+      "Colonial rule integrated India into a global economy and created new administration and classes.",
+      "Industrialisation created factories, new occupations and urban migration.",
+      "Urbanisation changed family, neighbourhood and work life.",
+      "New classes include industrialists, professionals and the working class.",
+      "Structural change is uneven across regions and sectors."
+    ],
+    "example": "Mill towns such as Bombay grew as workers migrated from rural districts.",
+    "aliases": [
+      "structural change",
+      "colonialism industrialisation urbanisation",
+      "social structure change india"
+    ],
+    "mistakes": [
+      "Treating structural change as uniform.",
+      "Ignoring colonial roots of modern institutions."
+    ]
+  },
+  {
+    "id": "soc-cultural-change",
+    "title": "Cultural change",
+    "subject": "Sociology",
+    "classes": [
+      12
+    ],
+    "summary": "Social reform, modernisation, secularisation and new media have changed Indian culture.",
+    "points": [
+      "Nineteenth-century reform movements challenged sati, caste and gender norms.",
+      "Modernisation involves new technology, education and rational outlooks.",
+      "Secularisation means the declining hold of religion over public institutions, not necessarily belief.",
+      "Sanskritisation is upward mobility by adopting higher-caste practices.",
+      "Cultural change can be resisted and uneven."
+    ],
+    "example": "The spread of English education created new professional groups and aspirations.",
+    "aliases": [
+      "cultural change",
+      "social reform movements",
+      "modernisation secularisation",
+      "sanskritisation westernisation"
+    ],
+    "mistakes": [
+      "Confusing secularisation with atheism.",
+      "Assuming reform was welcomed everywhere."
+    ]
+  },
+  {
+    "id": "soc-rural-change",
+    "title": "Change and development in rural society",
+    "subject": "Sociology",
+    "classes": [
+      12
+    ],
+    "summary": "Land reform, the Green Revolution and migration have changed rural society and agriculture.",
+    "points": [
+      "Land reforms abolished intermediaries in some states but implementation varied.",
+      "The Green Revolution raised output while increasing regional inequality.",
+      "Agricultural labourers and marginal farmers remain vulnerable.",
+      "Migration and remittances sustain many rural households.",
+      "Rural society is stratified by land, caste and gender."
+    ],
+    "example": "Punjab and Haryana benefited most from Green Revolution technology.",
+    "aliases": [
+      "change and development in rural society",
+      "rural society",
+      "land reform",
+      "green revolution",
+      "agrarian change"
+    ],
+    "mistakes": [
+      "Assuming land reform succeeded everywhere.",
+      "Ignoring inequality within villages."
+    ]
+  },
+  {
+    "id": "soc-industrial-change",
+    "title": "Change and development in industrial society",
+    "subject": "Sociology",
+    "classes": [
+      12
+    ],
+    "summary": "Industrialisation created new work relations, trade unions and informal labour.",
+    "points": [
+      "Factories separated ownership from work and created wage labour.",
+      "Trade unions organised workers for wages and conditions.",
+      "The informal sector employs most workers without security.",
+      "Global production chains and subcontracting changed factory work.",
+      "Technology alters skills and employment patterns."
+    ],
+    "example": "Home-based garment workers are part of formal supply chains but lack formal protection.",
+    "aliases": [
+      "industrial society",
+      "industrialisation work",
+      "trade unions",
+      "informal labour",
+      "factory work"
+    ],
+    "mistakes": [
+      "Equating industrial work with formal employment.",
+      "Ignoring subcontracting."
+    ]
+  },
+  {
+    "id": "soc-globalisation-change",
+    "title": "Globalisation and social change",
+    "subject": "Sociology",
+    "classes": [
+      12
+    ],
+    "summary": "Globalisation increased flows of goods, capital, people and culture, with uneven social effects.",
+    "points": [
+      "Liberalisation in 1991 opened India to foreign investment and trade.",
+      "Globalisation created new jobs in services and IT while displacing some traditional work.",
+      "Cultural flows spread ideas but also provoke resistance.",
+      "Inequality widened between regions and skill groups.",
+      "Global institutions influence national policy."
+    ],
+    "example": "Business process outsourcing created urban service jobs tied to global clients.",
+    "aliases": [
+      "globalisation and social change",
+      "liberalisation",
+      "global flows",
+      "cultural globalisation"
+    ],
+    "mistakes": [
+      "Treating globalisation as only economic.",
+      "Assuming its benefits are evenly shared."
+    ]
+  },
+  {
+    "id": "soc-mass-media",
+    "title": "Mass media and communications",
+    "subject": "Sociology",
+    "classes": [
+      12
+    ],
+    "summary": "Mass media shape public opinion, culture and politics, and their ownership matters.",
+    "points": [
+      "Media include print, broadcast and digital platforms.",
+      "Media can inform and mobilise but also spread stereotypes and misinformation.",
+      "Ownership concentration and advertising influence content.",
+      "Digital media changed participation and surveillance.",
+      "Media literacy helps evaluate claims."
+    ],
+    "example": "A viral rumour can trigger violence before it is verified.",
+    "aliases": [
+      "mass media and communications",
+      "media sociology",
+      "public opinion",
+      "media ownership",
+      "digital media"
+    ],
+    "mistakes": [
+      "Treating media as neutral transmission.",
+      "Ignoring ownership and advertising pressure."
+    ]
+  },
+  {
+    "id": "soc-social-movements",
+    "title": "Social movements",
+    "subject": "Sociology",
+    "classes": [
+      12
+    ],
+    "summary": "Social movements organise collective action for change or resistance around shared grievances.",
+    "points": [
+      "Movements may be reformist, revolutionary, or resistance movements.",
+      "They use protest, mobilisation, litigation and media.",
+      "Identity movements form around caste, gender, environment or region.",
+      "Movements can institutionalise into parties or NGOs.",
+      "Repression, co-option and internal division affect outcomes."
+    ],
+    "example": "The Chipko movement mobilised villagers to protect forests.",
+    "aliases": [
+      "social movements",
+      "collective action",
+      "new social movements",
+      "chipko movement",
+      "protest"
+    ],
+    "mistakes": [
+      "Assuming movements always succeed.",
+      "Ignoring internal differences."
+    ]
+  },
+  {
+    "id": "psy-what-is-psychology",
+    "title": "What is psychology?",
+    "subject": "Psychology",
+    "classes": [
+      11
+    ],
+    "summary": "Psychology studies behaviour and mental processes, using scientific methods rather than intuition.",
+    "points": [
+      "It examines experience and behaviour in context.",
+      "Branches include cognitive, developmental, social, clinical and organisational psychology.",
+      "Themes include nature versus nurture and stability versus change.",
+      "Psychology is applied in education, health, work and sport.",
+      "Popular psychology differs from evidence-based psychology."
+    ],
+    "example": "A clinical psychologist uses assessment and therapy, not guesswork, to understand distress.",
+    "aliases": [
+      "what is psychology",
+      "psychology",
+      "branches of psychology",
+      "behaviour mental processes"
+    ],
+    "mistakes": [
+      "Equating psychology with mind reading.",
+      "Ignoring the role of context."
+    ]
+  },
+  {
+    "id": "psy-methods-enquiry",
+    "title": "Methods of enquiry in psychology",
+    "subject": "Psychology",
+    "classes": [
+      11
+    ],
+    "summary": "Psychologists use observation, experiments, surveys, tests and case studies with ethical safeguards.",
+    "points": [
+      "Experiments manipulate an independent variable to study its effect on a dependent variable.",
+      "Correlation shows association, not causation.",
+      "Interviews and questionnaires collect self-reports but may be biased.",
+      "Reliability means consistency; validity means measuring what is intended.",
+      "Ethics require informed consent, confidentiality and no harm."
+    ],
+    "formulas": [
+      {
+        "name": "Correlation",
+        "expr": "r ranges from −1 to +1"
+      }
+    ],
+    "example": "A study linking sleep hours and test scores finds correlation, not proof that sleep causes scores.",
+    "aliases": [
+      "methods of enquiry",
+      "research methods psychology",
+      "experiment variables",
+      "reliability validity",
+      "case study"
+    ],
+    "mistakes": [
+      "Claiming causation from correlation.",
+      "Ignoring ethics in research."
+    ]
+  },
+  {
+    "id": "psy-human-development",
+    "title": "Human development",
+    "subject": "Psychology",
+    "classes": [
+      11
+    ],
+    "summary": "Development across the lifespan involves physical, cognitive, social and emotional changes.",
+    "points": [
+      "Development is lifelong, multidimensional and influenced by heredity and environment.",
+      "Piaget described stages of cognitive development from sensorimotor to formal operations.",
+      "Erikson described psychosocial stages across the lifespan.",
+      "Attachment in infancy shapes later relationships.",
+      "Adolescence involves identity formation and peer influence."
+    ],
+    "example": "Object permanence develops in infancy, when a child knows an object exists even when hidden.",
+    "aliases": [
+      "human development",
+      "lifespan development",
+      "piaget stages",
+      "erikson",
+      "attachment"
+    ],
+    "mistakes": [
+      "Treating development as only physical growth.",
+      "Assuming all children reach stages at the same age."
+    ]
+  },
+  {
+    "id": "psy-sensation-perception",
+    "title": "Sensory, attentional and perceptual processes",
+    "subject": "Psychology",
+    "classes": [
+      11
+    ],
+    "summary": "Sensation detects stimuli, attention selects them, and perception organises them into meaningful experience.",
+    "points": [
+      "Absolute threshold is the minimum stimulus detected; difference threshold is the smallest detectable change.",
+      "Attention is selective and limited in capacity.",
+      "Perception uses Gestalt principles such as proximity, similarity and closure.",
+      "Depth perception uses binocular and monocular cues.",
+      "Illusions show that perception is constructed, not copied."
+    ],
+    "formulas": [
+      {
+        "name": "Weber's law",
+        "expr": "ΔI/I = constant"
+      }
+    ],
+    "example": "A mirage in a desert is a perceptual illusion, not a real pool of water.",
+    "aliases": [
+      "sensory attentional perceptual processes",
+      "sensation perception",
+      "gestalt",
+      "attention",
+      "depth perception"
+    ],
+    "mistakes": [
+      "Treating perception as a direct copy of reality.",
+      "Confusing sensation with perception."
+    ]
+  },
+  {
+    "id": "psy-learning",
+    "title": "Learning",
+    "subject": "Psychology",
+    "classes": [
+      11
+    ],
+    "summary": "Learning is a relatively permanent change in behaviour or knowledge resulting from experience.",
+    "points": [
+      "Classical conditioning pairs a neutral stimulus with one that already produces a response.",
+      "Operant conditioning shapes behaviour through reinforcement and punishment.",
+      "Observational learning occurs by watching models.",
+      "Reinforcement schedules affect how persistent a learned behaviour is.",
+      "Cognitive learning includes insight and latent learning."
+    ],
+    "example": "A dog salivating at the sound of a bell is classical conditioning.",
+    "aliases": [
+      "learning",
+      "classical conditioning",
+      "operant conditioning",
+      "reinforcement",
+      "observational learning"
+    ],
+    "mistakes": [
+      "Confusing negative reinforcement with punishment.",
+      "Assuming learning is always visible immediately."
+    ]
+  },
+  {
+    "id": "psy-human-memory",
+    "title": "Human memory",
+    "subject": "Psychology",
+    "classes": [
+      11
+    ],
+    "summary": "Memory encodes, stores and retrieves information through sensory, short-term and long-term systems.",
+    "points": [
+      "Sensory memory lasts a fraction of a second; short-term memory holds a few items briefly.",
+      "Long-term memory has large capacity and includes explicit and implicit memory.",
+      "Chunking and rehearsal improve short-term retention.",
+      "Forgetting results from decay, interference and retrieval failure.",
+      "Serial position effects show better recall of first and last items."
+    ],
+    "formulas": [
+      {
+        "name": "Short-term capacity",
+        "expr": "about 7 ± 2 chunks"
+      }
+    ],
+    "example": "Remembering a phone number by grouping digits uses chunking.",
+    "aliases": [
+      "human memory",
+      "memory",
+      "short term long term memory",
+      "forgetting",
+      "chunking"
+    ],
+    "mistakes": [
+      "Thinking memory works like a recording.",
+      "Confusing decay with interference."
+    ]
+  },
+  {
+    "id": "psy-thinking",
+    "title": "Thinking",
+    "subject": "Psychology",
+    "classes": [
+      11
+    ],
+    "summary": "Thinking involves mental representation, problem solving, reasoning and decision making.",
+    "points": [
+      "Problem solving uses algorithms, heuristics and insight.",
+      "Heuristics are fast but can produce biases.",
+      "Reasoning may be deductive (from general to specific) or inductive.",
+      "Creativity involves divergent thinking and flexibility.",
+      "Language and thought influence each other."
+    ],
+    "example": "Assuming a cheap product is poor quality is a heuristic that may mislead.",
+    "aliases": [
+      "thinking",
+      "problem solving",
+      "heuristics",
+      "reasoning",
+      "creativity"
+    ],
+    "mistakes": [
+      "Treating heuristics as always accurate.",
+      "Confusing deductive with inductive reasoning."
+    ]
+  },
+  {
+    "id": "psy-motivation-emotion",
+    "title": "Motivation and emotion",
+    "subject": "Psychology",
+    "classes": [
+      11
+    ],
+    "summary": "Motivation drives goal-directed behaviour, and emotion involves physiological, cognitive and expressive components.",
+    "points": [
+      "Motives may be biological (hunger, sleep) or psychosocial (achievement, affiliation).",
+      "Maslow arranged needs from physiological to self-actualisation.",
+      "Intrinsic motivation comes from interest; extrinsic from rewards.",
+      "Basic emotions include happiness, sadness, fear, anger, surprise and disgust.",
+      "Stress affects motivation and health."
+    ],
+    "example": "Studying because the subject interests you is intrinsic motivation.",
+    "aliases": [
+      "motivation and emotion",
+      "motivation",
+      "emotion",
+      "maslow hierarchy",
+      "intrinsic extrinsic"
+    ],
+    "mistakes": [
+      "Assuming rewards always increase motivation.",
+      "Ignoring the cognitive appraisal of emotion."
+    ]
+  },
+  {
+    "id": "psy-individual-differences",
+    "title": "Variations in psychological attributes",
+    "subject": "Psychology",
+    "classes": [
+      12
+    ],
+    "summary": "People differ in intelligence, aptitude, creativity and personality, measured with psychological tests.",
+    "points": [
+      "Intelligence includes reasoning, problem solving and adaptation.",
+      "Spearman proposed a general factor; Gardner proposed multiple intelligences.",
+      "IQ scores are standardised with a mean of 100.",
+      "Aptitude predicts potential in a domain; achievement measures what has been learned.",
+      "Tests must be reliable and valid, and used ethically."
+    ],
+    "formulas": [
+      {
+        "name": "IQ",
+        "expr": "IQ = (mental age / chronological age) × 100"
+      }
+    ],
+    "example": "A child of 10 with a mental age of 12 has an IQ of 120 on the ratio formula.",
+    "aliases": [
+      "variations in psychological attributes",
+      "intelligence",
+      "iq",
+      "aptitude",
+      "multiple intelligences"
+    ],
+    "mistakes": [
+      "Treating IQ as a complete measure of ability.",
+      "Using tests without checking reliability."
+    ]
+  },
+  {
+    "id": "psy-self-personality",
+    "title": "Self and personality",
+    "subject": "Psychology",
+    "classes": [
+      12
+    ],
+    "summary": "Self-concept is how we understand ourselves, and personality is a stable pattern of behaviour and traits.",
+    "points": [
+      "Self includes personal identity and social identity.",
+      "Freud described id, ego and superego with psychosexual stages.",
+      "Trait theories describe personality in dimensions such as the Big Five.",
+      "Assessment methods include self-report inventories and projective tests.",
+      "Personality is shaped by heredity, environment and culture."
+    ],
+    "example": "A person high in conscientiousness tends to be organised and dependable.",
+    "aliases": [
+      "self and personality",
+      "personality",
+      "big five",
+      "freud",
+      "self concept"
+    ],
+    "mistakes": [
+      "Treating personality types as fixed boxes.",
+      "Assuming a single test captures personality fully."
+    ]
+  },
+  {
+    "id": "psy-life-challenges",
+    "title": "Meeting life challenges",
+    "subject": "Psychology",
+    "classes": [
+      12
+    ],
+    "summary": "Stress arises when demands exceed resources, and coping and resilience determine its effects.",
+    "points": [
+      "Stressors may be physical, social or psychological.",
+      "The general adaptation syndrome describes alarm, resistance and exhaustion stages.",
+      "Coping may be problem-focused or emotion-focused.",
+      "Social support and appraisal shape stress responses.",
+      "Relaxation, exercise and time management help manage stress."
+    ],
+    "example": "Reframing an exam as a challenge rather than a threat changes the stress response.",
+    "aliases": [
+      "meeting life challenges",
+      "stress",
+      "coping",
+      "resilience",
+      "general adaptation syndrome"
+    ],
+    "mistakes": [
+      "Thinking all stress is harmful.",
+      "Treating coping as only avoidance."
+    ]
+  },
+  {
+    "id": "psy-disorders",
+    "title": "Psychological disorders",
+    "subject": "Psychology",
+    "classes": [
+      12
+    ],
+    "summary": "Psychological disorders are patterns of distress or impairment classified in diagnostic systems.",
+    "points": [
+      "Disorders include anxiety, mood, psychotic, eating and substance-related conditions.",
+      "Classification aids communication but carries stigma risk.",
+      "Symptoms must be judged against cultural norms and duration.",
+      "Biological, psychological and social factors interact.",
+      "Early recognition improves outcomes."
+    ],
+    "example": "Persistent low mood and loss of interest for weeks may indicate a depressive disorder.",
+    "aliases": [
+      "psychological disorders",
+      "mental disorders",
+      "anxiety depression",
+      "classification of disorders"
+    ],
+    "mistakes": [
+      "Labelling everyday sadness as a disorder.",
+      "Assuming one cause explains a disorder."
+    ]
+  },
+  {
+    "id": "psy-therapy",
+    "title": "Therapeutic approaches",
+    "subject": "Psychology",
+    "classes": [
+      12
+    ],
+    "summary": "Therapy treats psychological distress through psychological, biological and social approaches.",
+    "points": [
+      "Psychodynamic therapy explores unconscious conflict.",
+      "Behaviour therapy uses conditioning to change behaviour.",
+      "Cognitive therapy changes distorted thinking patterns.",
+      "Humanistic therapy emphasises self-acceptance and growth.",
+      "Biomedical treatment uses medication under medical supervision."
+    ],
+    "example": "Gradual exposure in behaviour therapy reduces a phobia by controlled steps.",
+    "aliases": [
+      "therapeutic approaches",
+      "therapy",
+      "cognitive behavioural therapy",
+      "psychotherapy",
+      "biomedical therapy"
+    ],
+    "mistakes": [
+      "Assuming one therapy suits every problem.",
+      "Stopping prescribed medication without advice."
+    ]
+  },
+  {
+    "id": "psy-attitudes",
+    "title": "Attitude and social cognition",
+    "subject": "Psychology",
+    "classes": [
+      12
+    ],
+    "summary": "Attitudes are evaluations of objects and people, and social cognition explains how we interpret social information.",
+    "points": [
+      "Attitudes have cognitive, affective and behavioural components.",
+      "Prejudice is an attitude; discrimination is behaviour.",
+      "Attribution explains behaviour by internal dispositions or external situations.",
+      "Stereotypes simplify social perception and can distort it.",
+      "Persuasion depends on source credibility, message and audience."
+    ],
+    "example": "Blaming a person's failure on laziness while ignoring circumstances is a attribution error.",
+    "aliases": [
+      "attitude and social cognition",
+      "attitude",
+      "prejudice",
+      "stereotype",
+      "attribution"
+    ],
+    "mistakes": [
+      "Confusing prejudice with discrimination.",
+      "Overweighting dispositional explanations."
+    ]
+  },
+  {
+    "id": "psy-social-influence",
+    "title": "Social influence and group processes",
+    "subject": "Psychology",
+    "classes": [
+      12
+    ],
+    "summary": "Groups shape behaviour through conformity, obedience, norms and collective decision making.",
+    "points": [
+      "Conformity is pressure to match group norms.",
+      "Obedience to authority can override personal judgement.",
+      "Group polarisation pushes decisions towards extremes.",
+      "Groupthink reduces critical evaluation.",
+      "Cooperation and competition both shape group performance."
+    ],
+    "example": "A committee that suppresses dissent may reach a worse decision through groupthink.",
+    "aliases": [
+      "social influence and group processes",
+      "conformity",
+      "obedience",
+      "groupthink",
+      "group dynamics"
+    ],
+    "mistakes": [
+      "Assuming groups always decide better than individuals.",
+      "Ignoring situational pressure."
+    ]
+  },
+  {
+    "id": "psy-psychology-life",
+    "title": "Psychology and life",
+    "subject": "Psychology",
+    "classes": [
+      12
+    ],
+    "summary": "Psychology applies to health, environment, work and community life.",
+    "points": [
+      "Health psychology studies stress, illness and health behaviour.",
+      "Environmental psychology studies how settings affect behaviour.",
+      "Work psychology covers motivation, leadership and job design.",
+      "Community psychology addresses wellbeing in social context.",
+      "Applications must respect culture and ethics."
+    ],
+    "example": "A hospital designs waiting areas to reduce anxiety, using environmental psychology.",
+    "aliases": [
+      "psychology and life",
+      "health psychology",
+      "environmental psychology",
+      "applied psychology"
+    ],
+    "mistakes": [
+      "Assuming findings transfer across cultures unchanged.",
+      "Ignoring context in application."
+    ]
+  },
+  {
+    "id": "psy-skills",
+    "title": "Developing psychological skills",
+    "subject": "Psychology",
+    "classes": [
+      12
+    ],
+    "summary": "Psychological skills include observation, listening, interviewing, empathy and ethical practice.",
+    "points": [
+      "Effective helpers listen actively and reflect feelings.",
+      "Observation must be systematic and free of premature inference.",
+      "Interviewing uses open questions and avoids leading the respondent.",
+      "Empathy means understanding another's frame of reference.",
+      "Ethics include confidentiality, boundaries and referral."
+    ],
+    "example": "Reflecting back 'you sound overwhelmed' helps a client feel heard.",
+    "aliases": [
+      "developing psychological skills",
+      "counselling skills",
+      "active listening",
+      "empathy",
+      "interviewing skills"
+    ],
+    "mistakes": [
+      "Giving advice before understanding the problem.",
+      "Breaking confidentiality without justification."
+    ]
+  },
+  {
+    "id": "geo-practical-maps",
+    "title": "Practical work in geography: maps and scales",
+    "subject": "Geography",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Practical geography covers map scales, projections, representation of data, surveying and GIS.",
+    "points": [
+      "A map scale relates distance on the map to distance on the ground.",
+      "Large-scale maps show small areas in detail; small-scale maps show large areas.",
+      "Map projections flatten the curved earth and distort shape, area or distance.",
+      "Data can be shown by choropleth, isopleth, dot and flow maps.",
+      "Surveying and GIS measure and analyse spatial data."
+    ],
+    "formulas": [
+      {
+        "name": "Scale",
+        "expr": "scale = map distance / ground distance"
+      },
+      {
+        "name": "Statement scale",
+        "expr": "1 cm = 5 km"
+      }
+    ],
+    "example": "On a 1:50,000 map, 2 cm represents 1 km on the ground.",
+    "aliases": [
+      "practical work in geography",
+      "maps and scales",
+      "map projections",
+      "surveying",
+      "gis",
+      "choropleth",
+      "contours and slopes",
+      "choropleth map",
+      "map scale types"
+    ],
+    "mistakes": [
+      "Using the wrong scale unit.",
+      "Assuming a projection preserves all properties at once."
+    ]
+  }
+]

@@ -1,0 +1,1109 @@
+[
+  {
+    "id": "math-counting",
+    "title": "Counting and numbers",
+    "subject": "Mathematics",
+    "classes": [
+      1,
+      2
+    ],
+    "summary": "Counting means matching one number word to each object in a group. The last number you say tells you how many objects there are.",
+    "points": [
+      "Numbers go 0, 1, 2, 3 and so on; each number is one more than the one before it.",
+      "We compare groups using more than, less than, or equal to.",
+      "Numbers can be shown as numerals (7), words (seven) or objects (seven dots)."
+    ],
+    "example": "Count the apples: 1, 2, 3, 4, 5. There are 5 apples. If you eat one, 4 are left.",
+    "aliases": [
+      "counting numbers",
+      "numbers",
+      "how many",
+      "more and less",
+      "compare numbers",
+      "numbers from one to nine",
+      "counting in groups"
+    ],
+    "mistakes": [
+      "Saying the number too fast and skipping an object.",
+      "Forgetting that zero means none, not one."
+    ]
+  },
+  {
+    "id": "math-addition-subtraction",
+    "title": "Addition and subtraction",
+    "subject": "Mathematics",
+    "classes": [
+      1,
+      2,
+      3
+    ],
+    "summary": "Addition puts groups together to find a total; subtraction takes one number away from another to find what is left or the difference.",
+    "points": [
+      "The + sign means add and the − sign means subtract.",
+      "Addition and subtraction undo each other: 5 + 3 = 8, so 8 − 3 = 5.",
+      "When adding two-digit numbers, add the ones first, then the tens."
+    ],
+    "example": "24 + 13: ones 4 + 3 = 7, tens 2 + 1 = 3, so the answer is 37.",
+    "aliases": [
+      "adding",
+      "subtracting",
+      "sum",
+      "take away",
+      "plus",
+      "minus",
+      "carry over",
+      "addition",
+      "subtraction",
+      "add our points",
+      "give and take",
+      "fun with give and take",
+      "birds come birds go",
+      "a trip to bhopal"
+    ],
+    "mistakes": [
+      "Forgetting to carry a ten when the ones add to more than 9.",
+      "Subtracting the smaller digit from the larger one instead of borrowing."
+    ]
+  },
+  {
+    "id": "math-multiplication",
+    "title": "Multiplication and tables",
+    "subject": "Mathematics",
+    "classes": [
+      2,
+      3,
+      4
+    ],
+    "summary": "Multiplication is repeated addition of the same number: 4 × 3 means 4 added three times.",
+    "points": [
+      "Multiplication tables up to 10 make bigger sums quick.",
+      "4 × 3 and 3 × 4 give the same answer, so order does not change a product.",
+      "An array of rows and columns is a picture of multiplication."
+    ],
+    "example": "5 × 6 = 30, which is the same as 5 + 5 + 5 + 5 + 5 + 5.",
+    "aliases": [
+      "multiply",
+      "times tables",
+      "product",
+      "repeated addition",
+      "times",
+      "how many times",
+      "tables and shares",
+      "ways to multiply and divide"
+    ],
+    "mistakes": [
+      "Mixing up a table row, such as 7 × 8 with 7 × 9.",
+      "Adding instead of multiplying when the question says times."
+    ]
+  },
+  {
+    "id": "math-division",
+    "title": "Division",
+    "subject": "Mathematics",
+    "classes": [
+      3,
+      4,
+      5
+    ],
+    "summary": "Division splits a number into equal groups or shares. It is the inverse of multiplication.",
+    "points": [
+      "12 ÷ 3 asks how many groups of 3 fit into 12.",
+      "The number left over when groups cannot be equal is the remainder.",
+      "Every division can be checked with multiplication: quotient × divisor + remainder = dividend."
+    ],
+    "example": "17 ÷ 5 = 3 remainder 2, because 3 × 5 = 15 and 17 − 15 = 2.",
+    "aliases": [
+      "divide",
+      "sharing equally",
+      "quotient",
+      "remainder",
+      "long division",
+      "can we share"
+    ],
+    "mistakes": [
+      "Writing the remainder as a decimal when the question asks for a whole-number remainder.",
+      "Dividing the divisor by the dividend instead."
+    ]
+  },
+  {
+    "id": "math-place-value",
+    "title": "Place value",
+    "subject": "Mathematics",
+    "classes": [
+      3,
+      4,
+      5
+    ],
+    "summary": "Place value tells what a digit is worth depending on its position: ones, tens, hundreds, thousands and beyond.",
+    "points": [
+      "In 4,582 the 5 is worth 500 because it sits in the hundreds place.",
+      "Expanded form shows the parts: 4,582 = 4,000 + 500 + 80 + 2.",
+      "To compare large numbers, compare the digits from the left."
+    ],
+    "example": "In 7,306 the digit 3 is in the hundreds place, so its value is 300.",
+    "aliases": [
+      "face value",
+      "expanded form",
+      "ones tens hundreds",
+      "large numbers",
+      "numbers from ten to twenty",
+      "numbers from twenty one to fifty",
+      "counting in tens",
+      "tens and ones",
+      "fun with numbers",
+      "the fish tale"
+    ],
+    "mistakes": [
+      "Confusing face value (the digit itself) with place value (what it is worth)."
+    ]
+  },
+  {
+    "id": "math-fractions-basic",
+    "title": "Fractions",
+    "subject": "Mathematics",
+    "classes": [
+      3,
+      4,
+      5
+    ],
+    "summary": "A fraction shows equal parts of a whole. The denominator says how many equal parts there are and the numerator says how many you have.",
+    "points": [
+      "In 3/4 the whole is cut into 4 equal parts and 3 are taken.",
+      "Equivalent fractions look different but name the same amount: 1/2 = 2/4.",
+      "Fractions with the same denominator can be added by adding the numerators."
+    ],
+    "example": "1/4 + 2/4 = 3/4. The denominator stays 4 because the size of the parts has not changed.",
+    "aliases": [
+      "fraction",
+      "numerator",
+      "denominator",
+      "half",
+      "quarter",
+      "equivalent fractions",
+      "fractions class 6",
+      "halves and quarters",
+      "parts and wholes"
+    ],
+    "mistakes": [
+      "Adding the denominators as well as the numerators.",
+      "Thinking 1/8 is bigger than 1/4 because 8 is bigger than 4."
+    ]
+  },
+  {
+    "id": "math-decimals",
+    "title": "Decimals",
+    "subject": "Mathematics",
+    "classes": [
+      4,
+      5
+    ],
+    "summary": "Decimals write fractions whose denominators are 10, 100 or 1000 using a decimal point.",
+    "points": [
+      "The first place after the point is tenths, the next is hundredths.",
+      "0.5 is the same as 1/2 and 0.25 is the same as 1/4.",
+      "Line up the decimal points before adding or subtracting."
+    ],
+    "example": "2.35 + 1.4 is written as 2.35 + 1.40 = 3.75.",
+    "aliases": [
+      "decimal point",
+      "tenths",
+      "hundredths",
+      "decimals class 6",
+      "tenths and hundredths"
+    ],
+    "mistakes": [
+      "Writing 2.4 + 1.25 as 2.4 + 1.25 = 2.65 by misaligning the places."
+    ]
+  },
+  {
+    "id": "math-shapes-patterns",
+    "title": "Shapes and patterns",
+    "subject": "Mathematics",
+    "classes": [
+      1,
+      2,
+      3
+    ],
+    "summary": "Shapes have names based on their sides and corners, and patterns repeat in a rule you can continue.",
+    "points": [
+      "A triangle has 3 sides, a square and rectangle have 4, a pentagon has 5.",
+      "A cube, cuboid, cylinder, cone and sphere are solid shapes.",
+      "A pattern has a rule such as add 2, or repeat red, blue, red, blue."
+    ],
+    "example": "2, 4, 6, 8, … follows the rule add 2, so the next number is 10.",
+    "aliases": [
+      "2d shapes",
+      "3d shapes",
+      "solid shapes",
+      "patterns",
+      "sides and corners",
+      "algebra class 6",
+      "symmetry class 6",
+      "shapes and space",
+      "what is long what is round",
+      "lines and lines",
+      "where to look from",
+      "shapes and designs",
+      "play with patterns",
+      "building with bricks",
+      "the way the world looks",
+      "boxes and sketches",
+      "can you see the pattern"
+    ],
+    "mistakes": [
+      "Calling every four-sided shape a square; a square needs equal sides and right angles."
+    ]
+  },
+  {
+    "id": "math-measurement",
+    "title": "Measurement",
+    "subject": "Mathematics",
+    "classes": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "summary": "Measurement compares an object with a standard unit of length, mass or capacity.",
+    "points": [
+      "Length uses millimetres, centimetres, metres and kilometres.",
+      "Mass uses grams and kilograms; capacity uses millilitres and litres.",
+      "1 m = 100 cm, 1 km = 1000 m, 1 kg = 1000 g, 1 L = 1000 mL."
+    ],
+    "example": "A 2.5 m rope is 250 cm long, because 2.5 × 100 = 250.",
+    "aliases": [
+      "units",
+      "length",
+      "mass",
+      "weight",
+      "capacity",
+      "conversion of units",
+      "mensuration class 6",
+      "measurement",
+      "how much can you carry",
+      "footprints",
+      "jugs and mugs",
+      "the longest step",
+      "long and short",
+      "who is heavier",
+      "how heavy how light",
+      "how big how heavy"
+    ],
+    "mistakes": [
+      "Multiplying when changing from a smaller unit to a larger one."
+    ]
+  },
+  {
+    "id": "math-time-calendar",
+    "title": "Time and calendar",
+    "subject": "Mathematics",
+    "classes": [
+      2,
+      3,
+      4
+    ],
+    "summary": "Time is read on a clock in hours and minutes, and the calendar arranges days into weeks and months.",
+    "points": [
+      "1 hour = 60 minutes and 1 minute = 60 seconds.",
+      "The short hand shows hours and the long hand shows minutes.",
+      "A year has 12 months and 365 days, or 366 in a leap year."
+    ],
+    "example": "A film starts at 4:45 and runs 1 hour 30 minutes, so it ends at 6:15.",
+    "aliases": [
+      "clock",
+      "calendar",
+      "months",
+      "days",
+      "duration",
+      "time",
+      "my funday",
+      "time goes on",
+      "tick tick tick"
+    ],
+    "mistakes": [
+      "Treating 1 hour 30 minutes as 1.30 hours; it is 1.5 hours."
+    ]
+  },
+  {
+    "id": "math-money",
+    "title": "Money",
+    "subject": "Mathematics",
+    "classes": [
+      2,
+      3,
+      4
+    ],
+    "summary": "Money is counted in rupees and paise, and bills are added and subtracted like decimals.",
+    "points": [
+      "₹1 = 100 paise.",
+      "Write amounts with two decimal places, such as ₹45.50.",
+      "Change is the amount paid minus the total cost."
+    ],
+    "example": "A notebook costs ₹32.50 and you pay ₹50, so the change is ₹17.50.",
+    "aliases": [
+      "rupees",
+      "paise",
+      "bill",
+      "change",
+      "shopping",
+      "rupees and paise",
+      "the junk seller"
+    ],
+    "mistakes": [
+      "Forgetting to convert paise to rupees before adding amounts."
+    ]
+  },
+  {
+    "id": "math-perimeter-area",
+    "title": "Perimeter and area",
+    "subject": "Mathematics",
+    "classes": [
+      4,
+      5
+    ],
+    "summary": "Perimeter is the distance around a shape; area is the space inside it.",
+    "points": [
+      "Perimeter of a rectangle = 2 × (length + breadth).",
+      "Area of a rectangle = length × breadth; area of a square = side × side.",
+      "Area is measured in square units such as cm²."
+    ],
+    "formulas": [
+      {
+        "name": "Perimeter of a rectangle",
+        "expr": "P = 2(l + b)",
+        "symbols": "l = length, b = breadth"
+      },
+      {
+        "name": "Area of a rectangle",
+        "expr": "A = l × b",
+        "symbols": "square units"
+      },
+      {
+        "name": "Area of a square",
+        "expr": "A = s²",
+        "symbols": "s = side"
+      }
+    ],
+    "example": "A rectangle is 8 cm by 5 cm: perimeter 2 × (8 + 5) = 26 cm, area 8 × 5 = 40 cm².",
+    "aliases": [
+      "perimeter",
+      "area",
+      "boundary",
+      "square units",
+      "fields and fences",
+      "how many squares",
+      "area and its boundary"
+    ],
+    "mistakes": [
+      "Writing area in cm instead of cm².",
+      "Using the area formula for perimeter."
+    ]
+  },
+  {
+    "id": "math-factors-multiples",
+    "title": "Factors and multiples",
+    "subject": "Mathematics",
+    "classes": [
+      4,
+      5
+    ],
+    "summary": "A factor divides a number exactly with no remainder; a multiple is what you get when you multiply that number by a whole number.",
+    "points": [
+      "Factors of 12 are 1, 2, 3, 4, 6 and 12.",
+      "Multiples of 4 are 4, 8, 12, 16 and so on.",
+      "A prime number has exactly two factors: 1 and itself."
+    ],
+    "example": "12 is a multiple of both 3 and 4, and both 3 and 4 are factors of 12.",
+    "aliases": [
+      "factor",
+      "multiple",
+      "prime numbers",
+      "composite numbers",
+      "divisibility",
+      "be my multiple i will be your factor"
+    ],
+    "mistakes": [
+      "Mixing up factors and multiples.",
+      "Calling 1 a prime number; it has only one factor."
+    ]
+  },
+  {
+    "id": "math-data-handling-primary",
+    "title": "Data handling",
+    "subject": "Mathematics",
+    "classes": [
+      4,
+      5
+    ],
+    "summary": "Data handling collects information and shows it in tables, pictographs and bar graphs so it is easy to compare.",
+    "points": [
+      "Tally marks group counts in fives.",
+      "A pictograph uses a symbol, and a key says what one symbol stands for.",
+      "A bar graph uses bars of equal width whose heights show the numbers."
+    ],
+    "example": "If one symbol means 5 students, then 4 symbols mean 20 students.",
+    "aliases": [
+      "tally marks",
+      "pictograph",
+      "bar graph",
+      "graphs",
+      "data",
+      "how many ponytails",
+      "smart charts"
+    ],
+    "mistakes": [
+      "Reading the bar height as the count when the axis uses a scale of 2 or 5."
+    ]
+  },
+  {
+    "id": "math-percentage-basic",
+    "title": "Percentage",
+    "subject": "Mathematics",
+    "classes": [
+      5
+    ],
+    "summary": "Percent means per hundred, so 25% is 25 out of every 100.",
+    "points": [
+      "50% is half, 25% is a quarter and 10% is one tenth.",
+      "To find a percentage of a number, divide by 100 and multiply.",
+      "Percentages compare quantities of different sizes fairly."
+    ],
+    "formulas": [
+      {
+        "name": "Percentage of a number",
+        "expr": "part = (percent ÷ 100) × whole",
+        "symbols": "percent is written with %"
+      }
+    ],
+    "example": "20% of 150 = (20 ÷ 100) × 150 = 30.",
+    "aliases": [
+      "percent",
+      "per cent",
+      "percentage of a number",
+      "comparing quantities"
+    ],
+    "mistakes": [
+      "Finding 20% by dividing by 20 instead of multiplying by 20/100."
+    ]
+  },
+  {
+    "id": "math-average",
+    "title": "Average",
+    "subject": "Mathematics",
+    "classes": [
+      5
+    ],
+    "summary": "The average, or mean, shares a total equally among all the items.",
+    "points": [
+      "Average = total of all values ÷ number of values.",
+      "The average lies between the smallest and largest values.",
+      "Averages hide how spread out the values are."
+    ],
+    "formulas": [
+      {
+        "name": "Mean",
+        "expr": "mean = sum of values ÷ number of values",
+        "symbols": "also written x̄"
+      }
+    ],
+    "example": "Marks 60, 70 and 80 give an average of (60 + 70 + 80) ÷ 3 = 70.",
+    "aliases": [
+      "mean",
+      "arithmetic mean"
+    ],
+    "mistakes": [
+      "Dividing by the highest value instead of by how many values there are."
+    ]
+  },
+  {
+    "id": "english-alphabet-phonics",
+    "title": "Alphabet, vowels and phonics",
+    "subject": "English",
+    "classes": [
+      1,
+      2
+    ],
+    "summary": "English has 26 letters. Five are vowels (a, e, i, o, u) and the rest are consonants, and their sounds build words.",
+    "points": [
+      "Letters have capital and small forms: A a, B b.",
+      "A vowel sound can be short as in cat or long as in cake.",
+      "Blending sounds such as c-a-t builds the word cat."
+    ],
+    "example": "b + a + t says bat; add s and you get bats.",
+    "aliases": [
+      "vowels",
+      "consonants",
+      "phonics",
+      "letters",
+      "alphabet"
+    ],
+    "mistakes": [
+      "Treating y as always a consonant; it acts as a vowel in words like sky."
+    ]
+  },
+  {
+    "id": "english-nouns-pronouns",
+    "title": "Nouns and pronouns",
+    "subject": "English",
+    "classes": [
+      3,
+      4,
+      5
+    ],
+    "summary": "A noun names a person, place, animal or thing. A pronoun replaces a noun so it does not have to repeat.",
+    "points": [
+      "Common nouns name general things (city); proper nouns name particular ones (Delhi) and take a capital letter.",
+      "Singular means one and plural means more than one.",
+      "Pronouns include I, you, he, she, it, we and they."
+    ],
+    "example": "Riya lost Riya's bag becomes Riya lost her bag, using the pronoun her.",
+    "aliases": [
+      "noun",
+      "pronoun",
+      "singular",
+      "plural",
+      "proper noun"
+    ],
+    "mistakes": [
+      "Using he for a thing instead of it.",
+      "Writing proper nouns without capital letters."
+    ]
+  },
+  {
+    "id": "english-verbs-tenses",
+    "title": "Verbs and tenses",
+    "subject": "English",
+    "classes": [
+      3,
+      4,
+      5
+    ],
+    "summary": "A verb shows action or state, and tense tells when it happens: past, present or future.",
+    "points": [
+      "Simple present: I walk. Simple past: I walked. Simple future: I will walk.",
+      "Adding -s to a present-tense verb for he, she or it: she walks.",
+      "Irregular verbs change form: go, went, gone."
+    ],
+    "example": "They play today, they played yesterday, and they will play tomorrow.",
+    "aliases": [
+      "verb",
+      "tenses",
+      "past tense",
+      "present tense",
+      "future tense"
+    ],
+    "mistakes": [
+      "Using the past form after did: did went instead of did go."
+    ]
+  },
+  {
+    "id": "english-adjectives-adverbs",
+    "title": "Adjectives and adverbs",
+    "subject": "English",
+    "classes": [
+      3,
+      4,
+      5
+    ],
+    "summary": "Adjectives describe nouns and adverbs describe verbs, adjectives or other adverbs.",
+    "points": [
+      "Adjectives answer what kind, which one or how many: a tall tree.",
+      "Adverbs often answer how, when or where and many end in -ly: she ran quickly.",
+      "Comparing uses -er/-est or more/most: taller, tallest."
+    ],
+    "example": "The quiet boy read silently: quiet describes the boy, silently describes how he read.",
+    "aliases": [
+      "adjective",
+      "adverb",
+      "describing words",
+      "comparison of adjectives"
+    ],
+    "mistakes": [
+      "Writing gooder instead of better."
+    ]
+  },
+  {
+    "id": "english-sentences-punctuation",
+    "title": "Sentences and punctuation",
+    "subject": "English",
+    "classes": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "summary": "A sentence expresses a complete idea and begins with a capital letter and ends with a full stop, question mark or exclamation mark.",
+    "points": [
+      "A statement ends with a full stop, a question with a question mark and a strong feeling with an exclamation mark.",
+      "Commas separate items in a list and mark pauses.",
+      "A sentence needs a subject and a verb: Birds fly."
+    ],
+    "example": "Where is my bag? It ends with a question mark because it asks something.",
+    "aliases": [
+      "punctuation",
+      "capital letters",
+      "full stop",
+      "comma",
+      "question mark",
+      "sentence"
+    ],
+    "mistakes": [
+      "Joining two complete sentences with only a comma.",
+      "Forgetting the capital letter at the start."
+    ]
+  },
+  {
+    "id": "english-writing-primary",
+    "title": "Paragraph and letter writing",
+    "subject": "English",
+    "classes": [
+      4,
+      5
+    ],
+    "summary": "A paragraph develops one main idea in a group of sentences, and a letter has a greeting, a body and a closing.",
+    "points": [
+      "Start a paragraph with a topic sentence and support it with details.",
+      "An informal letter is friendly; a formal letter is polite and brief.",
+      "Use linking words such as first, then, because and finally."
+    ],
+    "example": "Topic sentence: Trees help us in many ways. Details follow about shade, fruit and clean air.",
+    "aliases": [
+      "paragraph writing",
+      "letter writing",
+      "informal letter",
+      "formal letter",
+      "essay"
+    ],
+    "mistakes": [
+      "Putting several unrelated ideas in the same paragraph.",
+      "Leaving out the date or closing in a formal letter."
+    ]
+  },
+  {
+    "id": "english-reading-comprehension",
+    "title": "Reading comprehension",
+    "subject": "English",
+    "classes": [
+      3,
+      4,
+      5
+    ],
+    "summary": "Comprehension answers questions about a passage using evidence from the text.",
+    "points": [
+      "Read the questions first, then the passage, so you know what to look for.",
+      "Answer in your own words but stay close to the passage.",
+      "A 'why' question usually needs a reason found in the text."
+    ],
+    "example": "If the passage says the crow dropped stones into the pot to raise the water, the answer to 'how did it reach the water?' is the stones, not 'it was clever'.",
+    "aliases": [
+      "comprehension",
+      "unseen passage",
+      "passage",
+      "reading"
+    ],
+    "mistakes": [
+      "Copying whole sentences when the question asks for a short answer.",
+      "Adding facts that are not in the passage."
+    ]
+  },
+  {
+    "id": "hindi-varnamala",
+    "title": "वर्णमाला और वर्ण",
+    "subject": "Hindi",
+    "classes": [
+      1,
+      2,
+      3
+    ],
+    "summary": "हिंदी की वर्णमाला में स्वर (अ, आ, इ, ई आदि) और व्यंजन (क, ख, ग आदि) होते हैं; इनसे शब्द बनते हैं।",
+    "points": [
+      "स्वर 11 (या 13) माने जाते हैं और व्यंजन 33 से 35 तक होते हैं।",
+      "व्यंजन के साथ स्वर की मात्रा जुड़ने से शब्द बनता है, जैसे क + ा = का।",
+      "अनुनासिक (चंद्रबिंदु) और अनुस्वार (बिंदु) उच्चारण बदलते हैं।"
+    ],
+    "example": "क + ि = कि, क + ी = की; दोनों का उच्चारण और अर्थ अलग होता है।",
+    "aliases": [
+      "varnamala",
+      "swar",
+      "vyanjan",
+      "हिंदी वर्णमाला",
+      "matra"
+    ],
+    "mistakes": [
+      "'ि' और 'ी' की मात्रा में भ्रम.",
+      "व्यंजन के नीचे लगने वाले रूप (जैसे क़) को भूल जाना।"
+    ]
+  },
+  {
+    "id": "hindi-sangya-kriya",
+    "title": "संज्ञा, सर्वनाम और क्रिया",
+    "subject": "Hindi",
+    "classes": [
+      3,
+      4,
+      5
+    ],
+    "summary": "संज्ञा किसी व्यक्ति, वस्तु, स्थान या भाव का नाम है; सर्वनाम संज्ञा की जगह आता है और क्रिया काम बताती है।",
+    "points": [
+      "संज्ञा के भेद: व्यक्तिवाचक, जातिवाचक, भाववाचक।",
+      "सर्वनाम: मैं, तुम, वह, हम, वे आदि।",
+      "क्रिया का रूप कर्ता और काल के अनुसार बदलता है।"
+    ],
+    "example": "मोहन खेलता है — 'मोहन' संज्ञा है और 'खेलता है' क्रिया।",
+    "aliases": [
+      "sangya",
+      "sarvnam",
+      "kriya",
+      "संज्ञा",
+      "क्रिया",
+      "हिंदी व्याकरण"
+    ],
+    "mistakes": [
+      "भाववाचक संज्ञा (जैसे मिठास) को जातिवाचक समझना।"
+    ]
+  },
+  {
+    "id": "evs-living-nonliving",
+    "title": "Living and non-living things",
+    "subject": "Science",
+    "classes": [
+      3,
+      4,
+      5
+    ],
+    "summary": "Living things grow, need food, water and air, respond to their surroundings and reproduce; non-living things do not.",
+    "points": [
+      "Living things breathe, grow and produce young ones.",
+      "Plants are living even though they do not move about.",
+      "A car moves and needs fuel, but it does not grow or reproduce, so it is non-living."
+    ],
+    "example": "A seed grows into a plant and makes new seeds, so it is living; a stone does not change by itself.",
+    "aliases": [
+      "living things",
+      "non living things",
+      "characteristics of living things"
+    ],
+    "mistakes": [
+      "Deciding something is living only because it moves."
+    ]
+  },
+  {
+    "id": "evs-plants-parts",
+    "title": "Plants and their parts",
+    "subject": "Science",
+    "classes": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "summary": "A plant usually has roots, a stem, leaves, flowers and fruit, and each part does a particular job.",
+    "points": [
+      "Roots hold the plant in the soil and absorb water and minerals.",
+      "The stem carries water and supports leaves and flowers.",
+      "Leaves make food using sunlight, water and carbon dioxide."
+    ],
+    "example": "A carrot is a root we eat, spinach is a leaf, and an apple is a fruit.",
+    "aliases": [
+      "parts of a plant",
+      "roots",
+      "stem",
+      "leaf",
+      "flower",
+      "plant",
+      "the plant fairy",
+      "the valley of flowers",
+      "abdul in the garden",
+      "seeds and seeds",
+      "a seed tells a farmer's story"
+    ],
+    "mistakes": [
+      "Thinking all roots are underground; some climbers have aerial roots."
+    ]
+  },
+  {
+    "id": "evs-animals-habitats",
+    "title": "Animals and habitats",
+    "subject": "Science",
+    "classes": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "summary": "Animals live where they can find food, water and shelter; that place is their habitat.",
+    "points": [
+      "Land animals, water animals and birds have bodies suited to their homes.",
+      "Some animals are herbivores, some carnivores and some omnivores.",
+      "Adaptations such as thick fur or gills help animals survive in their habitat."
+    ],
+    "example": "A fish has gills to take oxygen from water and fins to swim; a camel stores fat in its hump for dry months.",
+    "aliases": [
+      "habitat",
+      "animal homes",
+      "adaptation",
+      "herbivore",
+      "carnivore",
+      "omnivore",
+      "poonam's day out",
+      "flying high",
+      "our friends animals",
+      "ear to ear",
+      "super senses"
+    ],
+    "mistakes": [
+      "Thinking a habitat is only a house or nest; it is the whole surroundings."
+    ]
+  },
+  {
+    "id": "evs-human-body",
+    "title": "Human body and sense organs",
+    "subject": "Science",
+    "classes": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "summary": "The body has five sense organs — eyes, ears, nose, tongue and skin — and systems that work together.",
+    "points": [
+      "Eyes see, ears hear, the nose smells, the tongue tastes and the skin feels.",
+      "The heart pumps blood and the lungs take in air.",
+      "Bones give shape and support; muscles help us move."
+    ],
+    "example": "You smell food with your nose, taste it with your tongue and feel its heat with your skin.",
+    "aliases": [
+      "sense organs",
+      "five senses",
+      "heart",
+      "lungs",
+      "bones",
+      "body parts"
+    ],
+    "mistakes": [
+      "Saying the tongue detects smell; the nose does."
+    ]
+  },
+  {
+    "id": "evs-food-nutrition",
+    "title": "Food and nutrition",
+    "subject": "Science",
+    "classes": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "summary": "Food gives energy and materials for growth, and a balanced diet includes carbohydrates, proteins, fats, vitamins, minerals and water.",
+    "points": [
+      "Carbohydrates and fats give energy; proteins help growth and repair.",
+      "Vitamins and minerals protect the body from disease.",
+      "A balanced diet includes grains, pulses, vegetables, fruit and milk."
+    ],
+    "example": "Rice gives energy, dal gives protein, and an orange gives vitamin C.",
+    "aliases": [
+      "balanced diet",
+      "nutrients",
+      "vitamins",
+      "proteins",
+      "food",
+      "foods we eat",
+      "what is cooking",
+      "the story of food",
+      "eating together",
+      "food and fun",
+      "from tasting to digesting",
+      "mangoes round the year"
+    ],
+    "mistakes": [
+      "Thinking eating a lot means eating well; variety matters more than quantity."
+    ]
+  },
+  {
+    "id": "evs-water-air",
+    "title": "Water and air",
+    "subject": "Science",
+    "classes": [
+      2,
+      3,
+      4,
+      5
+    ],
+    "summary": "Water and air are natural resources that living things need, and both can be polluted by human activity.",
+    "points": [
+      "Water exists as ice, liquid water and water vapour.",
+      "Air is a mixture; it contains nitrogen, oxygen, carbon dioxide and water vapour.",
+      "Boiling and filtering are common ways to make water safer to drink."
+    ],
+    "example": "Clothes dry because water changes into vapour, which is evaporation.",
+    "aliases": [
+      "water cycle",
+      "air",
+      "evaporation",
+      "pollution",
+      "natural resources",
+      "air around us",
+      "water o water",
+      "drop by drop",
+      "too much water too little water",
+      "a river's tale",
+      "every drop counts",
+      "experiments with water"
+    ],
+    "mistakes": [
+      "Calling water vapour smoke; it is an invisible gas."
+    ]
+  },
+  {
+    "id": "evs-weather-seasons",
+    "title": "Weather and seasons",
+    "subject": "Science",
+    "classes": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "summary": "Weather is what the air is like today; seasons are longer periods with a similar pattern of weather.",
+    "points": [
+      "Sunny, cloudy, rainy, windy and snowy describe weather.",
+      "India has summer, monsoon and winter seasons in most regions.",
+      "Weather changes day to day, while climate is the average over many years."
+    ],
+    "example": "A day can be cloudy but not rainy; the monsoon season brings many rainy days.",
+    "aliases": [
+      "weather",
+      "seasons",
+      "rainy season",
+      "monsoon",
+      "climate",
+      "it's raining",
+      "blow hot blow cold"
+    ],
+    "mistakes": [
+      "Using weather and climate as if they meant the same thing."
+    ]
+  },
+  {
+    "id": "evs-food-chain",
+    "title": "Food chains",
+    "subject": "Science",
+    "classes": [
+      4,
+      5
+    ],
+    "summary": "A food chain shows who eats whom, starting with a plant that makes its own food.",
+    "points": [
+      "Plants are producers; animals that eat plants are primary consumers.",
+      "Arrows in a food chain point from the food to the eater.",
+      "Many food chains linked together form a food web."
+    ],
+    "example": "Grass → grasshopper → frog → snake, with arrows showing the flow of energy.",
+    "aliases": [
+      "food chain",
+      "food web",
+      "producer",
+      "consumer",
+      "decomposer",
+      "web of life"
+    ],
+    "mistakes": [
+      "Pointing the arrow from the eater to the food."
+    ]
+  },
+  {
+    "id": "evs-health-hygiene",
+    "title": "Health and hygiene",
+    "subject": "Science",
+    "classes": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "summary": "Good health comes from clean habits, safe food and water, enough sleep and regular activity.",
+    "points": [
+      "Wash hands with soap before eating and after using the toilet.",
+      "Brush teeth twice a day and bathe regularly.",
+      "Cover your mouth when coughing or sneezing to reduce spreading germs."
+    ],
+    "example": "Handwashing with soap removes germs that cause diarrhoea and other infections.",
+    "aliases": [
+      "hygiene",
+      "cleanliness",
+      "germs",
+      "handwashing",
+      "health",
+      "a treat for mosquitoes"
+    ],
+    "mistakes": [
+      "Rinsing hands with water only; soap is what lifts germs off."
+    ]
+  },
+  {
+    "id": "evs-maps-directions",
+    "title": "Maps and directions",
+    "subject": "Geography",
+    "classes": [
+      4,
+      5
+    ],
+    "summary": "A map is a drawing of an area from above, and directions help you find places on it.",
+    "points": [
+      "The four main directions are north, south, east and west.",
+      "A map key explains symbols, and the scale tells how distances shrink.",
+      "North is usually at the top of a map."
+    ],
+    "example": "If 1 cm on the map means 1 km, then 3 cm means 3 km.",
+    "aliases": [
+      "map",
+      "directions",
+      "compass",
+      "scale",
+      "north south east west",
+      "mapping your way",
+      "left right",
+      "from here to there"
+    ],
+    "mistakes": [
+      "Reading the scale backwards, as if the map distances were real distances."
+    ]
+  },
+  {
+    "id": "evs-community-helpers",
+    "title": "Community helpers",
+    "subject": "Social Studies",
+    "classes": [
+      1,
+      2,
+      3
+    ],
+    "summary": "Community helpers are people whose work keeps a neighbourhood safe, healthy and running.",
+    "points": [
+      "Doctors and nurses treat illness; teachers help children learn.",
+      "Police keep order, and firefighters put out fires and rescue people.",
+      "Farmers grow food and sanitation workers keep the area clean."
+    ],
+    "example": "When there is a fire, the firefighter's job is to put it out and help people escape.",
+    "aliases": [
+      "community helpers",
+      "helpers",
+      "doctor",
+      "police",
+      "firefighter",
+      "farmer",
+      "work we do",
+      "here comes a letter",
+      "defence officer wahida",
+      "who will do this work"
+    ],
+    "mistakes": [
+      "Thinking only famous jobs count; everyday services matter just as much."
+    ]
+  }
+]

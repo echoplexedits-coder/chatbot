@@ -1,0 +1,458 @@
+[
+  {
+    "id": "lit-hornbill",
+    "title": "Hornbill: Class 11 English core reader",
+    "subject": "English",
+    "classes": [
+      11
+    ],
+    "summary": "Hornbill is the NCERT Class 11 core reader: prose pieces on memory, adventure, environment and education, plus poems.",
+    "points": [
+      "The book mixes prose and poetry, and each chapter is examined through short and long answer questions.",
+      "Prose chapters include The Portrait of a Lady, Discovering Tut, The Ailing Planet and Silk Road.",
+      "Poems include A Photograph, The Laburnum Top and The Voice of the Rain.",
+      "For any chapter, note the theme, the narrator's tone, two or three key images and one quotable line.",
+      "The prescribed chapter list can change with edition, so check your own copy before the exam."
+    ],
+    "example": "For a prose answer, state the theme in one line, give two textual details, then close with what the chapter suggests about people or society.",
+    "mistakes": [
+      "Retelling the story instead of answering what the question asks.",
+      "Quoting lines without explaining what they show."
+    ],
+    "aliases": [
+      "hornbill",
+      "hornbill class 11",
+      "the portrait of a lady",
+      "discovering tut",
+      "the ailing planet",
+      "silk road",
+      "a photograph poem",
+      "the laburnum top",
+      "the voice of the rain"
+    ]
+  },
+  {
+    "id": "lit-snapshots",
+    "title": "Snapshots: Class 11 supplementary reader",
+    "subject": "English",
+    "classes": [
+      11
+    ],
+    "summary": "Snapshots is the Class 11 supplementary reader of short stories about choices, identity and human behaviour.",
+    "points": [
+      "Stories include The Summer of the Beautiful White Horse, The Address, Mother's Day, Birth and The Tale of Melon City.",
+      "Supplementary chapters are usually tested through short answers on plot, character and theme.",
+      "Track who narrates each story, because point of view shapes the meaning.",
+      "Prepare one line of personal response per story for value-based questions."
+    ],
+    "example": "A question on The Summer of the Beautiful White Horse usually asks about the theme of honesty rather than the plot.",
+    "mistakes": [
+      "Confusing the supplementary reader with the main reader.",
+      "Giving a moral that the story does not support with evidence."
+    ],
+    "aliases": [
+      "snapshots",
+      "snapshots class 11",
+      "the summer of the beautiful white horse",
+      "mother's day",
+      "birth story",
+      "the tale of melon city"
+    ]
+  },
+  {
+    "id": "lit-flamingo",
+    "title": "Flamingo: Class 12 English core reader",
+    "subject": "English",
+    "classes": [
+      12
+    ],
+    "summary": "Flamingo is the NCERT Class 12 core reader, with prose on language, loss, courage and memory, and poems on time and beauty.",
+    "points": [
+      "Prose chapters include The Last Lesson, Lost Spring, Deep Water, The Rattrap, Indigo and Going Places.",
+      "Poems include My Mother at Sixty-six, An Elementary School Classroom in a Slum, Keeping Quiet and A Thing of Beauty.",
+      "Each prose chapter carries a social or moral concern worth naming explicitly in answers.",
+      "Answers score when they use the text, not just a summary of events."
+    ],
+    "example": "The Last Lesson links a language lesson to identity and loss under occupation, so an answer should mention both the classroom and the political setting.",
+    "mistakes": [
+      "Writing the story in the first person when the question asks for analysis.",
+      "Ignoring the poet's name and the poem's central image."
+    ],
+    "aliases": [
+      "flamingo",
+      "flamingo class 12",
+      "the last lesson",
+      "lost spring",
+      "deep water",
+      "the rattrap",
+      "indigo",
+      "poets and pancakes",
+      "going places",
+      "my mother at sixty six",
+      "keeping quiet",
+      "a thing of beauty"
+    ]
+  },
+  {
+    "id": "lit-vistas",
+    "title": "Vistas: Class 12 supplementary reader",
+    "subject": "English",
+    "classes": [
+      12
+    ],
+    "summary": "Vistas is the Class 12 supplementary reader, with stories about truth, power and human decency.",
+    "points": [
+      "Stories include The Third Level, The Tiger King, Journey to the End of the Earth, The Enemy and On the Face of It.",
+      "Questions usually focus on character motive and the story's comment on society.",
+      "Note irony where it appears, especially in satire such as The Tiger King.",
+      "Keep one example from the text ready for each theme you state."
+    ],
+    "example": "The Tiger King satirises power and superstition, so an answer should show how the king's own prophecy destroys him.",
+    "mistakes": [
+      "Treating satire as a straightforward adventure story.",
+      "Mixing characters between different stories in the same book."
+    ],
+    "aliases": [
+      "vistas",
+      "vistas class 12",
+      "the third level",
+      "the tiger king",
+      "the enemy",
+      "on the face of it",
+      "evans tries an o level"
+    ]
+  },
+  {
+    "id": "lit-kaleidoscope",
+    "title": "Kaleidoscope: English elective",
+    "subject": "English",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Kaleidoscope is the NCERT English elective, with sections on prose, poetry, drama and fiction.",
+    "points": [
+      "The elective asks for closer reading than the core course, including narrative technique and genre.",
+      "Drama sections need attention to stagecraft, dialogue and conflict, not just plot.",
+      "Poetry answers should name form, imagery and tone before interpretation.",
+      "The elective list differs from the core readers, so check which book your school prescribes."
+    ],
+    "example": "A drama answer that mentions staging and dialogue earns more than a summary of the story.",
+    "mistakes": [
+      "Using core-reader chapters for an elective paper.",
+      "Reading a poem as a story with a moral."
+    ],
+    "aliases": [
+      "kaleidoscope",
+      "english elective class 11",
+      "english elective class 12"
+    ]
+  },
+  {
+    "id": "lit-first-flight",
+    "title": "First Flight: Class 10 English",
+    "subject": "English",
+    "classes": [
+      10
+    ],
+    "summary": "First Flight is the Class 10 NCERT reader, with prose on courage, freedom and human values, and poems on nature and choice.",
+    "points": [
+      "Prose chapters include A Letter to God, Nelson Mandela: Long Walk to Freedom, From the Diary of Anne Frank and The Proposal.",
+      "Poems include Dust of Snow, Fire and Ice, A Tiger in the Zoo and The Ball Poem.",
+      "Board answers reward a clear statement, textual support and a short conclusion.",
+      "Grammar and writing questions in the paper come from the same book's exercises."
+    ],
+    "example": "For A Letter to God, the theme is faith and its limits, so an answer should mention Lencho's belief and the irony of the ending.",
+    "mistakes": [
+      "Ignoring word limits in the board paper.",
+      "Writing a character sketch without any textual evidence."
+    ],
+    "aliases": [
+      "first flight",
+      "first flight class 10",
+      "a letter to god",
+      "nelson mandela long walk to freedom",
+      "from the diary of anne frank",
+      "the proposal",
+      "dust of snow",
+      "fire and ice",
+      "a tiger in the zoo"
+    ]
+  },
+  {
+    "id": "lit-footprints",
+    "title": "Footprints Without Feet: Class 10 supplementary reader",
+    "subject": "English",
+    "classes": [
+      10
+    ],
+    "summary": "Footprints Without Feet is the Class 10 supplementary reader of short stories with a twist or a moral question.",
+    "points": [
+      "Stories include A Triumph of Surgery, The Thief's Story, Footprints without Feet, The Necklace and Bholi.",
+      "Questions centre on character change and the story's message.",
+      "Many stories end with an irony that is worth naming explicitly.",
+      "Short answers should stay within two or three sentences."
+    ],
+    "example": "Bholi's transformation comes from education and confidence, so an answer should connect both to the ending.",
+    "mistakes": [
+      "Describing events in order instead of answering the question asked.",
+      "Missing the irony in The Necklace."
+    ],
+    "aliases": [
+      "footprints without feet",
+      "a triumph of surgery",
+      "the thief's story",
+      "the necklace",
+      "bholi"
+    ]
+  },
+  {
+    "id": "lit-beehive",
+    "title": "Beehive: Class 9 English",
+    "subject": "English",
+    "classes": [
+      9
+    ],
+    "summary": "Beehive is the Class 9 NCERT reader, mixing prose about childhood and courage with poems on choice and nature.",
+    "points": [
+      "Prose chapters include The Fun They Had, The Sound of Music, My Childhood and Kathmandu.",
+      "Poems include The Road Not Taken, Wind, Rain on the Roof and On Killing a Tree.",
+      "Answers should link a detail to a theme rather than retell the chapter.",
+      "The writing section asks for descriptive paragraphs and letters in a set format."
+    ],
+    "example": "The Fun They Had contrasts mechanical schooling with human learning, which is the theme an answer should name.",
+    "mistakes": [
+      "Confusing the author with the narrator.",
+      "Writing a poem answer with no mention of form or imagery."
+    ],
+    "aliases": [
+      "beehive",
+      "beehive class 9",
+      "the fun they had",
+      "the sound of music",
+      "the road not taken",
+      "on killing a tree",
+      "kathmandu"
+    ]
+  },
+  {
+    "id": "lit-moments",
+    "title": "Moments: Class 9 supplementary reader",
+    "subject": "English",
+    "classes": [
+      9
+    ],
+    "summary": "Moments is the Class 9 supplementary reader of stories about fear, kindness and growing up.",
+    "points": [
+      "Stories include The Lost Child, The Adventures of Toto, The Happy Prince and The Last Leaf.",
+      "Questions ask about motive, theme and the significance of the ending.",
+      "Prepare one value-based response per story.",
+      "Keep answers short and evidence-based."
+    ],
+    "example": "The Last Leaf turns on sacrifice, so the ending should be read through Behrman's act, not as a surprise.",
+    "mistakes": [
+      "Giving a moral that the story complicates.",
+      "Retelling the plot for a three-mark question."
+    ],
+    "aliases": [
+      "moments class 9",
+      "the lost child",
+      "the adventures of toto",
+      "the happy prince",
+      "the last leaf"
+    ]
+  },
+  {
+    "id": "lit-honeycomb",
+    "title": "Honeycomb: Class 7 English",
+    "subject": "English",
+    "classes": [
+      7
+    ],
+    "summary": "Honeycomb is the Class 7 NCERT reader of stories, poems and informal writing.",
+    "points": [
+      "Prose includes Three Questions, A Gift of Chappals, Quality and Expert Detectives.",
+      "Poems include The Squirrel, The Rebel, Chivvy and Garden Snake.",
+      "The writing section covers diary entries, notices and short paragraphs.",
+      "Answers should quote a short phrase from the text where possible."
+    ],
+    "example": "Three Questions answers its own question through the king's actions, so an answer should connect the answer to what he did.",
+    "mistakes": [
+      "Answering a poem question with the story's meaning.",
+      "Writing beyond the word limit in the writing task."
+    ],
+    "aliases": [
+      "honeycomb",
+      "honeycomb class 7",
+      "three questions",
+      "a gift of chappals",
+      "quality story",
+      "the squirrel poem",
+      "the rebel poem"
+    ]
+  },
+  {
+    "id": "lit-alien-hand",
+    "title": "An Alien Hand: Class 7 supplementary reader",
+    "subject": "English",
+    "classes": [
+      7
+    ],
+    "summary": "An Alien Hand is the Class 7 supplementary reader of stories about animals, courage and difference.",
+    "points": [
+      "Stories include The Tiny Teacher, Bringing up Kari, Chandni and An Alien Hand.",
+      "Questions focus on character and the lesson a story carries.",
+      "Animal stories usually carry a comment on human behaviour.",
+      "Short answers should name the character and the quality shown."
+    ],
+    "example": "Chandni is about the pull of freedom, which an answer should state through the goat's choice.",
+    "mistakes": [
+      "Writing a full summary for a short-answer question.",
+      "Ignoring the story's title as a clue to its theme."
+    ],
+    "aliases": [
+      "an alien hand",
+      "bringing up kari",
+      "chandni story",
+      "the tiny teacher"
+    ]
+  },
+  {
+    "id": "lit-honeydew",
+    "title": "Honeydew: Class 8 English",
+    "subject": "English",
+    "classes": [
+      8
+    ],
+    "summary": "Honeydew is the Class 8 NCERT reader, with prose on memory, environment and achievement, and poems on nature.",
+    "points": [
+      "Prose includes The Best Christmas Present in the World, The Tsunami, The Summit Within and A Visit to Cambridge.",
+      "Poems include The Ant and the Cricket, Geography Lesson and The Last Bargain.",
+      "Writing tasks include letters, diary entries and short articles.",
+      "Answers should connect a detail to the chapter's idea."
+    ],
+    "example": "The Summit Within links mountaineering to inner strength, which is the theme an answer should state.",
+    "mistakes": [
+      "Confusing the poem's speaker with the poet.",
+      "Leaving out the required format in a letter."
+    ],
+    "aliases": [
+      "honeydew",
+      "honeydew class 8",
+      "the best christmas present in the world",
+      "the tsunami",
+      "the summit within",
+      "a visit to cambridge"
+    ]
+  },
+  {
+    "id": "lit-it-so-happened",
+    "title": "It So Happened: Class 8 supplementary reader",
+    "subject": "English",
+    "classes": [
+      8
+    ],
+    "summary": "It So Happened is the Class 8 supplementary reader of fables and stories about wisdom and generosity.",
+    "points": [
+      "Stories include How the Camel Got His Hump, Children at Work, The Selfish Giant and Princess September.",
+      "Fables usually carry a stated or implied moral.",
+      "Questions ask for character and message rather than plot detail.",
+      "Keep answers to the point and quote a short phrase."
+    ],
+    "example": "The Selfish Giant turns on generosity, so an answer should trace the change in the giant and the garden.",
+    "mistakes": [
+      "Writing the moral without any textual support.",
+      "Mixing up characters across stories in the same book."
+    ],
+    "aliases": [
+      "it so happened",
+      "how the camel got his hump",
+      "children at work",
+      "the selfish giant",
+      "princess september"
+    ]
+  },
+  {
+    "id": "lit-honeysuckle",
+    "title": "Honeysuckle: Class 6 English",
+    "subject": "English",
+    "classes": [
+      6
+    ],
+    "summary": "Honeysuckle is the Class 6 NCERT reader of simple stories, poems and first writing tasks.",
+    "points": [
+      "Prose includes Who Did Patrick's Homework, Taro's Reward, A Different Kind of School and The Banyan Tree.",
+      "Poems include The Kite, The Quarrel, Beauty and Vocation.",
+      "Writing starts with short paragraphs, messages and simple letters.",
+      "Answers should be short, complete sentences that use words from the text."
+    ],
+    "example": "The Kite compares a kite in the sky to a ship on the waves, so a poem answer should name that image.",
+    "mistakes": [
+      "Writing one-word answers where a sentence is asked for.",
+      "Copying a whole paragraph instead of answering."
+    ],
+    "aliases": [
+      "honeysuckle",
+      "honeysuckle class 6",
+      "taro's reward",
+      "a different kind of school",
+      "the banyan tree",
+      "the kite poem",
+      "vocation poem"
+    ]
+  },
+  {
+    "id": "lit-pact-sun",
+    "title": "A Pact with the Sun: Class 6 supplementary reader",
+    "subject": "English",
+    "classes": [
+      6
+    ],
+    "summary": "A Pact with the Sun is the Class 6 supplementary reader of short stories with clear morals.",
+    "points": [
+      "Stories include A Tale of Two Birds, The Friendly Mongoose, Tansen and A Pact with the Sun.",
+      "Each story carries one clear value, such as kindness or patience.",
+      "Questions ask what happened and what it teaches.",
+      "Answers should name the character and the value in one or two sentences."
+    ],
+    "example": "The Friendly Mongoose warns against acting in anger, which an answer should state through the farmer's mistake.",
+    "mistakes": [
+      "Giving a moral the story does not support.",
+      "Forgetting to mention the character by name."
+    ],
+    "aliases": [
+      "a pact with the sun",
+      "a tale of two birds",
+      "the friendly mongoose",
+      "tansen story"
+    ]
+  },
+  {
+    "id": "lit-hindi-aroh-vitan",
+    "title": "Aaroh and Vitan: Class 11–12 Hindi core",
+    "subject": "Hindi",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Aaroh and Vitan are the NCERT Hindi core books, with kavya and gadya sections plus a supplementary reader.",
+    "points": [
+      "Aaroh has a poetry section (kavya khand) and a prose section (gadya khand); Vitan is the supplementary reader.",
+      "Poetry questions ask for bhav (meaning), ras and alankar, and the poet's message.",
+      "Prose questions ask for theme, character and the writer's viewpoint.",
+      "Chapter selections can change between editions, so confirm the list from your own book."
+    ],
+    "example": "A poetry answer should name the alankar with the line that shows it, not just list the figure of speech.",
+    "mistakes": [
+      "Writing the meaning of the poem without the poetic devices asked for.",
+      "Mixing Vitan stories with Aaroh chapters."
+    ],
+    "aliases": [
+      "aaroh",
+      "aroh hindi",
+      "vitan",
+      "hindi core class 11",
+      "hindi core class 12"
+    ]
+  }
+]

@@ -1,0 +1,638 @@
+[
+  {
+    "id": "bus-business-trade-commerce",
+    "title": "Business, trade and commerce",
+    "subject": "Business Studies",
+    "classes": [
+      11
+    ],
+    "summary": "Business is an economic activity of producing or exchanging goods and services for profit, supported by trade and the auxiliaries to trade.",
+    "points": [
+      "Human activities are either economic (done to earn a living) or non-economic (done out of love, sympathy or obligation).",
+      "Business, profession and employment differ in the nature of work, the reward, the risk and the code of conduct.",
+      "Business activities include industry (primary, secondary and tertiary) and commerce.",
+      "Commerce covers trade plus the auxiliaries to trade: transport, banking, insurance, warehousing, advertising and packaging.",
+      "Business risk arises from uncertainty and is unavoidable, though it can be reduced by insurance and planning."
+    ],
+    "example": "A steel plant (secondary industry) sells through wholesalers and retailers (trade) and uses lorries, bank credit and a warehouse (auxiliaries to trade).",
+    "mistakes": [
+      "Treating a profession as a business because both earn money — a profession needs a code of conduct and specialised qualification.",
+      "Forgetting that tertiary industry is a service industry, not a form of trade."
+    ],
+    "aliases": [
+      "business trade and commerce",
+      "business studies chapter 1 class 11",
+      "industry and commerce",
+      "auxiliaries to trade",
+      "types of industry"
+    ]
+  },
+  {
+    "id": "bus-forms-organisation",
+    "title": "Forms of business organisation",
+    "subject": "Business Studies",
+    "classes": [
+      11
+    ],
+    "summary": "Businesses are organised as sole proprietorships, partnership firms, Hindu Undivided Families, cooperative societies or companies, depending on ownership, liability and control.",
+    "points": [
+      "A sole proprietorship is owned by one person, has unlimited liability, no separate legal entity and optional registration.",
+      "A partnership is governed by the Indian Partnership Act, 1932; minimum two partners, and registration is optional but advisable.",
+      "A Hindu Undivided Family business is managed by the karta, with coparceners sharing ownership.",
+      "A cooperative society is registered under the Cooperative Societies Act, 1912 (or state law), needs at least 10 members and follows one member, one vote.",
+      "A company has a separate legal entity, perpetual succession, limited liability and a minimum of 2 members in private and 7 in public companies."
+    ],
+    "formulas": [
+      {
+        "name": "Private company minimum members",
+        "expr": "2"
+      },
+      {
+        "name": "Public company minimum members",
+        "expr": "7"
+      },
+      {
+        "name": "Cooperative society minimum members",
+        "expr": "10"
+      }
+    ],
+    "example": "Two friends starting a shop would choose a partnership for pooled capital, while wanting limited liability pushes them to a private company.",
+    "mistakes": [
+      "Saying partnership registration is compulsory — it is optional, though an unregistered firm cannot sue third parties.",
+      "Confusing perpetual succession (continuity of the company) with limited liability."
+    ],
+    "aliases": [
+      "forms of business organisation",
+      "joint stock company",
+      "sole proprietorship partnership",
+      "cooperative society business",
+      "business studies forms of organisation"
+    ]
+  },
+  {
+    "id": "bus-public-private-global",
+    "title": "Public, private and global enterprises",
+    "subject": "Business Studies",
+    "classes": [
+      11
+    ],
+    "summary": "The public sector uses departmental undertakings, statutory corporations and government companies, while the private and global sectors work through MNCs, joint ventures and public-private partnerships.",
+    "points": [
+      "A departmental undertaking is a business arm of a ministry, controlled by government rules and funded through the budget.",
+      "A statutory corporation is created by a special Act, which sets its objects, powers and duties.",
+      "A government company has at least 51 per cent of paid-up capital held by government.",
+      "A multinational corporation operates in more than one country through subsidiaries, branches or joint ventures.",
+      "Public-private partnership and joint ventures combine public accountability with private efficiency."
+    ],
+    "example": "Indian Railways is a departmental undertaking, while a government company has at least 51 per cent government-held paid-up capital.",
+    "mistakes": [
+      "Thinking any company funded by government is a statutory corporation — it must be created by an Act.",
+      "Mixing a holding company's subsidiaries with MNC branches."
+    ],
+    "aliases": [
+      "public private and global enterprises",
+      "public sector enterprises",
+      "statutory corporation",
+      "government company",
+      "multinational company class 11"
+    ]
+  },
+  {
+    "id": "bus-emerging-modes",
+    "title": "Emerging modes of business: e-business and outsourcing",
+    "subject": "Business Studies",
+    "classes": [
+      11
+    ],
+    "summary": "E-business conducts business over electronic networks, and outsourcing moves selected activities to outside specialists.",
+    "points": [
+      "E-business covers B2B, B2C, C2C and intra-B transactions.",
+      "An online transaction has three stages: registration, placing the order and payment.",
+      "Payment can be cash on delivery, cheque, net banking, card or a digital wallet and UPI.",
+      "E-business gives speed, reach and convenience but raises security, privacy and delivery risks.",
+      "Outsourcing includes BPO, KPO and legal process outsourcing, and is used for non-core activities."
+    ],
+    "example": "A student buying shoes from a shopping website is a B2C transaction; the same retailer buying stock from a factory online is B2B.",
+    "mistakes": [
+      "Calling every online activity an e-business — it must be a commercial transaction.",
+      "Confusing BPO (routine processes) with KPO (knowledge-intensive work)."
+    ],
+    "aliases": [
+      "emerging modes of business",
+      "e business",
+      "e commerce types",
+      "bpo kpo",
+      "outsourcing class 11"
+    ]
+  },
+  {
+    "id": "bus-social-responsibility",
+    "title": "Social responsibility of business and business ethics",
+    "subject": "Business Studies",
+    "classes": [
+      11
+    ],
+    "summary": "Businesses owe duties to owners, workers, consumers, government and the public, and CSR is now partly a legal obligation in India.",
+    "points": [
+      "Business responsibilities are economic, legal, ethical and discretionary.",
+      "CSR under Section 135 of the Companies Act, 2013 applies to companies crossing specified net worth, turnover or net profit thresholds.",
+      "Such companies must spend at least 2 per cent of average net profits of the preceding three years on CSR.",
+      "Business ethics covers honest advertising, fair dealing with employees and truthful disclosure.",
+      "Environmental protection includes pollution control, waste recycling and conserving natural resources."
+    ],
+    "formulas": [
+      {
+        "name": "CSR spending",
+        "expr": "CSR = 2% × average net profit of the last 3 years"
+      }
+    ],
+    "example": "A listed company that meets the Section 135 thresholds must spend 2 per cent of its three-year average net profit on CSR activities.",
+    "mistakes": [
+      "Treating CSR as charity — it is a structured responsibility towards stakeholders.",
+      "Calling legal compliance itself CSR — obeying the law is the legal, not the discretionary, level."
+    ],
+    "aliases": [
+      "social responsibility of business",
+      "business ethics",
+      "csr class 11",
+      "section 135 companies act",
+      "responsibility towards stakeholders"
+    ]
+  },
+  {
+    "id": "bus-nature-management",
+    "title": "Nature and significance of management",
+    "subject": "Business Studies",
+    "classes": [
+      11
+    ],
+    "summary": "Management is the process of getting things done through others to achieve goals efficiently and effectively.",
+    "points": [
+      "Management is goal-oriented, all-pervasive, multidimensional and continuous.",
+      "It is an art, a science and a profession at the same time.",
+      "The three levels are top, middle and supervisory management.",
+      "The functions are planning, organising, staffing, directing and controlling.",
+      "Coordination is the essence of management and runs through every function."
+    ],
+    "example": "A factory manager who plans output, assigns work and checks results is performing all five functions of management.",
+    "mistakes": [
+      "Treating management as a single activity rather than a process.",
+      "Assuming coordination is a separate sixth function — it is the essence threading through the rest."
+    ],
+    "aliases": [
+      "nature and significance of management",
+      "management class 11",
+      "levels of management",
+      "functions of management",
+      "coordination essence of management"
+    ]
+  },
+  {
+    "id": "bus-internal-trade",
+    "title": "Internal trade",
+    "subject": "Business Studies",
+    "classes": [
+      11
+    ],
+    "summary": "Internal trade is buying and selling within a country, through wholesale and retail trade.",
+    "points": [
+      "Wholesalers buy in bulk from producers and sell in smaller lots to retailers.",
+      "Retailers sell to final consumers through itinerant or fixed-shop forms.",
+      "Departmental stores offer many product lines under one roof, while chain stores have similar lines across branches.",
+      "Mail order, tele-shopping and online retailing are non-store retail formats.",
+      "Goods and Services Tax has replaced most indirect taxes on internal trade."
+    ],
+    "example": "A wholesaler buys 1,000 sacks of rice from a mill and supplies 50 sacks each to nearby retail shops.",
+    "mistakes": [
+      "Calling internal trade foreign trade — the buyer and seller are in the same country.",
+      "Confusing a departmental store (many lines) with a chain store (similar line, many branches)."
+    ],
+    "aliases": [
+      "internal trade",
+      "wholesale and retail trade",
+      "types of retailers",
+      "departmental store chain store",
+      "internal trade class 11"
+    ]
+  },
+  {
+    "id": "bus-international-business",
+    "title": "International business",
+    "subject": "Business Studies",
+    "classes": [
+      11
+    ],
+    "summary": "International business crosses national borders and differs from domestic trade in currency, law, documentation and risk.",
+    "points": [
+      "International business includes imports, exports, licensing, franchising and foreign direct investment.",
+      "Export and import procedures involve documents such as the invoice, bill of lading, shipping bill and letter of credit.",
+      "Export promotion measures include SEZs, export-oriented units and incentives.",
+      "International business faces higher political, currency and documentation risk than domestic trade.",
+      "The World Trade Organization frames rules for international trade."
+    ],
+    "example": "An Indian firm exporting garments is paid through a letter of credit arranged by the buyer's bank, reducing payment risk.",
+    "mistakes": [
+      "Assuming international business is only export — imports, licensing and FDI also count.",
+      "Mixing a bill of lading (shipment document) with an invoice (demand for payment)."
+    ],
+    "aliases": [
+      "international business",
+      "export import procedure",
+      "letter of credit",
+      "wto class 11",
+      "international trade documents"
+    ]
+  },
+  {
+    "id": "acc-theory-base",
+    "title": "Theory base of accounting",
+    "subject": "Accountancy",
+    "classes": [
+      11
+    ],
+    "summary": "Accounting follows generally accepted principles built on basic assumptions, concepts and conventions.",
+    "points": [
+      "The basic assumptions are going concern, consistency and accrual.",
+      "Key principles include accounting entity, money measurement, matching, dual aspect, revenue recognition and full disclosure.",
+      "Conventions include conservatism, materiality and consistency.",
+      "The dual aspect principle gives the accounting equation: assets equal liabilities plus capital.",
+      "GST is split into CGST, SGST and IGST, and input tax credit avoids taxing the same value twice."
+    ],
+    "formulas": [
+      {
+        "name": "Accounting equation",
+        "expr": "Assets = Liabilities + Capital"
+      },
+      {
+        "name": "Accounting equation with expenses",
+        "expr": "Assets = Liabilities + Capital + Revenue − Expenses"
+      }
+    ],
+    "example": "Recording a sale only when goods are delivered follows the revenue recognition principle.",
+    "mistakes": [
+      "Applying conservatism to create hidden reserves — it allows provision for losses, not deliberate understatement.",
+      "Treating the going concern assumption as a rule for closing the business."
+    ],
+    "aliases": [
+      "theory base of accounting",
+      "accounting principles class 11",
+      "gaap",
+      "accounting concepts and conventions",
+      "gst accounting"
+    ]
+  },
+  {
+    "id": "acc-recording-transactions",
+    "title": "Recording of transactions",
+    "subject": "Accountancy",
+    "classes": [
+      11
+    ],
+    "summary": "Transactions are supported by source documents, recorded in vouchers and the journal, then posted to ledger accounts.",
+    "points": [
+      "Source documents include invoices, receipts, debit and credit notes, pay-in-slips and cheques.",
+      "A voucher is prepared from the source document before entry is made.",
+      "Debit the receiver and credit the giver is the traditional rule; modern rules use increases and decreases in assets, liabilities, capital, revenue and expenses.",
+      "A compound journal entry records more than two accounts in one entry.",
+      "GST paid on purchases is debited to input CGST, SGST or IGST, and GST collected on sales is credited to output accounts."
+    ],
+    "example": "Goods bought for cash: purchases account is debited and cash account is credited.",
+    "mistakes": [
+      "Debiting an increase in capital — capital increases on the credit side.",
+      "Posting the same amount twice in the ledger after a compound entry."
+    ],
+    "aliases": [
+      "recording of transactions",
+      "journal entries class 11",
+      "source documents vouchers",
+      "rules of debit and credit",
+      "gst journal entries"
+    ]
+  },
+  {
+    "id": "acc-incomplete-records",
+    "title": "Accounts from incomplete records",
+    "subject": "Accountancy",
+    "classes": [
+      11
+    ],
+    "summary": "When books are incomplete, profit is found by comparing opening and closing capital after adjusting drawings and fresh capital.",
+    "points": [
+      "Incomplete records mean some transactions are not recorded, so a trial balance cannot be prepared.",
+      "The statement of affairs method lists assets and liabilities to find capital at two dates.",
+      "Profit equals closing capital plus drawings minus additional capital minus opening capital.",
+      "Missing figures such as credit sales or cash purchases are found with total debtors and creditors accounts.",
+      "This method is an estimate, so it is less reliable than a full double-entry system."
+    ],
+    "formulas": [
+      {
+        "name": "Profit from capital comparison",
+        "expr": "Profit = Closing capital + Drawings − Additional capital − Opening capital"
+      }
+    ],
+    "example": "Opening capital ₹50,000, closing capital ₹70,000, drawings ₹5,000 and no fresh capital gives a profit of ₹25,000.",
+    "mistakes": [
+      "Forgetting to add drawings back before computing profit.",
+      "Treating the statement of affairs as a balance sheet prepared under double entry."
+    ],
+    "aliases": [
+      "accounts from incomplete records",
+      "statement of affairs",
+      "single entry system",
+      "profit by capital comparison",
+      "incomplete records class 11"
+    ]
+  },
+  {
+    "id": "acc-computerised",
+    "title": "Computerised accounting system",
+    "subject": "Accountancy",
+    "classes": [
+      11
+    ],
+    "summary": "A computerised accounting system records and reports transactions through accounting software built on a database.",
+    "points": [
+      "Its components are hardware, software, people, procedures and data.",
+      "Accounting software may be ready-to-use, customised or tailor-made.",
+      "Advantages include speed, accuracy, reliability, legibility and instant management reports.",
+      "Limitations include cost of installation and training, data security risk and dependence on the system.",
+      "The accounting framework, coding structure and security policy must be designed before data entry begins."
+    ],
+    "example": "A trader using tally-type software enters a voucher once and the ledger, trial balance and GST returns update automatically.",
+    "mistakes": [
+      "Believing software removes the need for accounting knowledge — the principles still decide the entries.",
+      "Ignoring backups, which leaves data vulnerable to system failure."
+    ],
+    "aliases": [
+      "computerised accounting system",
+      "accounting software",
+      "accounting information system",
+      "mis accounting",
+      "computerised accounting class 11"
+    ]
+  },
+  {
+    "id": "acc-ratio-analysis",
+    "title": "Accounting ratios",
+    "subject": "Accountancy",
+    "classes": [
+      12
+    ],
+    "summary": "Ratios express the relationship between two accounting figures and measure liquidity, solvency, activity and profitability.",
+    "points": [
+      "Liquidity ratios include the current ratio and the quick ratio.",
+      "Solvency ratios include debt-equity and proprietary ratios.",
+      "Activity ratios include inventory turnover, trade receivables turnover and working capital turnover.",
+      "Profitability ratios include gross profit, net profit and return on investment.",
+      "A ratio is meaningful only when compared with past years, another firm or an industry standard."
+    ],
+    "formulas": [
+      {
+        "name": "Current ratio",
+        "expr": "current assets ÷ current liabilities"
+      },
+      {
+        "name": "Quick ratio",
+        "expr": "(current assets − inventory − prepaid expenses) ÷ current liabilities"
+      },
+      {
+        "name": "Debt equity ratio",
+        "expr": "long-term debt ÷ shareholders' funds"
+      },
+      {
+        "name": "Inventory turnover",
+        "expr": "cost of revenue from operations ÷ average inventory"
+      },
+      {
+        "name": "Gross profit ratio",
+        "expr": "(gross profit ÷ revenue from operations) × 100"
+      },
+      {
+        "name": "Return on investment",
+        "expr": "(net profit before interest, tax and dividend ÷ capital employed) × 100"
+      }
+    ],
+    "example": "Current assets ₹3,00,000 and current liabilities ₹1,50,000 give a current ratio of 2:1, which is generally considered satisfactory.",
+    "mistakes": [
+      "Using closing inventory instead of average inventory in turnover ratios.",
+      "Comparing a ratio across firms of very different size or industry without adjustment."
+    ],
+    "aliases": [
+      "accounting ratios",
+      "ratio analysis",
+      "liquidity solvency activity profitability ratios",
+      "current ratio quick ratio",
+      "accountancy ratio analysis class 12"
+    ]
+  },
+  {
+    "id": "acc-dissolution",
+    "title": "Dissolution of partnership firm",
+    "subject": "Accountancy",
+    "classes": [
+      12
+    ],
+    "summary": "Dissolution ends the partnership firm itself, and its assets and liabilities are settled through a realisation account.",
+    "points": [
+      "Dissolution of partnership changes the relation between partners; dissolution of the firm ends the firm.",
+      "Modes include dissolution by agreement, compulsory dissolution, on insolvency, on expiry or on completion of the venture.",
+      "A realisation account records the sale of assets, payment of liabilities and realisation expenses.",
+      "Assets and liabilities are transferred to the realisation account at book value, and the profit or loss is shared in the profit-sharing ratio.",
+      "Under the Garner v Murray rule, a deficient partner's capital shortfall is borne by solvent partners in the ratio of their capitals."
+    ],
+    "formulas": [
+      {
+        "name": "Realisation profit",
+        "expr": "realisation profit = assets realised + liabilities taken over − assets book value − liabilities paid − expenses"
+      }
+    ],
+    "example": "Assets of book value ₹2,00,000 realise ₹1,70,000, giving a realisation loss of ₹30,000 shared in the profit-sharing ratio.",
+    "mistakes": [
+      "Crediting the realisation account with the book value of assets instead of the amount realised.",
+      "Paying partners' capitals before outside liabilities and partners' loans."
+    ],
+    "aliases": [
+      "dissolution of partnership firm",
+      "realisation account",
+      "garner murray rule",
+      "dissolution class 12",
+      "settlement of accounts on dissolution"
+    ]
+  },
+  {
+    "id": "acc-company-statements",
+    "title": "Financial statements of a company",
+    "subject": "Accountancy",
+    "classes": [
+      12
+    ],
+    "summary": "A company presents its balance sheet and statement of profit and loss in the Schedule III format, and analyses them with comparative and common-size statements.",
+    "points": [
+      "The balance sheet is prepared in the prescribed Schedule III form with equity and liabilities, and assets.",
+      "The statement of profit and loss shows revenue, other income, expenses, tax and profit after tax.",
+      "Comparative statements show figures for two or more years side by side with absolute and percentage change.",
+      "A common-size statement expresses each item as a percentage of total revenue or total assets.",
+      "Notes to accounts and significant accounting policies form part of the statements."
+    ],
+    "formulas": [
+      {
+        "name": "Percentage change",
+        "expr": "((current year − base year) ÷ base year) × 100"
+      },
+      {
+        "name": "Common-size item percentage",
+        "expr": "(item ÷ revenue from operations) × 100"
+      }
+    ],
+    "example": "If revenue rises from ₹5,00,000 to ₹6,00,000, the percentage change is 20 per cent.",
+    "mistakes": [
+      "Computing a percentage change with the current year as the denominator.",
+      "Comparing a common-size percentage of revenue with one of total assets."
+    ],
+    "aliases": [
+      "financial statements of a company",
+      "schedule iii balance sheet",
+      "comparative common size statements",
+      "statement of profit and loss company",
+      "company financial statements class 12"
+    ]
+  },
+  {
+    "id": "eco-collection-data",
+    "title": "Collection and organisation of data",
+    "subject": "Economics",
+    "classes": [
+      11
+    ],
+    "summary": "Economic statistics begin with collecting data from primary or secondary sources and organising it into a frequency distribution.",
+    "points": [
+      "Primary data are collected first-hand; secondary data are already published.",
+      "Primary methods include direct personal investigation, indirect oral investigation and questionnaires.",
+      "A census covers every unit; a sample covers a selected part of the population.",
+      "Sampling methods include random, stratified, systematic, multistage and quota sampling.",
+      "Organised data use tally marks, class intervals, class limits, mid-values and frequency distributions."
+    ],
+    "formulas": [
+      {
+        "name": "Mid-value of a class",
+        "expr": "mid-value = (lower limit + upper limit) ÷ 2"
+      },
+      {
+        "name": "Class width",
+        "expr": "width = upper limit − lower limit"
+      }
+    ],
+    "example": "Marks grouped as 40–50, 50–60 and 60–70 have a class width of 10 and mid-values 45, 55 and 65.",
+    "mistakes": [
+      "Calling published census tables primary data.",
+      "Leaving overlapping class limits, so a value such as 50 could fall in two classes."
+    ],
+    "aliases": [
+      "collection of data",
+      "organisation of data",
+      "statistics for economics class 11",
+      "census and sample",
+      "frequency distribution class intervals"
+    ]
+  },
+  {
+    "id": "eco-correlation-index",
+    "title": "Correlation and index numbers",
+    "subject": "Economics",
+    "classes": [
+      11
+    ],
+    "summary": "Correlation measures how closely two variables move together, and index numbers express change over time relative to a base period.",
+    "points": [
+      "Correlation can be positive or negative, linear or non-linear, simple or multiple.",
+      "Karl Pearson's coefficient lies between −1 and +1, and zero means no linear relation.",
+      "Spearman's rank correlation suits qualitative data that can be ranked.",
+      "A simple index number compares a current value with a base-year value, usually multiplied by 100.",
+      "Index numbers are used for inflation, production and the cost of living, but they are only as good as their base and weights."
+    ],
+    "formulas": [
+      {
+        "name": "Karl Pearson coefficient",
+        "expr": "r = Σxy ÷ √(Σx² × Σy²)"
+      },
+      {
+        "name": "Simple price index",
+        "expr": "P₀₁ = (P₁ ÷ P₀) × 100"
+      },
+      {
+        "name": "Spearman rank correlation",
+        "expr": "R = 1 − (6ΣD² ÷ (n(n² − 1)))"
+      }
+    ],
+    "example": "If the price of a good rises from ₹40 in the base year to ₹50 now, the index number is 125.",
+    "mistakes": [
+      "Reading a high correlation as proof of causation.",
+      "Ignoring the base year when comparing two index numbers."
+    ],
+    "aliases": [
+      "correlation",
+      "index numbers",
+      "karl pearson coefficient",
+      "spearman rank correlation",
+      "statistics economics correlation index"
+    ]
+  },
+  {
+    "id": "eco-infrastructure",
+    "title": "Infrastructure",
+    "subject": "Economics",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Infrastructure covers the economic and social services on which production and welfare depend, such as energy, transport, education and health.",
+    "points": [
+      "Economic infrastructure includes energy, transport and communication.",
+      "Social infrastructure includes education, health and housing.",
+      "Infrastructure is a public good with long gestation periods and large indivisible investment.",
+      "India depends heavily on coal and oil but is expanding solar, wind and hydro capacity.",
+      "Health and education spending shape human capital and long-run growth."
+    ],
+    "example": "A power plant that takes ten years to build illustrates the long gestation and lumpy investment of infrastructure.",
+    "mistakes": [
+      "Treating schools and hospitals as economic infrastructure — they are social infrastructure.",
+      "Assuming infrastructure is only physical transport."
+    ],
+    "aliases": [
+      "infrastructure",
+      "economic and social infrastructure",
+      "infrastructure class 11 economics",
+      "energy health education",
+      "infrastructure indian economy"
+    ]
+  },
+  {
+    "id": "eco-environment-development",
+    "title": "Environment and sustainable development",
+    "subject": "Economics",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Development that meets present needs without reducing the ability of future generations to meet theirs is sustainable development.",
+    "points": [
+      "Natural resources are renewable or non-renewable, and both can be depleted or degraded.",
+      "Pollution of air, water, soil and noise imposes health and economic costs.",
+      "Sustainable development needs population control, efficient resource use, renewable energy and pollution abatement.",
+      "Movements such as Chipko and struggles over forests and dams shaped Indian environmental policy.",
+      "Global warming, ozone depletion and biodiversity loss need international cooperation."
+    ],
+    "example": "Using harvested rainwater and solar pumps on a farm cuts groundwater use and emissions at the same time.",
+    "mistakes": [
+      "Equating sustainable development with stopping growth altogether.",
+      "Calling a resource renewable while using it faster than it regenerates."
+    ],
+    "aliases": [
+      "environment and sustainable development",
+      "sustainable development",
+      "environment economics class 11",
+      "chipko movement",
+      "pollution and development"
+    ]
+  }
+]

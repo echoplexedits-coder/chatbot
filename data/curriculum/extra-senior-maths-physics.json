@@ -1,0 +1,1021 @@
+[
+  {
+    "id": "math-relations-functions-12",
+    "title": "Relations and functions",
+    "subject": "Mathematics",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "A relation is a set of ordered pairs; a function is a relation in which every input has exactly one output.",
+    "points": [
+      "A function is one-one (injective) if different inputs never share an output, and onto (surjective) if every codomain element is used.",
+      "Composition means applying one function after another: (f∘g)(x) = f(g(x)).",
+      "An inverse function exists only when the function is both one-one and onto.",
+      "Relations can be reflexive, symmetric and transitive; a relation with all three is an equivalence relation."
+    ],
+    "formulas": [
+      {
+        "name": "Composition",
+        "expr": "(f∘g)(x) = f(g(x))"
+      },
+      {
+        "name": "Inverse",
+        "expr": "f⁻¹(y) = x ⇔ f(x) = y"
+      },
+      {
+        "name": "Number of relations",
+        "expr": "2^(mn) from a set of m elements to one of n elements"
+      }
+    ],
+    "example": "f(x) = 2x + 3 is one-one and onto on the reals, so f⁻¹(x) = (x − 3)/2.",
+    "aliases": [
+      "relations and functions",
+      "one one onto",
+      "injective surjective",
+      "composition of functions",
+      "inverse function",
+      "equivalence relation"
+    ],
+    "mistakes": [
+      "Calling any relation a function.",
+      "Assuming every function has an inverse."
+    ]
+  },
+  {
+    "id": "math-inverse-trig",
+    "title": "Inverse trigonometric functions",
+    "subject": "Mathematics",
+    "classes": [
+      12
+    ],
+    "summary": "Inverse trigonometric functions undo the trigonometric ratios, and they are defined only on restricted domains so that each value is unique.",
+    "points": [
+      "Principal value branches are fixed by convention: sin⁻¹ has range [−π/2, π/2], cos⁻¹ has [0, π], tan⁻¹ has (−π/2, π/2).",
+      "sin⁻¹x + cos⁻¹x = π/2 and tan⁻¹x + cot⁻¹x = π/2 for values in the domain.",
+      "Composing a trigonometric function with its inverse needs care because the inverse returns only the principal value."
+    ],
+    "formulas": [
+      {
+        "name": "Complementary pair",
+        "expr": "sin⁻¹x + cos⁻¹x = π/2, |x| ≤ 1"
+      },
+      {
+        "name": "Double angle",
+        "expr": "2tan⁻¹x = tan⁻¹(2x/(1 − x²)), |x| < 1"
+      },
+      {
+        "name": "Sum formula",
+        "expr": "tan⁻¹x + tan⁻¹y = tan⁻¹((x + y)/(1 − xy)), xy < 1"
+      }
+    ],
+    "example": "sin⁻¹(1/2) = π/6, not 5π/6, because only the principal branch is reported.",
+    "aliases": [
+      "inverse trigonometric functions",
+      "inverse trig",
+      "principal value",
+      "arcsin arccos arctan",
+      "itf"
+    ],
+    "mistakes": [
+      "Writing sin⁻¹x as 1/sin x.",
+      "Ignoring the principal-value range."
+    ]
+  },
+  {
+    "id": "math-continuity-differentiability",
+    "title": "Continuity and differentiability",
+    "subject": "Mathematics",
+    "classes": [
+      12
+    ],
+    "summary": "A function is continuous at a point when its limit equals its value there, and differentiable when that limit of the difference quotient exists.",
+    "points": [
+      "Continuity at x = a needs the left limit, right limit and f(a) all to be equal.",
+      "Differentiability implies continuity, but continuity does not imply differentiability (for example |x| at 0).",
+      "The chain rule, product rule and quotient rule build derivatives of composite functions.",
+      "Rolle's and Lagrange's mean value theorems connect average and instantaneous rates of change."
+    ],
+    "formulas": [
+      {
+        "name": "Derivative definition",
+        "expr": "f′(x) = lim(h→0) [f(x + h) − f(x)]/h"
+      },
+      {
+        "name": "Chain rule",
+        "expr": "dy/dx = (dy/du)(du/dx)"
+      },
+      {
+        "name": "Lagrange MVT",
+        "expr": "f′(c) = [f(b) − f(a)]/(b − a) for some c in (a, b)"
+      }
+    ],
+    "example": "f(x) = |x| is continuous everywhere but has no derivative at x = 0 because the left and right slopes are −1 and +1.",
+    "aliases": [
+      "continuity",
+      "differentiability",
+      "mean value theorem",
+      "rolle theorem",
+      "chain rule",
+      "derivative"
+    ],
+    "mistakes": [
+      "Assuming continuity guarantees differentiability.",
+      "Forgetting to check both one-sided limits."
+    ]
+  },
+  {
+    "id": "math-applications-derivatives",
+    "title": "Applications of derivatives",
+    "subject": "Mathematics",
+    "classes": [
+      12
+    ],
+    "summary": "Derivatives measure rates of change, give the slope of a tangent, and locate maxima and minima of a function.",
+    "points": [
+      "If f′(x) > 0 on an interval the function increases there; if f′(x) < 0 it decreases.",
+      "At a stationary point f′(x) = 0; the sign change of f′ decides maximum, minimum or neither.",
+      "The second derivative test uses f″(x): negative gives a local maximum, positive a local minimum.",
+      "Real problems (cost, area, volume, speed) are solved by writing a function of one variable and optimising it."
+    ],
+    "formulas": [
+      {
+        "name": "Tangent slope",
+        "expr": "m = dy/dx at the point"
+      },
+      {
+        "name": "First derivative test",
+        "expr": "f′ changes + to − ⇒ local maximum"
+      },
+      {
+        "name": "Second derivative test",
+        "expr": "f′(a) = 0 and f″(a) < 0 ⇒ local maximum"
+      }
+    ],
+    "example": "A square sheet of side 12 cm has corners cut to make an open box of side x; volume V = x(12 − 2x)² is largest at x = 2 cm.",
+    "aliases": [
+      "applications of derivatives",
+      "maxima and minima",
+      "rate of change",
+      "tangent and normal",
+      "increasing decreasing",
+      "optimisation",
+      "application of derivatives"
+    ],
+    "mistakes": [
+      "Testing only f′(x) = 0 without checking the sign change.",
+      "Optimising without stating the domain of the variable."
+    ]
+  },
+  {
+    "id": "math-applications-integrals",
+    "title": "Application of integrals (areas)",
+    "subject": "Mathematics",
+    "classes": [
+      12
+    ],
+    "summary": "A definite integral gives the area between a curve and an axis, and between two curves it gives the area enclosed between them.",
+    "points": [
+      "Area under y = f(x) from a to b is ∫f(x)dx when the curve lies above the x-axis.",
+      "Area between two curves is ∫[upper − lower]dx over the interval where they cross.",
+      "Sketch the region first: the limits of integration come from the points where the curves meet the axes or each other."
+    ],
+    "formulas": [
+      {
+        "name": "Area under a curve",
+        "expr": "A = ∫ₐᵇ f(x) dx"
+      },
+      {
+        "name": "Area between curves",
+        "expr": "A = ∫ₐᵇ [f(x) − g(x)] dx, f above g"
+      },
+      {
+        "name": "Area of an ellipse",
+        "expr": "A = πab"
+      }
+    ],
+    "example": "The area enclosed by y = x², x = 0, x = 2 and the x-axis is ∫₀²x²dx = 8/3 square units.",
+    "aliases": [
+      "application of integrals",
+      "area under curve",
+      "area between curves",
+      "definite integral area"
+    ],
+    "mistakes": [
+      "Ignoring the part of the region below the x-axis.",
+      "Using the wrong upper and lower function."
+    ]
+  },
+  {
+    "id": "math-linear-inequalities",
+    "title": "Linear inequalities",
+    "subject": "Mathematics",
+    "classes": [
+      11
+    ],
+    "summary": "A linear inequality compares a linear expression with a number or another expression, and its solution is a range of values rather than a single value.",
+    "points": [
+      "Adding or subtracting the same number on both sides keeps the inequality direction.",
+      "Multiplying or dividing by a negative number reverses the inequality sign.",
+      "Two-variable inequalities describe half-planes, and a system of them describes a feasible region.",
+      "Solutions are written as intervals or shown on a number line."
+    ],
+    "formulas": [
+      {
+        "name": "Rule for negatives",
+        "expr": "if a < b then −a > −b"
+      },
+      {
+        "name": "Interval notation",
+        "expr": "a ≤ x ≤ b is written [a, b]"
+      }
+    ],
+    "example": "3x − 4 < 8 gives 3x < 12, so x < 4, written as (−∞, 4).",
+    "aliases": [
+      "linear inequalities",
+      "inequations",
+      "half plane",
+      "feasible region",
+      "number line inequality"
+    ],
+    "mistakes": [
+      "Forgetting to flip the sign when dividing by a negative.",
+      "Including the boundary point when the inequality is strict."
+    ]
+  },
+  {
+    "id": "math-linear-programming",
+    "title": "Linear programming",
+    "subject": "Mathematics",
+    "classes": [
+      12
+    ],
+    "summary": "Linear programming finds the largest or smallest value of a linear objective function subject to linear constraints.",
+    "points": [
+      "Constraints are written as linear inequalities and their common region is the feasible region.",
+      "The optimal value of a linear objective on a bounded feasible region occurs at a corner (vertex) of that region.",
+      "Unbounded regions need the objective checked along the open directions before a maximum or minimum is claimed.",
+      "Real problems are translated into variables, constraints and an objective before solving."
+    ],
+    "formulas": [
+      {
+        "name": "Objective",
+        "expr": "Maximise or minimise Z = ax + by"
+      },
+      {
+        "name": "Corner point method",
+        "expr": "Z is evaluated at each vertex of the feasible region"
+      }
+    ],
+    "example": "Maximise Z = 3x + 2y subject to x + y ≤ 4, x ≥ 0, y ≥ 0: vertices give Z = 12 at (4, 0).",
+    "aliases": [
+      "linear programming",
+      "lpp",
+      "objective function",
+      "feasible region vertices",
+      "corner point method"
+    ],
+    "mistakes": [
+      "Missing a constraint when drawing the region.",
+      "Assuming an optimum exists when the region is unbounded."
+    ]
+  },
+  {
+    "id": "math-3d-geometry",
+    "title": "Three dimensional geometry",
+    "subject": "Mathematics",
+    "classes": [
+      12
+    ],
+    "summary": "Three dimensional geometry describes points, lines and planes using coordinates and direction ratios in space.",
+    "points": [
+      "Direction cosines of a line are the cosines of the angles it makes with the x, y and z axes, and their squares add to 1.",
+      "A line is fixed by a point and a direction; a plane is fixed by a point and a normal vector.",
+      "The angle between two lines, or between a line and a plane, comes from a dot product of direction vectors.",
+      "Shortest distance between skew lines uses the scalar triple product."
+    ],
+    "formulas": [
+      {
+        "name": "Direction cosines",
+        "expr": "l² + m² + n² = 1"
+      },
+      {
+        "name": "Line in space",
+        "expr": "(x − x₁)/a = (y − y₁)/b = (z − z₁)/c"
+      },
+      {
+        "name": "Plane",
+        "expr": "ax + by + cz + d = 0, normal (a, b, c)"
+      },
+      {
+        "name": "Angle between line and plane",
+        "expr": "sin θ = |a·n| / (|a||n|)"
+      }
+    ],
+    "example": "The plane through (1, 2, 3) with normal (2, −1, 4) is 2(x − 1) − (y − 2) + 4(z − 3) = 0.",
+    "aliases": [
+      "three dimensional geometry",
+      "3d geometry",
+      "direction cosines",
+      "plane equation",
+      "skew lines",
+      "shortest distance"
+    ],
+    "mistakes": [
+      "Using direction ratios as if they were unit vectors.",
+      "Confusing the normal of a plane with a direction along it."
+    ]
+  },
+  {
+    "id": "math-statistics-11",
+    "title": "Measures of dispersion",
+    "subject": "Mathematics",
+    "classes": [
+      11
+    ],
+    "summary": "Dispersion measures how spread out a data set is: range, mean deviation, variance and standard deviation.",
+    "points": [
+      "Range is the largest value minus the smallest and uses only two observations.",
+      "Mean deviation averages the absolute deviations from a central value such as the mean or median.",
+      "Variance averages the squared deviations; standard deviation is its square root and has the same units as the data.",
+      "The coefficient of variation, standard deviation divided by mean, compares spread across data sets with different units."
+    ],
+    "formulas": [
+      {
+        "name": "Variance (ungrouped)",
+        "expr": "σ² = (1/n) Σ(xᵢ − x̄)²"
+      },
+      {
+        "name": "Standard deviation",
+        "expr": "σ = √σ²"
+      },
+      {
+        "name": "Coefficient of variation",
+        "expr": "CV = (σ/x̄) × 100%"
+      }
+    ],
+    "example": "For 2, 4, 6, 8 the mean is 5, variance is 5 and standard deviation is about 2.24.",
+    "aliases": [
+      "statistics class 11",
+      "variance",
+      "standard deviation",
+      "mean deviation",
+      "coefficient of variation",
+      "dispersion"
+    ],
+    "mistakes": [
+      "Forgetting to square deviations before averaging.",
+      "Mixing the population and sample formulas."
+    ]
+  },
+  {
+    "id": "math-mathematical-reasoning",
+    "title": "Mathematical reasoning",
+    "subject": "Mathematics",
+    "classes": [
+      11
+    ],
+    "summary": "Mathematical reasoning studies statements, logical connectives and the validity of arguments.",
+    "points": [
+      "A statement is a sentence that is either true or false, but not both.",
+      "Connectives 'and', 'or', 'if–then' and 'if and only if' combine statements, and their truth depends on the truth of the parts.",
+      "A statement and its contrapositive are logically equivalent; the converse need not be true.",
+      "Quantifiers 'for all' and 'there exists' change the meaning of a statement and its negation."
+    ],
+    "formulas": [
+      {
+        "name": "Implication",
+        "expr": "p → q is false only when p is true and q is false"
+      },
+      {
+        "name": "Contrapositive",
+        "expr": "p → q ≡ ¬q → ¬p"
+      },
+      {
+        "name": "De Morgan",
+        "expr": "¬(p ∧ q) ≡ ¬p ∨ ¬q"
+      }
+    ],
+    "example": "\"If a number is divisible by 4 then it is even\" is true, but its converse \"if a number is even then it is divisible by 4\" is false.",
+    "aliases": [
+      "mathematical reasoning",
+      "logic",
+      "truth table",
+      "contrapositive",
+      "quantifiers",
+      "validity of statement"
+    ],
+    "mistakes": [
+      "Treating the converse as equivalent to the original.",
+      "Negating 'for all' as 'for all not'."
+    ]
+  },
+  {
+    "id": "math-principle-mathematical-induction",
+    "title": "Principle of mathematical induction",
+    "subject": "Mathematics",
+    "classes": [
+      11
+    ],
+    "summary": "Mathematical induction proves a statement for all natural numbers by proving a base case and then that truth at n implies truth at n + 1.",
+    "points": [
+      "The base case is usually n = 1 and must be verified directly.",
+      "The induction hypothesis assumes the statement for n = k, and the induction step proves it for k + 1.",
+      "Both steps are needed: without the base case the chain never starts.",
+      "It is a proof technique for statements indexed by natural numbers, not a way to discover formulas."
+    ],
+    "formulas": [
+      {
+        "name": "Sum of first n naturals",
+        "expr": "1 + 2 + … + n = n(n + 1)/2"
+      },
+      {
+        "name": "Sum of first n squares",
+        "expr": "Σk² = n(n + 1)(2n + 1)/6"
+      }
+    ],
+    "example": "To prove 1 + 3 + … + (2n − 1) = n², the base case n = 1 holds and adding 2k + 1 gives (k + 1)².",
+    "aliases": [
+      "mathematical induction",
+      "principle of induction",
+      "induction proof",
+      "base case induction"
+    ],
+    "mistakes": [
+      "Skipping the base case.",
+      "Assuming the result for all n instead of only n = k."
+    ]
+  },
+  {
+    "id": "phy-mechanical-properties-solids",
+    "title": "Mechanical properties of solids",
+    "subject": "Physics",
+    "classes": [
+      11
+    ],
+    "summary": "Solids resist deformation because of interatomic forces; stress and strain describe that deformation and the elastic moduli relate them.",
+    "points": [
+      "Stress is force per unit area and strain is the fractional change in dimension; both are needed to compare materials.",
+      "Within the elastic limit, stress is proportional to strain (Hooke's law).",
+      "Young's modulus applies to stretching, bulk modulus to volume change and shear modulus to shape change.",
+      "Beyond the yield point a material deforms permanently, and past the breaking point it fractures."
+    ],
+    "formulas": [
+      {
+        "name": "Stress",
+        "expr": "σ = F/A"
+      },
+      {
+        "name": "Young's modulus",
+        "expr": "Y = (F/A)/(ΔL/L)"
+      },
+      {
+        "name": "Bulk modulus",
+        "expr": "B = −P/(ΔV/V)"
+      },
+      {
+        "name": "Elastic potential energy",
+        "expr": "U = ½ × stress × strain × volume"
+      }
+    ],
+    "example": "A steel wire of length 2 m stretches 1 mm under load: strain = 1×10⁻³/2 = 5×10⁻⁴.",
+    "aliases": [
+      "mechanical properties of solids",
+      "elasticity",
+      "young modulus",
+      "stress strain",
+      "hookes law",
+      "bulk modulus"
+    ],
+    "mistakes": [
+      "Forgetting that strain has no units.",
+      "Using the original length instead of the change in length."
+    ]
+  },
+  {
+    "id": "phy-mechanical-properties-fluids",
+    "title": "Mechanical properties of fluids",
+    "subject": "Physics",
+    "classes": [
+      11
+    ],
+    "summary": "Fluids exert pressure in all directions and their flow is described by continuity, Bernoulli's principle and viscosity.",
+    "points": [
+      "Pressure at depth h is P = P₀ + ρgh, independent of the shape of the container.",
+      "An ideal fluid is incompressible and non-viscous; its flow obeys the continuity equation A₁v₁ = A₂v₂.",
+      "Bernoulli's principle states that where speed is high, pressure is low along a streamline.",
+      "Surface tension and capillarity come from cohesive forces at a liquid surface; viscosity resists relative flow."
+    ],
+    "formulas": [
+      {
+        "name": "Pressure with depth",
+        "expr": "P = P₀ + ρgh"
+      },
+      {
+        "name": "Continuity",
+        "expr": "A₁v₁ = A₂v₂"
+      },
+      {
+        "name": "Bernoulli",
+        "expr": "P + ½ρv² + ρgh = constant"
+      },
+      {
+        "name": "Terminal velocity",
+        "expr": "v = 2r²(ρ − σ)g/(9η)"
+      }
+    ],
+    "example": "Water flowing from a wide pipe into a narrow one speeds up, and its pressure falls — the basis of a sprayer.",
+    "aliases": [
+      "mechanical properties of fluids",
+      "fluid mechanics",
+      "bernoulli",
+      "viscosity",
+      "surface tension",
+      "terminal velocity"
+    ],
+    "mistakes": [
+      "Applying Bernoulli across turbulent or viscous flow.",
+      "Thinking pressure depends on the amount of liquid rather than depth."
+    ]
+  },
+  {
+    "id": "phy-thermal-properties",
+    "title": "Thermal properties of matter",
+    "subject": "Physics",
+    "classes": [
+      11
+    ],
+    "summary": "Heat changes temperature, dimensions and phase; calorimetry and the three modes of heat transfer describe those changes.",
+    "points": [
+      "Linear expansion is ΔL = LαΔT, with area and volume expansion using 2α and 3α.",
+      "Specific heat capacity is the heat needed per unit mass per degree; water's is unusually high.",
+      "Latent heat is absorbed or released at constant temperature during a phase change.",
+      "Conduction needs a medium, convection moves the medium, and radiation needs no medium at all."
+    ],
+    "formulas": [
+      {
+        "name": "Linear expansion",
+        "expr": "ΔL = LαΔT"
+      },
+      {
+        "name": "Heat gained or lost",
+        "expr": "Q = mcΔT"
+      },
+      {
+        "name": "Latent heat",
+        "expr": "Q = mL"
+      },
+      {
+        "name": "Stefan's law",
+        "expr": "P = εσAT⁴"
+      }
+    ],
+    "example": "Melting 100 g of ice at 0 °C needs Q = 0.1 × 3.34×10⁵ = 3.34×10⁴ J.",
+    "aliases": [
+      "thermal properties of matter",
+      "calorimetry",
+      "latent heat",
+      "thermal expansion",
+      "heat transfer",
+      "newtons law of cooling"
+    ],
+    "mistakes": [
+      "Using Q = mcΔT during a phase change.",
+      "Forgetting that area expansion uses 2α."
+    ]
+  },
+  {
+    "id": "phy-kinetic-theory",
+    "title": "Kinetic theory of gases",
+    "subject": "Physics",
+    "classes": [
+      11
+    ],
+    "summary": "Kinetic theory explains gas pressure and temperature as the average effect of countless molecular collisions.",
+    "points": [
+      "Pressure comes from molecules hitting the walls and changing momentum.",
+      "Absolute temperature is proportional to the average translational kinetic energy of molecules.",
+      "The ideal gas law follows from the theory: PV = nRT, with R the universal gas constant.",
+      "Real gases deviate at high pressure and low temperature when molecular volume and attraction matter."
+    ],
+    "formulas": [
+      {
+        "name": "Ideal gas law",
+        "expr": "PV = nRT"
+      },
+      {
+        "name": "Average kinetic energy",
+        "expr": "KE = (3/2)k_BT per molecule"
+      },
+      {
+        "name": "RMS speed",
+        "expr": "v_rms = √(3RT/M)"
+      },
+      {
+        "name": "Degrees of freedom energy",
+        "expr": "E = (f/2)nRT"
+      }
+    ],
+    "example": "At 300 K the rms speed of oxygen (M = 0.032 kg/mol) is about 483 m/s.",
+    "aliases": [
+      "kinetic theory",
+      "kinetic theory of gases",
+      "rms speed",
+      "ideal gas equation",
+      "degrees of freedom",
+      "mean free path"
+    ],
+    "mistakes": [
+      "Using degrees Celsius in the gas law.",
+      "Assuming molecules have the same speed rather than a distribution."
+    ]
+  },
+  {
+    "id": "phy-electric-charges-fields",
+    "title": "Electric charges and fields",
+    "subject": "Physics",
+    "classes": [
+      12
+    ],
+    "summary": "Stationary charges create electric fields, and the field at a point is the force a unit positive charge would feel there.",
+    "points": [
+      "Like charges repel and unlike charges attract with a force given by Coulomb's law.",
+      "Electric field lines start on positive and end on negative charges and never cross.",
+      "A dipole consists of equal and opposite charges separated by a distance and has a dipole moment p = q × 2a.",
+      "Gauss's law relates the flux through a closed surface to the charge enclosed, and simplifies symmetric problems."
+    ],
+    "formulas": [
+      {
+        "name": "Coulomb's law",
+        "expr": "F = (1/4πε₀) q₁q₂/r²"
+      },
+      {
+        "name": "Electric field",
+        "expr": "E = F/q"
+      },
+      {
+        "name": "Field of a point charge",
+        "expr": "E = (1/4πε₀) q/r²"
+      },
+      {
+        "name": "Gauss's law",
+        "expr": "Φ = ∮E·dA = q_enclosed/ε₀"
+      },
+      {
+        "name": "Dipole moment",
+        "expr": "p = q × 2a"
+      }
+    ],
+    "example": "Two 1 μC charges 1 m apart repel with F = 9×10⁹ × 10⁻¹² = 9×10⁻³ N.",
+    "aliases": [
+      "electric charges and fields",
+      "coulomb law",
+      "gauss law",
+      "electric dipole",
+      "electric field lines",
+      "flux"
+    ],
+    "mistakes": [
+      "Using the distance between surfaces instead of between charge centres.",
+      "Forgetting that field is a vector and must be added vectorially."
+    ]
+  },
+  {
+    "id": "phy-potential-capacitance",
+    "title": "Electrostatic potential and capacitance",
+    "subject": "Physics",
+    "classes": [
+      12
+    ],
+    "summary": "Electric potential is potential energy per unit charge, and a capacitor stores charge and energy in an electric field.",
+    "points": [
+      "Potential is a scalar, so potentials add directly while fields add as vectors.",
+      "The potential difference between two points is the work done per unit charge moving between them.",
+      "Capacitance is C = Q/V; for a parallel plate capacitor C = ε₀A/d, increased by a dielectric.",
+      "Capacitors in series share charge, in parallel share voltage; energy stored is ½CV²."
+    ],
+    "formulas": [
+      {
+        "name": "Potential of a point charge",
+        "expr": "V = (1/4πε₀) q/r"
+      },
+      {
+        "name": "Capacitance",
+        "expr": "C = Q/V"
+      },
+      {
+        "name": "Parallel plate",
+        "expr": "C = ε₀A/d (with dielectric ε_r)"
+      },
+      {
+        "name": "Energy stored",
+        "expr": "U = ½CV² = ½QV = Q²/2C"
+      },
+      {
+        "name": "Series and parallel",
+        "expr": "1/C_s = Σ1/Cᵢ, C_p = ΣCᵢ"
+      }
+    ],
+    "example": "A 2 μF capacitor charged to 100 V stores ½ × 2×10⁻⁶ × 10⁴ = 0.01 J.",
+    "aliases": [
+      "electrostatic potential",
+      "capacitance",
+      "capacitor",
+      "dielectric",
+      "energy stored in capacitor",
+      "equipotential"
+    ],
+    "mistakes": [
+      "Adding capacitor voltages in series without checking charge.",
+      "Treating potential as a vector."
+    ]
+  },
+  {
+    "id": "phy-moving-charges-magnetism",
+    "title": "Moving charges and magnetism",
+    "subject": "Physics",
+    "classes": [
+      12
+    ],
+    "summary": "A moving charge or a current creates a magnetic field, and a magnetic field exerts a force on moving charges and current-carrying wires.",
+    "points": [
+      "The force on a moving charge is F = qvB sin θ, perpendicular to both velocity and field.",
+      "Biot–Savart law gives the field of a current element; Ampere's circuital law handles symmetric current distributions.",
+      "A current loop behaves as a magnetic dipole with moment m = NIA.",
+      "A charged particle moving perpendicular to a uniform field travels in a circle of radius r = mv/qB."
+    ],
+    "formulas": [
+      {
+        "name": "Lorentz force",
+        "expr": "F = qvB sin θ"
+      },
+      {
+        "name": "Field of a long wire",
+        "expr": "B = μ₀I/(2πr)"
+      },
+      {
+        "name": "Field at centre of a loop",
+        "expr": "B = μ₀NI/(2R)"
+      },
+      {
+        "name": "Solenoid",
+        "expr": "B = μ₀nI"
+      },
+      {
+        "name": "Cyclotron radius",
+        "expr": "r = mv/(qB)"
+      }
+    ],
+    "example": "An electron at 10⁷ m/s in a 0.01 T field moves in a circle of radius about 5.7 mm.",
+    "aliases": [
+      "moving charges and magnetism",
+      "biot savart",
+      "amperes law",
+      "lorentz force",
+      "cyclotron",
+      "solenoid field"
+    ],
+    "mistakes": [
+      "Forgetting the sin θ factor when velocity is parallel to the field.",
+      "Using the loop radius instead of diameter in the field formula."
+    ]
+  },
+  {
+    "id": "phy-magnetism-matter",
+    "title": "Magnetism and matter",
+    "subject": "Physics",
+    "classes": [
+      12
+    ],
+    "summary": "Materials respond to magnetic fields in different ways depending on how their atomic dipoles align.",
+    "points": [
+      "Diamagnetic materials are weakly repelled, paramagnetic weakly attracted and ferromagnetic strongly attracted.",
+      "Ferromagnetism comes from aligned domains that persist after the field is removed, producing permanent magnets.",
+      "The earth's magnetic field behaves like a tilted dipole and its poles drift over time.",
+      "Susceptibility measures how strongly a material is magnetised by an applied field."
+    ],
+    "formulas": [
+      {
+        "name": "Magnetisation",
+        "expr": "M = m/V"
+      },
+      {
+        "name": "Susceptibility",
+        "expr": "χ = M/H"
+      },
+      {
+        "name": "Permeability",
+        "expr": "μ = μ₀(1 + χ)"
+      },
+      {
+        "name": "Hysteresis loss",
+        "expr": "area of the B–H loop"
+      }
+    ],
+    "example": "Soft iron is used in transformer cores because its narrow hysteresis loop loses little energy per cycle.",
+    "aliases": [
+      "magnetism and matter",
+      "ferromagnetism",
+      "diamagnetic paramagnetic",
+      "hysteresis",
+      "magnetic susceptibility",
+      "earth magnetism"
+    ],
+    "mistakes": [
+      "Thinking diamagnetism needs a permanent magnet.",
+      "Confusing magnetic field B with magnetising field H."
+    ]
+  },
+  {
+    "id": "phy-alternating-current",
+    "title": "Alternating current",
+    "subject": "Physics",
+    "classes": [
+      12
+    ],
+    "summary": "An alternating current changes direction periodically, and inductors and capacitors shift the phase between voltage and current.",
+    "points": [
+      "The rms value of a sinusoidal current is peak value divided by √2.",
+      "Inductive reactance X_L = ωL rises with frequency; capacitive reactance X_C = 1/ωC falls with frequency.",
+      "At resonance in a series LCR circuit X_L = X_C, impedance is minimum and current is maximum.",
+      "A transformer changes voltage using mutual induction and loses energy through copper, eddy-current and hysteresis losses."
+    ],
+    "formulas": [
+      {
+        "name": "RMS values",
+        "expr": "I_rms = I₀/√2, V_rms = V₀/√2"
+      },
+      {
+        "name": "Reactances",
+        "expr": "X_L = ωL, X_C = 1/ωC"
+      },
+      {
+        "name": "Impedance",
+        "expr": "Z = √(R² + (X_L − X_C)²)"
+      },
+      {
+        "name": "Resonant frequency",
+        "expr": "f = 1/(2π√(LC))"
+      },
+      {
+        "name": "Transformer",
+        "expr": "V_s/V_p = N_s/N_p"
+      }
+    ],
+    "example": "A 50 Hz supply with L = 0.1 H gives X_L = 2π×50×0.1 ≈ 31.4 Ω.",
+    "aliases": [
+      "alternating current",
+      "ac circuits",
+      "lcr circuit",
+      "resonance",
+      "impedance",
+      "transformer",
+      "reactance"
+    ],
+    "mistakes": [
+      "Adding reactances arithmetically to resistance.",
+      "Using peak instead of rms values in power calculations."
+    ]
+  },
+  {
+    "id": "phy-em-waves",
+    "title": "Electromagnetic waves",
+    "subject": "Physics",
+    "classes": [
+      12
+    ],
+    "summary": "Accelerating charges produce electromagnetic waves: oscillating electric and magnetic fields travelling perpendicular to each other.",
+    "points": [
+      "E and B are perpendicular to each other and to the direction of propagation; the wave is transverse.",
+      "All electromagnetic waves travel at c = 3×10⁸ m/s in vacuum and slow down in a medium.",
+      "The spectrum runs from radio waves through microwaves, infrared, visible, ultraviolet, X-rays to gamma rays.",
+      "Displacement current explains how a changing electric field acts as a source of magnetic field."
+    ],
+    "formulas": [
+      {
+        "name": "Speed",
+        "expr": "c = 1/√(μ₀ε₀)"
+      },
+      {
+        "name": "Relation of fields",
+        "expr": "E₀/B₀ = c"
+      },
+      {
+        "name": "Wave relation",
+        "expr": "c = νλ"
+      },
+      {
+        "name": "Energy density",
+        "expr": "u = ½ε₀E² + B²/(2μ₀)"
+      }
+    ],
+    "example": "A radio station at 100 MHz broadcasts a wavelength λ = 3×10⁸/10⁸ = 3 m.",
+    "aliases": [
+      "electromagnetic waves",
+      "em waves",
+      "em spectrum",
+      "displacement current",
+      "maxwell equations",
+      "light as em wave"
+    ],
+    "mistakes": [
+      "Saying electromagnetic waves need a medium.",
+      "Mixing up the order of the spectrum."
+    ]
+  },
+  {
+    "id": "phy-wave-optics",
+    "title": "Wave optics",
+    "subject": "Physics",
+    "classes": [
+      12
+    ],
+    "summary": "Wave optics treats light as a wave and explains interference, diffraction and polarisation, which ray optics cannot.",
+    "points": [
+      "In Young's double slit experiment, bright fringes occur where path difference is a whole number of wavelengths.",
+      "Fringe width is β = λD/d, so it grows with wavelength and screen distance and shrinks with slit separation.",
+      "Diffraction at a single slit gives a central maximum twice as wide as the side maxima.",
+      "Polarisation shows light is transverse; reflected light is partly polarised at Brewster's angle."
+    ],
+    "formulas": [
+      {
+        "name": "Fringe width",
+        "expr": "β = λD/d"
+      },
+      {
+        "name": "Path difference",
+        "expr": "Δ = nλ (bright), (2n − 1)λ/2 (dark)"
+      },
+      {
+        "name": "Single slit minima",
+        "expr": "a sin θ = nλ"
+      },
+      {
+        "name": "Brewster's law",
+        "expr": "tan θ_p = n"
+      }
+    ],
+    "example": "With λ = 600 nm, D = 1 m and d = 0.6 mm the fringe width is 1 mm.",
+    "aliases": [
+      "wave optics",
+      "interference",
+      "diffraction",
+      "young double slit",
+      "polarisation",
+      "huygens principle",
+      "fringe width"
+    ],
+    "mistakes": [
+      "Using the double-slit formula for a single slit.",
+      "Forgetting to convert nanometres to metres."
+    ]
+  },
+  {
+    "id": "phy-nuclei",
+    "title": "Nuclei and radioactivity",
+    "subject": "Physics",
+    "classes": [
+      12
+    ],
+    "summary": "The nucleus is held together by the strong force; unstable nuclei decay by alpha, beta or gamma emission.",
+    "points": [
+      "Nuclear radius grows as R = R₀A^(1/3), so density is nearly the same for all nuclei.",
+      "Mass defect converts to binding energy through E = mc², and binding energy per nucleon peaks near iron.",
+      "Radioactive decay is random and exponential, described by N = N₀e^(−λt).",
+      "Half-life is the time for half the nuclei to decay, and activity is measured in becquerel.",
+      "Fission splits heavy nuclei and fusion joins light ones, both releasing energy."
+    ],
+    "formulas": [
+      {
+        "name": "Nuclear radius",
+        "expr": "R = R₀A^(1/3), R₀ ≈ 1.2 fm"
+      },
+      {
+        "name": "Binding energy",
+        "expr": "E_b = Δm c²"
+      },
+      {
+        "name": "Decay law",
+        "expr": "N = N₀e^(−λt)"
+      },
+      {
+        "name": "Half-life",
+        "expr": "T½ = 0.693/λ"
+      }
+    ],
+    "example": "Carbon-14 with a 5,730-year half-life has 25% left after 11,460 years.",
+    "aliases": [
+      "nuclei",
+      "radioactivity",
+      "nuclear physics",
+      "half life",
+      "binding energy",
+      "fission fusion",
+      "mass defect"
+    ],
+    "mistakes": [
+      "Treating decay as predictable for a single nucleus.",
+      "Mixing up half-life with mean life."
+    ]
+  }
+]

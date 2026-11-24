@@ -1,0 +1,1544 @@
+[
+  {
+    "id": "math-knowing-numbers",
+    "title": "Knowing our numbers",
+    "subject": "Mathematics",
+    "classes": [
+      6
+    ],
+    "summary": "Large numbers are read, written and compared using place value and rounding.",
+    "points": [
+      "The Indian system groups digits as ones, thousands, lakhs and crores.",
+      "The international system groups in thousands, millions and billions.",
+      "Comparing numbers starts with the number of digits, then the leftmost digit.",
+      "Rounding to the nearest ten, hundred or thousand makes estimation easier."
+    ],
+    "formulas": [
+      {
+        "name": "Indian place values",
+        "expr": "ones, tens, hundreds, thousands, ten thousands, lakh, ten lakh, crore"
+      }
+    ],
+    "example": "7,45,32,891 is read as seven crore forty-five lakh thirty-two thousand eight hundred ninety-one.",
+    "aliases": [
+      "knowing our numbers",
+      "place value",
+      "indian and international system",
+      "rounding numbers",
+      "large numbers"
+    ],
+    "mistakes": [
+      "Mixing the Indian and international grouping.",
+      "Rounding before comparing numbers."
+    ]
+  },
+  {
+    "id": "math-whole-numbers",
+    "title": "Whole numbers",
+    "subject": "Mathematics",
+    "classes": [
+      6
+    ],
+    "summary": "Whole numbers start at 0, and their properties such as commutativity and distributivity simplify calculations.",
+    "points": [
+      "Natural numbers start at 1; whole numbers include 0.",
+      "Addition and multiplication are commutative and associative; subtraction and division are not.",
+      "The distributive property links multiplication with addition and subtraction.",
+      "The number line shows order and helps with addition and subtraction."
+    ],
+    "formulas": [
+      {
+        "name": "Distributive",
+        "expr": "a × (b + c) = a × b + a × c"
+      },
+      {
+        "name": "Identity",
+        "expr": "a + 0 = a, a × 1 = a"
+      }
+    ],
+    "example": "25 × 12 = 25 × (10 + 2) = 250 + 50 = 300 using distributivity.",
+    "aliases": [
+      "whole numbers",
+      "natural numbers",
+      "properties of numbers",
+      "distributive property",
+      "number line"
+    ],
+    "mistakes": [
+      "Assuming subtraction is commutative.",
+      "Forgetting that 0 is a whole number but not a natural number."
+    ]
+  },
+  {
+    "id": "math-playing-numbers",
+    "title": "Playing with numbers",
+    "subject": "Mathematics",
+    "classes": [
+      6,
+      8
+    ],
+    "summary": "Divisibility rules, factors, multiples, HCF and LCM help solve number problems quickly.",
+    "points": [
+      "A number is divisible by 3 if its digit sum is divisible by 3, by 9 if the digit sum is divisible by 9.",
+      "Divisibility by 4 depends on the last two digits; by 8 on the last three.",
+      "Every number can be written as a product of primes.",
+      "HCF is the largest common factor and LCM the smallest common multiple.",
+      "For two numbers, HCF × LCM = product of the numbers."
+    ],
+    "formulas": [
+      {
+        "name": "HCF–LCM relation",
+        "expr": "HCF(a, b) × LCM(a, b) = a × b"
+      }
+    ],
+    "example": "HCF of 12 and 18 is 6, so LCM = 216/6 = 36.",
+    "aliases": [
+      "playing with numbers",
+      "divisibility rules",
+      "hcf lcm",
+      "prime factorisation",
+      "factors multiples"
+    ],
+    "mistakes": [
+      "Using the HCF–LCM relation for more than two numbers.",
+      "Checking divisibility by 6 using only 2 or only 3."
+    ]
+  },
+  {
+    "id": "math-square-cube-roots",
+    "title": "Squares, cubes and their roots",
+    "subject": "Mathematics",
+    "classes": [
+      8
+    ],
+    "summary": "A square is a number multiplied by itself, and a square root reverses that; cubes work the same way with three factors.",
+    "points": [
+      "Perfect squares end in 0, 1, 4, 5, 6 or 9, never 2, 3, 7 or 8.",
+      "A square root can be found by prime factorisation or long division.",
+      "A perfect cube's prime factors appear in groups of three.",
+      "The cube root of a negative number is negative."
+    ],
+    "formulas": [
+      {
+        "name": "Square",
+        "expr": "a² = a × a"
+      },
+      {
+        "name": "Cube",
+        "expr": "a³ = a × a × a"
+      },
+      {
+        "name": "Difference of squares",
+        "expr": "a² − b² = (a − b)(a + b)"
+      }
+    ],
+    "example": "∛1728 = 12 because 12 × 12 × 12 = 1728.",
+    "aliases": [
+      "squares and square roots",
+      "cubes and cube roots",
+      "perfect square",
+      "prime factorisation root",
+      "long division method"
+    ],
+    "mistakes": [
+      "Assuming every number has a whole-number square root.",
+      "Forgetting the negative root when solving x² = 9."
+    ]
+  },
+  {
+    "id": "math-direct-inverse-proportion",
+    "title": "Direct and inverse proportion",
+    "subject": "Mathematics",
+    "classes": [
+      8
+    ],
+    "summary": "In direct proportion both quantities increase together; in inverse proportion one falls as the other rises.",
+    "points": [
+      "Direct proportion means the ratio x/y is constant.",
+      "Inverse proportion means the product x × y is constant.",
+      "Unitary method solves proportion problems by finding the value of one unit.",
+      "Time and workers, or speed and time for fixed distance, are inverse relationships."
+    ],
+    "formulas": [
+      {
+        "name": "Direct",
+        "expr": "x₁/y₁ = x₂/y₂"
+      },
+      {
+        "name": "Inverse",
+        "expr": "x₁y₁ = x₂y₂"
+      }
+    ],
+    "example": "If 4 workers take 6 days, 8 workers take 3 days — inverse proportion.",
+    "aliases": [
+      "direct and inverse proportion",
+      "proportion",
+      "unitary method",
+      "variation"
+    ],
+    "mistakes": [
+      "Treating an inverse relationship as direct.",
+      "Forgetting to keep units consistent."
+    ]
+  },
+  {
+    "id": "math-graphs",
+    "title": "Introduction to graphs",
+    "subject": "Mathematics",
+    "classes": [
+      8
+    ],
+    "summary": "Graphs show relationships between two quantities using axes, coordinates and lines.",
+    "points": [
+      "A bar graph compares categories; a line graph shows change over time.",
+      "A pie chart shows parts of a whole.",
+      "A linear graph is a straight line and shows a constant rate.",
+      "The coordinates of a point are read as (x, y)."
+    ],
+    "formulas": [
+      {
+        "name": "Linear graph",
+        "expr": "y = mx + c has slope m and intercept c"
+      }
+    ],
+    "example": "A distance–time graph with a straight sloping line means constant speed.",
+    "aliases": [
+      "introduction to graphs",
+      "line graph",
+      "bar graph pie chart",
+      "plotting coordinates",
+      "distance time graph",
+      "graphs class 8"
+    ],
+    "mistakes": [
+      "Joining bar-graph tops with a line when the data are categories.",
+      "Reading axes in the wrong order."
+    ]
+  },
+  {
+    "id": "math-symmetry-views",
+    "title": "Symmetry and visualising solid shapes",
+    "subject": "Mathematics",
+    "classes": [
+      7,
+      8
+    ],
+    "summary": "Symmetry describes balanced shapes, and solids can be viewed as top, front and side views or flattened into nets.",
+    "points": [
+      "A line of symmetry divides a figure into two mirror halves.",
+      "Regular polygons have as many lines of symmetry as sides.",
+      "Rotational symmetry concerns turns that leave a figure looking the same.",
+      "A net is a flat pattern that folds into a solid.",
+      "Solids have faces, edges and vertices; Euler's relation connects them."
+    ],
+    "formulas": [
+      {
+        "name": "Euler's formula",
+        "expr": "F + V − E = 2"
+      }
+    ],
+    "example": "A cube has 6 faces, 8 vertices and 12 edges, and 6 + 8 − 12 = 2.",
+    "aliases": [
+      "symmetry",
+      "visualising solid shapes",
+      "lines of symmetry",
+      "nets",
+      "euler formula",
+      "faces edges vertices",
+      "does it look the same"
+    ],
+    "mistakes": [
+      "Counting diagonal lines as lines of symmetry for a rectangle.",
+      "Confusing edges and faces."
+    ]
+  },
+  {
+    "id": "sci-food-sources",
+    "title": "Food: where does it come from?",
+    "subject": "Science",
+    "classes": [
+      6
+    ],
+    "summary": "Food comes from plants and animals, and different parts of plants are eaten.",
+    "points": [
+      "Plant foods include roots, stems, leaves, flowers, fruits and seeds.",
+      "Animal foods include milk, eggs, meat and honey.",
+      "Some animals are herbivores, some carnivores and some omnivores.",
+      "Sprouted seeds and a balanced diet improve nutrition."
+    ],
+    "example": "Carrot is a root, spinach is a leaf and rice is a seed.",
+    "aliases": [
+      "food where does it come from",
+      "plant and animal food",
+      "edible plant parts",
+      "herbivore carnivore"
+    ],
+    "mistakes": [
+      "Calling potato a root; it is a modified stem.",
+      "Assuming all plant parts are edible."
+    ]
+  },
+  {
+    "id": "sci-components-food",
+    "title": "Components of food",
+    "subject": "Science",
+    "classes": [
+      6
+    ],
+    "summary": "Food contains carbohydrates, proteins, fats, vitamins, minerals, fibre and water, each with a specific role.",
+    "points": [
+      "Carbohydrates and fats give energy; proteins build and repair the body.",
+      "Vitamins and minerals protect against disease and are needed in small amounts.",
+      "Roughage aids digestion and water regulates body processes.",
+      "Deficiency diseases include scurvy (vitamin C) and beriberi (vitamin B1).",
+      "A balanced diet supplies all nutrients in the right amounts."
+    ],
+    "example": "A child with bleeding gums may lack vitamin C, causing scurvy.",
+    "aliases": [
+      "components of food",
+      "nutrients",
+      "balanced diet",
+      "deficiency diseases",
+      "vitamins minerals"
+    ],
+    "mistakes": [
+      "Thinking fats are always harmful.",
+      "Ignoring fibre in the diet."
+    ]
+  },
+  {
+    "id": "sci-fibre-fabric",
+    "title": "Fibre to fabric",
+    "subject": "Science",
+    "classes": [
+      6,
+      7
+    ],
+    "summary": "Cloth comes from natural fibres such as cotton, jute, silk and wool, or synthetic fibres, through spinning and weaving.",
+    "points": [
+      "Cotton and jute are plant fibres; silk and wool are animal fibres.",
+      "Ginning separates cotton fibres from seeds; spinning twists fibres into yarn.",
+      "Weaving and knitting turn yarn into fabric.",
+      "Sericulture is silk production and sheep rearing gives wool.",
+      "Synthetic fibres such as nylon and polyester are made from chemicals."
+    ],
+    "example": "Cotton bolls are picked, ginned, spun into yarn and woven into cloth.",
+    "aliases": [
+      "fibre to fabric",
+      "natural fibres",
+      "cotton jute silk wool",
+      "spinning weaving",
+      "sericulture"
+    ],
+    "mistakes": [
+      "Calling silk a plant fibre.",
+      "Confusing spinning with weaving."
+    ]
+  },
+  {
+    "id": "sci-sorting-materials",
+    "title": "Sorting materials into groups",
+    "subject": "Science",
+    "classes": [
+      6
+    ],
+    "summary": "Materials are grouped by properties such as appearance, hardness, solubility, transparency and conductivity.",
+    "points": [
+      "Materials may be lustrous or dull, hard or soft, opaque, translucent or transparent.",
+      "Some materials dissolve in water and others do not.",
+      "Metals generally conduct heat and electricity; most non-metals do not.",
+      "Objects may be made of one material or a combination chosen for its properties."
+    ],
+    "example": "A cooking pan has a metal body for conduction and a plastic handle to insulate.",
+    "aliases": [
+      "sorting materials",
+      "properties of materials",
+      "soluble insoluble",
+      "transparent translucent",
+      "conductors insulators"
+    ],
+    "mistakes": [
+      "Assuming all shiny materials are metals.",
+      "Confusing translucent with transparent."
+    ]
+  },
+  {
+    "id": "sci-plants-parts-6",
+    "title": "Getting to know plants",
+    "subject": "Science",
+    "classes": [
+      6
+    ],
+    "summary": "Plants have roots, stems, leaves, flowers and fruits, each with a function.",
+    "points": [
+      "Roots absorb water and minerals and anchor the plant.",
+      "Stems support leaves and transport water and food.",
+      "Leaves make food by photosynthesis and exchange gases through stomata.",
+      "Flowers are reproductive parts; fruits protect seeds.",
+      "Plants may be herbs, shrubs or trees."
+    ],
+    "example": "Water travels from roots through the stem to the leaves in the xylem.",
+    "aliases": [
+      "getting to know plants",
+      "parts of a plant",
+      "roots stem leaves",
+      "herbs shrubs trees",
+      "stomata"
+    ],
+    "mistakes": [
+      "Thinking leaves only make food and do not lose water.",
+      "Calling all small plants herbs."
+    ]
+  },
+  {
+    "id": "sci-body-movements",
+    "title": "Body movements",
+    "subject": "Science",
+    "classes": [
+      6
+    ],
+    "summary": "Animals move using bones, joints and muscles, and the human skeleton supports and protects the body.",
+    "points": [
+      "The skeleton has the skull, backbone, rib cage, limbs and girdles.",
+      "Joints may be ball and socket, hinge, pivot or fixed.",
+      "Muscles pull on bones to produce movement and work in pairs.",
+      "Earthworms move by contracting body muscles against the ground.",
+      "Snails and snakes move without limbs using muscular waves."
+    ],
+    "example": "The elbow is a hinge joint that allows movement in one plane.",
+    "aliases": [
+      "body movements",
+      "skeleton",
+      "joints",
+      "muscles",
+      "ball and socket hinge"
+    ],
+    "mistakes": [
+      "Saying muscles push bones.",
+      "Confusing a hinge joint with a ball and socket joint."
+    ]
+  },
+  {
+    "id": "sci-light-shadows",
+    "title": "Light, shadows and reflections",
+    "subject": "Science",
+    "classes": [
+      6
+    ],
+    "summary": "Light travels in straight lines, and objects block it to form shadows or reflect it into our eyes.",
+    "points": [
+      "Transparent objects let light pass; opaque objects block it; translucent objects let some light through.",
+      "A shadow forms behind an opaque object and needs a screen.",
+      "Shadows are dark because light cannot bend around the object.",
+      "Mirrors reflect light and can form images.",
+      "A pinhole camera forms an inverted image because light travels in straight lines."
+    ],
+    "example": "A pinhole camera image is upside down because rays cross at the hole.",
+    "aliases": [
+      "light shadows reflections",
+      "shadow formation",
+      "pinhole camera",
+      "transparent opaque",
+      "mirror reflection"
+    ],
+    "mistakes": [
+      "Thinking shadows need no light source behind the object.",
+      "Believing light bends around corners."
+    ]
+  },
+  {
+    "id": "sci-electric-circuits",
+    "title": "Electric circuits",
+    "subject": "Science",
+    "classes": [
+      6,
+      7
+    ],
+    "summary": "A circuit is a closed path through which electric current flows, and a switch controls it.",
+    "points": [
+      "A cell has two terminals and drives current through a closed circuit.",
+      "A bulb glows when current passes through its filament.",
+      "An open circuit stops current; a switch opens or closes the path.",
+      "Series circuits share one path; parallel circuits have separate branches.",
+      "Conductors allow current, insulators resist it."
+    ],
+    "formulas": [
+      {
+        "name": "Series resistance",
+        "expr": "R = R₁ + R₂ + …"
+      },
+      {
+        "name": "Parallel resistance",
+        "expr": "1/R = 1/R₁ + 1/R₂ + …"
+      }
+    ],
+    "example": "If one bulb in a series circuit fails, the whole circuit goes dark.",
+    "aliases": [
+      "electric circuits",
+      "cell bulb switch",
+      "series parallel circuit",
+      "conductors insulators",
+      "closed circuit"
+    ],
+    "mistakes": [
+      "Thinking current is used up as it flows.",
+      "Assuming a bulb glows with one wire connected."
+    ]
+  },
+  {
+    "id": "sci-weather-climate-7",
+    "title": "Weather, climate and adaptations",
+    "subject": "Science",
+    "classes": [
+      7
+    ],
+    "summary": "Weather is the day-to-day state of the atmosphere, and climate is the average pattern over years; animals adapt to both.",
+    "points": [
+      "Weather changes quickly; climate changes over long periods.",
+      "Polar animals have thick fur and blubber; desert animals conserve water.",
+      "Tropical rainforest animals have adaptations for climbing and heavy rain.",
+      "Migration and hibernation are behavioural adaptations.",
+      "Adaptations help animals survive extremes of temperature and moisture."
+    ],
+    "example": "A polar bear's white fur camouflages it and its blubber insulates it from cold.",
+    "aliases": [
+      "weather climate adaptations",
+      "adaptation animals",
+      "polar bear",
+      "hibernation migration",
+      "climate vs weather"
+    ],
+    "mistakes": [
+      "Using weather and climate interchangeably.",
+      "Assuming adaptation happens within one lifetime."
+    ]
+  },
+  {
+    "id": "sci-winds-storms",
+    "title": "Winds, storms and cyclones",
+    "subject": "Science",
+    "classes": [
+      7
+    ],
+    "summary": "Air moves from high to low pressure, and this movement produces winds, storms and cyclones.",
+    "points": [
+      "Moving air is wind; it is caused by uneven heating of the earth.",
+      "A cyclone forms over warm oceans with low pressure at the centre and high-speed rotating winds.",
+      "Thunderstorms bring lightning, thunder and heavy rain.",
+      "The eye of a cyclone is calm while the surrounding wall has the strongest winds.",
+      "Safety steps include listening to warnings and staying indoors."
+    ],
+    "example": "Warm sea water evaporates, rises, and the surrounding air rushes in, starting a cyclone.",
+    "aliases": [
+      "winds storms cyclones",
+      "cyclone formation",
+      "thunderstorm",
+      "air pressure wind",
+      "eye of cyclone"
+    ],
+    "mistakes": [
+      "Thinking the eye is the most dangerous part.",
+      "Ignoring the need for early warnings."
+    ]
+  },
+  {
+    "id": "sci-current-effects",
+    "title": "Electric current and its effects",
+    "subject": "Science",
+    "classes": [
+      7
+    ],
+    "summary": "Electric current produces heating, magnetic and chemical effects that are used in everyday devices.",
+    "points": [
+      "A wire heats up when current flows through it, which is used in heaters and fuses.",
+      "A current-carrying coil behaves as an electromagnet.",
+      "An electric bell uses an electromagnet to strike a gong.",
+      "Fuses and circuit breakers protect circuits from excess current.",
+      "Electromagnets are used in cranes, motors and loudspeakers."
+    ],
+    "formulas": [
+      {
+        "name": "Heating effect",
+        "expr": "H = I²Rt"
+      }
+    ],
+    "example": "A fuse wire melts and breaks the circuit when current becomes too high.",
+    "aliases": [
+      "electric current effects",
+      "heating effect",
+      "magnetic effect",
+      "electromagnet",
+      "electric bell",
+      "fuse"
+    ],
+    "mistakes": [
+      "Thinking a fuse protects against voltage only.",
+      "Assuming electromagnets work without current."
+    ]
+  },
+  {
+    "id": "sci-chemical-effects-current",
+    "title": "Chemical effects of electric current",
+    "subject": "Science",
+    "classes": [
+      8
+    ],
+    "summary": "Passing current through a conducting liquid causes chemical changes at the electrodes, a process called electrolysis.",
+    "points": [
+      "Electrolytes are liquids or solutions that conduct electricity through ions.",
+      "Electrolysis decomposes a compound at the electrodes.",
+      "Electroplating deposits a thin metal layer for appearance or protection.",
+      "Some liquids conduct very weakly, so a tester or LED may not glow brightly.",
+      "Electrodes may be inert or reactive and affect the products."
+    ],
+    "example": "A copper spoon electroplated with silver looks shiny and resists corrosion.",
+    "aliases": [
+      "chemical effects of electric current",
+      "electrolysis",
+      "electroplating",
+      "electrolyte",
+      "conducting liquids"
+    ],
+    "mistakes": [
+      "Thinking all liquids conduct electricity.",
+      "Confusing electrolysis with a simple circuit."
+    ]
+  },
+  {
+    "id": "sci-natural-phenomena",
+    "title": "Some natural phenomena",
+    "subject": "Science",
+    "classes": [
+      8
+    ],
+    "summary": "Lightning and earthquakes show the power of electric charge and moving tectonic plates.",
+    "points": [
+      "Lightning is caused by the build-up of static charge in clouds.",
+      "A lightning conductor safely carries charge to the ground.",
+      "Earthquakes occur when rocks along faults suddenly move.",
+      "Seismographs record earthquake magnitude on the Richter scale.",
+      "Safety during an earthquake means dropping, covering and holding under a strong table."
+    ],
+    "formulas": [
+      {
+        "name": "Richter scale",
+        "expr": "logarithmic: each unit is about 10 times the amplitude"
+      }
+    ],
+    "example": "A metal rod fixed on a building protects it by conducting lightning to the earth.",
+    "aliases": [
+      "some natural phenomena",
+      "lightning",
+      "earthquake",
+      "seismograph",
+      "lightning conductor",
+      "richter scale"
+    ],
+    "mistakes": [
+      "Thinking earthquakes can be predicted exactly.",
+      "Standing under a tree during lightning."
+    ]
+  },
+  {
+    "id": "sci-stars-solar-system",
+    "title": "Stars and the solar system",
+    "subject": "Science",
+    "classes": [
+      8
+    ],
+    "summary": "The solar system has the sun, eight planets, moons and smaller bodies, and stars are distant suns.",
+    "points": [
+      "Planets in order are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune.",
+      "The moon reflects sunlight and shows phases through the month.",
+      "Asteroids lie between Mars and Jupiter; comets have bright tails.",
+      "Light from the sun takes about 8 minutes to reach the earth.",
+      "Constellations are patterns of stars such as Ursa Major and Orion."
+    ],
+    "example": "Pluto is classified as a dwarf planet, not one of the eight planets.",
+    "aliases": [
+      "stars and the solar system",
+      "planets order",
+      "moon phases",
+      "comets asteroids",
+      "constellations"
+    ],
+    "mistakes": [
+      "Calling Pluto a planet.",
+      "Thinking the moon produces its own light."
+    ]
+  },
+  {
+    "id": "sci-synthetic-fibres",
+    "title": "Synthetic fibres and plastics",
+    "subject": "Science",
+    "classes": [
+      8
+    ],
+    "summary": "Synthetic fibres and plastics are made from petrochemicals and have useful properties but environmental costs.",
+    "points": [
+      "Rayon, nylon, polyester and acrylic are common synthetic fibres.",
+      "Synthetic fibres are strong, quick-drying and cheap but do not absorb water well.",
+      "Thermoplastics soften on heating; thermosetting plastics do not.",
+      "Plastics are light and durable but non-biodegradable.",
+      "Reducing single-use plastic and recycling lessen the damage."
+    ],
+    "example": "Melamine is a thermosetting plastic used in unbreakable crockery.",
+    "aliases": [
+      "synthetic fibres",
+      "plastics",
+      "thermoplastic thermosetting",
+      "nylon polyester",
+      "plastic pollution"
+    ],
+    "mistakes": [
+      "Thinking all plastics can be melted and remoulded.",
+      "Calling synthetic fibres eco-friendly."
+    ]
+  },
+  {
+    "id": "sci-adolescence",
+    "title": "Reaching the age of adolescence",
+    "subject": "Science",
+    "classes": [
+      8
+    ],
+    "summary": "Adolescence is the transition from childhood to adulthood, marked by growth spurt, hormonal changes and puberty.",
+    "points": [
+      "Puberty begins when the pituitary gland stimulates sex glands.",
+      "Secondary sexual characters develop during adolescence.",
+      "Hormones regulate growth, reproduction and metabolism.",
+      "Nutrition, hygiene and rest matter during rapid growth.",
+      "Adolescents need accurate information and emotional support."
+    ],
+    "example": "A growth spurt in height is an early sign of puberty in both boys and girls.",
+    "aliases": [
+      "adolescence",
+      "puberty",
+      "hormones",
+      "secondary sexual characters",
+      "reaching the age of adolescence"
+    ],
+    "mistakes": [
+      "Treating adolescence as only physical change.",
+      "Ignoring the role of the pituitary gland."
+    ]
+  },
+  {
+    "id": "hist-early-people",
+    "title": "From the earliest people to early cities",
+    "subject": "History",
+    "classes": [
+      6
+    ],
+    "summary": "Early humans hunted, gathered and later farmed, and advances in tools, fire and agriculture shaped their lives.",
+    "points": [
+      "Hunter-gatherers used stone tools and moved with seasons and animal herds.",
+      "Rock paintings at Bhimbetka show early human life.",
+      "Farming and animal domestication began in the Neolithic period.",
+      "Settled agriculture led to villages, pottery and storage.",
+      "Sources include archaeology, tools, bones and cave paintings."
+    ],
+    "example": "Grain storage pits at early villages show surplus farming.",
+    "aliases": [
+      "earliest people",
+      "hunter gatherers",
+      "stone age",
+      "neolithic revolution",
+      "bhimbetka"
+    ],
+    "mistakes": [
+      "Calling all early humans farmers.",
+      "Ignoring archaeology as a source."
+    ]
+  },
+  {
+    "id": "hist-vital-villages",
+    "title": "Vital villages, thriving towns",
+    "subject": "History",
+    "classes": [
+      6
+    ],
+    "summary": "From about 1000 BCE, iron tools, irrigation and trade supported villages and towns in the Indian subcontinent.",
+    "points": [
+      "Iron ploughshares and irrigation increased farm yields.",
+      "Villages used tanks and canals to store and supply water.",
+      "Mathura became a major settlement and trade centre.",
+      "Crafts and long-distance trade linked towns to villages.",
+      "Assemblies and chiefs governed early settlements."
+    ],
+    "example": "Mathura's location on trade routes helped it grow as a city.",
+    "aliases": [
+      "vital villages thriving towns",
+      "iron tools agriculture",
+      "mathura history",
+      "trade routes ancient india"
+    ],
+    "mistakes": [
+      "Assuming towns grew without agricultural surplus.",
+      "Ignoring the role of iron tools."
+    ]
+  },
+  {
+    "id": "hist-traders-kings",
+    "title": "Traders, kings and pilgrims",
+    "subject": "History",
+    "classes": [
+      6
+    ],
+    "summary": "Trade, religious travel and dynastic ambition connected India with Central Asia, the Mediterranean and Southeast Asia.",
+    "points": [
+      "South India traded spices, textiles and gems with the Roman empire.",
+      "Muziris and Arikamedu were important port sites.",
+      "The Silk Route linked India to China and Central Asia.",
+      "Buddhist pilgrims travelled to sacred sites and left accounts.",
+      "Trade brought gold, wine and new ideas into India."
+    ],
+    "example": "Roman coins found in south India show long-distance trade.",
+    "aliases": [
+      "traders kings pilgrims",
+      "silk route",
+      "muziris arikamedu",
+      "indo roman trade",
+      "pilgrims"
+    ],
+    "mistakes": [
+      "Thinking trade was only within India.",
+      "Ignoring the role of pilgrims as travellers."
+    ]
+  },
+  {
+    "id": "hist-regional-cultures",
+    "title": "Regional cultures and religious developments",
+    "subject": "History",
+    "classes": [
+      7
+    ],
+    "summary": "Between the eighth and eighteenth centuries, regional cultures and Bhakti–Sufi movements shaped Indian society.",
+    "points": [
+      "Bhakti saints such as Kabir, Mirabai and Tukaram composed in local languages.",
+      "Sufi shrines became centres of devotion and community.",
+      "Regional cultures developed distinct architecture, language and festivals.",
+      "Manuscripts, paintings and music preserved these traditions.",
+      "Movements often challenged caste and ritual hierarchy."
+    ],
+    "example": "Kabir's verses criticised both ritualism and sectarianism in simple language.",
+    "aliases": [
+      "regional cultures",
+      "bhakti sufi",
+      "religious developments",
+      "kabir mirabai",
+      "medieval india culture"
+    ],
+    "mistakes": [
+      "Treating Bhakti and Sufi movements as identical.",
+      "Ignoring regional languages."
+    ]
+  },
+  {
+    "id": "hist-18th-century-states",
+    "title": "Eighteenth-century political formations",
+    "subject": "History",
+    "classes": [
+      7
+    ],
+    "summary": "After the Mughal decline, regional states such as the Marathas, Sikhs, Rajputs and Jats emerged as powerful political centres.",
+    "points": [
+      "Mughal authority weakened after Aurangzeb, with costly wars and succession disputes.",
+      "The Marathas built a large confederacy under Shivaji and the Peshwas.",
+      "The Sikhs consolidated under Guru Gobind Singh and later Ranjit Singh.",
+      "Nawabs, Rajputs and Jats ruled regional kingdoms.",
+      "The eighteenth century was not simply chaotic; it saw vibrant regional economies."
+    ],
+    "example": "The Maratha confederacy expanded across central and northern India in the eighteenth century.",
+    "aliases": [
+      "eighteenth century political formations",
+      "marathas sikhs",
+      "mughal decline",
+      "regional states",
+      "peshwa"
+    ],
+    "mistakes": [
+      "Calling the eighteenth century a dark age.",
+      "Assuming the Mughals vanished immediately."
+    ]
+  },
+  {
+    "id": "hist-tribals-dikus",
+    "title": "Tribals, dikus and the vision of a golden age",
+    "subject": "History",
+    "classes": [
+      8
+    ],
+    "summary": "Colonial forest and revenue policies disrupted tribal economies and provoked movements such as Birsa Munda's.",
+    "points": [
+      "Tribal groups practised shifting cultivation, hunting and gathering.",
+      "Moneylenders and traders (dikus) took land and produce through debt.",
+      "Forest laws restricted access to customary resources.",
+      "Birsa Munda led the Munda rebellion in Chhotanagpur against land alienation.",
+      "Tribal movements combined livelihood demands with cultural identity."
+    ],
+    "example": "The Chhotanagpur Tenancy Act followed the Munda rebellion and restricted land transfer.",
+    "aliases": [
+      "tribals dikus",
+      "birsa munda",
+      "munda rebellion",
+      "tribal history",
+      "chhotanagpur"
+    ],
+    "mistakes": [
+      "Treating tribal society as unchanging.",
+      "Ignoring the role of moneylenders."
+    ]
+  },
+  {
+    "id": "hist-women-caste-reform",
+    "title": "Women, caste and reform",
+    "subject": "History",
+    "classes": [
+      8
+    ],
+    "summary": "Social reformers debated sati, widow remarriage, education for girls and caste inequality in the nineteenth century.",
+    "points": [
+      "Raja Rammohan Roy campaigned against sati.",
+      "Ishwar Chandra Vidyasagar promoted widow remarriage.",
+      "Jyotirao Phule and B. R. Ambedkar challenged caste hierarchy.",
+      "Women reformers such as Pandita Ramabai and Tarabai Shinde wrote and organised.",
+      "Reform was contested, and laws changed gradually."
+    ],
+    "example": "The Widow Remarriage Act 1856 legalised remarriage for Hindu widows.",
+    "aliases": [
+      "women caste reform",
+      "sati widow remarriage",
+      "raja rammohan roy",
+      "jyotirao phule",
+      "social reform india"
+    ],
+    "mistakes": [
+      "Assuming reform was universally welcomed.",
+      "Crediting only male reformers."
+    ]
+  },
+  {
+    "id": "hist-nationalism-1870",
+    "title": "The making of the national movement 1870s–1947",
+    "subject": "History",
+    "classes": [
+      8
+    ],
+    "summary": "Indian nationalism grew from early associations through the Congress, mass movements and finally independence.",
+    "points": [
+      "The Indian National Congress was founded in 1885.",
+      "Moderates demanded reform; radicals such as Tilak demanded swaraj.",
+      "Gandhi's non-cooperation, civil disobedience and quit India movements mobilised millions.",
+      "Muslim League, Hindu Mahasabha and other organisations shaped communal politics.",
+      "Independence in 1947 came with partition."
+    ],
+    "example": "The Dandi march of 1930 began civil disobedience against the salt tax.",
+    "aliases": [
+      "national movement 1870 to 1947",
+      "indian national congress",
+      "quit india",
+      "dandi march",
+      "swaraj"
+    ],
+    "mistakes": [
+      "Treating the freedom struggle as a single event.",
+      "Ignoring divisions within the movement."
+    ]
+  },
+  {
+    "id": "hist-india-after-independence",
+    "title": "India after independence",
+    "subject": "History",
+    "classes": [
+      8
+    ],
+    "summary": "Independent India faced partition, integration of states, constitution making and planned development.",
+    "points": [
+      "Partition displaced millions and created India and Pakistan.",
+      "Princely states were integrated through negotiation and accession.",
+      "The Constitution came into force in 1950 with universal adult franchise.",
+      "Linguistic states were reorganised in 1956.",
+      "Five Year Plans aimed at industrial and agricultural growth."
+    ],
+    "example": "The States Reorganisation Act 1956 created states based mainly on language.",
+    "aliases": [
+      "india after independence",
+      "partition 1947",
+      "integration of princely states",
+      "linguistic states",
+      "planned development"
+    ],
+    "mistakes": [
+      "Assuming integration was peaceful everywhere.",
+      "Ignoring the human cost of partition."
+    ]
+  },
+  {
+    "id": "geo-environment-7",
+    "title": "Our environment: natural and human",
+    "subject": "Geography",
+    "classes": [
+      7
+    ],
+    "summary": "The environment includes natural surroundings and human-made systems, and people modify nature to meet needs.",
+    "points": [
+      "The natural environment has land, water, air, plants and animals.",
+      "The human environment includes settlements, agriculture, industry and transport.",
+      "Human activity changes the environment and can damage it.",
+      "Sustainable practices balance human needs with environmental limits."
+    ],
+    "example": "Cutting hills for roads changes drainage and can cause landslides.",
+    "aliases": [
+      "our environment",
+      "natural human environment",
+      "environment class 7",
+      "human impact"
+    ],
+    "mistakes": [
+      "Treating the environment as only nature.",
+      "Ignoring human-made environments."
+    ]
+  },
+  {
+    "id": "geo-inside-earth-7",
+    "title": "Inside our earth",
+    "subject": "Geography",
+    "classes": [
+      7
+    ],
+    "summary": "The earth has layers — crust, mantle and core — and rocks are of three main types.",
+    "points": [
+      "The crust is the thin outer layer; the mantle lies below it; the core is at the centre.",
+      "Igneous rocks form from cooling magma, sedimentary from deposition, metamorphic from heat and pressure.",
+      "The rock cycle converts one rock type into another over time.",
+      "Minerals are the building blocks of rocks."
+    ],
+    "example": "Granite is an igneous rock that cooled slowly underground.",
+    "aliases": [
+      "inside our earth",
+      "layers of earth",
+      "types of rocks",
+      "rock cycle",
+      "minerals"
+    ],
+    "mistakes": [
+      "Thinking the crust is the thickest layer.",
+      "Assuming rocks never change type."
+    ]
+  },
+  {
+    "id": "geo-changing-earth-7",
+    "title": "Our changing earth",
+    "subject": "Geography",
+    "classes": [
+      7
+    ],
+    "summary": "Endogenic forces build landforms and exogenic forces such as water, wind and ice wear them down.",
+    "points": [
+      "Earthquakes and volcanoes are endogenic processes.",
+      "Rivers erode valleys, form meanders and deposit floodplains and deltas.",
+      "Glaciers carve U-shaped valleys and deposit moraines.",
+      "Wind forms dunes and mushroom rocks in deserts.",
+      "Sea waves cut cliffs and build beaches."
+    ],
+    "example": "The Grand Canyon was carved by river erosion over millions of years.",
+    "aliases": [
+      "our changing earth",
+      "landform formation",
+      "river erosion",
+      "glaciers wind waves",
+      "endogenic exogenic"
+    ],
+    "mistakes": [
+      "Assuming landforms form quickly.",
+      "Confusing erosion with deposition."
+    ]
+  },
+  {
+    "id": "geo-air-water-7",
+    "title": "Air and water",
+    "subject": "Geography",
+    "classes": [
+      7
+    ],
+    "summary": "Air and water are renewable resources whose quality and availability depend on natural cycles and human use.",
+    "points": [
+      "Air is a mixture of gases; the atmosphere has five layers.",
+      "Weather and climate are shaped by temperature, pressure, wind and moisture.",
+      "Water covers about three-fourths of the earth's surface but fresh water is scarce.",
+      "The water cycle renews fresh water through evaporation and precipitation.",
+      "Pollution and overuse threaten both resources."
+    ],
+    "formulas": [
+      {
+        "name": "Water cycle",
+        "expr": "evaporation → condensation → precipitation → collection"
+      }
+    ],
+    "example": "Groundwater depletion lowers the water table and dries wells.",
+    "aliases": [
+      "air and water",
+      "water cycle",
+      "atmosphere layers",
+      "fresh water scarcity",
+      "pollution"
+    ],
+    "mistakes": [
+      "Assuming fresh water is abundant.",
+      "Treating air as a single gas."
+    ]
+  },
+  {
+    "id": "geo-human-settlements-7",
+    "title": "Human environment: settlements and transport",
+    "subject": "Geography",
+    "classes": [
+      7
+    ],
+    "summary": "People live in rural and urban settlements linked by transport and communication.",
+    "points": [
+      "Rural settlements are villages; urban settlements are towns and cities.",
+      "Compact and dispersed patterns depend on terrain, water and land.",
+      "Transport modes include road, rail, water and air.",
+      "Communication links people through post, telephone and internet.",
+      "Cities offer services but face congestion and pollution."
+    ],
+    "example": "A hill village may have dispersed houses because flat land is scarce.",
+    "aliases": [
+      "human environment settlements",
+      "rural urban settlements",
+      "transport communication",
+      "settlement patterns",
+      "human settlements"
+    ],
+    "mistakes": [
+      "Assuming all villages look alike.",
+      "Ignoring transport in settlement growth."
+    ]
+  },
+  {
+    "id": "geo-resources-8",
+    "title": "Resources",
+    "subject": "Geography",
+    "classes": [
+      8
+    ],
+    "summary": "Resources are things people use from nature; they are classified by utility, exhaustibility and ownership.",
+    "points": [
+      "Natural resources include land, water, forests, minerals and energy.",
+      "Renewable resources can be replenished; non-renewable cannot.",
+      "Resources may be individual, community, national or international.",
+      "Human resources are people's skills and abilities.",
+      "Conservation means using resources wisely for the future."
+    ],
+    "example": "Community resources include village ponds and grazing land.",
+    "aliases": [
+      "resources class 8",
+      "types of resources",
+      "renewable non renewable",
+      "conservation of resources",
+      "human resources",
+      "resources and development class 10"
+    ],
+    "mistakes": [
+      "Classifying coal as renewable.",
+      "Ignoring human resources."
+    ]
+  },
+  {
+    "id": "geo-mineral-power-8",
+    "title": "Mineral and power resources",
+    "subject": "Geography",
+    "classes": [
+      8
+    ],
+    "summary": "Minerals and energy resources are unevenly distributed and must be conserved.",
+    "points": [
+      "Minerals may be metallic (iron, copper) or non-metallic (limestone, mica).",
+      "Mining can be open-cast, shaft or drilling based.",
+      "Conventional energy sources include coal, petroleum, natural gas and hydro.",
+      "Non-conventional sources include solar, wind, tidal, geothermal and biogas.",
+      "Conservation reduces waste and extends resource life."
+    ],
+    "example": "Iron ore is a metallic mineral used to make steel.",
+    "aliases": [
+      "mineral and power resources",
+      "metallic non metallic",
+      "conventional non conventional energy",
+      "mining",
+      "conservation"
+    ],
+    "mistakes": [
+      "Confusing minerals with rocks.",
+      "Treating fossil fuels as renewable."
+    ]
+  },
+  {
+    "id": "geo-industries-8",
+    "title": "Industries",
+    "subject": "Geography",
+    "classes": [
+      8
+    ],
+    "summary": "Industries process raw materials into goods and are classified by size, ownership and inputs.",
+    "points": [
+      "Industries may be primary, secondary or tertiary.",
+      "Classification by size: cottage, small scale, large scale.",
+      "Classification by ownership: private, public, joint and cooperative.",
+      "Location depends on raw materials, power, transport, labour and market.",
+      "Industries cause pollution and need cleaner technology."
+    ],
+    "example": "A steel plant is located near iron ore, coal and transport routes.",
+    "aliases": [
+      "industries class 8",
+      "classification of industries",
+      "industrial location",
+      "cottage industry",
+      "industrial pollution"
+    ],
+    "mistakes": [
+      "Assuming all industries are large factories.",
+      "Ignoring transport in location decisions."
+    ]
+  },
+  {
+    "id": "geo-human-resources-8",
+    "title": "Human resources",
+    "subject": "Geography",
+    "classes": [
+      8
+    ],
+    "summary": "People are a resource whose value depends on health, education and skills.",
+    "points": [
+      "Population becomes human capital through education and health.",
+      "Population density and distribution vary widely.",
+      "Literacy and skill levels affect productivity.",
+      "Migration changes the distribution of human resources.",
+      "Investing in people raises national development."
+    ],
+    "formulas": [
+      {
+        "name": "Population density",
+        "expr": "population / area"
+      }
+    ],
+    "example": "A country with high literacy tends to have more skilled workers.",
+    "aliases": [
+      "human resources class 8",
+      "human capital",
+      "population density",
+      "literacy skills",
+      "migration"
+    ],
+    "mistakes": [
+      "Equating a large population with developed human resources.",
+      "Ignoring health in human capital."
+    ]
+  },
+  {
+    "id": "civ-diversity-discrimination",
+    "title": "Diversity and discrimination",
+    "subject": "Civics",
+    "classes": [
+      6
+    ],
+    "summary": "India is diverse in language, religion and culture, and discrimination denies equality to some groups.",
+    "points": [
+      "Diversity enriches society but can also be a source of prejudice.",
+      "Discrimination occurs on the basis of caste, religion, gender and region.",
+      "The Constitution guarantees equality and prohibits discrimination.",
+      "Prejudice is an attitude; discrimination is behaviour.",
+      "Recognising stereotypes is the first step to challenging them."
+    ],
+    "example": "Refusing to rent a house to someone because of religion is discrimination.",
+    "aliases": [
+      "diversity and discrimination",
+      "prejudice stereotype",
+      "equality",
+      "caste religion discrimination"
+    ],
+    "mistakes": [
+      "Confusing prejudice with discrimination.",
+      "Assuming diversity causes conflict necessarily."
+    ]
+  },
+  {
+    "id": "civ-government-6",
+    "title": "What is government?",
+    "subject": "Civics",
+    "classes": [
+      6
+    ],
+    "summary": "Government makes decisions, implements them and provides services for a country or region.",
+    "points": [
+      "Governments make laws, run services and manage resources.",
+      "Levels include local, state and national.",
+      "In a democracy people choose representatives through elections.",
+      "Governments are accountable to citizens and the courts.",
+      "Universal adult franchise gives every adult a vote."
+    ],
+    "example": "A municipal corporation maintains roads and garbage collection in a city.",
+    "aliases": [
+      "what is government",
+      "levels of government",
+      "democracy elections",
+      "universal adult franchise"
+    ],
+    "mistakes": [
+      "Thinking government means only the central government.",
+      "Ignoring local government."
+    ]
+  },
+  {
+    "id": "civ-equality-7",
+    "title": "Equality in Indian democracy",
+    "subject": "Civics",
+    "classes": [
+      7
+    ],
+    "summary": "Equality means all citizens have the same rights and dignity, and the state acts against discrimination.",
+    "points": [
+      "The Constitution guarantees equality before the law.",
+      "Untouchability is abolished and its practice is an offence.",
+      "Affirmative action helps disadvantaged groups access education and jobs.",
+      "Inequality persists in wages, access and social treatment.",
+      "Courts and commissions enforce equality rights."
+    ],
+    "example": "Reservation in educational institutions is a measure to address historical inequality.",
+    "aliases": [
+      "equality in indian democracy",
+      "right to equality",
+      "untouchability",
+      "affirmative action",
+      "caste inequality"
+    ],
+    "mistakes": [
+      "Thinking equality means treating everyone identically in every situation.",
+      "Assuming discrimination has ended."
+    ]
+  },
+  {
+    "id": "civ-state-government",
+    "title": "State government",
+    "subject": "Civics",
+    "classes": [
+      7
+    ],
+    "summary": "Each state has a legislature, a chief minister and a governor, with powers divided from the centre.",
+    "points": [
+      "The Governor is the constitutional head of the state; the Chief Minister heads the government.",
+      "The state legislature may be unicameral or bicameral.",
+      "State governments handle police, health, education and agriculture.",
+      "The Legislative Assembly is directly elected by voters.",
+      "The centre and states share certain subjects under the Constitution."
+    ],
+    "example": "A state assembly passes laws on local schools and hospitals.",
+    "aliases": [
+      "state government",
+      "governor chief minister",
+      "vidhan sabha",
+      "state legislature"
+    ],
+    "mistakes": [
+      "Thinking the Governor makes policy independently.",
+      "Confusing the Assembly with the Council."
+    ]
+  },
+  {
+    "id": "civ-media-markets",
+    "title": "Media and markets",
+    "subject": "Civics",
+    "classes": [
+      7
+    ],
+    "summary": "Media informs and shapes opinion, while markets connect buyers and sellers with different kinds of shops and prices.",
+    "points": [
+      "Media includes newspapers, television, radio and the internet.",
+      "Media should be independent and factual; advertising can bias content.",
+      "Markets range from weekly haats to malls and online platforms.",
+      "Prices vary with place, quality and bargaining.",
+      "Consumers have rights and should compare and check quality."
+    ],
+    "example": "A weekly haat sells local produce directly from farmers to buyers.",
+    "aliases": [
+      "media and markets",
+      "understanding media",
+      "markets around us",
+      "consumer rights",
+      "advertising"
+    ],
+    "mistakes": [
+      "Treating all media information as neutral.",
+      "Assuming the cheapest price is always best value."
+    ]
+  },
+  {
+    "id": "civ-constitution-law-8",
+    "title": "The Indian Constitution and the rule of law",
+    "subject": "Civics",
+    "classes": [
+      8
+    ],
+    "summary": "The Constitution is the supreme law that sets out rights, duties and the structure of government.",
+    "points": [
+      "It defines the powers of the legislature, executive and judiciary.",
+      "Fundamental rights protect citizens; fundamental duties remind them of obligations.",
+      "The rule of law means no one is above the law.",
+      "The Constitution can be amended but its basic structure is protected.",
+      "It applies to all persons in India, with some rights only for citizens."
+    ],
+    "example": "A law that violates fundamental rights can be struck down by the courts.",
+    "aliases": [
+      "indian constitution",
+      "rule of law",
+      "fundamental rights duties",
+      "constitution class 8"
+    ],
+    "mistakes": [
+      "Thinking the Constitution is only for lawyers.",
+      "Ignoring fundamental duties."
+    ]
+  },
+  {
+    "id": "civ-secularism-8",
+    "title": "Understanding secularism",
+    "subject": "Civics",
+    "classes": [
+      8
+    ],
+    "summary": "Indian secularism means the state does not favour any religion and treats all religions with equal respect.",
+    "points": [
+      "The state has no official religion.",
+      "It can intervene to reform practices that violate rights, such as untouchability.",
+      "It may support religious minorities to promote equality.",
+      "Freedom of religion is a fundamental right.",
+      "Secularism protects both believers and non-believers."
+    ],
+    "example": "The state funds schools for all communities without teaching one religion as superior.",
+    "aliases": [
+      "understanding secularism",
+      "secularism india",
+      "freedom of religion",
+      "state and religion"
+    ],
+    "mistakes": [
+      "Equating secularism with hostility to religion.",
+      "Assuming all countries define secularism the same way."
+    ]
+  },
+  {
+    "id": "civ-marginalisation",
+    "title": "Marginalisation and social justice",
+    "subject": "Civics",
+    "classes": [
+      8
+    ],
+    "summary": "Some groups face exclusion from resources and opportunities, and the Constitution provides safeguards.",
+    "points": [
+      "Adivasis, Dalits, minorities and women have faced historical exclusion.",
+      "Reservation, protective laws and welfare schemes address disadvantage.",
+      "Marginalisation can be economic, social or political.",
+      "Access to land, education and justice is central to inclusion.",
+      "Agencies such as the SC/ST Commission monitor safeguards."
+    ],
+    "example": "The Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act protects against caste violence.",
+    "aliases": [
+      "marginalisation",
+      "social justice",
+      "adivasis dalits",
+      "reservation",
+      "protective laws"
+    ],
+    "mistakes": [
+      "Treating marginalisation as only economic.",
+      "Assuming legal protection ends discrimination."
+    ]
+  },
+  {
+    "id": "civ-public-facilities",
+    "title": "Public facilities",
+    "subject": "Civics",
+    "classes": [
+      8
+    ],
+    "summary": "Public facilities such as water, sanitation, health care and schools are essential and often provided by government.",
+    "points": [
+      "Water, electricity, sanitation and public transport are basic facilities.",
+      "Markets alone may not provide them to everyone at an affordable price.",
+      "The government funds them through taxes.",
+      "Their quality affects health, education and dignity.",
+      "Citizens can demand accountability for service delivery."
+    ],
+    "example": "A safe drinking water supply reduces waterborne disease in a locality.",
+    "aliases": [
+      "public facilities",
+      "water sanitation health",
+      "government services",
+      "public goods"
+    ],
+    "mistakes": [
+      "Assuming private markets serve everyone equally.",
+      "Ignoring the link between facilities and health."
+    ]
+  },
+  {
+    "id": "civ-law-social-justice",
+    "title": "Law and social justice",
+    "subject": "Civics",
+    "classes": [
+      8
+    ],
+    "summary": "Laws protect workers, consumers and the environment, and courts enforce them.",
+    "points": [
+      "Labour laws set minimum wages, safety and working hours.",
+      "The Bhopal gas tragedy led to stronger environmental and compensation laws.",
+      "Consumer protection law gives redress for defective goods and services.",
+      "Enforcement depends on inspection, courts and public awareness.",
+      "Weak enforcement allows exploitation to continue."
+    ],
+    "example": "The Bhopal gas leak in 1984 prompted the Environment Protection Act 1986.",
+    "aliases": [
+      "law and social justice",
+      "labour laws",
+      "bhopal gas tragedy",
+      "consumer protection",
+      "environment law"
+    ],
+    "mistakes": [
+      "Thinking a law is effective as soon as it is passed.",
+      "Ignoring enforcement problems."
+    ]
+  },
+  {
+    "id": "eng-literature-analysis",
+    "title": "Reading literature: prose, poetry and drama",
+    "subject": "English",
+    "classes": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "summary": "Literature is studied through theme, character, plot, setting, tone and poetic devices rather than plot summary alone.",
+    "points": [
+      "Theme is the central idea; it must be supported with evidence from the text.",
+      "Character analysis uses actions, speech and others' reactions.",
+      "Poetry analysis examines form, rhyme, imagery, tone and figures of speech.",
+      "Drama adds stage directions, dialogue and dramatic irony.",
+      "Answers should quote briefly and explain, not just retell the story."
+    ],
+    "example": "A poem's repeated image of darkness may build a tone of loss rather than simply describe night.",
+    "aliases": [
+      "literature analysis",
+      "prose poetry drama",
+      "theme character setting",
+      "poem analysis",
+      "english literature"
+    ],
+    "mistakes": [
+      "Retelling the plot instead of analysing.",
+      "Naming a device without explaining its effect."
+    ]
+  }
+]

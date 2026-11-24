@@ -1,0 +1,1196 @@
+[
+  {
+    "id": "acc-partnership",
+    "title": "Partnership accounts",
+    "subject": "Accountancy",
+    "classes": [
+      12
+    ],
+    "summary": "A partnership is a business owned by two or more persons who share profits and losses according to an agreement.",
+    "points": [
+      "The profit sharing ratio is set in the partnership deed; without a deed profits are shared equally.",
+      "Partners' capital accounts may be fixed or fluctuating.",
+      "Interest on capital, drawings, salary and commission are adjusted before dividing profit.",
+      "Admission, retirement and death of a partner require revaluation of assets and goodwill adjustment.",
+      "Goodwill is compensated to the sacrificing partners."
+    ],
+    "formulas": [
+      {
+        "name": "Sacrificing ratio",
+        "expr": "old ratio − new ratio"
+      },
+      {
+        "name": "Gaining ratio",
+        "expr": "new ratio − old ratio"
+      }
+    ],
+    "example": "A and B share 3:2; C is admitted for 1/5, so A and B sacrifice in their old ratio 3:2.",
+    "aliases": [
+      "partnership accounts",
+      "partnership deed",
+      "goodwill",
+      "sacrificing ratio",
+      "admission of partner",
+      "retirement of partner",
+      "accounting for partnership firms",
+      "reconstitution of partnership"
+    ],
+    "mistakes": [
+      "Splitting profit equally when a deed exists.",
+      "Ignoring the sacrificing ratio when admitting a partner."
+    ]
+  },
+  {
+    "id": "acc-company-accounts",
+    "title": "Company accounts: shares and debentures",
+    "subject": "Accountancy",
+    "classes": [
+      12
+    ],
+    "summary": "Companies raise capital by issuing shares and borrow by issuing debentures.",
+    "points": [
+      "Share capital is recorded as authorised, issued, subscribed and paid-up capital.",
+      "Shares may be issued at par, at premium or at a discount (now restricted).",
+      "Oversubscription is handled by pro-rata allotment, rejection or a combination.",
+      "Debentures carry fixed interest and are a liability, unlike shares.",
+      "Forfeiture of shares cancels the allotment when calls are unpaid."
+    ],
+    "formulas": [
+      {
+        "name": "Paid-up capital",
+        "expr": "subscribed capital − calls in arrears"
+      },
+      {
+        "name": "Securities premium",
+        "expr": "amount received above face value"
+      }
+    ],
+    "example": "A share of face value ₹10 issued at ₹12 creates a securities premium of ₹2 per share.",
+    "aliases": [
+      "company accounts",
+      "issue of shares",
+      "debentures",
+      "share capital",
+      "forfeiture of shares",
+      "securities premium",
+      "accounting for share capital",
+      "issue of debentures"
+    ],
+    "mistakes": [
+      "Treating debenture interest as an appropriation of profit.",
+      "Recording premium as revenue income."
+    ]
+  },
+  {
+    "id": "acc-cash-flow",
+    "title": "Cash flow statement",
+    "subject": "Accountancy",
+    "classes": [
+      12
+    ],
+    "summary": "A cash flow statement explains changes in cash by classifying flows into operating, investing and financing activities.",
+    "points": [
+      "Operating activities cover cash from core business operations.",
+      "Investing activities cover purchase and sale of fixed assets and investments.",
+      "Financing activities cover share capital, loans, dividends and interest paid.",
+      "Non-cash items such as depreciation are added back to net profit.",
+      "The statement reconciles opening and closing cash and bank balances."
+    ],
+    "formulas": [
+      {
+        "name": "Cash from operations",
+        "expr": "net profit before tax + non-cash expenses − working capital increase"
+      },
+      {
+        "name": "Net change in cash",
+        "expr": "operating + investing + financing flows"
+      }
+    ],
+    "example": "Depreciation of ₹50,000 is added back because it reduced profit without using cash.",
+    "aliases": [
+      "cash flow statement",
+      "operating investing financing",
+      "cash from operations",
+      "as 3"
+    ],
+    "mistakes": [
+      "Classifying dividend paid as operating.",
+      "Forgetting to adjust for changes in working capital."
+    ]
+  },
+  {
+    "id": "acc-rectification-brs",
+    "title": "Rectification of errors and bank reconciliation",
+    "subject": "Accountancy",
+    "classes": [
+      11
+    ],
+    "summary": "Errors in books are corrected through journal entries, and a bank reconciliation statement explains differences between cash book and passbook.",
+    "points": [
+      "Errors of omission, commission, principle and compensating errors affect the trial balance differently.",
+      "One-sided errors are corrected in the affected account; two-sided errors need a journal entry.",
+      "A suspense account temporarily balances a trial balance with one-sided errors.",
+      "Bank reconciliation starts from the cash book or passbook balance and adjusts for cheques, charges and direct deposits.",
+      "Timing differences are not errors and need no journal entry."
+    ],
+    "formulas": [
+      {
+        "name": "Reconciliation",
+        "expr": "cash book balance ± adjustments = passbook balance"
+      }
+    ],
+    "example": "A cheque deposited but not yet cleared reduces the passbook balance compared with the cash book.",
+    "aliases": [
+      "rectification of errors",
+      "bank reconciliation statement",
+      "suspense account",
+      "errors in accounting",
+      "brs"
+    ],
+    "mistakes": [
+      "Recording timing differences as errors.",
+      "Correcting a one-sided error with a two-sided entry."
+    ]
+  },
+  {
+    "id": "acc-bills-inventory",
+    "title": "Bills of exchange and inventory valuation",
+    "subject": "Accountancy",
+    "classes": [
+      11
+    ],
+    "summary": "Bills of exchange are credit instruments, and inventory is valued at cost or net realisable value, whichever is lower.",
+    "points": [
+      "A bill of exchange is a written order to pay a sum on a date.",
+      "The drawer, drawee and payee are the parties; endorsement transfers the bill.",
+      "Dishonour of a bill is recorded with noting charges.",
+      "Inventory valuation follows the lower of cost and net realisable value.",
+      "Cost may be found by FIFO, weighted average or specific identification."
+    ],
+    "formulas": [
+      {
+        "name": "Net realisable value",
+        "expr": "expected selling price − estimated costs to complete and sell"
+      },
+      {
+        "name": "Closing inventory",
+        "expr": "opening inventory + purchases − cost of goods sold"
+      }
+    ],
+    "example": "Goods costing ₹10,000 now sell for ₹8,000, so inventory is valued at ₹8,000.",
+    "aliases": [
+      "bills of exchange",
+      "inventory valuation",
+      "fifo weighted average",
+      "net realisable value",
+      "dishonour of bill"
+    ],
+    "mistakes": [
+      "Valuing inventory at selling price without deducting costs.",
+      "Forgetting noting charges on dishonour."
+    ]
+  },
+  {
+    "id": "bus-business-environment",
+    "title": "Business environment",
+    "subject": "Business Studies",
+    "classes": [
+      12
+    ],
+    "summary": "The business environment is the set of external forces — economic, social, technological, political and legal — that affect a firm.",
+    "points": [
+      "The environment offers opportunities and threats that a firm must scan.",
+      "Dimensions include economic, social, technological, political and legal conditions.",
+      "Liberalisation, privatisation and globalisation reshaped Indian business after 1991.",
+      "Environmental scanning helps planning, policy making and early warning."
+    ],
+    "example": "A new pollution norm is a legal environment change that forces factories to upgrade equipment.",
+    "aliases": [
+      "business environment",
+      "dimensions of business environment",
+      "liberalisation privatisation globalisation",
+      "lpg reforms"
+    ],
+    "mistakes": [
+      "Treating the environment as only economic.",
+      "Ignoring legal changes in planning."
+    ]
+  },
+  {
+    "id": "bus-planning-organising",
+    "title": "Planning and organising",
+    "subject": "Business Studies",
+    "classes": [
+      12
+    ],
+    "summary": "Planning sets objectives and courses of action; organising arranges resources and authority to carry them out.",
+    "points": [
+      "Planning is primary, continuous and future-oriented, and it reduces uncertainty.",
+      "A plan needs objectives, strategies, policies, procedures and rules.",
+      "Organising divides work, assigns duties and establishes reporting relationships.",
+      "Delegation transfers authority; decentralisation spreads decision making.",
+      "Span of control and departmentation shape the organisation structure."
+    ],
+    "example": "A firm creates separate production and marketing departments, which is departmentation by function.",
+    "aliases": [
+      "planning",
+      "organising",
+      "delegation",
+      "decentralisation",
+      "span of control",
+      "organisation structure"
+    ],
+    "mistakes": [
+      "Confusing delegation with decentralisation.",
+      "Thinking planning guarantees success."
+    ]
+  },
+  {
+    "id": "bus-staffing-directing",
+    "title": "Staffing, directing and controlling",
+    "subject": "Business Studies",
+    "classes": [
+      12
+    ],
+    "summary": "Staffing fills positions with the right people, directing guides them, and controlling checks performance against standards.",
+    "points": [
+      "Staffing includes recruitment, selection, training and appraisal.",
+      "Directing involves supervision, motivation, leadership and communication.",
+      "Maslow's hierarchy and other theories explain motivation.",
+      "Controlling sets standards, measures performance and takes corrective action.",
+      "Management by exception focuses attention on significant deviations."
+    ],
+    "example": "A sales target of 100 units per month with a variance report is an example of the control process.",
+    "aliases": [
+      "staffing",
+      "directing",
+      "controlling",
+      "motivation theories",
+      "recruitment selection",
+      "management by exception"
+    ],
+    "mistakes": [
+      "Treating control as punishment.",
+      "Confusing recruitment with selection."
+    ]
+  },
+  {
+    "id": "bus-financial-management",
+    "title": "Financial management and financial markets",
+    "subject": "Business Studies",
+    "classes": [
+      12
+    ],
+    "summary": "Financial management decides how much to raise, from where, and how to use funds, while financial markets channel savings to investors.",
+    "points": [
+      "Financing, investment and dividend decisions are the three financial decisions.",
+      "Capital structure mixes debt and equity; too much debt raises financial risk.",
+      "Working capital is the funds needed for day-to-day operations.",
+      "The primary market issues new securities; the secondary market trades existing ones.",
+      "SEBI regulates the securities market to protect investors."
+    ],
+    "formulas": [
+      {
+        "name": "Working capital",
+        "expr": "current assets − current liabilities"
+      },
+      {
+        "name": "Debt–equity ratio",
+        "expr": "long-term debt / shareholders' funds"
+      }
+    ],
+    "example": "A company raising money through an IPO is operating in the primary market.",
+    "aliases": [
+      "financial management",
+      "capital structure",
+      "working capital",
+      "financial markets",
+      "sebi",
+      "primary secondary market"
+    ],
+    "mistakes": [
+      "Confusing the primary and secondary markets.",
+      "Ignoring the risk of high debt."
+    ]
+  },
+  {
+    "id": "bus-marketing-consumer",
+    "title": "Marketing mix and consumer protection",
+    "subject": "Business Studies",
+    "classes": [
+      12
+    ],
+    "summary": "Marketing mixes product, price, place and promotion, and consumer law protects buyers from unfair trade.",
+    "points": [
+      "The marketing mix is the four Ps: product, price, place and promotion.",
+      "Branding, labelling and packaging support product positioning.",
+      "Pricing methods include cost plus, penetration and skimming.",
+      "Channels of distribution move goods from producer to consumer.",
+      "The Consumer Protection Act 2019 gives redressal commissions and e-commerce rights."
+    ],
+    "example": "A new phone launched at a low price to gain market share uses penetration pricing.",
+    "aliases": [
+      "marketing mix",
+      "four ps",
+      "consumer protection act",
+      "branding pricing",
+      "channels of distribution"
+    ],
+    "mistakes": [
+      "Treating marketing as only advertising.",
+      "Forgetting that the Act covers e-commerce."
+    ]
+  },
+  {
+    "id": "eco-government-budget",
+    "title": "Government budget and the economy",
+    "subject": "Economics",
+    "classes": [
+      12
+    ],
+    "summary": "A government budget is an annual statement of estimated receipts and expenditure, used to influence the economy.",
+    "points": [
+      "Revenue receipts are not matched by a liability or asset reduction; capital receipts are.",
+      "Revenue expenditure does not create assets; capital expenditure does.",
+      "A fiscal deficit is total expenditure minus total receipts excluding borrowings.",
+      "Deficits may be financed by borrowing, which adds to public debt.",
+      "Fiscal policy can stabilise demand during booms and recessions."
+    ],
+    "formulas": [
+      {
+        "name": "Fiscal deficit",
+        "expr": "total expenditure − (revenue receipts + non-debt capital receipts)"
+      },
+      {
+        "name": "Primary deficit",
+        "expr": "fiscal deficit − interest payments"
+      },
+      {
+        "name": "Revenue deficit",
+        "expr": "revenue expenditure − revenue receipts"
+      }
+    ],
+    "example": "If expenditure is ₹50 lakh crore and receipts ₹45 lakh crore, the fiscal deficit is ₹5 lakh crore.",
+    "aliases": [
+      "government budget",
+      "fiscal deficit",
+      "revenue deficit",
+      "capital receipts",
+      "budget deficits"
+    ],
+    "mistakes": [
+      "Confusing fiscal and revenue deficit.",
+      "Treating borrowing as a receipt without consequence."
+    ]
+  },
+  {
+    "id": "eco-balance-of-payments",
+    "title": "Balance of payments and exchange rate",
+    "subject": "Economics",
+    "classes": [
+      12
+    ],
+    "summary": "The balance of payments records a country's transactions with the rest of the world, and the exchange rate links its currency to others.",
+    "points": [
+      "The current account covers goods, services and transfers; the capital account covers assets and liabilities.",
+      "A current account deficit must be financed by capital inflows or reserves.",
+      "A devaluation makes exports cheaper and imports dearer.",
+      "Exchange rates may be fixed or floating.",
+      "Depreciation of a currency can improve the trade balance over time if demand is elastic."
+    ],
+    "formulas": [
+      {
+        "name": "Current account balance",
+        "expr": "exports of goods and services − imports + net transfers"
+      },
+      {
+        "name": "BOP identity",
+        "expr": "current account + capital account + errors = 0"
+      }
+    ],
+    "example": "A rise in crude oil imports widens India's current account deficit.",
+    "aliases": [
+      "balance of payments",
+      "current account",
+      "capital account",
+      "exchange rate",
+      "devaluation depreciation"
+    ],
+    "mistakes": [
+      "Saying the balance of payments can be in permanent surplus.",
+      "Confusing devaluation with depreciation."
+    ]
+  },
+  {
+    "id": "eco-inflation",
+    "title": "Inflation and unemployment",
+    "subject": "Economics",
+    "classes": [
+      12
+    ],
+    "summary": "Inflation is a sustained rise in the general price level, and unemployment is the share of the labour force without work.",
+    "points": [
+      "Demand-pull inflation comes from excess demand; cost-push from rising input costs.",
+      "Inflation redistributes income away from fixed-income earners.",
+      "The Phillips curve suggests a short-run trade-off between inflation and unemployment.",
+      "Types of unemployment include frictional, structural, cyclical and seasonal.",
+      "Monetary and fiscal policy are used to manage demand."
+    ],
+    "formulas": [
+      {
+        "name": "Inflation rate",
+        "expr": "[(P₁ − P₀)/P₀] × 100"
+      },
+      {
+        "name": "Unemployment rate",
+        "expr": "(unemployed / labour force) × 100"
+      }
+    ],
+    "example": "A 6% inflation rate means a basket costing ₹100 last year costs about ₹106 now.",
+    "aliases": [
+      "inflation",
+      "unemployment",
+      "phillips curve",
+      "demand pull cost push",
+      "cpi wpi"
+    ],
+    "mistakes": [
+      "Calling a one-time price rise inflation.",
+      "Counting people outside the labour force as unemployed."
+    ]
+  },
+  {
+    "id": "eco-indian-economy-reforms",
+    "title": "Indian economy 1950–90 and economic reforms",
+    "subject": "Economics",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "India mixed planning with public investment after independence, then liberalised in 1991 after a balance-of-payments crisis.",
+    "points": [
+      "The Five Year Plans set targets for agriculture and industry.",
+      "The Green Revolution raised wheat and rice output.",
+      "The licence-permit system regulated industry and limited competition.",
+      "The 1991 reforms liberalised trade, privatised some public units and opened foreign investment.",
+      "Growth rose but agriculture and employment did not keep pace evenly."
+    ],
+    "example": "The 1991 rupee devaluation and removal of industrial licensing marked the reform turn.",
+    "aliases": [
+      "indian economy 1950 90",
+      "economic reforms 1991",
+      "lpg reforms",
+      "five year plans",
+      "green revolution",
+      "licence raj"
+    ],
+    "mistakes": [
+      "Treating reforms as a single policy.",
+      "Assuming the Green Revolution covered all crops equally."
+    ]
+  },
+  {
+    "id": "eco-human-capital-rural",
+    "title": "Human capital, rural development and employment",
+    "subject": "Economics",
+    "classes": [
+      12
+    ],
+    "summary": "Investment in education and health builds human capital, and rural development covers credit, infrastructure and employment schemes.",
+    "points": [
+      "Human capital formation raises productivity and income.",
+      "Rural credit comes from formal sources (banks, cooperatives) and informal moneylenders.",
+      "MGNREGA guarantees rural wage employment.",
+      "Agricultural diversification and organic farming raise rural incomes.",
+      "Informal workers lack social security and job protection."
+    ],
+    "example": "A village library and school raise literacy, which improves earning capacity over time.",
+    "aliases": [
+      "human capital formation",
+      "rural development",
+      "mgnrega",
+      "employment",
+      "rural credit",
+      "informal sector"
+    ],
+    "mistakes": [
+      "Confusing human capital with human development.",
+      "Ignoring informal employment in official statistics."
+    ]
+  },
+  {
+    "id": "cs-python-programming",
+    "title": "Python programming fundamentals",
+    "subject": "Computer Science",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Python is a high-level language with simple syntax, used for scripting, data work and teaching programming.",
+    "points": [
+      "Variables hold references to objects; types include int, float, str, list, tuple and dict.",
+      "Indentation defines blocks instead of braces.",
+      "Input from input() is a string and must be converted for arithmetic.",
+      "Operators include arithmetic, comparison, logical and membership operators.",
+      "Errors may be syntax, runtime or logical."
+    ],
+    "formulas": [
+      {
+        "name": "Integer division",
+        "expr": "a // b gives the quotient, a % b the remainder"
+      },
+      {
+        "name": "Type conversion",
+        "expr": "int('7') gives 7"
+      }
+    ],
+    "example": "print(int(input('Number: ')) * 2) doubles the number typed by the user.",
+    "aliases": [
+      "python",
+      "python programming",
+      "variables data types",
+      "input output python",
+      "operators python"
+    ],
+    "mistakes": [
+      "Adding a string to an integer without converting.",
+      "Mixing tabs and spaces for indentation."
+    ]
+  },
+  {
+    "id": "cs-control-flow",
+    "title": "Conditional and iterative statements",
+    "subject": "Computer Science",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Conditionals choose between paths and loops repeat statements, giving programs control over execution.",
+    "points": [
+      "if, elif and else select a block based on conditions.",
+      "for loops iterate over a sequence; while loops repeat while a condition is true.",
+      "break exits a loop and continue skips to the next iteration.",
+      "Nested loops are used for patterns and tables.",
+      "Infinite loops occur when the condition never becomes false."
+    ],
+    "example": "for i in range(1, 6): print(i) prints 1 to 5.",
+    "aliases": [
+      "control flow",
+      "if else",
+      "for loop while loop",
+      "break continue",
+      "iteration"
+    ],
+    "mistakes": [
+      "Forgetting the colon after a condition.",
+      "Changing the loop variable inside a for loop expecting extra iterations."
+    ]
+  },
+  {
+    "id": "cs-functions-modules",
+    "title": "Functions and modules",
+    "subject": "Computer Science",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Functions group reusable code, and modules group functions into importable files.",
+    "points": [
+      "A function is defined with def and may take parameters and return a value.",
+      "Arguments may be positional, keyword or default.",
+      "Local variables exist only inside a function; global variables are visible throughout.",
+      "Modules are imported with import or from ... import.",
+      "The standard library includes math, random, statistics and datetime."
+    ],
+    "example": "def area(r): return 3.14 * r * r makes area(2) return 12.56.",
+    "aliases": [
+      "functions",
+      "modules",
+      "def return",
+      "scope local global",
+      "import"
+    ],
+    "mistakes": [
+      "Thinking a function without return gives None is an error.",
+      "Modifying a global inside a function without global."
+    ]
+  },
+  {
+    "id": "cs-lists-dictionaries",
+    "title": "Lists, tuples, sets and dictionaries",
+    "subject": "Computer Science",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Python's built-in collections store groups of values in different ways: ordered, immutable, unique or keyed.",
+    "points": [
+      "Lists are ordered and mutable; tuples are ordered and immutable.",
+      "Sets store unique elements and support union, intersection and difference.",
+      "Dictionaries store key–value pairs with fast lookup by key.",
+      "Slicing extracts a part of a sequence with [start:stop:step].",
+      "List comprehensions build lists in one expression."
+    ],
+    "formulas": [
+      {
+        "name": "Slice",
+        "expr": "lst[1:4] gives elements at indices 1, 2, 3"
+      }
+    ],
+    "example": "d = {'a': 1}; d['a'] returns 1, and d.get('b') returns None instead of an error.",
+    "aliases": [
+      "lists tuples sets dictionaries",
+      "data structures python",
+      "slicing",
+      "dictionary methods",
+      "list comprehension"
+    ],
+    "mistakes": [
+      "Trying to change a tuple.",
+      "Using a mutable list as a dictionary key."
+    ]
+  },
+  {
+    "id": "cs-file-handling",
+    "title": "File handling",
+    "subject": "Computer Science",
+    "classes": [
+      12
+    ],
+    "summary": "Files store data permanently, and Python reads and writes them through file objects.",
+    "points": [
+      "open() takes a filename and a mode: r, w, a, or b for binary.",
+      "write() writes strings; writelines() writes a list of strings.",
+      "read(), readline() and readlines() read different amounts of data.",
+      "The with statement closes the file automatically.",
+      "CSV files can be handled with the csv module."
+    ],
+    "example": "with open('data.txt', 'w') as f: f.write('hello') creates the file and closes it safely.",
+    "aliases": [
+      "file handling",
+      "open read write",
+      "csv module",
+      "with statement",
+      "file modes"
+    ],
+    "mistakes": [
+      "Opening in 'w' mode when you meant to append.",
+      "Forgetting to close a file or use with."
+    ]
+  },
+  {
+    "id": "cs-sql-mysql",
+    "title": "Database concepts and SQL",
+    "subject": "Computer Science",
+    "classes": [
+      12
+    ],
+    "summary": "Relational databases store data in tables, and SQL queries, inserts and updates that data.",
+    "points": [
+      "A relation is a table with rows (tuples) and columns (attributes).",
+      "Keys identify rows: primary key is unique, foreign key references another table.",
+      "DDL creates and alters structures; DML inserts, updates and deletes data.",
+      "SELECT with WHERE, ORDER BY, GROUP BY and HAVING queries data.",
+      "Aggregate functions include COUNT, SUM, AVG, MIN and MAX."
+    ],
+    "formulas": [
+      {
+        "name": "Select",
+        "expr": "SELECT columns FROM table WHERE condition;"
+      },
+      {
+        "name": "Aggregate",
+        "expr": "SELECT AVG(marks) FROM students;"
+      }
+    ],
+    "example": "SELECT name FROM students WHERE marks > 80 ORDER BY name; lists high scorers alphabetically.",
+    "aliases": [
+      "sql",
+      "mysql",
+      "database concepts",
+      "primary key foreign key",
+      "select query",
+      "ddl dml",
+      "structured query language"
+    ],
+    "mistakes": [
+      "Using = instead of IS NULL for null checks.",
+      "Grouping without including the grouped column."
+    ]
+  },
+  {
+    "id": "cs-computer-networks",
+    "title": "Computer networks",
+    "subject": "Computer Science",
+    "classes": [
+      12
+    ],
+    "summary": "A network connects devices so they can share data and resources, using agreed protocols.",
+    "points": [
+      "Topologies include star, bus, ring and mesh, each with different cost and reliability.",
+      "A LAN covers a small area; a WAN spans large distances.",
+      "The internet is a network of networks using TCP/IP.",
+      "IP addresses identify devices; DNS translates names into addresses.",
+      "Devices include hubs, switches, routers and modems."
+    ],
+    "formulas": [
+      {
+        "name": "Bandwidth",
+        "expr": "data transferred per unit time"
+      }
+    ],
+    "example": "A school computer lab is a LAN; connecting it to an ISP makes it part of a WAN.",
+    "aliases": [
+      "computer networks",
+      "lan wan",
+      "tcp ip",
+      "ip address dns",
+      "network topology",
+      "router switch"
+    ],
+    "mistakes": [
+      "Calling the internet the same as the world wide web.",
+      "Confusing a hub with a switch."
+    ]
+  },
+  {
+    "id": "cs-boolean-logic",
+    "title": "Boolean algebra and logic gates",
+    "subject": "Computer Science",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Boolean algebra uses true and false values, and logic gates implement its operations in hardware.",
+    "points": [
+      "Basic gates are AND, OR and NOT; NAND and NOR are universal gates.",
+      "Truth tables list outputs for every input combination.",
+      "De Morgan's theorems convert between AND and OR forms.",
+      "Karnaugh maps simplify Boolean expressions.",
+      "Adders and flip-flops are built from gates."
+    ],
+    "formulas": [
+      {
+        "name": "De Morgan 1",
+        "expr": "(A·B)′ = A′ + B′"
+      },
+      {
+        "name": "De Morgan 2",
+        "expr": "(A + B)′ = A′·B′"
+      },
+      {
+        "name": "XOR",
+        "expr": "A ⊕ B = A′B + AB′"
+      }
+    ],
+    "example": "A NAND gate gives 0 only when both inputs are 1.",
+    "aliases": [
+      "boolean algebra",
+      "logic gates",
+      "truth table",
+      "de morgan",
+      "nand nor",
+      "karnaugh map"
+    ],
+    "mistakes": [
+      "Treating NAND as AND followed by NOT on each input.",
+      "Forgetting that NOR is also universal."
+    ]
+  },
+  {
+    "id": "cs-society-ethics",
+    "title": "Computer science and society",
+    "subject": "Computer Science",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Computing raises questions of privacy, security, intellectual property, accessibility and the impact of automation.",
+    "points": [
+      "Personal data must be collected with consent and protected from misuse.",
+      "Cybercrimes include phishing, identity theft, hacking and cyberbullying.",
+      "Software piracy violates copyright; open-source licences allow reuse under conditions.",
+      "Automation changes employment and requires new skills.",
+      "The digital divide limits access to technology for poorer and rural users."
+    ],
+    "example": "A phishing email that imitates a bank steals login details if the link is clicked.",
+    "aliases": [
+      "computer science society",
+      "cyber ethics",
+      "privacy security",
+      "digital divide",
+      "software piracy",
+      "cybercrime"
+    ],
+    "mistakes": [
+      "Sharing passwords or OTPs with anyone.",
+      "Assuming free software is always unrestricted."
+    ]
+  },
+  {
+    "id": "eng-grammar-tenses",
+    "title": "English grammar: tenses",
+    "subject": "English",
+    "classes": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "summary": "Tense shows the time of an action and whether it is simple, continuous, perfect or perfect continuous.",
+    "points": [
+      "Simple present describes habits and general truths; present continuous describes actions now.",
+      "Present perfect links a past action to the present; past perfect shows an earlier past.",
+      "Future forms include will, going to and present continuous for arrangements.",
+      "Time markers such as since, for, already and yesterday guide the choice of tense.",
+      "Sequence of tenses keeps the tense consistent in reported speech."
+    ],
+    "example": "She has lived here since 2019 uses present perfect with 'since' for an action continuing to now.",
+    "aliases": [
+      "tenses",
+      "present past future tense",
+      "perfect continuous",
+      "sequence of tenses",
+      "grammar tense"
+    ],
+    "mistakes": [
+      "Using present perfect with a finished past time like yesterday.",
+      "Mixing 'since' and 'for'."
+    ]
+  },
+  {
+    "id": "eng-voice-narration",
+    "title": "Active and passive voice; direct and indirect speech",
+    "subject": "English",
+    "classes": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "summary": "Voice shows whether the subject acts or is acted upon, and narration reports speech directly or indirectly.",
+    "points": [
+      "In passive voice the object becomes the subject and the verb becomes be + past participle.",
+      "Passive is used when the doer is unknown or unimportant.",
+      "In indirect speech pronouns, tense and time words shift unless the reporting verb is in the present.",
+      "Questions, commands and requests change structure when reported.",
+      "Said becomes told when an object follows."
+    ],
+    "example": "She said, \"I am tired.\" becomes She said that she was tired.",
+    "aliases": [
+      "active passive voice",
+      "direct indirect speech",
+      "reported speech",
+      "narration change",
+      "voice change"
+    ],
+    "mistakes": [
+      "Changing the tense when the reporting verb is present.",
+      "Forgetting to change 'today' to 'that day'."
+    ]
+  },
+  {
+    "id": "eng-writing-skills",
+    "title": "Writing skills: letters, notices, reports, articles",
+    "subject": "English",
+    "classes": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "summary": "Formal writing follows fixed formats: letters, notices, reports, articles, speeches and diary entries.",
+    "points": [
+      "A formal letter has sender address, date, receiver address, subject, salutation, body and closing.",
+      "A notice is short, in a box, with a heading, date, and the writer's name and designation.",
+      "A report states what, where, when, who and why in past tense with a headline.",
+      "An article has an introduction, body paragraphs and a conclusion, with a title.",
+      "Word limits matter: stay within the range given in the question."
+    ],
+    "example": "A notice for a lost water bottle names the item, place, date and where to return it.",
+    "aliases": [
+      "writing skills",
+      "formal letter",
+      "notice writing",
+      "report writing",
+      "article writing",
+      "speech writing"
+    ],
+    "mistakes": [
+      "Writing a letter without a subject line.",
+      "Exceeding the word limit and losing marks."
+    ]
+  },
+  {
+    "id": "eng-reading-comprehension",
+    "title": "Reading comprehension and note making",
+    "subject": "English",
+    "classes": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "summary": "Comprehension tests whether you can find, infer and summarise information from a passage.",
+    "points": [
+      "Read the questions first, then scan the passage for the relevant lines.",
+      "Answer in your own words where asked; do not copy whole sentences for 'in your own words' questions.",
+      "Inference questions need a conclusion from clues, not a direct quote.",
+      "Note making uses headings, sub-points and abbreviations.",
+      "Vocabulary questions test meaning in context, not dictionary definitions alone."
+    ],
+    "example": "If a passage says a plan was 'shelved', the answer is postponed, not placed on a shelf.",
+    "aliases": [
+      "reading comprehension",
+      "unseen passage",
+      "note making",
+      "summary writing",
+      "inference questions"
+    ],
+    "mistakes": [
+      "Lifting lines for a summary.",
+      "Ignoring the marks allotted per question."
+    ]
+  },
+  {
+    "id": "hin-vyakaran-core",
+    "title": "Hindi vyakaran: kaarak, samas aur alankar",
+    "subject": "Hindi",
+    "classes": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "summary": "Hindi grammar covers kaarak, samas, upasarg–pratyay, ras and alankar, which are tested in vyakaran sections.",
+    "points": [
+      "There are eight kaarak; vibhakti markers such as ne, ko and se show the relation.",
+      "Samas joins two or more words into one; types include tatpurush, dwandwa, bahuvrihi and dwigu.",
+      "Upasarg change meaning and pratyay form new words.",
+      "Alankar are figures of speech: anupras, upama, rupak, utpreksha and yamak.",
+      "Ras are the nine aesthetic emotions evoked by literature."
+    ],
+    "example": "'Raja ka putra' becomes 'rajputra', an example of tatpurush samas.",
+    "aliases": [
+      "hindi vyakaran",
+      "karak",
+      "samas",
+      "alankar",
+      "ras",
+      "upasarg pratyay",
+      "hindi grammar"
+    ],
+    "mistakes": [
+      "Confusing upama (simile) with rupak (metaphor).",
+      "Counting vibhakti as kaarak itself."
+    ]
+  },
+  {
+    "id": "hin-rachana",
+    "title": "Hindi rachna: patra, nibandh aur anuchhed",
+    "subject": "Hindi",
+    "classes": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "summary": "Hindi writing skills include patra-lekhan, nibandh, anuchhed, suchna and vigyapan.",
+    "points": [
+      "Aupcharik patra follows a fixed format with sender, date, receiver, vishay and signature.",
+      "Anuchhed is a short, focused paragraph with one main idea.",
+      "Nibandh has a bhoomika, vistar and upasamhar.",
+      "Suchna is brief and factual; vigyapan uses persuasive short lines.",
+      "Language should be simple and free of spelling errors."
+    ],
+    "example": "A leave-application patra begins with the sender's address, then date, receiver, vishay and body.",
+    "aliases": [
+      "hindi patra lekhan",
+      "nibandh",
+      "anuchhed",
+      "suchna lekhan",
+      "vigyapan",
+      "hindi writing"
+    ],
+    "mistakes": [
+      "Writing an aupcharik patra without a vishay line.",
+      "Making an anuchhed too long and unfocused."
+    ]
+  },
+  {
+    "id": "geo-population-geography",
+    "title": "Population geography",
+    "subject": "Geography",
+    "classes": [
+      12
+    ],
+    "summary": "Population geography studies the distribution, density, growth and composition of population.",
+    "points": [
+      "Population distribution is uneven and shaped by terrain, climate, soils and resources.",
+      "Density is people per square kilometre; growth comes from births, deaths and migration.",
+      "The demographic transition moves from high birth and death rates to low ones.",
+      "Population composition covers age, sex, literacy and occupation.",
+      "An ageing population raises dependency and health costs."
+    ],
+    "formulas": [
+      {
+        "name": "Population density",
+        "expr": "total population / area"
+      },
+      {
+        "name": "Natural growth",
+        "expr": "birth rate − death rate"
+      },
+      {
+        "name": "Dependency ratio",
+        "expr": "(population under 15 + over 64) / working-age population × 100"
+      }
+    ],
+    "example": "A country with birth rate 30 and death rate 8 per thousand grows naturally at 2.2% a year.",
+    "aliases": [
+      "population geography",
+      "population density",
+      "demographic transition",
+      "population composition",
+      "dependency ratio",
+      "population distribution density and growth"
+    ],
+    "mistakes": [
+      "Confusing growth rate with natural increase when migration is large.",
+      "Ignoring age structure when comparing countries."
+    ]
+  },
+  {
+    "id": "geo-human-development",
+    "title": "Human development",
+    "subject": "Geography",
+    "classes": [
+      12
+    ],
+    "summary": "Human development measures how far people can live long, healthy and knowledgeable lives.",
+    "points": [
+      "The Human Development Index combines life expectancy, education and income.",
+      "Development is about capabilities and choices, not income alone.",
+      "The HDI ranges from 0 to 1, with higher values indicating better development.",
+      "Inequality-adjusted HDI and gender-related indices reveal gaps hidden by averages.",
+      "Bhutan's Gross National Happiness is an alternative measure."
+    ],
+    "formulas": [
+      {
+        "name": "HDI",
+        "expr": "geometric mean of health, education and income indices"
+      }
+    ],
+    "example": "Two countries with the same income can have different HDI because health and schooling differ.",
+    "aliases": [
+      "human development",
+      "hdi",
+      "human development index",
+      "capabilities",
+      "gross national happiness"
+    ],
+    "mistakes": [
+      "Treating HDI as a pure income measure.",
+      "Comparing HDI across years without noting methodology changes."
+    ]
+  },
+  {
+    "id": "geo-economic-activities",
+    "title": "Primary, secondary, tertiary and quaternary activities",
+    "subject": "Geography",
+    "classes": [
+      12
+    ],
+    "summary": "Economic activities are grouped by what they take from nature, transform, service or research.",
+    "points": [
+      "Primary activities directly use natural resources: farming, fishing, mining, forestry.",
+      "Secondary activities process raw materials: manufacturing, construction, power.",
+      "Tertiary activities provide services: trade, transport, banking, education.",
+      "Quaternary activities involve knowledge work such as research and computing.",
+      "Quinary activities involve top-level decision making."
+    ],
+    "example": "Turning cotton into cloth is a secondary activity, while selling the cloth is tertiary.",
+    "aliases": [
+      "economic activities",
+      "primary secondary tertiary",
+      "quaternary quinary",
+      "sectors of economy",
+      "manufacturing services",
+      "primary activities",
+      "secondary activities",
+      "tertiary and quaternary activities"
+    ],
+    "mistakes": [
+      "Classifying mining as secondary.",
+      "Ignoring that many workers hold jobs across sectors."
+    ]
+  },
+  {
+    "id": "geo-transport-trade",
+    "title": "Transport, communication and international trade",
+    "subject": "Geography",
+    "classes": [
+      12
+    ],
+    "summary": "Transport and communication move goods, people and information, and international trade exchanges them between countries.",
+    "points": [
+      "Modes include road, rail, water, air and pipelines, each suited to different goods and distances.",
+      "Ports and terminals are gateways of international trade.",
+      "Trade may be bilateral or multilateral; balance of trade compares exports and imports.",
+      "Containerisation reduced handling costs and speeded up shipping.",
+      "Digital communication now carries services across borders."
+    ],
+    "example": "Coal moves by rail and ship because it is bulky and low in value per tonne.",
+    "aliases": [
+      "transport and communication",
+      "international trade",
+      "balance of trade",
+      "ports",
+      "modes of transport"
+    ],
+    "mistakes": [
+      "Confusing balance of trade with balance of payments.",
+      "Assuming air transport suits bulky goods."
+    ]
+  },
+  {
+    "id": "geo-india-population-settlements",
+    "title": "India: population, migration and settlements",
+    "subject": "Geography",
+    "classes": [
+      12
+    ],
+    "summary": "India's population is unevenly distributed, shaped by migration and growing urban settlements.",
+    "points": [
+      "The northern plains and coastal areas are densely populated; mountains and deserts are sparse.",
+      "Migration may be rural-to-rural, rural-to-urban or urban-to-urban.",
+      "Push factors include poverty and land pressure; pull factors include jobs and services.",
+      "Settlements are compact or dispersed, rural or urban.",
+      "Urbanisation brings slums, congestion and pressure on services."
+    ],
+    "formulas": [
+      {
+        "name": "Sex ratio",
+        "expr": "females per 1000 males"
+      },
+      {
+        "name": "Urbanisation level",
+        "expr": "urban population / total population × 100"
+      }
+    ],
+    "example": "Seasonal migration from Bihar and Uttar Pradesh to Punjab during harvest is rural-to-rural migration.",
+    "aliases": [
+      "india population",
+      "migration",
+      "settlements",
+      "urbanisation",
+      "sex ratio",
+      "density of population india",
+      "human settlements"
+    ],
+    "mistakes": [
+      "Calling all movement of people urbanisation.",
+      "Ignoring seasonal and circular migration."
+    ]
+  }
+]

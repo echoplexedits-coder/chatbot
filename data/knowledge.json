@@ -1,0 +1,1037 @@
+[
+  {
+    "id": "photosynthesis",
+    "title": "Photosynthesis",
+    "keywords": ["photosynthesis", "plants", "chlorophyll", "sunlight", "glucose", "oxygen", "leaves", "carbon dioxide"],
+    "examples": ["what is photosynthesis", "how do plants make food", "how do plants turn sunlight into energy", "explain photosynthesis simply"],
+    "answer": "Photosynthesis is how plants, algae and some bacteria turn light into chemical energy. Inside chloroplasts, the pigment **chlorophyll** absorbs sunlight and uses that energy to split water molecules and combine hydrogen with carbon dioxide, producing glucose. Oxygen is released as a by-product.\n\nThe overall reaction is often written as:\n\n`6 CO2 + 6 H2O + light -> C6H12O6 + 6 O2`\n\nIn short: light in, sugar out, oxygen as a bonus. Almost every food chain on Earth starts with this reaction.",
+    "more": "There are two stages. The **light reactions** in the thylakoid membranes split water and make ATP and NADPH; the **Calvin cycle** in the stroma then uses those to fix carbon dioxide into sugar. Plants also run cellular respiration, burning some of that sugar for their own energy.",
+    "related": "climate-change"
+  },
+  {
+    "id": "gravity",
+    "title": "Gravity",
+    "keywords": ["gravity", "mass", "weight", "falling", "orbit", "einstein", "relativity", "newton", "ground", "float"],
+    "examples": ["what is gravity", "why do things fall", "how does gravity work", "why do planets orbit"],
+    "answer": "Gravity is the attraction between things with mass or energy. Newton described it as a force that weakens with the square of distance: double the distance and the pull is one quarter as strong. That single rule explains falling apples, orbits and tides.\n\nEinstein's general relativity goes deeper: mass and energy bend **spacetime**, and objects follow the curved paths they find there. For everyday speeds and weak fields, Newton's version is accurate enough that engineers still use it to fly spacecraft.",
+    "more": "Gravity is by far the weakest of the four fundamental forces, but it is the only one that always adds up over large distances, which is why it dominates on the scale of planets and galaxies."
+  },
+  {
+    "id": "black-hole",
+    "title": "Black holes",
+    "keywords": ["black hole", "event horizon", "singularity", "collapsed star", "spacetime"],
+    "examples": ["what is a black hole", "how do black holes form", "what happens inside a black hole", "why is a black hole black"],
+    "answer": "A black hole is a region where gravity is so strong that nothing, not even light, can escape once it crosses the **event horizon**. Most form when a massive star runs out of fuel and its core collapses inward.\n\nBecause no light leaves the horizon, we detect black holes indirectly: by the hot gas orbiting them, by gravitational waves when two of them merge, and by the motion of stars around an invisible mass.",
+    "more": "Time runs more slowly near a black hole relative to distant observers, and the centre is a singularity in general relativity, a sign that the theory is incomplete rather than a physical object we fully understand."
+  },
+  {
+    "id": "sky-blue",
+    "title": "Why the sky is blue",
+    "keywords": ["sky", "blue", "rayleigh scattering", "sunset", "light", "colour"],
+    "examples": ["why is the sky blue", "why are sunsets red", "what makes the sky blue", "why is the sky orange at sunset"],
+    "answer": "Sunlight contains every visible colour. When it enters the atmosphere, gas molecules scatter short wavelengths much more strongly than long ones, a process called **Rayleigh scattering**. Blue light bounces around the sky roughly five times more than red, so blue reaches your eyes from every direction.\n\nAt sunset the light travels through much more atmosphere, so most of the blue is scattered away before it arrives and what remains looks orange or red.",
+    "more": "Violet scatters even more than blue, but the Sun emits less violet and our eyes are less sensitive to it, so the sky reads as blue rather than violet."
+  },
+  {
+    "id": "evolution",
+    "title": "Evolution",
+    "keywords": ["evolution", "natural selection", "species", "adaptation", "mutation", "darwin", "change", "population"],
+    "examples": ["what is evolution", "how does natural selection work", "explain evolution", "why do animals adapt"],
+    "answer": "Evolution is the change in the inherited traits of a population over generations. Its main engine is **natural selection**: individuals vary, some variants help survival or reproduction, and those variants become more common because their carriers leave more offspring.\n\nMutation supplies new variation, and gene flow and genetic drift change frequencies too. Over long spans this produces adaptation, and sometimes new species.",
+    "more": "Evolution has no goal or direction. It is simply the statistical outcome of differential reproduction in a changing environment."
+  },
+  {
+    "id": "dna",
+    "title": "DNA",
+    "keywords": ["dna", "genes", "genome", "rna", "protein", "chromosome", "helix"],
+    "examples": ["what is dna", "how does dna work", "what are genes", "what does dna do"],
+    "answer": "DNA is a long molecule that stores instructions for building and running a living thing. It is a double helix of two strands, each a chain of four bases, **A, T, G and C**, paired across the middle.\n\nThe sequence of bases encodes genes. Cells copy DNA when they divide and transcribe genes into RNA, which ribosomes translate into proteins. Proteins do most of the work in a cell, so DNA is best thought of as the recipe archive rather than the machine.",
+    "more": "Humans have roughly 20,000 protein-coding genes, and the rest of the genome is largely involved in regulation, structure or has no known function."
+  },
+  {
+    "id": "climate-change",
+    "title": "Climate change",
+    "keywords": ["climate", "warming", "greenhouse", "carbon", "emissions", "fossil fuels", "co2"],
+    "examples": ["what is climate change", "why is the earth warming", "what causes global warming", "how does the greenhouse effect work"],
+    "answer": "Burning fossil fuels releases carbon dioxide and other greenhouse gases. Those gases are transparent to incoming sunlight but absorb outgoing infrared radiation, so the planet loses heat more slowly. This is the **greenhouse effect**, and human emissions have strengthened it substantially since the industrial revolution.\n\nThe results include higher average temperatures, rising sea levels, more extreme heat and rainfall, and shifts in ecosystems. The core physics has been understood since the 1800s; the uncertainty is mostly about how fast impacts compound, not whether warming happens.",
+    "more": "Carbon dioxide stays in the atmosphere for centuries, so stabilising temperature depends on cumulative emissions, not just the rate in any single year."
+  },
+  {
+    "id": "electricity",
+    "title": "Electricity",
+    "keywords": ["electricity", "electric current", "voltage", "circuit", "electron", "resistance"],
+    "examples": ["what is electricity", "how does electricity work", "what is voltage", "what is a circuit"],
+    "answer": "Electricity is the flow of electric charge, usually electrons moving through a conductor. A **voltage** difference pushes the charge, a **current** is how much flows per second, and **resistance** limits it. Ohm's law ties the three together: `V = I x R`.\n\nPower grids generate current by spinning magnets near coils of wire, then transmit it at high voltage to reduce losses and step it down for homes.",
+    "more": "Energy is not created in a circuit; a battery or generator does work on charge, and components convert that energy into light, heat or motion."
+  },
+  {
+    "id": "atom",
+    "title": "Atoms",
+    "keywords": ["atom", "proton", "neutron", "electron", "molecule", "nucleus", "element"],
+    "examples": ["what is an atom", "what are atoms made of", "explain atoms", "what is inside an atom"],
+    "answer": "An atom is the smallest unit of an element that keeps its chemical identity. It has a dense **nucleus** of protons and neutrons, surrounded by a cloud of electrons.\n\nThe number of protons sets the element: one is hydrogen, six is carbon, 79 is gold. Electrons determine how the atom bonds with others, which is why chemistry is mostly the study of electron arrangements.",
+    "more": "Atoms are mostly empty space. If the nucleus were a marble, the nearest electron cloud would be hundreds of metres away."
+  },
+  {
+    "id": "vaccine",
+    "title": "Vaccines",
+    "keywords": ["vaccine", "immunity", "immune system", "antibody", "infection", "immunisation"],
+    "examples": ["how do vaccines work", "what is a vaccine", "why are vaccines effective", "how does immunity work"],
+    "answer": "A vaccine shows your immune system a harmless version or piece of a pathogen, such as an inactivated virus or a single protein. Immune cells learn to recognise it and build a memory of it without you getting sick.\n\nIf the real pathogen appears later, that memory allows a fast, targeted response, often before symptoms develop. Some vaccines need boosters because memory fades or the pathogen mutates.",
+    "more": "Widespread vaccination also protects people who cannot be vaccinated, because reduced transmission makes it harder for the pathogen to reach them."
+  },
+  {
+    "id": "seasons",
+    "title": "Seasons",
+    "keywords": ["seasons", "summer", "winter", "tilt", "earth", "sunlight", "solstice"],
+    "examples": ["why do we have seasons", "why is summer hotter", "what causes winter", "why does it get dark earlier"],
+    "answer": "Seasons come from the Earth's **axial tilt** of about 23.4 degrees, not from distance to the Sun. As the planet orbits, one hemisphere leans toward the Sun and receives sunlight at a steeper angle and for more hours per day; the other leans away.\n\nThat is why Australia has summer while Europe has winter, and why the equator has little seasonal change in temperature.",
+    "more": "Earth is actually closest to the Sun in early January, during northern winter, which is a good reminder that distance is not the driver."
+  },
+  {
+    "id": "tides",
+    "title": "Tides",
+    "keywords": ["tides", "moon", "ocean", "high tide", "low tide", "gravity"],
+    "examples": ["what causes tides", "why does the sea rise and fall", "how does the moon affect tides", "why are there two high tides a day"],
+    "answer": "Tides are caused mainly by the Moon's gravity stretching the oceans. Water nearest the Moon is pulled toward it, and the planet itself is pulled away from the water on the far side, producing two bulges. As the Earth rotates through those bulges, coasts see two high and two low tides roughly every day.\n\nThe Sun adds about half the Moon's tidal force, so when the Sun and Moon align the range is larger (spring tides) and when they are at right angles it is smaller (neap tides).",
+    "more": "Local geography matters enormously: bays, estuaries and continental shelves can amplify tides far beyond the open-ocean range of about half a metre."
+  },
+  {
+    "id": "speed-of-light",
+    "title": "The speed of light",
+    "keywords": ["speed of light", "light", "c", "relativity", "photon", "vacuum"],
+    "examples": ["what is the speed of light", "how fast does light travel", "why is the speed of light constant", "can anything go faster than light"],
+    "answer": "Light travels at **299,792,458 metres per second** in a vacuum, about 300,000 km/s. That is exactly the value by definition; the metre is defined from it.\n\nIn relativity, `c` is not just the speed of light but the maximum speed at which information and cause can propagate. Massless particles must travel at it, and anything with mass needs ever more energy to approach it, so nothing with mass can reach it.",
+    "more": "Light slows down in glass or water, which is why lenses bend light and why a prism splits it into colours."
+  },
+  {
+    "id": "entropy",
+    "title": "Entropy and the second law",
+    "keywords": ["entropy", "thermodynamics", "second law", "disorder", "heat", "energy"],
+    "examples": ["what is entropy", "explain the second law of thermodynamics", "why does entropy always increase", "what is thermodynamic entropy"],
+    "answer": "Entropy is a measure of how many microscopic arrangements produce the same macroscopic state. The **second law** says the entropy of an isolated system never decreases, because disordered arrangements vastly outnumber ordered ones.\n\nThis is why heat flows from hot to cold, why engines cannot be perfectly efficient, and why time has a direction. It is not a law about tidiness; it is a law about probability on enormous numbers of particles.",
+    "more": "Life creates local order by increasing entropy elsewhere: you stay organised by eating, moving and radiating heat. The books balance globally."
+  },
+  {
+    "id": "api",
+    "title": "APIs",
+    "keywords": ["api", "interface", "http", "endpoint", "request", "json", "integration"],
+    "examples": ["what is an api", "how do apis work", "explain api simply", "what is an api endpoint"],
+    "answer": "An API (application programming interface) is a defined way for one piece of software to ask another for something without knowing how it works inside. In web development it usually means HTTP endpoints: you send a request to a URL with some data and get a structured response, very often JSON.\n\nFor example, `POST /api/chat` with `{ messages: [...] }` might return a reply. The API is the contract: the URL, the method, the shape of the data and the errors.",
+    "more": "Good APIs are boring in the best way: predictable names, clear validation errors, versioning, and no surprises about authentication or rate limits."
+  },
+  {
+    "id": "http-https",
+    "title": "HTTP and HTTPS",
+    "keywords": ["http", "https", "tls", "encryption", "web", "request", "certificate"],
+    "examples": ["what is the difference between http and https", "what is https", "how does https work", "is http secure"],
+    "answer": "HTTP is the request and response protocol of the web. HTTPS is HTTP carried over **TLS**, which encrypts the connection and verifies the server's identity with a certificate.\n\nWithout TLS, anyone on the network path can read or modify traffic. With it, an attacker can still see which server you contacted and how much data moved, but not the contents.",
+    "more": "HTTPS also protects against tampering: a captive portal or proxy cannot silently rewrite the page without breaking the certificate check."
+  },
+  {
+    "id": "database",
+    "title": "Databases",
+    "keywords": ["database", "sql", "nosql", "table", "query", "postgres", "storage", "records"],
+    "examples": ["what is a database", "what is sql", "sql vs nosql", "how should i store data"],
+    "answer": "A database is organised storage you can query reliably while many things read and write at once. **Relational** databases (PostgreSQL, MySQL, SQLite) store rows in tables with a schema, and you query them with SQL. **NoSQL** covers document, key-value and graph stores, which trade some guarantees for flexible shapes or scale.\n\nStart relational unless you have a concrete reason not to: SQL gives you joins, constraints and transactions that keep data consistent.",
+    "more": "The most common performance mistake is not a missing server but a missing index; the second is fetching far more rows than the page needs."
+  },
+  {
+    "id": "git",
+    "title": "Git and version control",
+    "keywords": ["git", "version control", "commit", "branch", "merge", "github", "diff"],
+    "examples": ["what is git", "how does version control work", "what is a commit", "how do git branches work"],
+    "answer": "Git records snapshots of your project so you can see what changed, undo mistakes and work on separate ideas safely. A **commit** is a snapshot with a message and a pointer to its parent. **Branches** are just movable labels on commits, which makes them cheap.\n\nThe everyday loop is: edit, `git add`, `git commit`, and merge branches when a change is ready. Remote copies (GitHub, GitLab) exist for backup and collaboration, not because Git needs a server.",
+    "more": "Commit small and often with messages that explain why, not just what. A clean history makes debugging a missing feature or a regression far easier."
+  },
+  {
+    "id": "recursion",
+    "title": "Recursion",
+    "keywords": ["recursion", "recursive", "base case", "stack", "factorial", "call itself"],
+    "examples": ["what is recursion", "how does recursion work", "explain recursion in programming", "what is a base case"],
+    "answer": "Recursion is a function solving a problem by calling itself on a smaller version of the same problem. Every recursive function needs a **base case** that stops the calls, and a step that moves toward it.\n\n```js\nfunction factorial(n) {\n  if (n <= 1) return 1        // base case\n  return n * factorial(n - 1) // smaller problem\n}\n```\n\nIt is the natural style for trees, nested data and divide-and-conquer algorithms, but each call uses stack space, so very deep recursion can overflow.",
+    "more": "If a recursive solution recomputes the same subproblems, add memoisation or rewrite it iteratively; that is often the difference between exponential and linear time."
+  },
+  {
+    "id": "big-o",
+    "title": "Big O notation",
+    "keywords": ["big o", "complexity", "algorithm", "performance", "time complexity", "scaling", "slow", "quadratic"],
+    "examples": ["what is big o notation", "how do i measure algorithm complexity", "what does o(n log n) mean", "why is big o useful"],
+    "answer": "Big O describes how an algorithm's work grows as its input grows, ignoring constant factors. `O(1)` is constant, `O(log n)` grows slowly, `O(n)` is linear, `O(n log n)` is typical of good sorting, and `O(n^2)` is quadratic.\n\nIt is a scalability tool, not a stopwatch. For small inputs a simpler `O(n^2)` loop can beat a complicated `O(n log n)` one; Big O tells you which will hurt first as data grows.",
+    "more": "Also watch space complexity. A hash map can turn a nested search into a single pass, at the cost of memory proportional to the input."
+  },
+  {
+    "id": "oop",
+    "title": "Object-oriented programming",
+    "keywords": ["oop", "class", "object", "inheritance", "encapsulation", "polymorphism"],
+    "examples": ["what is object oriented programming", "what is a class", "explain oop", "what is inheritance"],
+    "answer": "Object-oriented programming groups data with the behaviour that belongs to it. A **class** describes fields and methods; an **object** is one instance. The three usual ideas are encapsulation (hide internals behind a clear interface), inheritance (share behaviour from a parent type) and polymorphism (different types answering the same call).\n\nIt is one way to organise code, not a requirement. Small programs often read better as plain functions and data.",
+    "more": "Prefer composition over deep inheritance trees: small pieces you combine are easier to test and change than a hierarchy you have to keep untangling."
+  },
+  {
+    "id": "async",
+    "title": "Asynchronous code",
+    "keywords": ["async", "await", "promise", "callback", "event loop", "concurrency", "javascript"],
+    "examples": ["what is async await", "how do promises work", "explain asynchronous programming", "why is javascript asynchronous"],
+    "answer": "Asynchronous code lets a program start a slow operation, such as a network request, and keep working instead of blocking. In JavaScript an `async` function returns a **Promise**; `await` pauses that function until the promise settles, without freezing the rest of the program.\n\n```js\nconst response = await fetch('/api/chat')\nconst data = await response.json()\n```\n\nErrors from awaited calls become catchable exceptions, so `try`/`catch` works naturally.",
+    "more": "Use `Promise.all` for independent work that can run together, and never leave a promise unawaited: that is how silent failures and unhandled rejections creep in."
+  },
+  {
+    "id": "llm",
+    "title": "How language models work",
+    "keywords": ["llm", "language model", "transformer", "tokens", "training", "neural network", "ai"],
+    "examples": ["how do large language models work", "what is an llm", "how is ai trained", "what is a transformer model"],
+    "answer": "A large language model is a neural network trained to predict the next token in text. Its core is the **transformer**, which uses attention to weigh which earlier tokens matter for the current prediction. Training adjusts billions of parameters to make those predictions less wrong across huge amounts of text.\n\nAt generation time the model samples repeatedly, one token at a time, conditioning on everything so far. It has no lookup table of facts and no live memory; knowledge is compressed into weights, which is why it can be fluent and still confidently wrong.",
+    "more": "This assistant is not one of those models. It is a small locally trained model with a fixed knowledge base, so it only answers what it was trained on."
+  },
+  {
+    "id": "cloud",
+    "title": "Cloud computing",
+    "keywords": ["cloud", "serverless", "hosting", "scale", "aws", "infrastructure", "deploy"],
+    "examples": ["what is cloud computing", "what is serverless", "how does hosting work", "should i use the cloud"],
+    "answer": "Cloud computing means renting computing from someone else's data centre instead of owning servers: virtual machines, managed databases, storage and so on. It turns a large upfront cost into a variable one and lets you scale up or down in minutes.\n\n**Serverless** goes further: you deploy functions or workers and the platform runs them on demand, charging per request. That suits small, spiky workloads well, as long as you respect its limits on runtime, memory and cold starts.",
+    "more": "The main risk is cost creep. Untagged resources, always-on instances and egress charges are the usual culprits, so set budgets and alerts early."
+  },
+  {
+    "id": "prime",
+    "title": "Prime numbers",
+    "keywords": ["prime", "factor", "divisible", "number theory", "primes", "composite"],
+    "examples": ["what is a prime number", "why are primes important", "how do i find prime numbers", "what is the largest prime"],
+    "answer": "A prime number is a whole number greater than 1 whose only positive divisors are 1 and itself: 2, 3, 5, 7, 11, 13 and so on. Every other whole number above 1 factors uniquely into primes, which is why they are the building blocks of arithmetic.\n\nThere is no largest prime: Euclid proved that multiplying all known primes and adding 1 produces a number with a new prime factor. Primes underpin public-key cryptography, where large ones are easy to multiply and hard to factor apart.",
+    "more": "To test a number n, you only need to check divisors up to its square root. The sieve of Eratosthenes finds every prime below a limit efficiently."
+  },
+  {
+    "id": "probability",
+    "title": "Probability",
+    "keywords": ["probability", "chance", "odds", "random", "expected value", "independent events", "coin", "dice", "flip"],
+    "examples": ["what is probability", "how do i calculate probability", "what are independent events", "explain chance"],
+    "answer": "Probability measures how likely an outcome is, on a scale from 0 (impossible) to 1 (certain). For equally likely outcomes it is favourable outcomes divided by total outcomes: one six on a die is 1/6.\n\nIndependent events do not affect each other, so their probabilities multiply: two sixes in a row is 1/36. Mutually exclusive events add. Most confusion comes from mixing those two rules or from forgetting that past coin flips do not change the next one.",
+    "more": "Expected value is the long-run average: multiply each outcome by its probability and add. A lottery can have a positive jackpot and still be a bad bet after taxes and splitting."
+  },
+  {
+    "id": "calculus",
+    "title": "Calculus",
+    "keywords": ["calculus", "derivative", "integral", "rate of change", "area under curve", "limit"],
+    "examples": ["what is calculus", "what is a derivative", "what is an integral", "explain calculus simply"],
+    "answer": "Calculus studies continuous change in two complementary ways. A **derivative** gives the instantaneous rate of change, like a speedometer reading: how fast something is changing right now. An **integral** accumulates small pieces into a total, like distance from a speed graph.\n\nThe two are linked by the fundamental theorem of calculus: integration and differentiation undo each other. That link is why calculus is so powerful for physics, economics and optimisation.",
+    "more": "Derivatives are how machine learning trains: gradient descent nudges parameters in the direction that reduces error fastest."
+  },
+  {
+    "id": "pythagoras",
+    "title": "The Pythagorean theorem",
+    "keywords": ["pythagorean", "triangle", "hypotenuse", "right angle", "geometry", "distance"],
+    "examples": ["what is the pythagorean theorem", "how do i find the hypotenuse", "explain a squared plus b squared", "how do i calculate distance between points"],
+    "answer": "In a right-angled triangle, the square of the hypotenuse equals the sum of the squares of the other two sides: `a² + b² = c²`.\n\nSo a 3-4-5 triangle is right-angled because 9 + 16 = 25. The same idea gives the distance between two points: `√((x₂-x₁)² + (y₂-y₁)²)`.",
+    "more": "It generalises to any number of dimensions, and to curved space it becomes the metric of general relativity."
+  },
+  {
+    "id": "averages",
+    "title": "Mean, median and mode",
+    "keywords": ["mean", "median", "mode", "average", "statistics", "outlier"],
+    "examples": ["what is the difference between mean median and mode", "how do i calculate an average", "what is the median", "when should i use median"],
+    "answer": "The **mean** adds all values and divides by how many there are. The **median** is the middle value once sorted. The **mode** is the most frequent value.\n\nThey answer different questions. Mean uses every value and is sensitive to outliers; median is robust, which is why incomes and house prices are usually reported as medians. Mode is most useful for categories.",
+    "more": "With symmetric data the mean and median roughly agree. A mean far above the median is a strong hint of a long right tail."
+  },
+  {
+    "id": "fibonacci",
+    "title": "The Fibonacci sequence",
+    "keywords": ["fibonacci", "sequence", "golden ratio", "spiral", "numbers", "recursion"],
+    "examples": ["what is the fibonacci sequence", "why is fibonacci important", "what is the golden ratio", "where does fibonacci appear in nature"],
+    "answer": "The Fibonacci sequence starts 0, 1, 1, 2, 3, 5, 8, 13, 21, where each number is the sum of the two before it. The ratio of consecutive terms approaches the **golden ratio**, about 1.618.\n\nIt appears in plant spirals, rabbit-breeding models and algorithm analysis, but claims that it explains all of art and beauty are overstated. It is a neat pattern, not a universal law of aesthetics.",
+    "more": "Naive recursive Fibonacci is exponential; memoisation or a simple loop makes it linear."
+  },
+  {
+    "id": "sleep",
+    "title": "Sleeping better",
+    "keywords": ["sleep", "insomnia", "tired", "rest", "circadian", "bedtime", "caffeine", "wake"],
+    "examples": ["how can i sleep better", "why cant i fall asleep", "how much sleep do i need", "tips for better sleep"],
+    "answer": "The reliable basics beat most gadgets:\n\n- Keep a consistent wake time, including weekends.\n- Get daylight in the morning and dim light in the evening.\n- Cut caffeine after early afternoon; it has a long half-life.\n- Keep the bedroom cool, dark and quiet, and use the bed mainly for sleep.\n- Avoid alcohol as a sleep aid; it fragments the second half of the night.\n\nMost adults need 7 to 9 hours. If you lie awake for more than about 20 minutes, get up and do something quiet until sleepy.",
+    "more": "Persistent insomnia responds best to cognitive behavioural therapy for insomnia (CBT-I), which is more effective long term than sleep medication."
+  },
+  {
+    "id": "focus",
+    "title": "Focus and procrastination",
+    "keywords": ["focus", "procrastination", "concentration", "distraction", "productivity", "attention"],
+    "examples": ["how do i stop procrastinating", "how can i focus better", "why do i get distracted", "how to concentrate while studying"],
+    "answer": "Procrastination is usually about avoiding a bad feeling, not about laziness. The fix is to make the first step small and concrete: not 'write the report' but 'open the document and write one bad sentence'.\n\nThen protect attention. Put the phone in another room, work in a short block with a defined end, and remove decisions you can make in advance. Two focused hours usually beat a distracted afternoon.",
+    "more": "Track what you actually did for a day before optimising. Most people lose more time to context switching than to any single task."
+  },
+  {
+    "id": "clear-writing",
+    "title": "Writing clearly",
+    "keywords": ["writing", "editing", "clarity", "sentence", "plain language", "communication", "draft"],
+    "examples": ["how do i write more clearly", "how can i improve my writing", "tips for better writing", "why is my writing confusing"],
+    "answer": "Write the draft badly and fast, then edit slowly. In the edit, cut anything the reader does not need, put the point in the first sentence, and prefer concrete nouns and active verbs.\n\nA useful test: read each sentence aloud. If you run out of breath or lose the subject, split it. Replace abstraction with an example. Short words are not unsophisticated; they are easier to parse.",
+    "more": "For anything important, write it, leave it alone for a few hours, then reread as if you were the reader who has no context."
+  },
+  {
+    "id": "study",
+    "title": "Studying effectively",
+    "keywords": ["study", "learning", "memorise", "spaced repetition", "exam", "revision", "recall"],
+    "examples": ["how should i study for an exam", "how do i remember what i learn", "what is spaced repetition", "how can i learn faster"],
+    "answer": "The two techniques with the strongest evidence are **active recall** and **spacing**. Test yourself instead of rereading: close the book and write what you remember, then check. Space the reviews over days rather than cramming them into one session.\n\nInterleave related topics, explain ideas in your own words, and sleep properly, because memory consolidates during sleep. Highlighting and passive rereading feel productive and mostly are not.",
+    "more": "Use short practice questions that match the exam format, and keep a list of what you got wrong. That list is your real study plan."
+  },
+  {
+    "id": "budgeting",
+    "title": "Budgeting",
+    "keywords": ["budget", "money", "saving", "expenses", "finance", "income", "debt"],
+    "examples": ["how do i make a budget", "how can i save money", "how should i manage my income", "what is a simple budgeting method"],
+    "answer": "Start with the numbers you already have: list fixed costs (rent, bills, debt payments), then track a normal month of spending. That shows where money actually goes, which is usually different from where you think it goes.\n\nA simple structure is 50% needs, 30% wants, 20% savings and debt repayment. Automate a transfer to savings on payday, and build a small emergency fund before optimising anything else.",
+    "more": "Pay high-interest debt first; no investment reliably beats a 20% credit card rate. Review the budget monthly rather than setting it once."
+  },
+  {
+    "id": "exercise",
+    "title": "Starting to exercise",
+    "keywords": ["exercise", "fitness", "workout", "strength", "running", "health", "training"],
+    "examples": ["how do i start exercising", "what is a good beginner workout", "how often should i exercise", "how do i get fit"],
+    "answer": "Start smaller than feels impressive. Three short sessions a week of walking, easy cycling or bodyweight work builds the habit and the base; consistency matters more than intensity in the first month.\n\nA balanced week includes some **strength** work (squats, pushes, pulls, hinges) and some **aerobic** work at a pace where you can still talk. Increase gradually, roughly 10% more volume per week, and take rest days seriously.",
+    "more": "If your goal is muscle, prioritise progressive overload and enough protein. If it is endurance, prioritise easy volume and one harder session per week."
+  },
+  {
+    "id": "presentation",
+    "title": "Giving a presentation",
+    "keywords": ["presentation", "public speaking", "slides", "talk", "audience", "nervous"],
+    "examples": ["how do i give a good presentation", "how can i speak confidently in public", "tips for public speaking", "how should i structure a talk"],
+    "answer": "Decide the one sentence the audience should remember, then build the talk around it. A reliable structure is: the point, why it matters, the evidence, what to do next.\n\nSlides should support you, not carry you: few words, one idea each. Practise out loud twice, ideally standing up, and arrive early to check the room and the tech. Nerves shrink with rehearsal and with a slower first thirty seconds.",
+    "more": "If you have five minutes, plan for four. Running long is the most common way a good talk loses its ending."
+  },
+  {
+    "id": "creativity",
+    "title": "Creative thinking",
+    "keywords": ["creativity", "ideas", "brainstorm", "innovation", "creative block", "problem solving"],
+    "examples": ["how can i be more creative", "how do i come up with ideas", "how does brainstorming work", "how can i think of new ideas"],
+    "answer": "Creativity is mostly recombination plus volume. Generate many rough ideas without judging them, then filter separately: mixing the two modes kills both.\n\nUseful prompts are constraints and combinations. Ask what would this look like with half the budget, ten times the users, or in a different industry. Keep a capture list, because good ideas rarely arrive when you sit down to have them.",
+    "more": "Sleep and walking genuinely help. A lot of creative work is giving the associative mind time away from the problem."
+  },
+  {
+    "id": "writers-block",
+    "title": "Writer's block",
+    "keywords": ["writer block", "writing", "blank page", "stuck", "motivation", "draft"],
+    "examples": ["how do i get over writers block", "i cant start writing", "why am i stuck writing", "how do i beat a blank page"],
+    "answer": "Lower the standard for the first draft. Write a deliberately bad version, or write the middle section you already understand, and leave the opening for later. The blank page is hard because you are trying to write and edit at the same time.\n\nIf you are still stuck, change the medium: talk it through out loud, sketch the argument as bullets, or write the letter you would send a friend explaining the idea.",
+    "more": "A short deadline and a small audience help more than motivation. Writing for one specific person removes most of the performance anxiety."
+  },
+  {
+    "id": "learning-to-code",
+    "title": "Learning to code",
+    "keywords": ["learn programming", "coding", "beginner", "javascript", "python", "tutorial", "practice"],
+    "examples": ["how do i learn to program", "what language should i learn first", "how do i start coding", "best way to learn programming"],
+    "answer": "Pick one language and build small things with it. Python or JavaScript are both fine first choices; the language matters far less than finishing projects.\n\nA workable loop: follow a short tutorial, then rebuild something from scratch without it, then add a feature the tutorial did not cover. When you get stuck, read the error message carefully, isolate the smallest failing example, and search for the exact error text.",
+    "more": "Avoid tutorial chains. The uncomfortable stage where you build something slightly beyond your level is where most learning happens."
+  },
+  {
+    "id": "debugging",
+    "title": "Debugging",
+    "keywords": ["debug", "bug", "error", "fix code", "troubleshoot", "stack trace"],
+    "examples": ["how do i debug my code", "how do i fix a bug", "what should i do when code breaks", "how do i read a stack trace"],
+    "answer": "Reproduce the bug reliably first; a bug you cannot reproduce is a bug you cannot confirm you fixed. Then narrow the space: read the error and stack trace from the top, check the actual values instead of assuming them, and remove code until the failure disappears.\n\nChange one thing at a time and write down what you tried. If you are stuck for more than twenty minutes, explain the code line by line to someone else, or rubber duck it; the gap in your explanation is usually the bug.",
+    "more": "Check the boring things first: stale cache, wrong environment, off-by-one, null or undefined, and a missing await. They cause a surprising share of real failures."
+  },
+  {
+    "id": "capabilities",
+    "title": "What this assistant can do",
+    "keywords": ["what can you do", "help", "capabilities", "topics", "commands", "about"],
+    "examples": ["what can you do", "how can you help me", "what topics do you know", "help me"],
+    "answer": "I am a small model trained in this project, with no access to the internet and no external API. I can:\n\n- Answer questions covered by my trained knowledge: science, technology, programming, maths and everyday practical topics.\n- Answer general-knowledge questions too: capitals, history dates, unit conversions, oceans and planets, and common everyday science.\n- Do arithmetic and simple percentages locally, for example `12 * 7` or `15% of 80`.\n- Summarise text you paste, extractively.\n- Generate starting ideas for a topic.\n\nI will tell you when something is outside what I was trained on rather than inventing an answer. My knowledge is a fixed set of topics, so I am honest rather than broad.",
+    "more": "Ask about photosynthesis, gravity, black holes, APIs, HTTP, databases, Git, recursion, Big O, async code, language models, prime numbers, probability, calculus, sleep, focus, writing, studying, budgets, exercise, or quick facts like the capital of Canada, when the Berlin Wall fell, or how many bones you have."
+  },
+  {
+    "id": "who-are-you",
+    "title": "About this assistant",
+    "keywords": ["who are you", "what are you", "your name", "lumen", "model", "trained"],
+    "examples": ["who are you", "what are you", "are you chatgpt", "how were you made"],
+    "answer": "I am Lumen, a small assistant whose model was trained inside this project. There is no external AI service behind me: the training script fits a retrieval index and an intent classifier on a fixed knowledge base, and the Worker runs that model, in this browser session, locally.\n\nThat means I am fast, free to run and completely private, but also limited: I cannot browse, cannot learn from your conversation, and cannot answer things outside my training data.",
+    "more": "If you want open-ended conversation and general world knowledge, you need a large language model. This project deliberately trades that breadth for zero API cost and full local control."
+  },
+  {
+    "id": "internet",
+    "title": "How the internet works",
+    "keywords": ["internet", "packet", "router", "dns", "ip address", "tcp", "bandwidth", "network"],
+    "examples": [
+      "how does the internet work",
+      "what happens when i type a url",
+      "what is dns",
+      "what is an ip address",
+      "how do packets travel across the world",
+      "why is my internet slow"
+    ],
+    "answer": "The internet is a network of networks that moves small chunks of data called **packets**. When you open a site, your computer asks a DNS server to turn the name into an IP address, then hands packets to your router. Each packet is forwarded hop by hop by other routers until it reaches the destination, and TCP or QUIC puts the pieces back in order and re-sends anything lost.\n\nNo single machine runs it. Standards bodies agree on the protocols, internet service providers carry traffic, and undersea cables connect continents.",
+    "more": "Slow connections are usually a local problem first: weak Wi-Fi, a congested router, or a distant server. Bandwidth is the pipe size; latency is how long a round trip takes, and it is what makes a connection feel slow even when the pipe is wide.",
+    "related": "http-https"
+  },
+  {
+    "id": "encryption",
+    "title": "Encryption",
+    "keywords": ["encryption", "cryptography", "public key", "private key", "cipher", "hashing", "end to end"],
+    "examples": [
+      "how does encryption work",
+      "what is public key cryptography",
+      "what is the difference between hashing and encryption",
+      "is encrypted data unbreakable",
+      "what is end to end encryption",
+      "what is symmetric encryption"
+    ],
+    "answer": "Encryption scrambles data with a key so that only someone with the right key can read it. **Symmetric** schemes such as AES use one shared key and are fast, so they carry the bulk of the traffic. **Asymmetric** schemes such as RSA or elliptic curves use a public key to encrypt and a private key to decrypt, which solves the problem of sharing a secret in the first place. Real protocols mix both: a key exchange sets up a symmetric session key, and that key encrypts the conversation.\n\nHashing is different: it is one way by design, used to verify integrity or store password checks, and it cannot be reversed.",
+    "more": "Encryption protects data in transit or at rest, not a compromised device. If malware is already running on your machine, it can read the plaintext before it is encrypted.",
+    "related": "passwords"
+  },
+  {
+    "id": "passwords",
+    "title": "Passwords and account security",
+    "keywords": ["password", "2fa", "two factor", "passphrase", "password manager", "login", "account security"],
+    "examples": [
+      "how do i make a strong password",
+      "should i use a password manager",
+      "what is two factor authentication",
+      "is it bad to reuse passwords",
+      "how often should i change my password",
+      "what is a passphrase"
+    ],
+    "answer": "Length beats cleverness. A random passphrase of four or five unrelated words is both strong and memorable, and it resists guessing far better than `P@ssw0rd!` style substitutions, which crackers try first. Use a different password for every account, because one breached site otherwise unlocks the rest.\n\nA **password manager** generates and remembers them for you. Add two-factor authentication wherever it is offered, preferably an app or a hardware key rather than SMS, and treat any code you receive as a secret you never read to anyone.",
+    "more": "Routine password rotation is no longer recommended unless you suspect a breach; long unique passwords plus 2FA do more good than changing a decent one every 90 days.",
+    "related": "scams"
+  },
+  {
+    "id": "scams",
+    "title": "Spotting scams and phishing",
+    "keywords": ["scam", "phishing", "fraud", "fake email", "verify", "suspicious link", "social engineering"],
+    "examples": [
+      "how do i spot a scam",
+      "what is phishing",
+      "is this email from my bank real",
+      "someone asked me for a verification code",
+      "how do i check if a link is safe",
+      "why do scams look so convincing"
+    ],
+    "answer": "Most scams run on urgency plus authority: a message that says your account will be closed in 24 hours, from a name you trust, with a link that asks you to log in. The reliable defence is to stop using the link. Open the service yourself from a bookmark or by typing the address, then check the message there.\n\nOther strong signals are a slightly wrong domain (`bank-secure-login.com`), a request for a one-time code, payment by gift card or crypto, and a refusal to let you call back on a number you look up independently.",
+    "more": "Nobody legitimate needs your password or a login code. If you already entered credentials, change that password and revoke active sessions immediately.",
+    "related": "passwords"
+  },
+  {
+    "id": "inflation",
+    "title": "Inflation",
+    "keywords": ["inflation", "prices", "cost of living", "interest rates", "money supply", "deflation", "real wages"],
+    "examples": [
+      "what is inflation",
+      "why are prices going up",
+      "what causes inflation",
+      "how does inflation affect my savings",
+      "what is deflation",
+      "why do central banks raise interest rates"
+    ],
+    "answer": "Inflation is a sustained rise in the general price level, which means each unit of money buys less. It can come from demand outrunning supply, from supply shocks such as energy prices, or from expectations becoming self-fulfilling as people and firms price in future increases.\n\nCentral banks usually respond by raising interest rates, which makes borrowing dearer, cools demand and pulls inflation down, at the cost of slower growth. What matters for you is the gap between inflation and your wage growth, not the headline number alone.",
+    "more": "Cash in a low-interest account loses purchasing power during high inflation. Inflation-linked or diversified assets are the usual hedge, though none is guaranteed.",
+    "related": "compound-interest"
+  },
+  {
+    "id": "compound-interest",
+    "title": "Compound interest",
+    "keywords": ["compound interest", "savings", "investing", "growth", "rule of 72", "interest", "retirement"],
+    "examples": [
+      "what is compound interest",
+      "how does compound interest work",
+      "why should i start saving early",
+      "what is the rule of 72",
+      "how much will my savings grow",
+      "does compounding really matter"
+    ],
+    "answer": "Compound interest is interest earned on interest. If you leave returns invested, next year's growth applies to the larger balance, so growth accelerates: at 7% a year money roughly doubles every decade. The rule of 72 gives a quick estimate, dividing 72 by the annual return to get the doubling time.\n\nThe practical consequence is that time matters more than the amount. Starting ten years earlier usually beats contributing twice as much later. The same mechanism works against you with debt, which is why high-interest balances are worth clearing first.",
+    "more": "Fees compound too. A 1% annual fee can cost a large share of a long-term return, so check costs before chasing extra performance.",
+    "related": "inflation"
+  },
+  {
+    "id": "recycling",
+    "title": "Recycling and waste",
+    "keywords": ["recycling", "waste", "plastic", "landfill", "compost", "packaging", "single use"],
+    "examples": [
+      "does recycling actually work",
+      "what can i recycle",
+      "why is plastic recycling so confusing",
+      "how do i reduce waste",
+      "what happens to my recycling",
+      "is compost better than recycling"
+    ],
+    "answer": "Recycling works best for materials with established markets: aluminium, steel, glass, paper and rigid bottles. It works badly when materials are mixed, dirty or made of multi-layer plastic, because sorting costs more than the recovered material is worth. That is why the same item can be accepted in one city and rejected in another.\n\nThe bigger levers sit above recycling: buy less, keep things longer, repair, and compost food waste, which in landfill produces methane. Rinse containers and follow your local rules rather than wishful recycling, which contaminates whole batches.",
+    "more": "Aluminium is the standout: recycling it takes about 5% of the energy needed to make it from ore, and it can be recycled repeatedly without losing quality.",
+    "related": "climate-change"
+  },
+  {
+    "id": "solar-power",
+    "title": "Solar power",
+    "keywords": ["solar", "photovoltaic", "panel", "renewable", "energy", "battery", "grid"],
+    "examples": [
+      "how do solar panels work",
+      "is solar power worth it",
+      "why did solar get so cheap",
+      "what happens to solar at night",
+      "how efficient are solar panels",
+      "solar vs wind"
+    ],
+    "answer": "A solar panel is a **photovoltaic** device: photons knock electrons loose in a semiconductor, and the resulting current is collected by contacts on the cell. Commercial panels convert roughly 20% of incoming sunlight into electricity, and their cost has fallen by more than 90% since 2010, which is why solar is now the cheapest new electricity in many places.\n\nThe catch is variability. Output depends on sun, weather and season, so a high-solar grid needs storage, flexible demand or backup generation to cover evenings and winter.",
+    "more": "Panels lose a little output each year, typically under 0.5%, and most carry warranties of 25 years. Shade and dirt matter more than most people expect.",
+    "related": "electricity"
+  },
+  {
+    "id": "water-cycle",
+    "title": "The water cycle",
+    "keywords": ["water cycle", "rain", "evaporation", "cloud", "condensation", "precipitation", "groundwater"],
+    "examples": [
+      "what is the water cycle",
+      "why does it rain",
+      "how do clouds form",
+      "where does rain come from",
+      "why does water evaporate",
+      "what is groundwater"
+    ],
+    "answer": "Water circulates constantly. The Sun evaporates water from oceans, lakes and plants, and the vapour rises and cools until it condenses onto tiny particles as cloud droplets. When droplets merge and grow heavy enough, they fall as **precipitation**: rain, snow, sleet or hail. Some water runs off into rivers, some soaks into the ground, and the rest evaporates again.\n\nRain forms most readily when air is forced upward, by a front, a mountain or strong heating, because rising air cools and can hold less vapour.",
+    "more": "Only a small fraction of Earth's water is fresh and liquid at the surface; most of the accessible fresh water is groundwater, which is why aquifers matter for farming.",
+    "related": "climate-change"
+  },
+  {
+    "id": "earthquakes",
+    "title": "Earthquakes",
+    "keywords": ["earthquake", "fault", "plate tectonics", "seismic", "magnitude", "aftershock", "richter"],
+    "examples": [
+      "why do earthquakes happen",
+      "what causes an earthquake",
+      "can we predict earthquakes",
+      "what is a fault line",
+      "what is the difference between magnitude and intensity",
+      "why are there aftershocks"
+    ],
+    "answer": "Earth's outer shell is broken into plates that move a few centimetres a year. Where they grind past each other, rock deforms and stores elastic energy, then slips suddenly along a **fault**; the released energy radiates as seismic waves. Most quakes happen at plate boundaries, though some occur far from them along ancient faults.\n\nMagnitude measures the energy released at the source on a logarithmic scale, while intensity describes how strongly shaking was felt at a particular place. Aftershocks are the crust readjusting after the main slip and can continue for months.",
+    "more": "Earthquakes cannot be predicted in time and place. What works is preparation: building codes, securing heavy furniture, and knowing how to drop, cover and hold on.",
+    "related": "volcanoes"
+  },
+  {
+    "id": "volcanoes",
+    "title": "Volcanoes",
+    "keywords": ["volcano", "magma", "lava", "eruption", "hotspot", "subduction", "ash"],
+    "examples": [
+      "why do volcanoes erupt",
+      "how do volcanoes form",
+      "what is the difference between magma and lava",
+      "what is a supervolcano",
+      "can we predict volcanic eruptions",
+      "are volcanoes good for anything"
+    ],
+    "answer": "Magma forms where rock melts: at subduction zones where one plate sinks and drags water down, at mid-ocean ridges where plates pull apart, and above **hotspots** where a plume rises from the mantle. Because magma is less dense than surrounding rock it rises, collecting in chambers. Dissolved gases expand as pressure drops, and when the plumbing can no longer contain them the volcano erupts. Magma below ground is called magma; once it reaches the surface it is lava.\n\nEruptions range from gentle lava flows to explosive ash plumes, depending largely on how thick and gas-rich the magma is.",
+    "more": "Volcanoes are destructive but also fertilise soils, create new land and supply geothermal energy. Eruptions cannot be predicted exactly, though monitoring of seismicity, gas and ground swelling gives warning.",
+    "related": "earthquakes"
+  },
+  {
+    "id": "moon-phases",
+    "title": "Moon phases",
+    "keywords": ["moon", "phases", "full moon", "new moon", "crescent", "orbit", "tidal locking"],
+    "examples": [
+      "why does the moon change shape",
+      "what are the phases of the moon",
+      "why do we only see one side of the moon",
+      "is the moon emitting light",
+      "how long is a lunar month",
+      "why is the moon visible during the day"
+    ],
+    "answer": "The Moon does not change shape; we see different fractions of its sunlit half. As it orbits Earth roughly every 29.5 days, the angle between the Sun, Moon and us changes, moving through new, crescent, quarter, gibbous and full phases. The Moon produces no visible light of its own, it reflects sunlight.\n\nIt is **tidally locked**, rotating once per orbit, so the same face always points at us. The far side is not dark, it simply never faces Earth.",
+    "more": "The Moon is visible in daylight whenever it is above the horizon and far enough from the Sun in the sky to stand out against the blue.",
+    "related": "tides"
+  },
+  {
+    "id": "memory",
+    "title": "Memory",
+    "keywords": ["memory", "forget", "recall", "mnemonic", "chunking", "amnesia", "brain"],
+    "examples": [
+      "how do i improve my memory",
+      "why do i forget things",
+      "how does memory work",
+      "what is a mnemonic",
+      "why do i forget names",
+      "does sleep affect memory"
+    ],
+    "answer": "Memory is not a recording but a reconstruction. Information passes through working memory, which holds only a handful of items, and becomes durable through repetition and meaningful connection to what you already know. **Chunking** helps by grouping items, which is how phone numbers and chess positions are remembered.\n\nRetrieval is what strengthens a memory, so self-testing beats rereading. Sleep consolidates what you learned, and cues such as locations or stories make recall easier because you are storing richer hooks.",
+    "more": "Forgetting is normal and often useful; it is the brain prioritising. If memory loss starts interfering with daily life or comes on suddenly, that is worth a medical conversation.",
+    "related": "study"
+  },
+  {
+    "id": "habits",
+    "title": "Building habits",
+    "keywords": ["habit", "routine", "cue", "willpower", "streak", "behaviour change", "consistency"],
+    "examples": [
+      "how do i build a habit",
+      "why do i keep breaking my habits",
+      "how long does it take to form a habit",
+      "what is habit stacking",
+      "how do i stop a bad habit",
+      "how do i stay consistent"
+    ],
+    "answer": "A habit is a cue, a routine and a reward that has become automatic. The reliable way to build one is to start absurdly small, attach it to something you already do, and make the cue obvious while making the alternative harder. One push-up after brushing your teeth beats a plan for an hour at the gym.\n\nMissing a day is not failure; missing two in a row is what turns into quitting. Change the environment rather than relying on motivation, because willpower is a poor long-term strategy.",
+    "more": "The often-quoted 21 days is a myth; studies find anything from a few weeks to several months depending on the behaviour and the person.",
+    "related": "focus"
+  },
+  {
+    "id": "burnout",
+    "title": "Burnout",
+    "keywords": ["burnout", "exhaustion", "stress", "workload", "cynicism", "recovery", "overwhelmed"],
+    "examples": [
+      "what is burnout",
+      "am i burned out",
+      "how do i recover from burnout",
+      "i feel exhausted from work all the time",
+      "what is the difference between burnout and depression",
+      "i have no energy for anything"
+    ],
+    "answer": "Burnout is a syndrome of exhaustion, mental distance or cynicism, and reduced effectiveness that builds up from chronic workplace stress. It is not simply being tired, and a weekend off does not fix it, because the causes are usually structural: unsustainable workload, little control, unclear expectations or unfair treatment.\n\nRecovery usually needs a change in conditions, not just better habits: renegotiate scope, take real time away, and rebuild sleep. It overlaps with depression, and if low mood spreads to everything in your life rather than just work, treat it as a health issue and talk to a professional.",
+    "more": "Rest without addressing the workload tends to produce the same result on return, which is why boundaries and expectations matter more than another productivity system.",
+    "related": "sleep"
+  },
+  {
+    "id": "nutrition",
+    "title": "Eating well",
+    "keywords": ["nutrition", "diet", "protein", "fibre", "calories", "vitamins", "sugar", "carbs"],
+    "examples": [
+      "how do i eat healthier",
+      "what should i eat in a day",
+      "how much protein do i need",
+      "are carbs bad for you",
+      "do i need supplements",
+      "is breakfast the most important meal"
+    ],
+    "answer": "The unglamorous basics do most of the work: eat mostly whole foods, plenty of vegetables and fruit, enough protein and fibre, and keep highly processed food occasional. Weight change is driven by energy balance over time, but the quality of the diet affects satiety, health and how sustainable it feels.\n\nA common target is roughly 1.2 to 1.6 g of protein per kg of body weight for active adults, and 25 to 30 g of fibre a day. Supplements are useful mainly for specific gaps such as vitamin B12 on a vegan diet or vitamin D in low-sunlight places.",
+    "more": "No single food or timing trick matters much. Adherence is the deciding factor, so pick an approach you can keep for years rather than three weeks.",
+    "related": "exercise"
+  },
+  {
+    "id": "job-interview",
+    "title": "Job interviews",
+    "keywords": ["interview", "job", "hiring", "star method", "salary", "questions", "recruiter", "offer"],
+    "examples": [
+      "how do i prepare for a job interview",
+      "how do i answer tell me about yourself",
+      "what questions should i ask the interviewer",
+      "how do i talk about salary",
+      "interview tips for nervous people",
+      "how do i explain a gap in my resume"
+    ],
+    "answer": "Prepare three or four concrete stories that show impact, using the **STAR** shape: situation, task, action, result, with a number if you have one. Rehearse them out loud, because fluency is what reads as confidence. Then research the team and prepare two or three questions you actually want answered.\n\nFor 'tell me about yourself', give a short arc: what you do now, a relevant thing you did, and why this role. On salary, give a researched range rather than a single number, and let the employer anchor first if you can.",
+    "more": "Interviews are two-way. Ask how success is measured and why the role is open; the answers tell you more about the job than the job description does.",
+    "related": "presentation"
+  },
+  {
+    "id": "html-css",
+    "title": "HTML and CSS",
+    "keywords": ["html", "css", "flexbox", "grid", "layout", "web page", "styling", "box model"],
+    "examples": [
+      "what is css",
+      "what is the difference between html and css",
+      "how do i center a div",
+      "what is flexbox",
+      "how does css layout work",
+      "why is my css not applying"
+    ],
+    "answer": "HTML describes structure and meaning: headings, paragraphs, lists, links, buttons. CSS describes presentation: colour, spacing, type and layout. Keeping them separate means the same markup can render on a phone, a desktop and a screen reader.\n\nModern layout is mostly **flexbox** for one-dimensional rows or columns and **grid** for two-dimensional layouts. Every element is a box with content, padding, border and margin, and `box-sizing: border-box` makes width include padding and border, which removes most surprise. `display: flex` plus `align-items: center` and `justify-content: center` centers a child reliably.",
+    "more": "If a style is not applying, check specificity and load order first, then whether a more specific selector or an earlier rule wins. The browser devtools show which rule is actually in effect.",
+    "related": "api"
+  },
+  {
+    "id": "testing",
+    "title": "Software testing",
+    "keywords": ["test", "unit test", "integration", "end to end", "regression", "flaky", "coverage"],
+    "examples": [
+      "why should i write tests",
+      "what is unit testing",
+      "what is the difference between unit and integration tests",
+      "how much test coverage do i need",
+      "what is a flaky test",
+      "how do i test my code"
+    ],
+    "answer": "Tests exist to let you change code without fear. **Unit** tests check one function in isolation and are fast; **integration** tests check that pieces work together; **end-to-end** tests drive the real app and catch wiring problems, at the cost of speed and fragility. Aim for many unit tests, some integration tests, and a few critical end-to-end paths.\n\nTest behaviour and outputs, not internal implementation, or every refactor breaks the suite. A test that fails randomly is worse than no test: fix or delete it, because a flaky suite trains people to ignore red.",
+    "more": "Coverage is a diagnostic, not a target. A test that asserts nothing meaningful adds coverage and no confidence.",
+    "related": "debugging"
+  },
+  {
+    "id": "regex",
+    "title": "Regular expressions",
+    "keywords": ["regex", "regular expression", "pattern", "match", "anchor", "quantifier", "capture group"],
+    "examples": [
+      "what is regex",
+      "how do regular expressions work",
+      "what does greedy mean in regex",
+      "how do i match an email address",
+      "why is my regex so slow",
+      "what is a capture group"
+    ],
+    "answer": "A regular expression is a pattern for matching text. Characters match themselves, `.` matches any character, `[0-9]` a digit, and quantifiers repeat: `*` zero or more, `+` one or more, `?` optional, `{2,4}` a range. Anchors `^` and `$` pin the match to the start and end, and parentheses group and capture parts of it.\n\nBy default quantifiers are greedy, taking as much as possible and then backtracking. That is also the usual cause of slowdowns on long input, so prefer specific patterns and avoid nested quantifiers like `(a+)+`.",
+    "more": "For structured formats such as HTML or JSON, use a parser instead. Regex is excellent for tokens and simple validation, and painful for nested grammar.",
+    "related": "learning-to-code"
+  },
+  {
+    "id": "docker",
+    "title": "Containers and Docker",
+    "keywords": ["docker", "container", "image", "dockerfile", "virtual machine", "deploy", "dependency"],
+    "examples": [
+      "what is docker",
+      "what is the difference between containers and virtual machines",
+      "what does a dockerfile do",
+      "why does it work on my machine but not the server",
+      "how do containers work",
+      "should i use docker for development"
+    ],
+    "answer": "A container packages an application with its dependencies and runs it in an isolated process on the host kernel. A **virtual machine** emulates a whole computer with its own kernel, which is heavier; containers start in seconds and share the host kernel, which is why they became the default unit of deployment.\n\nAn **image** is the built filesystem, and a container is a running instance of it. A Dockerfile describes how to build the image: base image, dependencies, code, command. That is what ends 'works on my machine', because the same image runs everywhere.",
+    "more": "Keep images small and reproducible: pin versions, copy the lockfile before the source so dependency layers cache, and run as a non-root user.",
+    "related": "cloud"
+  },
+  {
+    "id": "machine-learning",
+    "title": "Machine learning",
+    "keywords": ["machine learning", "supervised", "unsupervised", "training", "overfitting", "features", "model", "ml"],
+    "examples": [
+      "what is machine learning",
+      "what is the difference between supervised and unsupervised learning",
+      "what is overfitting",
+      "how does training work",
+      "how much data do i need",
+      "how do i evaluate a model"
+    ],
+    "answer": "Machine learning fits a model to examples instead of hand-written rules. In **supervised** learning you provide inputs with correct outputs and the model learns a mapping; in **unsupervised** learning you look for structure such as clusters without labels. Training adjusts parameters to reduce a loss, and the goal is generalisation to data the model has not seen.\n\n**Overfitting** is memorising the training set: excellent training scores, poor new-data scores. You guard against it with a held-out test set, cross-validation and regularisation. Data quality and label correctness usually matter more than model choice.",
+    "more": "Always compare against a trivial baseline. If a simple rule or the most common answer scores nearly as well, the complex model is not earning its complexity.",
+    "related": "llm"
+  },
+  {
+    "id": "correlation",
+    "title": "Correlation and causation",
+    "keywords": ["correlation", "causation", "confounding", "statistics", "spurious", "causal", "observational"],
+    "examples": [
+      "what is the difference between correlation and causation",
+      "what does correlation mean",
+      "why does correlation not imply causation",
+      "what is a confounding variable",
+      "how do i know if something causes something else",
+      "what is a spurious correlation"
+    ],
+    "answer": "Correlation means two things vary together; causation means one produces the other. Three other patterns produce correlation without causation: a **confounder** affecting both, reverse causation, and coincidence in a large enough dataset. Ice cream sales and drowning both rise in summer because heat drives both.\n\nTo argue causation you need a mechanism plus a design that rules out alternatives: a randomised controlled trial, or careful observational methods such as natural experiments and adjustment for confounders. The correlation coefficient measures strength and direction of a linear relationship, between -1 and 1, and says nothing about which way the arrow points.",
+    "more": "A strong correlation with no plausible mechanism is a reason to look for a hidden variable, not a reason to change your behaviour.",
+    "related": "probability"
+  },
+  {
+    "id": "big-bang",
+    "title": "The Big Bang",
+    "keywords": ["big bang", "universe", "origin", "cosmology", "expansion", "age of the universe"],
+    "examples": [
+      "what is the big bang",
+      "how did the universe start",
+      "how old is the universe",
+      "what happened before the big bang",
+      "how big is the universe",
+      "is the universe still expanding"
+    ],
+    "casual": [
+      "big bang explined",
+      "how was the universe made",
+      "when did the universe begin",
+      "was there anything before the big bang",
+      "why do we think the universe started with a bang"
+    ],
+    "answer": "The Big Bang is the model in which the universe expanded from an extremely hot, dense state about **13.8 billion years ago**. It was not an explosion into empty space: space itself stretched, carrying matter and energy with it. As things cooled, protons, electrons and then atoms formed, light could travel freely, and gravity gradually built stars and galaxies.\n\nThree independent lines of evidence agree: distant galaxies are moving apart, the cosmic microwave background is leftover heat from the hot early universe, and the observed mix of hydrogen and helium matches predictions.",
+    "more": "We can trace the expansion back to a very hot dense state, but not all the way to a single point: at the earliest moments the known laws of physics break down, and \"before the Big Bang\" may not be a meaningful question. Inflation is the leading idea for why the universe looks so uniform in every direction.",
+    "related": "stars"
+  },
+  {
+    "id": "stars",
+    "title": "Stars",
+    "keywords": ["stars", "fusion", "sun", "supernova", "nebula", "hydrogen", "light", "night sky"],
+    "examples": [
+      "how do stars form",
+      "what are stars made of",
+      "why do stars shine",
+      "what happens when a star dies",
+      "how far away are the stars"
+    ],
+    "casual": [
+      "how are stars born",
+      "why do stars glow",
+      "what is a star made off",
+      "do stars actually twinkle",
+      "what happens when a star runs out of fuel"
+    ],
+    "answer": "A star is a huge ball of mostly **hydrogen** held together by gravity. When the core gets hot and dense enough, hydrogen nuclei fuse into helium and release energy, and that outward pressure balances gravity. The warmth and light you feel from the Sun are the by-product of that fusion.\n\nStars form when cold clouds of gas collapse under gravity. How a star ends depends on its mass: lighter stars swell into red giants and shed their outer layers, medium ones leave a white dwarf, and massive ones explode as supernovae and leave a neutron star or a black hole.",
+    "more": "Twinkling has nothing to do with the star itself. It comes from moving air in our atmosphere bending the light on its way down, which is why stars twinkle but planets usually do not.",
+    "related": "black-hole"
+  },
+  {
+    "id": "quantum-mechanics",
+    "title": "Quantum mechanics",
+    "keywords": ["quantum", "physics", "wave function", "uncertainty", "superposition", "atom", "probability"],
+    "examples": [
+      "what is quantum mechanics",
+      "what is superposition",
+      "what is quantum entanglement",
+      "why does quantum physics seem weird",
+      "what is the uncertainty principle"
+    ],
+    "casual": [
+      "quantum physics explined",
+      "why is quantum so weird",
+      "what does quantum mean",
+      "is schrodingers cat real",
+      "how does entanglement work"
+    ],
+    "answer": "Quantum mechanics is the physics of very small things: atoms, electrons and photons. It says a particle does not have one definite position or state until it is measured, but a **probability distribution** described by a wave function. Measurement gives one outcome, and repeated measurements build up the predicted statistics.\n\nIt also says energy comes in discrete chunks, or quanta, and that some properties come in pairs that cannot both be known exactly at once, which is the **uncertainty principle**. The theory is strange but extremely well tested: it underpins semiconductors, lasers, MRI scanners and chemistry itself.",
+    "more": "Superposition is not a thing being in two places at once in everyday space; it means the state is a combination of possibilities that only resolves on measurement. Entanglement links two particles so their measured properties are correlated more strongly than any classical explanation allows.",
+    "related": "atom"
+  },
+  {
+    "id": "antibiotics",
+    "title": "Antibiotics",
+    "keywords": ["antibiotics", "bacteria", "penicillin", "resistance", "infection", "medicine"],
+    "examples": [
+      "how do antibiotics work",
+      "what is antibiotic resistance",
+      "do antibiotics work on viruses",
+      "why should i finish a course of antibiotics"
+    ],
+    "casual": [
+      "antibiotics explined",
+      "can antibiotics cure a cold",
+      "why dont antibiotics work on viruses",
+      "what happens if i stop antibiotics early",
+      "are antibiotics bad for you"
+    ],
+    "answer": "Antibiotics kill bacteria or stop them multiplying, using targets that human cells do not have: bacterial cell walls, ribosomes or DNA copying. **Penicillin**, the first widely used one, blocks cell-wall construction, so the bacteria burst.\n\nThey do nothing against viruses, which is why a cold or flu will not respond to them. Using them when they are not needed drives **resistance**: surviving bacteria pass on their defences, and infections that were easy to treat become hard to treat. That is why doctors reserve them for bacterial infections and why finishing a prescribed course matters.",
+    "more": "Resistance is natural selection in action. It is worsened by unnecessary prescriptions, by using antibiotics in farming, and by poor access to the right drugs. New antibiotic classes are rare because they are hard to discover and not very profitable.",
+    "related": "immune-system"
+  },
+  {
+    "id": "immune-system",
+    "title": "The immune system",
+    "keywords": ["immune system", "antibodies", "white blood cells", "infection", "vaccine", "allergy", "immunity"],
+    "examples": [
+      "how does the immune system work",
+      "what are antibodies",
+      "how does the body fight infection",
+      "what is the difference between innate and adaptive immunity"
+    ],
+    "casual": [
+      "immune system explined",
+      "how does my body fight germs",
+      "what do white blood cells do",
+      "why do i get sick again and again",
+      "how does immunity work"
+    ],
+    "answer": "The immune system has two layers. The **innate** layer reacts within minutes: skin and mucus block invaders, and cells such as macrophages and neutrophils swallow anything that looks foreign. The **adaptive** layer is slower but precise: B cells make antibodies that stick to a specific pathogen, and T cells kill infected cells or coordinate the response.\n\nAfter an infection, some memory cells remain, so the next encounter is handled faster and often without symptoms. That is the principle behind vaccination: it teaches the adaptive system using a harmless preview instead of a real infection.",
+    "more": "The system can misfire. Allergies are responses to harmless proteins, autoimmune diseases attack the body's own tissue, and an overreacting immune response can do more damage than the infection itself.",
+    "related": "vaccine"
+  },
+  {
+    "id": "supply-demand",
+    "title": "Supply and demand",
+    "keywords": ["supply", "demand", "price", "market", "economics", "equilibrium", "shortage"],
+    "examples": [
+      "what is supply and demand",
+      "how are prices set",
+      "why do prices go up",
+      "what is market equilibrium",
+      "what causes a shortage"
+    ],
+    "casual": [
+      "supply and demand explined",
+      "why is everything so expensive",
+      "how does price work",
+      "what happens when demand is higher than supply",
+      "why do concert tickets cost so much"
+    ],
+    "answer": "**Demand** is how much people want to buy at a given price; **supply** is how much sellers are willing to offer. Usually demand falls as price rises and supply rises as price rises, so the two meet at an **equilibrium price** where the quantity wanted equals the quantity offered.\n\nIf demand jumps or supply is constrained, the old price creates a shortage: buyers compete and the price rises until the gap closes. If supply floods the market, prices fall. Real markets are messier than the diagram, because of competition, information, expectations and rules, but the basic push and pull explains a lot.",
+    "more": "Some goods behave oddly: demand for necessities barely drops when prices rise, and luxury goods can sell better at a higher price because price signals quality. Economists call these elasticities.",
+    "related": "inflation"
+  },
+  {
+    "id": "taxes",
+    "title": "Taxes",
+    "keywords": ["tax", "income tax", "vat", "sales tax", "deduction", "bracket", "government"],
+    "examples": [
+      "how does income tax work",
+      "what is a tax bracket",
+      "what is the difference between a deduction and a credit",
+      "why do i pay tax"
+    ],
+    "casual": [
+      "taxes explined",
+      "how do tax brackets work",
+      "will a raise put me in a higher tax bracket",
+      "what is vat",
+      "why does tax exist"
+    ],
+    "answer": "Taxes fund things a market will not provide on its own: roads, schools, courts, defence, public health and much of the safety net. An **income tax** is usually progressive, meaning rates rise in steps called brackets. Only the income inside each bracket is taxed at that rate, so moving into a higher bracket never reduces your take-home pay.\n\nA **deduction** reduces taxable income, while a **credit** reduces the tax itself, which makes a credit usually worth more. Consumption taxes such as VAT or sales tax are charged when you spend, which is why they hit lower incomes proportionally harder.",
+    "more": "Rules vary a lot by country, so the useful habit is to check your own jurisdiction's forms and thresholds rather than general advice. Paying attention to withholding early in the year avoids surprises later.",
+    "related": "budgeting"
+  },
+  {
+    "id": "insurance",
+    "title": "Insurance",
+    "keywords": ["insurance", "premium", "deductible", "risk", "claim", "coverage", "policy"],
+    "examples": [
+      "how does insurance work",
+      "what is a deductible",
+      "what is the difference between a premium and a deductible",
+      "why is insurance worth it"
+    ],
+    "casual": [
+      "insurance explined",
+      "what does deductible mean",
+      "why do i pay insurance every month",
+      "how do claims work",
+      "is insurance a scam"
+    ],
+    "answer": "Insurance pools risk. Many people pay a regular **premium** into a shared fund, and the few who suffer a large loss are paid a **claim** from it. That turns an unpredictable, possibly ruinous cost into a predictable smaller one.\n\nThe **deductible** is what you pay yourself before cover starts, and the **limit** is the most the insurer will pay. A higher deductible usually means a lower premium. Insurance makes most sense for losses you could not absorb alone, such as a house fire or a serious illness, and less sense for small costs you can budget for.",
+    "more": "Read the exclusions. Most disputes are about what the policy does not cover, not about the size of the premium. Insurers also price on risk, which is why younger drivers often pay more.",
+    "related": "probability"
+  },
+  {
+    "id": "negotiation",
+    "title": "Negotiation",
+    "keywords": ["negotiation", "salary", "deal", "compromise", "anchoring", "walk away", "agreement"],
+    "examples": [
+      "how do i negotiate a salary",
+      "how do i negotiate a better deal",
+      "what is a win win negotiation",
+      "how do i ask for a raise"
+    ],
+    "casual": [
+      "salary negotiation tips",
+      "how to negotiate pay",
+      "how do i ask for more money",
+      "negotiating tips for beginners",
+      "how to get a better offer"
+    ],
+    "answer": "Good negotiation starts before the conversation. Know your **walk-away point**, what the other side likely needs, and what you can trade that costs you little but is worth a lot to them. Anchor with a specific, justified number rather than a range, and let the first offer be followed by silence instead of immediate compromise.\n\nFor salary, gather market data and evidence of your results, ask for the full package rather than only the base, and separate the person from the position: \"the role is worth X to me\" is easier to discuss than \"you are underpaying me\". Aim for a deal both sides can defend to their own side.",
+    "more": "Negotiation is not only about winning. A deal that leaves the other side feeling tricked tends to fall apart later, and reputation travels. Being clear about your priorities usually gets you more than being vague and tough.",
+    "related": "job-interview"
+  },
+  {
+    "id": "food-safety",
+    "title": "Food safety",
+    "keywords": ["food safety", "storage", "leftovers", "fridge", "freezer", "food poisoning", "temperature"],
+    "examples": [
+      "how long can i keep leftovers in the fridge",
+      "how do i store food safely",
+      "what temperature should my fridge be",
+      "can i refreeze thawed food"
+    ],
+    "casual": [
+      "leftovers how long in fridge",
+      "food safety explined",
+      "is it safe to refreeze chicken",
+      "how cold should a fridge be",
+      "how do i stop food poisoning"
+    ],
+    "answer": "The core rule is to keep cold food cold and hot food hot. Set the fridge to **4 °C (40 °F)** or below and the freezer to -18 °C (0 °F). Bacteria multiply fastest between about 5 °C and 60 °C, so cooked food should not sit in that range for more than two hours.\n\nMost cooked leftovers keep for three to four days in the fridge. Cool them quickly, store them in shallow containers, and reheat to steaming hot. You can refreeze food that was thawed in the fridge, but not food that was thawed warm on the counter.",
+    "more": "When in doubt, throw it out. Smell and look are unreliable guides, because the bacteria that cause food poisoning often leave no visible or odour change.",
+    "related": "nutrition"
+  },
+  {
+    "id": "web-accessibility",
+    "title": "Web accessibility",
+    "keywords": ["accessibility", "a11y", "screen reader", "alt text", "contrast", "keyboard", "aria"],
+    "examples": [
+      "what is web accessibility",
+      "how do i make my website accessible",
+      "what is alt text for",
+      "why does colour contrast matter"
+    ],
+    "casual": [
+      "accessibility explined",
+      "how to make a site screen reader friendly",
+      "what is aria",
+      "why should i add alt text",
+      "can keyboard users use my site"
+    ],
+    "answer": "Web accessibility means people can use a site regardless of vision, hearing, motor control or cognition. The practical basics: real HTML elements instead of clickable divs, every image given useful **alt text** (or empty alt when decorative), text contrast of at least 4.5:1, visible focus states, and everything reachable by keyboard alone.\n\nHeadings should form a logical outline, forms need real labels, and video needs captions. **ARIA** attributes can help when native HTML cannot express a widget, but the first rule of ARIA is not to use it when a native element already does the job. Accessibility is cheaper when it is part of the layout from the start.",
+    "more": "Test with a keyboard and, if you can, a screen reader. Automated checkers catch only a fraction of real problems, mostly the easy markup ones.",
+    "related": "html-css"
+  },
+  {
+    "id": "sorting",
+    "title": "Sorting algorithms",
+    "keywords": ["sorting", "quicksort", "merge sort", "algorithm", "complexity", "stable", "comparison"],
+    "examples": [
+      "what is the fastest sorting algorithm",
+      "how does quicksort work",
+      "what is the difference between quicksort and merge sort",
+      "what does stable sort mean"
+    ],
+    "casual": [
+      "sorting algorithms explined",
+      "which sort should i use",
+      "quicksort vs mergesort",
+      "what is big o of sorting",
+      "why is bubble sort slow"
+    ],
+    "answer": "Comparison sorting cannot beat **O(n log n)** in the worst case, and merge sort guarantees that. **Quicksort** is usually faster in practice because it works in place and has good memory behaviour, but its worst case is O(n²) if the pivot is consistently bad. Most standard libraries use a hybrid: quicksort or introsort for arrays, merge sort when stability is required.\n\nA sort is **stable** if equal elements keep their original order, which matters when you sort by one field after another. For small arrays, insertion sort is often fastest because the overhead is lower.",
+    "more": "If you are sorting integers in a known small range, counting sort or radix sort can beat O(n log n) comparisons entirely, because they do not compare elements.",
+    "related": "big-o"
+  },
+  {
+    "id": "hash-tables",
+    "title": "Hash tables",
+    "keywords": ["hash table", "hash map", "dictionary", "key", "collision", "bucket", "lookup"],
+    "examples": [
+      "what is a hash table",
+      "how does a hash map work",
+      "what is a hash collision",
+      "why are hash table lookups fast"
+    ],
+    "casual": [
+      "hashmap explined",
+      "how do dictionaries work in code",
+      "what happens on a hash collision",
+      "why is a hash table o of 1",
+      "hash table vs array"
+    ],
+    "answer": "A hash table stores key-value pairs by running the key through a **hash function** that turns it into an index into an array of buckets. That lets a lookup jump almost straight to the right slot instead of scanning everything, which is why average lookup, insert and delete are **O(1)**.\n\nTwo keys can hash to the same bucket, a **collision**. Implementations handle that by chaining entries in a list or by probing for the next free slot. Performance depends on a good hash function and on keeping the table from getting too full; when the load factor passes a threshold, the table is resized and everything is rehashed.",
+    "more": "Worst case is O(n) if every key collides. Hash tables also do not keep keys sorted, so if you need ordered traversal, a balanced tree is the better structure.",
+    "related": "big-o"
+  },
+  {
+    "id": "operating-systems",
+    "title": "Operating systems",
+    "keywords": ["operating system", "process", "thread", "memory", "kernel", "scheduler", "file system"],
+    "examples": [
+      "what does an operating system do",
+      "what is the difference between a process and a thread",
+      "what is virtual memory",
+      "what is a kernel"
+    ],
+    "casual": [
+      "operating system explined",
+      "process vs thread",
+      "what does the kernel do",
+      "why does my computer slow down with too many tabs",
+      "what is ram used for"
+    ],
+    "answer": "An operating system is the layer between your programs and the hardware. It schedules work on the CPU, allocates memory, manages files and devices, and enforces permissions. The **kernel** is the privileged core that does the dangerous parts; ordinary programs ask it for help through system calls.\n\nA **process** is a running program with its own memory space. A **thread** is a unit of execution inside a process that shares that memory, which makes communication cheap but requires care with shared data. **Virtual memory** gives each process the illusion of its own contiguous address space and lets the system move rarely used pages to disk.",
+    "more": "When a machine runs out of physical memory it starts swapping pages to disk, which is why too many browser tabs can make everything crawl even when the CPU is idle.",
+    "related": "cloud"
+  },
+  {
+    "id": "networking",
+    "title": "How the internet moves data",
+    "keywords": ["networking", "tcp", "ip", "dns", "packet", "router", "protocol", "latency"],
+    "examples": [
+      "how does the internet work",
+      "what is tcp ip",
+      "what is dns",
+      "what happens when i type a url",
+      "why is my ping high"
+    ],
+    "casual": [
+      "networking explined",
+      "how does data travel across the internet",
+      "what is a packet",
+      "dns explined",
+      "what does a router do",
+      "why is my internet laggy"
+    ],
+    "answer": "Data is split into **packets**, each labelled with a source and destination IP address. Routers pass packets hop by hop toward the destination, and **TCP** puts them back in order, resends anything lost and controls the flow. **DNS** is the phone book: it turns a name like example.com into an IP address before any connection starts.\n\nLatency is the round-trip delay, while bandwidth is how much can flow per second. A high ping with fast downloads means distance or congestion rather than a narrow pipe. **HTTPS** adds TLS encryption on top so the content cannot be read or altered in transit.",
+    "more": "Because packets take whatever path is available, two packets can arrive out of order or not at all. TCP hides that; UDP does not, which is why live video and games sometimes prefer it and tolerate the loss.",
+    "related": "http-https"
+  }
+]

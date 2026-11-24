@@ -1,0 +1,2082 @@
+[
+  {
+    "id": "math-sets-functions",
+    "title": "Sets, relations and functions",
+    "subject": "Mathematics",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "A set is a collection of distinct objects, a relation links elements of two sets, and a function assigns exactly one output to each input.",
+    "points": [
+      "Set operations include union, intersection, difference and complement.",
+      "A relation from A to B is a subset of A × B.",
+      "A function f: A → B is one-one if different inputs give different outputs, and onto if every element of B is an output."
+    ],
+    "formulas": [
+      {
+        "name": "Union size",
+        "expr": "n(A ∪ B) = n(A) + n(B) − n(A ∩ B)"
+      },
+      {
+        "name": "Three sets",
+        "expr": "n(A ∪ B ∪ C) = Σn(A) − Σn(A ∩ B) + n(A ∩ B ∩ C)"
+      }
+    ],
+    "example": "If A = {1, 2, 3} and B = {3, 4}, then A ∪ B = {1, 2, 3, 4} and A ∩ B = {3}.",
+    "aliases": [
+      "sets",
+      "relations",
+      "functions",
+      "union",
+      "intersection",
+      "one one onto",
+      "relations and functions"
+    ],
+    "mistakes": [
+      "Calling a relation a function when one input has two outputs."
+    ]
+  },
+  {
+    "id": "math-trig-functions",
+    "title": "Trigonometric functions",
+    "subject": "Mathematics",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Trigonometric functions extend the right-triangle ratios to all angles using the unit circle, with periodicity and identities.",
+    "points": [
+      "Sine and cosine have period 2π; tangent has period π.",
+      "Signs change by quadrant: ASTC (all, sine, tangent, cosine positive).",
+      "Key identities include sin²x + cos²x = 1 and sin 2x = 2 sin x cos x."
+    ],
+    "formulas": [
+      {
+        "name": "Pythagorean identity",
+        "expr": "sin²x + cos²x = 1"
+      },
+      {
+        "name": "Double angle",
+        "expr": "sin 2x = 2 sin x cos x, cos 2x = 1 − 2sin²x"
+      },
+      {
+        "name": "General solution",
+        "expr": "sin θ = sin α ⇒ θ = nπ + (−1)ⁿα"
+      }
+    ],
+    "example": "sin 150° = sin 30° = 1/2, because 150° is in the second quadrant where sine is positive.",
+    "aliases": [
+      "trigonometric functions",
+      "unit circle",
+      "general solution",
+      "double angle",
+      "quadrant"
+    ],
+    "mistakes": [
+      "Forgetting the ± when solving trigonometric equations."
+    ]
+  },
+  {
+    "id": "math-complex-numbers",
+    "title": "Complex numbers",
+    "subject": "Mathematics",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "A complex number has the form a + bi, where i² = −1, and it can be represented as a point in the complex plane.",
+    "points": [
+      "The modulus |a + bi| = √(a² + b²) and the argument gives its direction.",
+      "Multiplication adds arguments and multiplies moduli.",
+      "The conjugate of a + bi is a − bi, and z × z̄ = |z|²."
+    ],
+    "formulas": [
+      {
+        "name": "Modulus",
+        "expr": "|z| = √(a² + b²)",
+        "symbols": "z = a + bi"
+      },
+      {
+        "name": "Polar form",
+        "expr": "z = r(cos θ + i sin θ)",
+        "symbols": "r = |z|, θ = arg z"
+      },
+      {
+        "name": "De Moivre",
+        "expr": "(cos θ + i sin θ)ⁿ = cos nθ + i sin nθ"
+      }
+    ],
+    "example": "(1 + i)² = 1 + 2i + i² = 2i.",
+    "aliases": [
+      "complex numbers",
+      "iota",
+      "modulus",
+      "argument",
+      "de moivre"
+    ],
+    "mistakes": [
+      "Simplifying i² as 1 instead of −1."
+    ]
+  },
+  {
+    "id": "math-permutations-combinations",
+    "title": "Permutations and combinations",
+    "subject": "Mathematics",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Permutations count arrangements where order matters; combinations count selections where it does not.",
+    "points": [
+      "nPr = n!/(n − r)! and nCr = n!/[r!(n − r)!].",
+      "nCr = nC(n − r), and nC0 = nCn = 1.",
+      "The fundamental principle of counting multiplies independent choices."
+    ],
+    "formulas": [
+      {
+        "name": "Permutations",
+        "expr": "ⁿPᵣ = n! / (n − r)!"
+      },
+      {
+        "name": "Combinations",
+        "expr": "ⁿCᵣ = n! / [r!(n − r)!]"
+      },
+      {
+        "name": "Relation",
+        "expr": "ⁿPᵣ = r! × ⁿCᵣ"
+      }
+    ],
+    "example": "Choosing 3 students from 10 is 10C3 = 120; arranging them in a row is 10P3 = 720.",
+    "aliases": [
+      "permutations",
+      "combinations",
+      "ncr",
+      "npr",
+      "factorial",
+      "counting"
+    ],
+    "mistakes": [
+      "Using permutations when only a group is being chosen."
+    ]
+  },
+  {
+    "id": "math-binomial",
+    "title": "Binomial theorem",
+    "subject": "Mathematics",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "The binomial theorem expands (x + y)ⁿ as a sum of terms with binomial coefficients.",
+    "points": [
+      "The general term is Tᵣ₊₁ = nCr xⁿ⁻ʳ yʳ.",
+      "There are n + 1 terms in the expansion.",
+      "Binomial coefficients are symmetric and sum to 2ⁿ."
+    ],
+    "formulas": [
+      {
+        "name": "Binomial expansion",
+        "expr": "(x + y)ⁿ = Σ nCr xⁿ⁻ʳ yʳ",
+        "symbols": "r from 0 to n"
+      },
+      {
+        "name": "General term",
+        "expr": "Tᵣ₊₁ = nCr xⁿ⁻ʳ yʳ"
+      }
+    ],
+    "example": "(x + 2)³ = x³ + 6x² + 12x + 8.",
+    "aliases": [
+      "binomial theorem",
+      "binomial expansion",
+      "general term",
+      "pascal triangle"
+    ],
+    "mistakes": [
+      "Starting the term index at 1 instead of 0."
+    ]
+  },
+  {
+    "id": "math-sequences-series",
+    "title": "Sequences and series",
+    "subject": "Mathematics",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "A sequence is an ordered list, and a series is its sum; arithmetic and geometric sequences have closed formulas.",
+    "points": [
+      "AP: aₙ = a + (n − 1)d and Sₙ = n/2[2a + (n − 1)d].",
+      "GP: aₙ = arⁿ⁻¹ and Sₙ = a(1 − rⁿ)/(1 − r) for r ≠ 1.",
+      "An infinite GP converges only when |r| < 1."
+    ],
+    "formulas": [
+      {
+        "name": "AP nth term",
+        "expr": "aₙ = a + (n − 1)d"
+      },
+      {
+        "name": "AP sum",
+        "expr": "Sₙ = n/2 [2a + (n − 1)d]"
+      },
+      {
+        "name": "GP sum",
+        "expr": "Sₙ = a(1 − rⁿ)/(1 − r)",
+        "symbols": "r ≠ 1"
+      },
+      {
+        "name": "Infinite GP",
+        "expr": "S∞ = a/(1 − r)",
+        "symbols": "|r| < 1"
+      }
+    ],
+    "example": "1 + 1/2 + 1/4 + … has S∞ = 1/(1 − 1/2) = 2.",
+    "aliases": [
+      "sequences",
+      "series",
+      "gp",
+      "geometric progression",
+      "infinite series",
+      "sum to infinity"
+    ],
+    "mistakes": [
+      "Using the infinite sum formula when |r| ≥ 1."
+    ]
+  },
+  {
+    "id": "math-straight-lines",
+    "title": "Straight lines",
+    "subject": "Mathematics",
+    "classes": [
+      11
+    ],
+    "summary": "A straight line in the plane is described by its slope and a point, or by a linear equation in x and y.",
+    "points": [
+      "Slope m = (y₂ − y₁)/(x₂ − x₁).",
+      "Forms include slope-intercept y = mx + c and point-slope y − y₁ = m(x − x₁).",
+      "Parallel lines have equal slopes; perpendicular slopes multiply to −1."
+    ],
+    "formulas": [
+      {
+        "name": "Slope",
+        "expr": "m = (y₂ − y₁)/(x₂ − x₁)"
+      },
+      {
+        "name": "Point-slope form",
+        "expr": "y − y₁ = m(x − x₁)"
+      },
+      {
+        "name": "Distance from a point to a line",
+        "expr": "|Ax₁ + By₁ + C| / √(A² + B²)",
+        "symbols": "line Ax + By + C = 0"
+      }
+    ],
+    "example": "A line through (1, 2) with slope 3 is y − 2 = 3(x − 1), or y = 3x − 1.",
+    "aliases": [
+      "straight lines",
+      "slope",
+      "gradient",
+      "line equation",
+      "perpendicular lines"
+    ],
+    "mistakes": [
+      "Saying perpendicular lines have equal slopes; their product is −1."
+    ]
+  },
+  {
+    "id": "math-conic-sections",
+    "title": "Conic sections",
+    "subject": "Mathematics",
+    "classes": [
+      11
+    ],
+    "summary": "A conic section is the curve formed by cutting a cone, giving circles, ellipses, parabolas and hyperbolas.",
+    "points": [
+      "A circle has eccentricity 0 and an ellipse less than 1.",
+      "A parabola has eccentricity 1; a hyperbola has eccentricity greater than 1.",
+      "Each conic has a standard equation with a focus and directrix."
+    ],
+    "formulas": [
+      {
+        "name": "Parabola",
+        "expr": "y² = 4ax",
+        "symbols": "focus (a, 0), directrix x = −a"
+      },
+      {
+        "name": "Ellipse",
+        "expr": "x²/a² + y²/b² = 1",
+        "symbols": "a > b, e = √(1 − b²/a²)"
+      },
+      {
+        "name": "Hyperbola",
+        "expr": "x²/a² − y²/b² = 1"
+      }
+    ],
+    "example": "y² = 12x is a parabola with 4a = 12, so a = 3 and the focus is (3, 0).",
+    "aliases": [
+      "conic sections",
+      "parabola",
+      "ellipse",
+      "hyperbola",
+      "eccentricity"
+    ],
+    "mistakes": [
+      "Mixing the ellipse and hyperbola equations; the hyperbola has a minus sign."
+    ]
+  },
+  {
+    "id": "math-limits-derivatives",
+    "title": "Limits and derivatives",
+    "subject": "Mathematics",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "A limit describes the value a function approaches, and the derivative measures the instantaneous rate of change.",
+    "points": [
+      "The derivative is defined as the limit of the difference quotient.",
+      "Standard derivatives include d(xⁿ)/dx = nxⁿ⁻¹, d(sin x)/dx = cos x and d(eˣ)/dx = eˣ.",
+      "Rules include product, quotient and chain rules."
+    ],
+    "formulas": [
+      {
+        "name": "Definition",
+        "expr": "f′(x) = lim(h→0) [f(x + h) − f(x)]/h"
+      },
+      {
+        "name": "Power rule",
+        "expr": "d(xⁿ)/dx = n xⁿ⁻¹"
+      },
+      {
+        "name": "Trig derivatives",
+        "expr": "d(sin x)/dx = cos x, d(cos x)/dx = −sin x"
+      },
+      {
+        "name": "Chain rule",
+        "expr": "d/dx f(g(x)) = f′(g(x)) g′(x)"
+      }
+    ],
+    "example": "d/dx (3x² + 5x) = 6x + 5.",
+    "aliases": [
+      "limits",
+      "derivatives",
+      "differentiation",
+      "chain rule",
+      "product rule",
+      "rate of change"
+    ],
+    "mistakes": [
+      "Forgetting the inner derivative in the chain rule."
+    ]
+  },
+  {
+    "id": "math-matrices-determinants",
+    "title": "Matrices and determinants",
+    "subject": "Mathematics",
+    "classes": [
+      12
+    ],
+    "summary": "A matrix is a rectangular array of numbers, and its determinant is a value that helps solve systems and find inverses.",
+    "points": [
+      "Matrix multiplication is possible when columns of the first equal rows of the second.",
+      "AB is usually not equal to BA.",
+      "A square matrix has an inverse only if its determinant is non-zero."
+    ],
+    "formulas": [
+      {
+        "name": "2×2 determinant",
+        "expr": "|A| = ad − bc",
+        "symbols": "A = [[a, b], [c, d]]"
+      },
+      {
+        "name": "Inverse",
+        "expr": "A⁻¹ = adj(A) / |A|",
+        "symbols": "|A| ≠ 0"
+      },
+      {
+        "name": "Cramer's rule",
+        "expr": "x = D₁/D, y = D₂/D",
+        "symbols": "D ≠ 0"
+      }
+    ],
+    "example": "For A = [[2, 1], [3, 4]], |A| = 8 − 3 = 5, so A is invertible.",
+    "aliases": [
+      "matrices",
+      "determinants",
+      "inverse matrix",
+      "cramer's rule",
+      "adjoint"
+    ],
+    "mistakes": [
+      "Assuming matrix multiplication is commutative."
+    ]
+  },
+  {
+    "id": "math-integrals",
+    "title": "Integration",
+    "subject": "Mathematics",
+    "classes": [
+      12
+    ],
+    "summary": "Integration reverses differentiation and measures accumulated change, including areas under curves.",
+    "points": [
+      "Indefinite integrals include a constant of integration C.",
+      "The fundamental theorem links definite integrals to antiderivatives.",
+      "Methods include substitution, by parts and partial fractions."
+    ],
+    "formulas": [
+      {
+        "name": "Power rule",
+        "expr": "∫xⁿ dx = xⁿ⁺¹/(n + 1) + C",
+        "symbols": "n ≠ −1"
+      },
+      {
+        "name": "Reciprocal",
+        "expr": "∫(1/x) dx = ln|x| + C"
+      },
+      {
+        "name": "Exponential",
+        "expr": "∫eˣ dx = eˣ + C"
+      },
+      {
+        "name": "By parts",
+        "expr": "∫u dv = uv − ∫v du"
+      },
+      {
+        "name": "Fundamental theorem",
+        "expr": "∫ₐᵇ f(x) dx = F(b) − F(a)"
+      }
+    ],
+    "example": "∫₀² 3x² dx = [x³]₀² = 8.",
+    "aliases": [
+      "integration",
+      "integrals",
+      "definite integral",
+      "antiderivative",
+      "area under curve",
+      "by parts"
+    ],
+    "mistakes": [
+      "Omitting + C in an indefinite integral.",
+      "Forgetting to change limits when substituting in a definite integral."
+    ]
+  },
+  {
+    "id": "math-differential-equations",
+    "title": "Differential equations",
+    "subject": "Mathematics",
+    "classes": [
+      12
+    ],
+    "summary": "A differential equation relates a function to its derivatives, and solving it means finding the function.",
+    "points": [
+      "Order is the highest derivative present; degree is its power after clearing radicals.",
+      "Variable separable equations are solved by separating and integrating.",
+      "Linear equations of first order use an integrating factor."
+    ],
+    "formulas": [
+      {
+        "name": "Variable separable",
+        "expr": "dy/dx = f(x)g(y) ⇒ ∫dy/g(y) = ∫f(x)dx"
+      },
+      {
+        "name": "Integrating factor",
+        "expr": "IF = e^∫P dx",
+        "symbols": "for dy/dx + Py = Q"
+      }
+    ],
+    "example": "dy/dx = 2x gives y = x² + C.",
+    "aliases": [
+      "differential equations",
+      "order and degree",
+      "integrating factor",
+      "variable separable"
+    ],
+    "mistakes": [
+      "Calling the power of the highest derivative the order; that is the degree."
+    ]
+  },
+  {
+    "id": "math-vectors-3d",
+    "title": "Vectors and three-dimensional geometry",
+    "subject": "Mathematics",
+    "classes": [
+      12
+    ],
+    "summary": "Vectors have magnitude and direction, and three-dimensional geometry uses coordinates and vectors to describe lines and planes.",
+    "points": [
+      "The dot product measures alignment: a·b = |a||b| cos θ.",
+      "The cross product gives a perpendicular vector and measures area.",
+      "A line in space is described by a point and a direction vector."
+    ],
+    "formulas": [
+      {
+        "name": "Dot product",
+        "expr": "a · b = a₁b₁ + a₂b₂ + a₃b₃"
+      },
+      {
+        "name": "Cross product magnitude",
+        "expr": "|a × b| = |a||b| sin θ"
+      },
+      {
+        "name": "Angle between vectors",
+        "expr": "cos θ = (a · b) / (|a||b|)"
+      }
+    ],
+    "example": "If a·b = 0, the vectors are perpendicular.",
+    "aliases": [
+      "vectors",
+      "dot product",
+      "cross product",
+      "3d geometry",
+      "direction cosines",
+      "vector algebra",
+      "three dimensional geometry"
+    ],
+    "mistakes": [
+      "Using the dot product when a perpendicular vector is needed."
+    ]
+  },
+  {
+    "id": "math-probability-12",
+    "title": "Probability and Bayes' theorem",
+    "subject": "Mathematics",
+    "classes": [
+      12
+    ],
+    "summary": "Probability for multiple events uses conditional probability, independence and Bayes' theorem.",
+    "points": [
+      "P(A|B) = P(A ∩ B)/P(B) for P(B) > 0.",
+      "Independent events satisfy P(A ∩ B) = P(A)P(B).",
+      "Bayes' theorem updates a probability using new evidence."
+    ],
+    "formulas": [
+      {
+        "name": "Conditional probability",
+        "expr": "P(A|B) = P(A ∩ B) / P(B)"
+      },
+      {
+        "name": "Multiplication rule",
+        "expr": "P(A ∩ B) = P(A) P(B|A)"
+      },
+      {
+        "name": "Bayes' theorem",
+        "expr": "P(Aᵢ|B) = P(Aᵢ)P(B|Aᵢ) / ΣP(Aⱼ)P(B|Aⱼ)"
+      }
+    ],
+    "example": "If a test is 90% accurate and a disease is rare, a positive result may still have a modest probability of disease.",
+    "aliases": [
+      "bayes theorem",
+      "conditional probability",
+      "independent events",
+      "probability class 12"
+    ],
+    "mistakes": [
+      "Assuming rare events become likely after one positive test."
+    ]
+  },
+  {
+    "id": "phy-units-errors",
+    "title": "Units, dimensions and errors",
+    "subject": "Physics",
+    "classes": [
+      11
+    ],
+    "summary": "Physical quantities are measured in SI units, and dimensional analysis checks equations and converts units.",
+    "points": [
+      "The seven SI base units include metre, kilogram, second, ampere, kelvin, mole and candela.",
+      "Dimensions express a quantity in terms of M, L, T, A, K, mol and cd.",
+      "Errors combine differently for sums and products."
+    ],
+    "formulas": [
+      {
+        "name": "Relative error in a product",
+        "expr": "Δz/z = Δx/x + Δy/y",
+        "symbols": "for z = xy"
+      },
+      {
+        "name": "Percentage error",
+        "expr": "(Δx/x) × 100%"
+      }
+    ],
+    "example": "Force has dimensions [M L T⁻²], the same as mass × acceleration.",
+    "aliases": [
+      "units and measurements",
+      "dimensions",
+      "dimensional analysis",
+      "errors",
+      "significant figures"
+    ],
+    "mistakes": [
+      "Adding absolute errors when multiplying quantities instead of adding relative errors."
+    ]
+  },
+  {
+    "id": "phy-projectile",
+    "title": "Vectors and projectile motion",
+    "subject": "Physics",
+    "classes": [
+      11
+    ],
+    "summary": "Projectile motion combines constant horizontal velocity with vertical acceleration due to gravity.",
+    "points": [
+      "Horizontal and vertical motions are independent.",
+      "Maximum height is reached when vertical velocity is zero.",
+      "Range is greatest at 45° for a given speed on level ground."
+    ],
+    "formulas": [
+      {
+        "name": "Time of flight",
+        "expr": "T = 2u sin θ / g"
+      },
+      {
+        "name": "Maximum height",
+        "expr": "H = u² sin²θ / (2g)"
+      },
+      {
+        "name": "Range",
+        "expr": "R = u² sin 2θ / g"
+      }
+    ],
+    "example": "A ball thrown at 20 m/s at 30° has range 400 × sin 60° / 9.8 ≈ 35.3 m.",
+    "aliases": [
+      "projectile motion",
+      "projectile",
+      "range",
+      "maximum height",
+      "time of flight",
+      "motion in a plane"
+    ],
+    "mistakes": [
+      "Using the total speed in the vertical equation instead of its vertical component."
+    ]
+  },
+  {
+    "id": "phy-rotational-motion",
+    "title": "Rotational motion",
+    "subject": "Physics",
+    "classes": [
+      11
+    ],
+    "summary": "Rotational motion describes bodies spinning about an axis, using torque, moment of inertia and angular momentum.",
+    "points": [
+      "Torque = r × F and changes angular momentum.",
+      "Moment of inertia depends on mass distribution about the axis.",
+      "Angular momentum is conserved when external torque is zero."
+    ],
+    "formulas": [
+      {
+        "name": "Torque",
+        "expr": "τ = r F sin θ",
+        "symbols": "N m"
+      },
+      {
+        "name": "Moment of inertia",
+        "expr": "I = Σ mᵢ rᵢ²",
+        "symbols": "kg m²"
+      },
+      {
+        "name": "Rotational kinetic energy",
+        "expr": "KE = ½ I ω²"
+      },
+      {
+        "name": "Angular momentum",
+        "expr": "L = I ω"
+      }
+    ],
+    "example": "A skater pulling in their arms reduces I, so ω increases to conserve L.",
+    "aliases": [
+      "rotational motion",
+      "torque",
+      "moment of inertia",
+      "angular momentum",
+      "centre of mass",
+      "system of particles and rotational motion"
+    ],
+    "mistakes": [
+      "Treating moment of inertia as a fixed property; it depends on the chosen axis."
+    ]
+  },
+  {
+    "id": "phy-thermodynamics",
+    "title": "Thermodynamics",
+    "subject": "Physics",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Thermodynamics studies heat, work and internal energy, governed by the laws of thermodynamics.",
+    "points": [
+      "First law: ΔQ = ΔU + ΔW (energy conservation).",
+      "Second law: entropy of an isolated system never decreases.",
+      "Isothermal, adiabatic, isochoric and isobaric processes each hold one quantity constant."
+    ],
+    "formulas": [
+      {
+        "name": "First law",
+        "expr": "ΔQ = ΔU + ΔW"
+      },
+      {
+        "name": "Work by a gas",
+        "expr": "W = P ΔV",
+        "symbols": "constant pressure"
+      },
+      {
+        "name": "Efficiency",
+        "expr": "η = 1 − T_cold/T_hot",
+        "symbols": "Carnot, temperatures in K"
+      }
+    ],
+    "example": "In an adiabatic process no heat is exchanged, so ΔQ = 0 and ΔU = −ΔW.",
+    "aliases": [
+      "thermodynamics",
+      "first law",
+      "entropy",
+      "carnot engine",
+      "adiabatic",
+      "isothermal"
+    ],
+    "mistakes": [
+      "Using Celsius temperatures in efficiency formulas; kelvin is required."
+    ]
+  },
+  {
+    "id": "phy-oscillations-waves",
+    "title": "Oscillations and waves",
+    "subject": "Physics",
+    "classes": [
+      11
+    ],
+    "summary": "Oscillations repeat in time, and waves carry energy through space with a frequency, wavelength and speed.",
+    "points": [
+      "Simple harmonic motion has acceleration proportional to displacement and directed towards equilibrium.",
+      "The period of a simple pendulum is independent of mass.",
+      "Waves can be transverse or longitudinal and show superposition."
+    ],
+    "formulas": [
+      {
+        "name": "SHM acceleration",
+        "expr": "a = −ω²x",
+        "symbols": "ω angular frequency"
+      },
+      {
+        "name": "Pendulum period",
+        "expr": "T = 2π√(L/g)"
+      },
+      {
+        "name": "Wave speed",
+        "expr": "v = f λ"
+      }
+    ],
+    "example": "A 1 m pendulum on Earth has T ≈ 2π√(1/9.8) ≈ 2.0 s.",
+    "aliases": [
+      "oscillations",
+      "simple harmonic motion",
+      "shm",
+      "pendulum",
+      "waves",
+      "resonance"
+    ],
+    "mistakes": [
+      "Thinking the pendulum period depends on the bob's mass."
+    ]
+  },
+  {
+    "id": "phy-electrostatics",
+    "title": "Electric charges and fields",
+    "subject": "Physics",
+    "classes": [
+      12
+    ],
+    "summary": "Stationary charges create electric fields and potentials, described by Coulomb's law and Gauss's law.",
+    "points": [
+      "Like charges repel and opposite charges attract.",
+      "The electric field points away from positive charge and towards negative charge.",
+      "Electric potential is work done per unit charge."
+    ],
+    "formulas": [
+      {
+        "name": "Coulomb's law",
+        "expr": "F = k q₁q₂ / r²",
+        "symbols": "k = 9 × 10⁹ N m²/C²"
+      },
+      {
+        "name": "Electric field",
+        "expr": "E = F/q",
+        "symbols": "N/C or V/m"
+      },
+      {
+        "name": "Potential",
+        "expr": "V = k q / r",
+        "symbols": "volts"
+      },
+      {
+        "name": "Capacitance",
+        "expr": "C = Q/V",
+        "symbols": "farads"
+      }
+    ],
+    "example": "Doubling the distance between two charges reduces the force to one quarter.",
+    "aliases": [
+      "electrostatics",
+      "coulomb's law",
+      "electric field",
+      "electric potential",
+      "capacitance",
+      "gauss law"
+    ],
+    "mistakes": [
+      "Using degrees instead of metres in Coulomb's law, or mixing microcoulombs with coulombs."
+    ]
+  },
+  {
+    "id": "phy-current-electricity",
+    "title": "Current electricity and circuits",
+    "subject": "Physics",
+    "classes": [
+      12
+    ],
+    "summary": "Current electricity studies charge flow in conductors, including resistance, emf and circuit laws.",
+    "points": [
+      "Drift velocity is the average velocity of electrons in a conductor.",
+      "Kirchhoff's junction rule conserves charge and the loop rule conserves energy.",
+      "Terminal voltage is less than emf when current flows because of internal resistance."
+    ],
+    "formulas": [
+      {
+        "name": "Ohm's law",
+        "expr": "V = I R"
+      },
+      {
+        "name": "Drift relation",
+        "expr": "I = n A e v_d",
+        "symbols": "n density, A area, v_d drift velocity"
+      },
+      {
+        "name": "Internal resistance",
+        "expr": "V = ε − I r"
+      },
+      {
+        "name": "Wheatstone balance",
+        "expr": "P/Q = R/S"
+      }
+    ],
+    "example": "A cell of emf 6 V and internal resistance 1 Ω driving 2 A gives terminal voltage 4 V.",
+    "aliases": [
+      "current electricity",
+      "kirchhoff's laws",
+      "drift velocity",
+      "internal resistance",
+      "wheatstone bridge"
+    ],
+    "mistakes": [
+      "Ignoring internal resistance when calculating terminal voltage."
+    ]
+  },
+  {
+    "id": "phy-magnetism-emi",
+    "title": "Magnetism and electromagnetic induction",
+    "subject": "Physics",
+    "classes": [
+      12
+    ],
+    "summary": "Moving charges and currents create magnetic fields, and changing magnetic flux induces an emf.",
+    "points": [
+      "A charged particle moving in a magnetic field experiences a force perpendicular to its velocity.",
+      "Faraday's law gives the induced emf as the rate of change of flux.",
+      "Lenz's law says the induced current opposes the change causing it."
+    ],
+    "formulas": [
+      {
+        "name": "Magnetic force",
+        "expr": "F = q v B sin θ"
+      },
+      {
+        "name": "Force on a wire",
+        "expr": "F = B I l sin θ"
+      },
+      {
+        "name": "Induced emf",
+        "expr": "ε = −dΦ/dt",
+        "symbols": "Φ = B A cos θ"
+      },
+      {
+        "name": "Transformer",
+        "expr": "V_s/V_p = N_s/N_p",
+        "symbols": "ideal transformer"
+      }
+    ],
+    "example": "Doubling the rate at which a magnet moves into a coil doubles the induced emf.",
+    "aliases": [
+      "magnetism",
+      "electromagnetic induction",
+      "faraday's law",
+      "lenz's law",
+      "transformer",
+      "magnetic flux"
+    ],
+    "mistakes": [
+      "Thinking a steady magnetic field through a stationary coil induces an emf."
+    ]
+  },
+  {
+    "id": "phy-optics",
+    "title": "Ray and wave optics",
+    "subject": "Physics",
+    "classes": [
+      12
+    ],
+    "summary": "Ray optics treats light as straight lines through mirrors and lenses; wave optics explains interference, diffraction and polarisation.",
+    "points": [
+      "Refraction follows Snell's law and total internal reflection occurs beyond the critical angle.",
+      "Young's double slit produces alternating bright and dark fringes.",
+      "The lens and mirror formulas use a sign convention."
+    ],
+    "formulas": [
+      {
+        "name": "Snell's law",
+        "expr": "n₁ sin i = n₂ sin r"
+      },
+      {
+        "name": "Critical angle",
+        "expr": "sin C = 1/n"
+      },
+      {
+        "name": "Lens formula",
+        "expr": "1/f = 1/v − 1/u"
+      },
+      {
+        "name": "Fringe width",
+        "expr": "β = λD/d",
+        "symbols": "D slit-screen distance, d slit separation"
+      }
+    ],
+    "example": "Light going from water (n = 1.33) to air has sin C = 1/1.33, so C ≈ 49°.",
+    "aliases": [
+      "ray optics",
+      "wave optics",
+      "total internal reflection",
+      "young's double slit",
+      "diffraction",
+      "polarisation",
+      "ray optics and optical instruments",
+      "optics"
+    ],
+    "mistakes": [
+      "Using the lens formula without consistent sign conventions."
+    ]
+  },
+  {
+    "id": "phy-modern-physics",
+    "title": "Dual nature, atoms and nuclei",
+    "subject": "Physics",
+    "classes": [
+      12
+    ],
+    "summary": "Light and matter show both wave and particle behaviour, and nuclear physics explains atomic structure, radioactivity and energy release.",
+    "points": [
+      "The photoelectric effect shows light behaving as photons.",
+      "de Broglie wavelength links momentum and wavelength.",
+      "Radioactive decay is random and follows an exponential law."
+    ],
+    "formulas": [
+      {
+        "name": "Photon energy",
+        "expr": "E = h f = hc/λ",
+        "symbols": "h = 6.63 × 10⁻³⁴ J s"
+      },
+      {
+        "name": "de Broglie wavelength",
+        "expr": "λ = h/p"
+      },
+      {
+        "name": "Mass-energy",
+        "expr": "E = m c²"
+      },
+      {
+        "name": "Radioactive decay",
+        "expr": "N = N₀ e^(−λt)",
+        "symbols": "λ decay constant"
+      }
+    ],
+    "example": "After one half-life, half of a radioactive sample remains.",
+    "aliases": [
+      "photoelectric effect",
+      "dual nature",
+      "de broglie",
+      "radioactivity",
+      "nuclei",
+      "atoms",
+      "half life",
+      "dual nature of radiation and matter"
+    ],
+    "mistakes": [
+      "Thinking intensity changes the maximum kinetic energy of photoelectrons; frequency does."
+    ]
+  },
+  {
+    "id": "phy-semiconductors",
+    "title": "Semiconductor electronics",
+    "subject": "Physics",
+    "classes": [
+      12
+    ],
+    "summary": "Semiconductors have conductivity between conductors and insulators, and doping lets them form diodes and transistors.",
+    "points": [
+      "n-type semiconductors have extra electrons; p-type have holes.",
+      "A p–n junction diode conducts in forward bias and blocks in reverse bias.",
+      "A transistor can amplify or switch signals."
+    ],
+    "formulas": [
+      {
+        "name": "Diode equation (idea)",
+        "expr": "I ≈ I₀(e^(eV/kT) − 1)",
+        "symbols": "forward bias"
+      },
+      {
+        "name": "Transistor gain",
+        "expr": "β = I_C / I_B"
+      }
+    ],
+    "example": "A diode used as a rectifier converts alternating current into pulsating direct current.",
+    "aliases": [
+      "semiconductors",
+      "diode",
+      "transistor",
+      "p n junction",
+      "rectifier",
+      "doping"
+    ],
+    "mistakes": [
+      "Thinking a diode conducts equally in both directions."
+    ]
+  },
+  {
+    "id": "chem-atomic-structure",
+    "title": "Atomic structure",
+    "subject": "Chemistry",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Atoms have a nucleus of protons and neutrons surrounded by electrons in orbitals described by quantum numbers.",
+    "points": [
+      "The four quantum numbers are principal, azimuthal, magnetic and spin.",
+      "Orbitals fill by the Aufbau principle, Hund's rule and the Pauli exclusion principle.",
+      "Electronic configuration explains periodic properties."
+    ],
+    "formulas": [
+      {
+        "name": "Energy of a hydrogen level",
+        "expr": "Eₙ = −13.6/n² eV"
+      },
+      {
+        "name": "Orbitals in a shell",
+        "expr": "n²",
+        "symbols": "n principal quantum number"
+      },
+      {
+        "name": "Maximum electrons in a shell",
+        "expr": "2n²"
+      }
+    ],
+    "example": "Sodium (Z = 11) has the configuration 1s² 2s² 2p⁶ 3s¹.",
+    "aliases": [
+      "atomic structure",
+      "quantum numbers",
+      "orbitals",
+      "electronic configuration",
+      "aufbau"
+    ],
+    "mistakes": [
+      "Filling 3d before 4s; 4s fills first."
+    ]
+  },
+  {
+    "id": "chem-equilibrium",
+    "title": "Chemical and ionic equilibrium",
+    "subject": "Chemistry",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Reversible reactions reach equilibrium when forward and reverse rates are equal, and ionic equilibrium covers acids, bases and solubility.",
+    "points": [
+      "At equilibrium concentrations stay constant, though reactions continue.",
+      "Le Chatelier's principle predicts the shift when conditions change.",
+      "The ionic product of water K_w = [H⁺][OH⁻] = 10⁻¹⁴ at 25 °C."
+    ],
+    "formulas": [
+      {
+        "name": "Equilibrium constant",
+        "expr": "K_c = [C]^c[D]^d / [A]^a[B]^b"
+      },
+      {
+        "name": "Water ionisation",
+        "expr": "K_w = [H⁺][OH⁻] = 10⁻¹⁴",
+        "symbols": "at 25 °C"
+      },
+      {
+        "name": "pH",
+        "expr": "pH = −log[H⁺]"
+      },
+      {
+        "name": "Henderson–Hasselbalch",
+        "expr": "pH = pKa + log([salt]/[acid])"
+      }
+    ],
+    "example": "Adding more reactant shifts the equilibrium towards products.",
+    "aliases": [
+      "equilibrium",
+      "le chatelier",
+      "ionic equilibrium",
+      "buffer",
+      "kw",
+      "solubility product"
+    ],
+    "mistakes": [
+      "Thinking equilibrium means equal concentrations of reactants and products."
+    ]
+  },
+  {
+    "id": "chem-thermodynamics",
+    "title": "Chemical thermodynamics",
+    "subject": "Chemistry",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Chemical thermodynamics predicts whether a reaction releases energy and whether it can happen spontaneously.",
+    "points": [
+      "Enthalpy change ΔH measures heat at constant pressure.",
+      "Entropy change ΔS measures dispersal of energy.",
+      "A reaction is spontaneous when ΔG is negative."
+    ],
+    "formulas": [
+      {
+        "name": "Gibbs energy",
+        "expr": "ΔG = ΔH − TΔS",
+        "symbols": "T in kelvin"
+      },
+      {
+        "name": "Spontaneity",
+        "expr": "ΔG < 0 ⇒ spontaneous"
+      },
+      {
+        "name": "Enthalpy",
+        "expr": "ΔH = ΔU + ΔnRT"
+      }
+    ],
+    "example": "Combustion has negative ΔH and is spontaneous, even though it needs activation energy to start.",
+    "aliases": [
+      "thermodynamics",
+      "enthalpy",
+      "entropy",
+      "gibbs free energy",
+      "spontaneous"
+    ],
+    "mistakes": [
+      "Saying a spontaneous reaction happens instantly; it may be very slow."
+    ]
+  },
+  {
+    "id": "chem-electrochemistry",
+    "title": "Electrochemistry",
+    "subject": "Chemistry",
+    "classes": [
+      12
+    ],
+    "summary": "Electrochemistry studies the relationship between chemical reactions and electrical energy in cells and electrolysis.",
+    "points": [
+      "Oxidation happens at the anode and reduction at the cathode.",
+      "Standard electrode potentials predict cell voltage.",
+      "The Nernst equation adjusts cell potential for concentration."
+    ],
+    "formulas": [
+      {
+        "name": "Cell potential",
+        "expr": "E°cell = E°cathode − E°anode"
+      },
+      {
+        "name": "Nernst equation",
+        "expr": "E = E° − (0.059/n) log Q",
+        "symbols": "at 298 K"
+      },
+      {
+        "name": "Charge",
+        "expr": "Q = I t",
+        "symbols": "coulombs"
+      },
+      {
+        "name": "Faraday's law",
+        "expr": "m = (M I t)/(n F)",
+        "symbols": "F = 96500 C/mol"
+      }
+    ],
+    "example": "A cell with E°cell > 0 can drive a spontaneous reaction.",
+    "aliases": [
+      "electrochemistry",
+      "electrolysis",
+      "nernst equation",
+      "galvanic cell",
+      "electrode potential",
+      "faraday"
+    ],
+    "mistakes": [
+      "Swapping anode and cathode definitions between galvanic cells and electrolysis."
+    ]
+  },
+  {
+    "id": "chem-kinetics",
+    "title": "Chemical kinetics",
+    "subject": "Chemistry",
+    "classes": [
+      12
+    ],
+    "summary": "Chemical kinetics studies reaction rates and the factors that change them.",
+    "points": [
+      "Rate depends on concentration, temperature, surface area and catalysts.",
+      "Order is determined experimentally, not from the balanced equation.",
+      "Activation energy is the minimum energy needed for reaction."
+    ],
+    "formulas": [
+      {
+        "name": "Rate",
+        "expr": "rate = −Δ[Reactant]/Δt"
+      },
+      {
+        "name": "First order",
+        "expr": "k = (2.303/t) log(a/(a − x))"
+      },
+      {
+        "name": "Half-life (first order)",
+        "expr": "t½ = 0.693/k"
+      },
+      {
+        "name": "Arrhenius",
+        "expr": "k = A e^(−Ea/RT)"
+      }
+    ],
+    "example": "A first-order reaction with k = 0.0693 s⁻¹ has a half-life of about 10 s.",
+    "aliases": [
+      "chemical kinetics",
+      "rate of reaction",
+      "order of reaction",
+      "activation energy",
+      "arrhenius",
+      "half life"
+    ],
+    "mistakes": [
+      "Reading reaction order from coefficients in the balanced equation."
+    ]
+  },
+  {
+    "id": "chem-coordination",
+    "title": "Coordination compounds",
+    "subject": "Chemistry",
+    "classes": [
+      12
+    ],
+    "summary": "Coordination compounds contain a central metal ion bonded to ligands, and their structure explains colour and magnetism.",
+    "points": [
+      "The coordination number is the number of ligand donor atoms bonded to the metal.",
+      "Ligands are classified by denticity (monodentate, bidentate, polydentate).",
+      "Crystal field theory explains splitting of d orbitals and colour."
+    ],
+    "formulas": [
+      {
+        "name": "Oxidation state",
+        "expr": "charge on complex = x + Σ ligand charges"
+      },
+      {
+        "name": "EAN rule",
+        "expr": "effective atomic number = Z − oxidation state + 2 × coordination number"
+      }
+    ],
+    "example": "In [Cu(NH₃)₄]²⁺ the coordination number is 4 and copper's oxidation state is +2.",
+    "aliases": [
+      "coordination compounds",
+      "ligands",
+      "crystal field theory",
+      "complex ions",
+      "coordination number"
+    ],
+    "mistakes": [
+      "Counting ligands instead of donor atoms for polydentate ligands."
+    ]
+  },
+  {
+    "id": "chem-organic-reactions",
+    "title": "Organic reaction mechanisms",
+    "subject": "Chemistry",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Organic reactions proceed through mechanisms such as substitution, addition and elimination, driven by electron movement.",
+    "points": [
+      "Nucleophiles donate electron pairs; electrophiles accept them.",
+      "SN1 proceeds via a carbocation and SN2 in one step with inversion.",
+      "Markovnikov's rule predicts addition to unsymmetrical alkenes."
+    ],
+    "formulas": [
+      {
+        "name": "Degree of unsaturation",
+        "expr": "DoU = (2C + 2 + N − H − X)/2"
+      },
+      {
+        "name": "Markovnikov addition",
+        "expr": "H adds to the carbon with more hydrogens"
+      }
+    ],
+    "example": "HBr added to propene gives 2-bromopropane as the major product.",
+    "aliases": [
+      "organic chemistry",
+      "reaction mechanism",
+      "sn1",
+      "sn2",
+      "markovnikov",
+      "electrophile",
+      "nucleophile"
+    ],
+    "mistakes": [
+      "Drawing a carbocation where a carbanion belongs, or ignoring rearrangements."
+    ]
+  },
+  {
+    "id": "chem-biomolecules",
+    "title": "Biomolecules and polymers",
+    "subject": "Chemistry",
+    "classes": [
+      12
+    ],
+    "summary": "Biomolecules such as carbohydrates, proteins and nucleic acids carry out life processes, and polymers are large molecules built from repeating units.",
+    "points": [
+      "Monosaccharides are simple sugars; polysaccharides are polymers of sugars.",
+      "Proteins are polymers of amino acids joined by peptide bonds.",
+      "Addition polymers form from alkenes; condensation polymers release a small molecule."
+    ],
+    "formulas": [
+      {
+        "name": "Peptide bond",
+        "expr": "−CO−NH−",
+        "symbols": "amide linkage"
+      },
+      {
+        "name": "Glucose",
+        "expr": "C₆H₁₂O₆"
+      },
+      {
+        "name": "Degree of polymerisation",
+        "expr": "DP = molar mass of polymer / molar mass of monomer"
+      }
+    ],
+    "example": "Nylon is a condensation polymer; polythene is an addition polymer.",
+    "aliases": [
+      "biomolecules",
+      "polymers",
+      "carbohydrates",
+      "proteins",
+      "nucleic acids",
+      "nylon",
+      "polymerisation"
+    ],
+    "mistakes": [
+      "Confusing addition and condensation polymerisation."
+    ]
+  },
+  {
+    "id": "bio-cell-cycle",
+    "title": "Cell cycle and cell division",
+    "subject": "Biology",
+    "classes": [
+      11
+    ],
+    "summary": "The cell cycle is the sequence of growth, DNA replication and division that produces new cells.",
+    "points": [
+      "Interphase includes G1, S (DNA replication) and G2.",
+      "Mitosis produces two identical diploid cells for growth and repair.",
+      "Meiosis produces four haploid cells and creates genetic variation."
+    ],
+    "example": "Crossing over in prophase I of meiosis mixes maternal and paternal genes.",
+    "aliases": [
+      "cell cycle",
+      "mitosis",
+      "meiosis",
+      "interphase",
+      "crossing over",
+      "cell division"
+    ],
+    "mistakes": [
+      "Saying meiosis produces identical cells; it produces genetically varied gametes."
+    ]
+  },
+  {
+    "id": "bio-plant-physiology",
+    "title": "Plant physiology",
+    "subject": "Biology",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Plant physiology explains how plants absorb water, make food, transport materials and respond to their environment.",
+    "points": [
+      "Water moves up xylem mainly by transpiration pull.",
+      "Photosynthesis has light reactions and the Calvin cycle.",
+      "Plant hormones such as auxin control growth and tropisms."
+    ],
+    "formulas": [
+      {
+        "name": "Photosynthesis",
+        "expr": "6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂"
+      },
+      {
+        "name": "Transpiration ratio",
+        "expr": "water lost / dry matter gained"
+      }
+    ],
+    "example": "Stomata close in dry conditions to reduce water loss, which also limits carbon dioxide intake.",
+    "aliases": [
+      "plant physiology",
+      "transpiration",
+      "calvin cycle",
+      "auxin",
+      "tropism",
+      "xylem transport"
+    ],
+    "mistakes": [
+      "Thinking photosynthesis happens only in daylight and respiration only at night; respiration is continuous."
+    ]
+  },
+  {
+    "id": "bio-human-reproduction",
+    "title": "Human reproduction and reproductive health",
+    "subject": "Biology",
+    "classes": [
+      12
+    ],
+    "summary": "Human reproduction involves gamete production, fertilisation, implantation and development of the embryo.",
+    "points": [
+      "The menstrual cycle is about 28 days, with ovulation near the middle.",
+      "Fertilisation normally happens in the fallopian tube.",
+      "Reproductive health includes contraception, prenatal care and prevention of infections."
+    ],
+    "example": "The corpus luteum secretes progesterone, which maintains the uterine lining.",
+    "aliases": [
+      "human reproduction",
+      "menstrual cycle",
+      "ovulation",
+      "reproductive health",
+      "contraception",
+      "implantation"
+    ],
+    "mistakes": [
+      "Saying the embryo implants immediately after fertilisation; it travels to the uterus first."
+    ]
+  },
+  {
+    "id": "bio-molecular-inheritance",
+    "title": "Molecular basis of inheritance",
+    "subject": "Biology",
+    "classes": [
+      12
+    ],
+    "summary": "DNA stores genetic information and is copied, transcribed into RNA and translated into proteins.",
+    "points": [
+      "DNA is a double helix with complementary base pairing: A–T and G–C.",
+      "Transcription makes mRNA from a DNA template; translation builds a protein at the ribosome.",
+      "Mutations change the DNA sequence and may alter the protein."
+    ],
+    "formulas": [
+      {
+        "name": "Chargaff's rule",
+        "expr": "A = T and G = C",
+        "symbols": "in double-stranded DNA"
+      }
+    ],
+    "example": "A codon of three mRNA bases specifies one amino acid.",
+    "aliases": [
+      "dna",
+      "rna",
+      "transcription",
+      "translation",
+      "molecular basis of inheritance",
+      "mutation",
+      "genetic code"
+    ],
+    "mistakes": [
+      "Thinking RNA contains thymine; it contains uracil instead."
+    ]
+  },
+  {
+    "id": "bio-biotechnology",
+    "title": "Biotechnology",
+    "subject": "Biology",
+    "classes": [
+      12
+    ],
+    "summary": "Biotechnology uses living organisms or their parts to make useful products, often through genetic engineering.",
+    "points": [
+      "Restriction enzymes cut DNA at specific sequences and ligase joins fragments.",
+      "Plasmids carry foreign genes into bacteria.",
+      "Applications include insulin, vaccines and genetically modified crops."
+    ],
+    "example": "Human insulin is produced by bacteria carrying the human insulin gene.",
+    "aliases": [
+      "biotechnology",
+      "genetic engineering",
+      "recombinant dna",
+      "restriction enzyme",
+      "plasmid",
+      "insulin"
+    ],
+    "mistakes": [
+      "Confusing restriction enzymes (cut) with ligase (join)."
+    ]
+  },
+  {
+    "id": "bio-ecology-populations",
+    "title": "Organisms, populations and ecosystems",
+    "subject": "Biology",
+    "classes": [
+      12
+    ],
+    "summary": "Ecology studies how organisms interact with each other and their environment at population and ecosystem levels.",
+    "points": [
+      "Population growth can be exponential or limited by carrying capacity.",
+      "Interactions include competition, predation, parasitism and mutualism.",
+      "Productivity and decomposition drive ecosystem function."
+    ],
+    "formulas": [
+      {
+        "name": "Exponential growth",
+        "expr": "dN/dt = rN",
+        "symbols": "r intrinsic rate of increase"
+      },
+      {
+        "name": "Logistic growth",
+        "expr": "dN/dt = rN(1 − N/K)",
+        "symbols": "K carrying capacity"
+      }
+    ],
+    "example": "A population at carrying capacity grows slowly because births and deaths balance.",
+    "aliases": [
+      "population ecology",
+      "carrying capacity",
+      "logistic growth",
+      "ecosystem",
+      "predation",
+      "mutualism"
+    ],
+    "mistakes": [
+      "Assuming populations always grow exponentially; resources limit growth."
+    ]
+  },
+  {
+    "id": "bio-human-health",
+    "title": "Human health and disease",
+    "subject": "Biology",
+    "classes": [
+      12
+    ],
+    "summary": "Health depends on physical, mental and social well-being, and disease can be infectious or non-infectious.",
+    "points": [
+      "Pathogens include bacteria, viruses, fungi and parasites.",
+      "Immunity can be innate or acquired, and active immunity follows infection or vaccination.",
+      "Lifestyle diseases such as diabetes have genetic and environmental causes."
+    ],
+    "example": "Vaccination exposes the body to an antigen so it produces memory cells without causing the disease.",
+    "aliases": [
+      "human health",
+      "immunity",
+      "vaccination",
+      "pathogens",
+      "disease",
+      "aids",
+      "malaria"
+    ],
+    "mistakes": [
+      "Thinking antibiotics treat viral infections."
+    ]
+  },
+  {
+    "id": "acc-accounting-equation",
+    "title": "Accounting equation and journal entries",
+    "subject": "Accountancy",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Accounting records transactions using double entry, and the accounting equation keeps assets equal to liabilities plus capital.",
+    "points": [
+      "Every transaction affects at least two accounts, with equal debits and credits.",
+      "Assets = Liabilities + Capital must always balance.",
+      "Journal entries record the accounts, amounts and narration."
+    ],
+    "formulas": [
+      {
+        "name": "Accounting equation",
+        "expr": "Assets = Liabilities + Capital"
+      },
+      {
+        "name": "Capital",
+        "expr": "Capital = Assets − Liabilities"
+      }
+    ],
+    "example": "Buying furniture for cash increases furniture and decreases cash, so total assets do not change.",
+    "aliases": [
+      "accounting equation",
+      "journal entries",
+      "double entry",
+      "debit credit",
+      "capital",
+      "assets liabilities"
+    ],
+    "mistakes": [
+      "Debiting an increase in capital; capital increases are credited."
+    ]
+  },
+  {
+    "id": "acc-ledger-trial-balance",
+    "title": "Ledger and trial balance",
+    "subject": "Accountancy",
+    "classes": [
+      11
+    ],
+    "summary": "The ledger collects transactions by account, and the trial balance checks that total debits equal total credits.",
+    "points": [
+      "Posting transfers journal entries to ledger accounts.",
+      "A trial balance lists debit and credit balances; equality does not prove there are no errors.",
+      "Errors of principle and complete omission are not revealed by a trial balance."
+    ],
+    "example": "A purchase of goods on credit is debited to Purchases and credited to the supplier's account.",
+    "aliases": [
+      "ledger",
+      "trial balance",
+      "posting",
+      "balancing accounts",
+      "errors"
+    ],
+    "mistakes": [
+      "Assuming a balanced trial balance means the accounts are error-free."
+    ]
+  },
+  {
+    "id": "acc-depreciation",
+    "title": "Depreciation",
+    "subject": "Accountancy",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Depreciation allocates the cost of a fixed asset over its useful life.",
+    "points": [
+      "Straight-line method charges an equal amount each year.",
+      "Written-down value method charges a fixed percentage of the reducing balance.",
+      "Depreciation is a non-cash expense that reduces profit."
+    ],
+    "formulas": [
+      {
+        "name": "Straight-line depreciation",
+        "expr": "(cost − scrap value) / useful life"
+      },
+      {
+        "name": "WDV depreciation",
+        "expr": "book value × rate %"
+      }
+    ],
+    "example": "A machine costing ₹1,00,000 with ₹10,000 scrap over 9 years depreciates ₹10,000 a year on the straight-line method.",
+    "aliases": [
+      "depreciation",
+      "straight line method",
+      "written down value",
+      "wdv",
+      "scrap value"
+    ],
+    "mistakes": [
+      "Charging depreciation on the scrap value instead of the depreciable cost."
+    ]
+  },
+  {
+    "id": "acc-financial-statements",
+    "title": "Financial statements",
+    "subject": "Accountancy",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Financial statements report profit or loss and the financial position of a business.",
+    "points": [
+      "The trading account finds gross profit; the profit and loss account finds net profit.",
+      "The balance sheet lists assets, liabilities and capital on a date.",
+      "Ratios such as current ratio and gross profit ratio analyse performance."
+    ],
+    "formulas": [
+      {
+        "name": "Gross profit",
+        "expr": "sales − cost of goods sold"
+      },
+      {
+        "name": "Net profit",
+        "expr": "gross profit + other income − expenses"
+      },
+      {
+        "name": "Current ratio",
+        "expr": "current assets / current liabilities"
+      }
+    ],
+    "example": "Sales ₹5,00,000 and cost of goods sold ₹3,00,000 give gross profit ₹2,00,000.",
+    "aliases": [
+      "financial statements",
+      "trading account",
+      "profit and loss",
+      "balance sheet",
+      "ratios",
+      "gross profit"
+    ],
+    "mistakes": [
+      "Treating capital as an expense in the profit and loss account."
+    ]
+  },
+  {
+    "id": "bus-management",
+    "title": "Principles of management",
+    "subject": "Business Studies",
+    "classes": [
+      12
+    ],
+    "summary": "Management is getting work done through people by planning, organising, staffing, directing and controlling.",
+    "points": [
+      "Fayol proposed fourteen principles including division of work and unity of command.",
+      "Taylor emphasised scientific management and standardisation.",
+      "Coordination is the essence of management."
+    ],
+    "example": "Unity of command means an employee should receive orders from one superior at a time.",
+    "aliases": [
+      "management principles",
+      "fayol",
+      "taylor",
+      "planning",
+      "organising",
+      "controlling",
+      "nature and significance of management"
+    ],
+    "mistakes": [
+      "Confusing unity of command with unity of direction."
+    ]
+  },
+  {
+    "id": "bus-marketing",
+    "title": "Marketing management",
+    "subject": "Business Studies",
+    "classes": [
+      12
+    ],
+    "summary": "Marketing identifies customer needs and creates, communicates and delivers value to satisfy them profitably.",
+    "points": [
+      "The marketing mix has product, price, place and promotion.",
+      "Branding, labelling and packaging influence buying decisions.",
+      "The product life cycle has introduction, growth, maturity and decline stages."
+    ],
+    "example": "A new phone is priced high at launch (skimming) and lowered as competitors arrive.",
+    "aliases": [
+      "marketing",
+      "marketing mix",
+      "product life cycle",
+      "branding",
+      "advertising",
+      "pricing"
+    ],
+    "mistakes": [
+      "Treating marketing as only advertising; the product, price and distribution matter too."
+    ]
+  },
+  {
+    "id": "eco-demand-supply",
+    "title": "Demand, supply and market equilibrium",
+    "subject": "Economics",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Demand and supply curves determine price and quantity in a market, and elasticity measures responsiveness.",
+    "points": [
+      "Demand falls as price rises, other things equal (law of demand).",
+      "Equilibrium occurs where quantity demanded equals quantity supplied.",
+      "Elasticity measures the percentage change in quantity for a percentage change in price."
+    ],
+    "formulas": [
+      {
+        "name": "Price elasticity of demand",
+        "expr": "E_d = (% change in quantity) / (% change in price)"
+      },
+      {
+        "name": "Equilibrium",
+        "expr": "Q_d = Q_s"
+      }
+    ],
+    "example": "If a 10% price rise reduces quantity by 20%, demand is elastic (|E| = 2).",
+    "aliases": [
+      "demand",
+      "supply",
+      "elasticity",
+      "market equilibrium",
+      "law of demand",
+      "microeconomics"
+    ],
+    "mistakes": [
+      "Confusing a movement along the curve with a shift of the curve."
+    ]
+  },
+  {
+    "id": "eco-national-income",
+    "title": "National income",
+    "subject": "Economics",
+    "classes": [
+      12
+    ],
+    "summary": "National income measures the value of goods and services produced in an economy over a period.",
+    "points": [
+      "GDP is the value of final goods and services produced within a country.",
+      "GNP adds net factor income from abroad.",
+      "The expenditure method sums consumption, investment, government spending and net exports."
+    ],
+    "formulas": [
+      {
+        "name": "Expenditure method",
+        "expr": "GDP = C + I + G + (X − M)"
+      },
+      {
+        "name": "GNP",
+        "expr": "GNP = GDP + net factor income from abroad"
+      },
+      {
+        "name": "NNP",
+        "expr": "NNP = GNP − depreciation"
+      }
+    ],
+    "example": "GDP counts production inside the country regardless of who owns the factory.",
+    "aliases": [
+      "national income",
+      "gdp",
+      "gnp",
+      "nnp",
+      "macroeconomics",
+      "expenditure method"
+    ],
+    "mistakes": [
+      "Counting intermediate goods, which double-counts output."
+    ]
+  },
+  {
+    "id": "eco-market-structures",
+    "title": "Market structures",
+    "subject": "Economics",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Market structure describes competition among firms, from perfect competition to monopoly.",
+    "points": [
+      "Perfect competition has many sellers, identical products and free entry.",
+      "A monopoly has one seller and barriers to entry.",
+      "Monopolistic competition has many sellers with differentiated products."
+    ],
+    "formulas": [
+      {
+        "name": "Profit",
+        "expr": "profit = total revenue − total cost"
+      },
+      {
+        "name": "Marginal revenue",
+        "expr": "MR = ΔTR/ΔQ"
+      }
+    ],
+    "example": "A farmer selling wheat is closer to perfect competition; a local electricity supplier is closer to a monopoly.",
+    "aliases": [
+      "market structure",
+      "perfect competition",
+      "monopoly",
+      "monopolistic competition",
+      "oligopoly"
+    ],
+    "mistakes": [
+      "Assuming a monopolist charges any price; demand still limits sales."
+    ]
+  },
+  {
+    "id": "cs-data-structures",
+    "title": "Data structures and algorithms",
+    "subject": "Computer Science",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Data structures organise data so operations are efficient, and algorithm analysis compares their cost as input grows.",
+    "points": [
+      "Arrays give fast index access; linked lists give fast insertion and deletion.",
+      "Stacks are last-in-first-out; queues are first-in-first-out.",
+      "Big O describes the growth of running time with input size."
+    ],
+    "formulas": [
+      {
+        "name": "Binary search",
+        "expr": "O(log n)",
+        "symbols": "on sorted data"
+      },
+      {
+        "name": "Merge sort",
+        "expr": "O(n log n)"
+      },
+      {
+        "name": "Linear search",
+        "expr": "O(n)"
+      }
+    ],
+    "example": "A stack is used for undo history; the most recent action is undone first.",
+    "aliases": [
+      "data structures",
+      "algorithms",
+      "stack",
+      "queue",
+      "linked list",
+      "big o",
+      "sorting"
+    ],
+    "mistakes": [
+      "Using a list where repeated search makes a hash table or set much faster."
+    ]
+  },
+  {
+    "id": "cs-databases",
+    "title": "Databases and SQL",
+    "subject": "Computer Science",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "A relational database stores data in tables linked by keys and is queried with SQL.",
+    "points": [
+      "A primary key uniquely identifies a row; a foreign key references another table.",
+      "SELECT retrieves data with WHERE, ORDER BY and JOIN.",
+      "Normalisation reduces redundancy and update anomalies."
+    ],
+    "formulas": [
+      {
+        "name": "Basic query",
+        "expr": "SELECT name FROM students WHERE marks > 80;"
+      },
+      {
+        "name": "Join",
+        "expr": "SELECT * FROM A JOIN B ON A.id = B.a_id;"
+      }
+    ],
+    "example": "A school database may have a students table and a marks table linked by student id.",
+    "aliases": [
+      "database",
+      "sql",
+      "primary key",
+      "foreign key",
+      "normalisation",
+      "join"
+    ],
+    "mistakes": [
+      "Forgetting the WHERE clause on an UPDATE or DELETE, which affects every row."
+    ]
+  },
+  {
+    "id": "cs-ai-ml",
+    "title": "Artificial intelligence and machine learning",
+    "subject": "Computer Science",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "AI builds systems that perform tasks needing intelligence, and machine learning learns patterns from data instead of explicit rules.",
+    "points": [
+      "Supervised learning uses labelled examples; unsupervised learning finds structure; reinforcement learning learns from reward.",
+      "Overfitting means fitting training data too closely and generalising poorly.",
+      "Bias in data produces biased predictions."
+    ],
+    "formulas": [
+      {
+        "name": "Accuracy",
+        "expr": "correct predictions / total predictions"
+      },
+      {
+        "name": "Linear regression",
+        "expr": "y = mx + c",
+        "symbols": "fitted from data"
+      }
+    ],
+    "example": "A spam filter trained on labelled emails is a supervised classification model.",
+    "aliases": [
+      "artificial intelligence",
+      "machine learning",
+      "neural networks",
+      "supervised learning",
+      "overfitting"
+    ],
+    "mistakes": [
+      "Judging a model only on training accuracy; it may not generalise."
+    ]
+  },
+  {
+    "id": "eng-literary-devices",
+    "title": "Literary devices and analysis",
+    "subject": "English",
+    "classes": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "summary": "Literary devices are techniques writers use to create meaning and effect, and analysis explains how they work in context.",
+    "points": [
+      "Simile compares using like or as; metaphor states one thing is another.",
+      "Personification gives human qualities to non-human things.",
+      "Irony, symbolism and imagery shape tone and theme."
+    ],
+    "example": "The wind whispered through the trees personifies the wind and creates a quiet mood.",
+    "aliases": [
+      "literary devices",
+      "metaphor",
+      "simile",
+      "personification",
+      "irony",
+      "symbolism",
+      "poetic devices"
+    ],
+    "mistakes": [
+      "Naming a device without explaining its effect on meaning or tone."
+    ]
+  },
+  {
+    "id": "eng-formal-writing",
+    "title": "Formal writing: letters, reports and articles",
+    "subject": "English",
+    "classes": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "summary": "Formal writing follows a clear structure and a polite, impersonal register suited to its purpose and audience.",
+    "points": [
+      "A formal letter includes sender details, date, receiver, subject, salutation, body and closing.",
+      "A report states the purpose, findings and conclusion.",
+      "An article has a headline, an engaging opening, developed paragraphs and a closing."
+    ],
+    "example": "A complaint letter states the problem, gives evidence and asks for a specific remedy.",
+    "aliases": [
+      "formal letter",
+      "report writing",
+      "article writing",
+      "letter format",
+      "notice writing"
+    ],
+    "mistakes": [
+      "Using contractions and slang in a formal letter."
+    ]
+  }
+]

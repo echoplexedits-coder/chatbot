@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="en" data-theme="light">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta
+      name="description"
+      content="Lumen — a K–12 study assistant for the NCERT/CBSE curriculum, with its model trained locally."
+    />
+    <meta name="color-scheme" content="light dark" />
+    <title>Lumen · K–12 study assistant</title>
+    <script>
+      try {
+        const saved = localStorage.getItem('lumen-theme')
+        document.documentElement.dataset.theme =
+          saved ??
+          (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light')
+      } catch {}
+    </script>
+  </head>
+  <body>
+    <div class="app">
+      <header class="topbar">
+        <div class="brand">
+          <span class="mark" aria-hidden="true">
+            <svg viewBox="0 0 24 24" fill="none">
+              <path
+                d="M12 3.5c.5 3.6 2 5.4 5.6 6-3.6.6-5.1 2.4-5.6 6-.5-3.6-2-5.4-5.6-6 3.6-.6 5.1-2.4 5.6-6Z"
+                fill="currentColor"
+              />
+              <circle cx="17.8" cy="17.4" r="1.7" fill="currentColor" opacity=".55" />
+            </svg>
+          </span>
+          <span class="brand-text">
+            <span class="brand-name">Lumen</span>
+            <span class="brand-sub">study engine</span>
+          </span>
+        </div>
+        <div class="topbar-actions">
+          <span class="status" id="status" role="status">
+            <span class="dot" aria-hidden="true"></span>
+            <span id="status-text">Ready</span>
+          </span>
+          <button class="text-button" id="clear" type="button" hidden>Clear</button>
+          <div class="account" id="account"></div>
+          <button
+            class="icon-button"
+            id="theme"
+            type="button"
+            aria-label="Switch theme"
+            title="Switch theme"
+          >
+            <svg class="icon-sun" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+              <circle cx="12" cy="12" r="4.2" stroke="currentColor" stroke-width="1.6" />
+              <path
+                d="M12 2.8v2M12 19.2v2M4.7 4.7l1.4 1.4M17.9 17.9l1.4 1.4M2.8 12h2M19.2 12h2M4.7 19.3l1.4-1.4M17.9 6.1l1.4-1.4"
+                stroke="currentColor"
+                stroke-width="1.6"
+                stroke-linecap="round"
+              />
+            </svg>
+            <svg class="icon-moon" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+              <path
+                d="M20 14.4A8.1 8.1 0 0 1 9.6 4 8.3 8.3 0 1 0 20 14.4Z"
+                stroke="currentColor"
+                stroke-width="1.6"
+                stroke-linejoin="round"
+              />
+            </svg>
+          </button>
+        </div>
+      </header>
+
+      <main class="conversation" id="conversation">
+        <div class="intro" id="intro">
+          <h1>Hello! How can I help you today?</h1>
+          <p class="intro-sub">
+            A K–12 study assistant with its model trained right here. No API, no
+            external calls — name a chapter and your class, then ask for a lesson,
+            notes, formulas or a test.
+          </p>
+          <div class="suggestions" id="suggestions">
+            <button class="suggestion" type="button" data-prompt="Teach me integers for class 7">
+              <span class="suggestion-title">Learn a chapter</span>
+              <span class="suggestion-sub">Explained at your class level</span>
+            </button>
+            <button
+              class="suggestion"
+              type="button"
+              data-prompt="Make revision notes on photosynthesis"
+            >
+              <span class="suggestion-title">Make notes</span>
+              <span class="suggestion-sub">Notes or a revision sheet</span>
+            </button>
+            <button
+              class="suggestion"
+              type="button"
+              data-prompt="Test me on class 10 quadratic equations"
+            >
+              <span class="suggestion-title">Test me</span>
+              <span class="suggestion-sub">Practice questions and a key</span>
+            </button>
+          </div>
+        </div>
+        <div class="thread" id="thread" aria-live="polite"></div>
+      </main>
+
+      <footer class="composer-area">
+        <form class="composer" id="composer">
+          <label class="sr-only" for="input">Your message</label>
+          <textarea
+            id="input"
+            rows="1"
+            maxlength="2000"
+            placeholder="Message Lumen…"
+            enterkeyhint="send"
+            autocomplete="off"
+          ></textarea>
+          <button class="send" id="send" type="submit" disabled aria-label="Send message">
+            <svg class="icon-send" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+              <path
+                d="M5 12h13M13 6.5 18.5 12 13 17.5"
+                stroke="currentColor"
+                stroke-width="1.8"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+              />
+            </svg>
+            <svg class="icon-stop" viewBox="0 0 24 24" aria-hidden="true">
+              <rect x="7.5" y="7.5" width="9" height="9" rx="2" fill="currentColor" />
+            </svg>
+          </button>
+        </form>
+        <div class="composer-meta" id="composer-meta">
+          <span>Enter to send · Shift + Enter for a new line</span>
+          <span class="count" id="count" hidden></span>
+        </div>
+        <div class="signin-card" id="signin" hidden>
+          <p class="signin-title">Sign in to chat</p>
+          <p class="signin-sub">
+            Lumen is free to use. Signing in gives the conversation an owner and keeps
+            the endpoint from being abused.
+          </p>
+          <a class="signin-button" href="/auth/freebuff/signin?returnTo=/">
+            Sign in with Freebuff
+          </a>
+        </div>
+      </footer>
+    </div>
+    <script type="module" src="/src/chat.ts"></script>
+  </body>
+</html>

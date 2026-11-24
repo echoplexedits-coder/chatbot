@@ -1,0 +1,130 @@
+[
+  {
+    "id": "board-cbse-assessment",
+    "title": "CBSE assessment pattern",
+    "subject": "Board Exams",
+    "classes": [9, 10, 11, 12],
+    "summary": "CBSE board papers combine theory marks with internal assessment and include competency-based questions.",
+    "points": [
+      "Class 10 and 12 board papers are usually 80 marks theory with 20 marks internal assessment.",
+      "Papers mix MCQs, assertion-reason, very short, short and long answer questions, and case-based questions.",
+      "Internal assessment includes periodic tests, notebook and subject enrichment or practical work.",
+      "Passing needs both the theory and internal components, not just an overall total."
+    ],
+    "example": "A case-based question gives a passage or data set and asks two or three linked questions from it.",
+    "mistakes": [
+      "Assuming internal marks are guaranteed full marks.",
+      "Ignoring the internal choice given in long-answer questions."
+    ],
+    "aliases": [
+      "cbse assessment pattern",
+      "cbse exam pattern",
+      "internal assessment cbse",
+      "competency based questions"
+    ]
+  },
+  {
+    "id": "board-icse-isc",
+    "title": "ICSE and ISC: how they differ from CBSE",
+    "subject": "Board Exams",
+    "classes": [9, 10, 11, 12],
+    "summary": "ICSE (Class 10) and ISC (Class 12) are CISCE exams with a wider subject spread and their own prescribed texts.",
+    "points": [
+      "ICSE is the Class 10 examination and ISC the Class 12 examination, both conducted by CISCE.",
+      "Students take a larger number of subjects, grouped into compulsory and elective groups.",
+      "English and a second language are compulsory, and internal assessment varies by subject.",
+      "Prescribed literature texts and project work differ from CBSE, so NCERT chapter lists do not map exactly."
+    ],
+    "example": "An ICSE student may study English literature as a separate paper with specific prescribed texts, unlike the CBSE core reader.",
+    "mistakes": [
+      "Preparing ICSE literature from CBSE readers.",
+      "Assuming the CBSE marking scheme applies."
+    ],
+    "aliases": [
+      "icse board",
+      "isc board",
+      "cisce",
+      "icse vs cbse",
+      "icse class 10 pattern"
+    ]
+  },
+  {
+    "id": "board-ib",
+    "title": "IB: PYP, MYP and the Diploma Programme",
+    "subject": "Board Exams",
+    "classes": [6, 9, 10, 11, 12],
+    "summary": "The International Baccalaureate runs inquiry-based programmes, with the Diploma Programme assessed on a 45-point scale.",
+    "points": [
+      "PYP covers the primary years, MYP the middle years, and the DP the final two years.",
+      "DP students study six subjects, three at higher level, plus TOK, the extended essay and CAS.",
+      "Subjects are graded 1 to 7, and the core adds up to 3 points, for a maximum of 45.",
+      "Assessment includes internal assessment with criteria-based marking, not just final exams."
+    ],
+    "formulas": [
+      { "name": "Maximum DP score", "expr": "6 subjects × 7 + 3 core points = 45" }
+    ],
+    "example": "A DP student scoring 6,6,6,5,5,5 in subjects and 2 core points totals 35.",
+    "mistakes": [
+      "Treating the IB syllabus as identical to NCERT — the framing and assessment differ.",
+      "Forgetting that CAS and the extended essay are requirements, not extras."
+    ],
+    "aliases": [
+      "ib board",
+      "international baccalaureate",
+      "ib diploma programme",
+      "myp pyp",
+      "tok extended essay"
+    ]
+  },
+  {
+    "id": "board-igcse",
+    "title": "IGCSE and A levels (Cambridge)",
+    "subject": "Board Exams",
+    "classes": [9, 10, 11, 12],
+    "summary": "IGCSE is a two-year international qualification usually taken at 16, followed by AS and A levels.",
+    "points": [
+      "IGCSE is typically taken at the end of Class 10, with grades A* to G or 9 to 1.",
+      "Students choose a broad set including English, mathematics, science and humanities.",
+      "AS and A levels follow over Classes 11 and 12, with separate exam sessions.",
+      "Assessment includes coursework or practical components in several subjects."
+    ],
+    "example": "A student may take IGCSE mathematics in Class 10 and then A level mathematics in Classes 11 and 12.",
+    "mistakes": [
+      "Confusing IGCSE with A level — they are separate stages.",
+      "Assuming all IGCSE subjects have coursework."
+    ],
+    "aliases": [
+      "igcse",
+      "cambridge igcse",
+      "a levels",
+      "as level",
+      "cambridge board"
+    ]
+  },
+  {
+    "id": "board-state-boards",
+    "title": "State boards and how to use this assistant",
+    "subject": "Board Exams",
+    "classes": [9, 10, 11, 12],
+    "summary": "State boards follow their own textbooks and paper patterns, which can differ from NCERT in sequence and depth.",
+    "points": [
+      "Many state boards adapt NCERT, but some use their own textbooks and chapter order.",
+      "Paper pattern, marks split and internal assessment rules are set by the state board.",
+      "Concepts usually match; the sequence, examples and exam wording may not.",
+      "Tell me your board and class and I will flag when a chapter may sit differently in your syllabus."
+    ],
+    "example": "A state board may teach trigonometry a year earlier than NCERT, so the class label here may not match your book.",
+    "mistakes": [
+      "Assuming a state board chapter list is identical to NCERT.",
+      "Relying on an NCERT-only answer for board-specific marking."
+    ],
+    "aliases": [
+      "state board",
+      "state syllabus",
+      "maharashtra board",
+      "up board",
+      "tamil nadu board",
+      "kerala board"
+    ]
+  }
+]

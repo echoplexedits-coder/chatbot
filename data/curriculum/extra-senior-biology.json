@@ -1,0 +1,529 @@
+[
+  {
+    "id": "bio-living-world",
+    "title": "The living world and classification",
+    "subject": "Biology",
+    "classes": [11],
+    "summary": "Living organisms share growth, reproduction, metabolism, response to stimuli and cellular organisation, and are classified by shared features.",
+    "points": [
+      "Taxonomy names and classifies organisms; the hierarchy runs species, genus, family, order, class, phylum, kingdom.",
+      "Binomial nomenclature gives each species a genus and species name, italicised or underlined.",
+      "Museums, herbaria, botanical gardens and zoos preserve reference specimens.",
+      "Classification is based on observable characters and evolutionary relationships, so it is revised as evidence grows."
+    ],
+    "example": "Mangifera indica is the binomial name of mango: genus Mangifera, species indica.",
+    "aliases": ["living world", "taxonomy", "binomial nomenclature", "classification hierarchy", "herbarium", "taxonomic categories"],
+    "mistakes": ["Writing scientific names without capitalising the genus.", "Confusing genus and species."]
+  },
+  {
+    "id": "bio-biological-classification",
+    "title": "Biological classification",
+    "subject": "Biology",
+    "classes": [11],
+    "summary": "The five-kingdom system groups organisms as Monera, Protista, Fungi, Plantae and Animalia.",
+    "points": [
+      "Monera covers bacteria and cyanobacteria, which are prokaryotic.",
+      "Protista covers unicellular eukaryotes such as amoeba, paramecium and algae.",
+      "Fungi are heterotrophic with chitinous cell walls and include moulds, yeasts and mushrooms.",
+      "Viruses are not placed in the five kingdoms because they are not cellular and reproduce only inside a host.",
+      "Lichens are a symbiotic association of algae and fungi."
+    ],
+    "example": "Yeast is a fungus, not a bacterium, because it is eukaryotic with a chitinous wall.",
+    "aliases": ["biological classification", "five kingdom", "monera protista fungi", "viruses viroids lichens", "kingdom classification"],
+    "mistakes": ["Classifying viruses as bacteria.", "Treating algae as plants in the five-kingdom system."]
+  },
+  {
+    "id": "bio-plant-kingdom",
+    "title": "Plant kingdom",
+    "subject": "Biology",
+    "classes": [11],
+    "summary": "Plants are classified into algae, bryophytes, pteridophytes, gymnosperms and angiosperms by their body plan and reproductive structures.",
+    "points": [
+      "Algae are mainly aquatic and lack vascular tissue.",
+      "Bryophytes are the amphibians of the plant kingdom: they need water for fertilisation and have no true vascular system.",
+      "Pteridophytes are the first true vascular plants and reproduce by spores.",
+      "Gymnosperms bear naked seeds in cones; angiosperms bear seeds enclosed in fruits and have flowers.",
+      "Alternation of generations alternates a haploid gametophyte with a diploid sporophyte."
+    ],
+    "example": "Ferns are pteridophytes: they have vascular tissue but reproduce by spores, not seeds.",
+    "aliases": ["plant kingdom", "algae bryophytes pteridophytes", "gymnosperms angiosperms", "alternation of generations", "sporophyte gametophyte"],
+    "mistakes": ["Calling bryophytes vascular plants.", "Saying gymnosperms have no seeds."]
+  },
+  {
+    "id": "bio-animal-kingdom",
+    "title": "Animal kingdom",
+    "subject": "Biology",
+    "classes": [11],
+    "summary": "Animals are classified by symmetry, body cavity, segmentation, notochord and level of organisation.",
+    "points": [
+      "Porifera to echinoderms are invertebrates; chordates include vertebrates with a notochord at some stage.",
+      "Symmetry may be radial (cnidarians) or bilateral (most animals).",
+      "Coelom may be absent (acoelomate), partial (pseudocoelomate) or true (coelomate).",
+      "Vertebrate classes are fishes, amphibians, reptiles, birds and mammals.",
+      "Arthropods are the largest phylum by number of species."
+    ],
+    "example": "Earthworm is an annelid with true coelom and metameric segmentation.",
+    "aliases": ["animal kingdom", "phylum classification", "vertebrates invertebrates", "coelom", "chordata", "arthropoda"],
+    "mistakes": ["Calling all animals with a backbone chordates only; the notochord definition is broader.", "Mixing radial and bilateral symmetry examples."]
+  },
+  {
+    "id": "bio-morphology-plants",
+    "title": "Morphology of flowering plants",
+    "subject": "Biology",
+    "classes": [11],
+    "summary": "Morphology studies the external form of roots, stems, leaves, flowers, fruits and seeds.",
+    "points": [
+      "Root systems are tap (dicots) or fibrous (monocots); roots may be modified for storage, support or respiration.",
+      "Stem modifications include rhizome, tuber, bulb and tendril.",
+      "A leaf has lamina, petiole and stipules; venation is reticulate in dicots and parallel in monocots.",
+      "A flower has calyx, corolla, androecium and gynoecium; aestivation and placentation describe their arrangement.",
+      "Fruits develop from the ovary and seeds from ovules."
+    ],
+    "formulas": [
+      { "name": "Floral formula", "expr": "Br ⊕ K(5) C(5) A5 G(2) describes a family's flower" }
+    ],
+    "example": "Pea has marginal placentation, while tomato has axile placentation.",
+    "aliases": ["morphology of flowering plants", "root stem leaf modifications", "inflorescence", "aestivation", "placentation", "floral formula"],
+    "mistakes": ["Confusing a tuber with a bulb.", "Forgetting that fruit develops from the ovary, not the ovule."]
+  },
+  {
+    "id": "bio-anatomy-plants",
+    "title": "Anatomy of flowering plants",
+    "subject": "Biology",
+    "classes": [11],
+    "summary": "Plant anatomy studies internal tissue arrangement: epidermis, ground tissue and vascular bundles.",
+    "points": [
+      "Monocot and dicot stems differ in vascular bundle arrangement: scattered versus a ring.",
+      "Dicot roots have xylem in a central star with few poles; monocot roots have many xylem poles.",
+      "The vascular bundle contains xylem (water upward) and phloem (food in both directions).",
+      "Secondary growth from the cambium thickens dicot stems and roots."
+    ],
+    "example": "A transverse section of a monocot stem shows scattered vascular bundles without a cambium ring.",
+    "aliases": ["anatomy of flowering plants", "monocot dicot stem", "vascular bundle", "secondary growth", "cambium", "xylem phloem"],
+    "mistakes": ["Assuming monocots undergo the same secondary growth as dicots.", "Mixing the xylem and phloem functions."]
+  },
+  {
+    "id": "bio-structural-organisation-animals",
+    "title": "Structural organisation in animals",
+    "subject": "Biology",
+    "classes": [11],
+    "summary": "Animal bodies are built from four tissue types — epithelial, connective, muscular and neural — organised into organs and systems.",
+    "points": [
+      "Epithelial tissue covers surfaces and lines cavities; its shape and layering relate to function.",
+      "Connective tissue includes loose, dense, cartilage, bone, blood and adipose tissue.",
+      "Muscle is skeletal (striated, voluntary), smooth (non-striated, involuntary) or cardiac.",
+      "The frog and cockroach are studied as representative animals with organ systems."
+    ],
+    "example": "Blood is a connective tissue because its cells are suspended in a matrix, the plasma.",
+    "aliases": ["structural organisation in animals", "animal tissues", "epithelial connective muscular", "frog anatomy", "cockroach anatomy"],
+    "mistakes": ["Calling blood an epithelial tissue.", "Treating cardiac muscle as voluntary."]
+  },
+  {
+    "id": "bio-cell-unit-of-life",
+    "title": "Cell: the unit of life",
+    "subject": "Biology",
+    "classes": [11],
+    "summary": "The cell is the basic structural and functional unit of life, and its organelles carry out specialised jobs.",
+    "points": [
+      "Prokaryotic cells lack a nucleus and membrane-bound organelles; eukaryotic cells have both.",
+      "The plasma membrane is a fluid mosaic of lipids and proteins that controls transport.",
+      "Mitochondria produce ATP and chloroplasts carry out photosynthesis; both have their own DNA.",
+      "Ribosomes make proteins, the endoplasmic reticulum and Golgi body process and transport them, and lysosomes digest waste.",
+      "The nucleus stores DNA and controls cell activity."
+    ],
+    "example": "A red blood cell has no nucleus, while a liver cell has many mitochondria because it is metabolically active.",
+    "aliases": ["cell the unit of life", "cell organelles", "prokaryotic eukaryotic", "fluid mosaic model", "mitochondria chloroplast", "ribosome golgi"],
+    "mistakes": ["Saying prokaryotes have no DNA.", "Assuming all cells have the same organelle set."]
+  },
+  {
+    "id": "bio-biomolecules-cell",
+    "title": "Biomolecules",
+    "subject": "Biology",
+    "classes": [11],
+    "summary": "Living matter is built from carbohydrates, proteins, lipids and nucleic acids, and enzymes catalyse its reactions.",
+    "points": [
+      "Carbohydrates are primary energy sources; cellulose is structural in plants.",
+      "Proteins are polymers of amino acids joined by peptide bonds and have primary to quaternary structure.",
+      "Enzymes are proteins that lower activation energy and are sensitive to temperature and pH.",
+      "Nucleic acids store and transmit genetic information; ATP is the energy currency."
+    ],
+    "formulas": [
+      { "name": "Peptide bond", "expr": "amino acid + amino acid → dipeptide + H₂O" }
+    ],
+    "example": "Sucrose is a disaccharide of glucose and fructose, while starch is a glucose polymer.",
+    "aliases": ["biomolecules", "enzymes", "carbohydrates proteins lipids", "amino acids", "nucleic acids", "atp"],
+    "mistakes": ["Calling enzymes carbohydrates.", "Thinking all lipids are fats."]
+  },
+  {
+    "id": "bio-transport-plants",
+    "title": "Transport in plants",
+    "subject": "Biology",
+    "classes": [11],
+    "summary": "Plants move water and minerals upward through xylem and distribute food through phloem.",
+    "points": [
+      "Water moves by osmosis, root pressure and transpiration pull.",
+      "Transpiration creates the tension that lifts water through xylem, especially on hot dry days.",
+      "Phloem translocates sugars from source to sink using pressure flow.",
+      "Plasmolysis, imbibition and water potential explain water movement into and out of cells."
+    ],
+    "formulas": [
+      { "name": "Water potential", "expr": "Ψ = Ψ_s + Ψ_p" },
+      { "name": "Transpiration ratio", "expr": "water lost / dry matter produced" }
+    ],
+    "example": "A wilted plant recovers after watering because root pressure and transpiration pull restore turgor.",
+    "aliases": ["transport in plants", "xylem phloem transport", "transpiration", "root pressure", "water potential", "translocation"],
+    "mistakes": ["Saying xylem carries food.", "Thinking phloem transport is one-way only."]
+  },
+  {
+    "id": "bio-mineral-nutrition",
+    "title": "Mineral nutrition",
+    "subject": "Biology",
+    "classes": [11],
+    "summary": "Plants need macro and micro nutrients, and deficiency symptoms reveal which element is missing.",
+    "points": [
+      "Macronutrients are carbon, hydrogen, oxygen, nitrogen, phosphorus, sulphur, potassium, calcium and magnesium.",
+      "Micronutrients include iron, manganese, zinc, copper, boron, molybdenum, chlorine and nickel.",
+      "Nitrogen fixation by Rhizobium and cyanobacteria converts atmospheric nitrogen into usable forms.",
+      "Deficiency symptoms appear first in older or younger leaves depending on whether the element is mobile."
+    ],
+    "example": "Nitrogen deficiency causes chlorosis and stunted growth because nitrogen is needed for proteins and chlorophyll.",
+    "aliases": ["mineral nutrition", "macronutrients micronutrients", "deficiency symptoms", "nitrogen fixation", "rhizobium", "hydroponics"],
+    "mistakes": ["Calling all minerals macronutrients.", "Assuming deficiency always shows on old leaves."]
+  },
+  {
+    "id": "bio-photosynthesis-higher-plants",
+    "title": "Photosynthesis in higher plants",
+    "subject": "Biology",
+    "classes": [11],
+    "summary": "Photosynthesis converts light energy into chemical energy, producing glucose and oxygen from carbon dioxide and water.",
+    "points": [
+      "Light reactions occur in thylakoids and produce ATP and NADPH while splitting water to release oxygen.",
+      "The Calvin cycle in the stroma fixes CO₂ using ATP and NADPH to build carbohydrate.",
+      "C4 plants fix CO₂ into a four-carbon acid first, reducing photorespiration in hot climates.",
+      "Chlorophyll a is the main pigment; accessory pigments widen the range of light absorbed.",
+      "Limiting factors such as light, CO₂ and temperature control the rate."
+    ],
+    "formulas": [
+      { "name": "Overall equation", "expr": "6CO₂ + 12H₂O → C₆H₁₂O₆ + 6O₂ + 6H₂O (light, chlorophyll)" },
+      { "name": "Net equation", "expr": "6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂" }
+    ],
+    "example": "The oxygen released in photosynthesis comes from water, not from carbon dioxide — shown by isotope experiments.",
+    "aliases": ["photosynthesis in higher plants", "light reaction", "calvin cycle", "c4 pathway", "photorespiration", "chlorophyll", "dark reaction"],
+    "mistakes": ["Saying oxygen comes from CO₂.", "Believing the dark reaction needs darkness."]
+  },
+  {
+    "id": "bio-respiration-plants",
+    "title": "Respiration in plants",
+    "subject": "Biology",
+    "classes": [11],
+    "summary": "Plants break down glucose to release energy through glycolysis, the Krebs cycle and oxidative phosphorylation.",
+    "points": [
+      "Glycolysis in the cytoplasm converts glucose to pyruvate and yields a net 2 ATP and 2 NADH.",
+      "Pyruvate is converted to acetyl-CoA, which enters the Krebs cycle in mitochondria.",
+      "The electron transport chain produces most of the ATP, using oxygen as the final electron acceptor.",
+      "Anaerobic respiration in plants produces ethanol and CO₂ with much less energy.",
+      "The respiratory quotient compares CO₂ released with O₂ used and depends on the substrate."
+    ],
+    "formulas": [
+      { "name": "Glycolysis net", "expr": "glucose → 2 pyruvate + 2 ATP + 2 NADH" },
+      { "name": "Aerobic total", "expr": "about 36–38 ATP per glucose" },
+      { "name": "RQ", "expr": "RQ = CO₂ released / O₂ consumed" }
+    ],
+    "example": "Germinating seeds respire rapidly and release heat, which can be detected with a thermometer in a flask.",
+    "aliases": ["respiration in plants", "glycolysis", "krebs cycle", "electron transport chain", "anaerobic respiration", "respiratory quotient"],
+    "mistakes": ["Claiming plants do not respire at night.", "Ignoring that glycolysis happens in the cytoplasm."]
+  },
+  {
+    "id": "bio-plant-growth",
+    "title": "Plant growth and development",
+    "subject": "Biology",
+    "classes": [11],
+    "summary": "Plants grow through cell division and elongation, and development is controlled by hormones and environmental signals.",
+    "points": [
+      "Growth is measurable as an increase in size, weight or cell number and follows a sigmoid curve.",
+      "Auxins promote elongation and phototropism; cytokinins promote cell division.",
+      "Gibberellins promote stem elongation and seed germination; abscisic acid closes stomata and promotes dormancy.",
+      "Ethylene ripens fruit and promotes senescence.",
+      "Photoperiodism and vernalisation control flowering in many species."
+    ],
+    "formulas": [
+      { "name": "Growth rate", "expr": "Δsize / Δtime" }
+    ],
+    "example": "Auxin accumulating on the shaded side of a shoot bends it towards light.",
+    "aliases": ["plant growth and development", "plant hormones", "auxin gibberellin", "photoperiodism", "vernalisation", "sigmoid growth"],
+    "mistakes": ["Calling ethylene a growth promoter only.", "Confusing photoperiodism with photosynthesis."]
+  },
+  {
+    "id": "bio-breathing-exchange",
+    "title": "Breathing and exchange of gases",
+    "subject": "Biology",
+    "classes": [11],
+    "summary": "Breathing moves air into the lungs, where oxygen and carbon dioxide exchange between alveoli and blood.",
+    "points": [
+      "Inspiration is active, driven by the diaphragm and intercostal muscles; normal expiration is passive.",
+      "Alveoli give a large surface area with thin walls and rich capillaries for gas exchange.",
+      "Oxygen travels mainly bound to haemoglobin; carbon dioxide travels mostly as bicarbonate.",
+      "Respiratory volume terms include tidal volume, vital capacity and residual volume."
+    ],
+    "formulas": [
+      { "name": "Pulmonary ventilation", "expr": "tidal volume × respiratory rate" },
+      { "name": "Vital capacity", "expr": "TV + IRV + ERV" }
+    ],
+    "example": "At high altitude oxygen partial pressure falls, so breathing rate and red blood cell count rise over time.",
+    "aliases": ["breathing and exchange of gases", "respiration human", "alveoli", "haemoglobin oxygen transport", "vital capacity", "lung volumes"],
+    "mistakes": ["Confusing breathing with cellular respiration.", "Thinking most CO₂ is carried bound to haemoglobin."]
+  },
+  {
+    "id": "bio-body-fluids-circulation",
+    "title": "Body fluids and circulation",
+    "subject": "Biology",
+    "classes": [11],
+    "summary": "Blood and lymph transport substances, and the heart pumps blood through pulmonary and systemic circuits.",
+    "points": [
+      "Human blood has plasma, red cells, white cells and platelets.",
+      "The heart has four chambers; the left ventricle has the thickest wall because it pumps to the whole body.",
+      "The cardiac cycle includes systole and diastole, with valves preventing backflow.",
+      "The SA node sets the heart rhythm and the AV node relays the impulse.",
+      "Blood groups depend on A, B and Rh antigens and matter for transfusion."
+    ],
+    "formulas": [
+      { "name": "Cardiac output", "expr": "stroke volume × heart rate" },
+      { "name": "Blood pressure", "expr": "systolic/diastolic, normal about 120/80 mm Hg" }
+    ],
+    "example": "A person with O⁻ blood is a universal donor because the red cells carry no A, B or Rh antigens.",
+    "aliases": ["body fluids and circulation", "human heart", "cardiac cycle", "blood groups", "lymph", "sa node", "double circulation"],
+    "mistakes": ["Saying arteries always carry oxygenated blood; the pulmonary artery does not.", "Mixing up systole and diastole."]
+  },
+  {
+    "id": "bio-excretory-products",
+    "title": "Excretory products and their elimination",
+    "subject": "Biology",
+    "classes": [11],
+    "summary": "The kidneys filter blood, reabsorb useful substances and excrete nitrogenous waste as urine.",
+    "points": [
+      "The nephron is the functional unit: glomerular filtration, tubular reabsorption and secretion.",
+      "The loop of Henle creates a concentration gradient that allows urine to be concentrated.",
+      "ADH increases water reabsorption; aldosterone increases sodium reabsorption.",
+      "Ammonotelic, ureotelic and uricotelic animals excrete different nitrogenous wastes.",
+      "Dialysis replaces kidney filtration when kidneys fail."
+    ],
+    "formulas": [
+      { "name": "GFR", "expr": "about 125 mL/min in a healthy adult" },
+      { "name": "Filtration", "expr": "glomerular pressure − (osmotic + capsular pressure)" }
+    ],
+    "example": "Diabetes insipidus causes large volumes of dilute urine because ADH is deficient.",
+    "aliases": ["excretory products", "kidney nephron", "urine formation", "dialysis", "adh", "osmoregulation"],
+    "mistakes": ["Thinking all reabsorption happens in the glomerulus.", "Confusing ADH with aldosterone."]
+  },
+  {
+    "id": "bio-locomotion-movement",
+    "title": "Locomotion and movement",
+    "subject": "Biology",
+    "classes": [11],
+    "summary": "Movement happens when muscles contract and pull on bones across joints.",
+    "points": [
+      "The skeleton has axial (skull, vertebral column, ribs) and appendicular (limbs, girdles) parts.",
+      "Muscles work in antagonistic pairs; the biceps flexes and the triceps extends the forearm.",
+      "The sliding filament theory explains contraction by actin and myosin filaments sliding past each other.",
+      "Joints may be fibrous, cartilaginous or synovial, allowing different ranges of movement.",
+      "Disorders include osteoporosis, arthritis, gout and muscular dystrophy."
+    ],
+    "formulas": [
+      { "name": "Sliding filament", "expr": "sarcomere shortens as actin slides over myosin" }
+    ],
+    "example": "During a biceps curl the biceps contracts while the triceps relaxes and lengthens.",
+    "aliases": ["locomotion and movement", "skeletal system", "muscle contraction", "sliding filament theory", "joints", "osteoporosis"],
+    "mistakes": ["Saying muscles push bones.", "Confusing tendons with ligaments."]
+  },
+  {
+    "id": "bio-neural-control",
+    "title": "Neural control and coordination",
+    "subject": "Biology",
+    "classes": [11],
+    "summary": "The nervous system detects stimuli, processes information and produces rapid responses through neurons.",
+    "points": [
+      "A neuron has dendrites, a cell body and an axon; the axon carries impulses away.",
+      "The resting potential is maintained by the sodium–potassium pump and selective permeability.",
+      "An action potential is a rapid depolarisation that travels along the axon.",
+      "Synapses transmit signals chemically through neurotransmitters.",
+      "The brain has forebrain, midbrain and hindbrain regions with distinct functions."
+    ],
+    "formulas": [
+      { "name": "Resting potential", "expr": "about −70 mV" },
+      { "name": "Action potential", "expr": "depolarisation to about +30 mV" }
+    ],
+    "example": "A reflex like pulling your hand from a hot pan is fast because the spinal cord responds before the brain.",
+    "aliases": ["neural control", "nervous system", "neuron action potential", "synapse", "reflex arc", "brain parts"],
+    "mistakes": ["Thinking the impulse is a flow of electrons.", "Ignoring the role of myelin in speeding conduction."]
+  },
+  {
+    "id": "bio-chemical-coordination",
+    "title": "Chemical coordination and integration",
+    "subject": "Biology",
+    "classes": [11],
+    "summary": "Endocrine glands release hormones into the blood, which act on target cells to regulate body functions.",
+    "points": [
+      "The pituitary is controlled by the hypothalamus and regulates other glands.",
+      "Thyroid hormones control metabolism; insulin and glucagon control blood glucose.",
+      "Adrenal hormones prepare the body for stress and regulate salt balance.",
+      "Hormones act in small amounts and are usually regulated by feedback loops.",
+      "Diabetes mellitus results from insulin deficiency or resistance."
+    ],
+    "example": "After a meal insulin rises and lowers blood glucose; during fasting glucagon raises it.",
+    "aliases": ["chemical coordination", "endocrine glands", "hormones", "insulin glucagon", "thyroid", "pituitary", "feedback"],
+    "mistakes": ["Saying hormones act faster than nerves.", "Confusing diabetes mellitus with diabetes insipidus."]
+  },
+  {
+    "id": "bio-sexual-reproduction-plants",
+    "title": "Sexual reproduction in flowering plants",
+    "subject": "Biology",
+    "classes": [12],
+    "summary": "Flowers contain male and female reproductive organs, and fertilisation produces seeds inside fruits.",
+    "points": [
+      "The anther produces pollen grains; the ovule contains the embryo sac with the egg cell.",
+      "Pollination is the transfer of pollen to the stigma and may be self or cross.",
+      "Double fertilisation forms a diploid zygote and a triploid endosperm.",
+      "After fertilisation the ovule becomes the seed and the ovary the fruit.",
+      "Apomixis and polyembryony are exceptions where seeds form without normal fertilisation."
+    ],
+    "formulas": [
+      { "name": "Double fertilisation", "expr": "one male gamete + egg → zygote; another + polar nuclei → endosperm" }
+    ],
+    "example": "In mango, the ovary wall becomes the fruit pulp and the ovule becomes the seed.",
+    "aliases": ["sexual reproduction in flowering plants", "pollination", "double fertilisation", "embryo sac", "endosperm", "apomixis"],
+    "mistakes": ["Saying endosperm is diploid.", "Confusing pollination with fertilisation."]
+  },
+  {
+    "id": "bio-reproductive-health",
+    "title": "Reproductive health",
+    "subject": "Biology",
+    "classes": [12],
+    "summary": "Reproductive health covers safe reproduction, contraception, prevention of sexually transmitted infections and assisted reproduction.",
+    "points": [
+      "Contraceptive methods include barrier, hormonal, intrauterine and surgical approaches.",
+      "Sexually transmitted infections such as HIV, syphilis and gonorrhoea need early treatment.",
+      "Infertility treatments include IVF, ZIFT, GIFT and artificial insemination.",
+      "Awareness, counselling and prenatal care reduce maternal and infant risk.",
+      "Sex determination in humans is chromosomal: XX female, XY male, decided by the father's sperm."
+    ],
+    "example": "IVF fertilises the egg outside the body and transfers the embryo into the uterus.",
+    "aliases": ["reproductive health", "contraception", "ivf", "sti", "family planning", "amniocentesis"],
+    "mistakes": ["Treating reproductive health as only about pregnancy.", "Believing the mother determines the child's sex."]
+  },
+  {
+    "id": "bio-evolution",
+    "title": "Evolution",
+    "subject": "Biology",
+    "classes": [12],
+    "summary": "Evolution is the change in inherited characteristics of populations over generations, driven by natural selection and other mechanisms.",
+    "points": [
+      "Darwin's natural selection favours variations that improve survival and reproduction.",
+      "Evidence comes from fossils, comparative anatomy, embryology, biochemistry and biogeography.",
+      "Homologous structures share ancestry; analogous structures share function but not ancestry.",
+      "Hardy–Weinberg equilibrium describes allele frequencies in an ideal non-evolving population.",
+      "Speciation occurs when populations become reproductively isolated."
+    ],
+    "formulas": [
+      { "name": "Hardy–Weinberg", "expr": "p² + 2pq + q² = 1" },
+      { "name": "Allele frequencies", "expr": "p + q = 1" }
+    ],
+    "example": "Antibiotic resistance spreads because resistant bacteria survive treatment and reproduce.",
+    "aliases": ["evolution", "natural selection", "darwin", "hardy weinberg", "homologous analogous", "speciation", "human evolution"],
+    "mistakes": ["Saying individuals evolve rather than populations.", "Treating evolution as progress towards a goal."]
+  },
+  {
+    "id": "bio-microbes-welfare",
+    "title": "Microbes in human welfare",
+    "subject": "Biology",
+    "classes": [12],
+    "summary": "Microorganisms are used in food, medicine, agriculture and sewage treatment, though some cause disease.",
+    "points": [
+      "Lactic acid bacteria curdle milk into curd; yeast ferments dough and beverages.",
+      "Antibiotics such as penicillin come from fungi and bacteria.",
+      "Biofertilisers like Rhizobium and Azotobacter add nitrogen to soil.",
+      "Sewage treatment uses aerobic and anaerobic microbes to break down waste.",
+      "Biogas is produced by methanogens from organic waste."
+    ],
+    "example": "Penicillin was discovered from the mould Penicillium notatum.",
+    "aliases": ["microbes in human welfare", "fermentation", "antibiotics", "biofertiliser", "sewage treatment", "biogas"],
+    "mistakes": ["Assuming all microbes are harmful.", "Confusing biofertiliser with chemical fertiliser."]
+  },
+  {
+    "id": "bio-biotech-principles",
+    "title": "Principles and processes of biotechnology",
+    "subject": "Biology",
+    "classes": [12],
+    "summary": "Biotechnology uses living systems or their parts to make useful products, using tools such as restriction enzymes, vectors and PCR.",
+    "points": [
+      "Restriction enzymes cut DNA at specific recognition sequences.",
+      "Plasmids are common vectors that carry foreign DNA into host cells.",
+      "PCR amplifies DNA through denaturation, annealing and extension cycles.",
+      "Recombinant DNA is inserted into a host, selected and expressed.",
+      "Bioreactors allow large-scale culture of cells or enzymes."
+    ],
+    "formulas": [
+      { "name": "PCR copies", "expr": "2ⁿ copies after n cycles" }
+    ],
+    "example": "Human insulin is produced by bacteria carrying the human insulin gene on a plasmid.",
+    "aliases": ["biotechnology principles", "recombinant dna", "restriction enzyme", "plasmid vector", "pcr", "bioreactor"],
+    "mistakes": ["Thinking PCR needs living cells.", "Confusing a vector with a host organism."]
+  },
+  {
+    "id": "bio-biotech-applications",
+    "title": "Biotechnology and its applications",
+    "subject": "Biology",
+    "classes": [12],
+    "summary": "Biotechnology is applied in medicine, agriculture and industry, including GM crops, gene therapy and transgenic animals.",
+    "points": [
+      "Bt cotton carries a bacterial gene that protects it from bollworm.",
+      "Gene therapy replaces a faulty gene, as in severe combined immunodeficiency.",
+      "Transgenic animals are used for research, medicine production and safety testing.",
+      "RNA interference silences specific genes and is used against pests.",
+      "Ethical and biosafety issues surround GM organisms and gene editing."
+    ],
+    "example": "Bt cotton produces a toxin harmful to specific insect larvae but not to humans.",
+    "aliases": ["biotechnology applications", "bt cotton", "gene therapy", "transgenic animals", "rna interference", "gm crops"],
+    "mistakes": ["Believing Bt toxin harms all insects.", "Thinking gene therapy edits every cell of the body."]
+  },
+  {
+    "id": "bio-ecosystem",
+    "title": "Ecosystem",
+    "subject": "Biology",
+    "classes": [12],
+    "summary": "An ecosystem is a community of organisms interacting with each other and their physical environment, with energy flowing and nutrients cycling.",
+    "points": [
+      "Producers capture energy, consumers transfer it along food chains, and decomposers return nutrients.",
+      "Energy flow is unidirectional and only about 10% passes to the next trophic level.",
+      "Ecological pyramids show numbers, biomass or energy at each trophic level.",
+      "Nutrient cycles such as carbon and nitrogen move matter between organisms and the environment.",
+      "Primary productivity sets the energy budget of an ecosystem."
+    ],
+    "formulas": [
+      { "name": "Ten percent law", "expr": "energy at next level ≈ 10% of the previous level" },
+      { "name": "Net primary productivity", "expr": "NPP = GPP − respiration" }
+    ],
+    "example": "A grassland supports many more herbivores than a forest supports top carnivores because energy shrinks at each level.",
+    "aliases": ["ecosystem", "energy flow", "food chain food web", "ecological pyramid", "nutrient cycling", "productivity"],
+    "mistakes": ["Assuming energy cycles like nutrients.", "Counting decomposers as a trophic level of consumers in every pyramid."]
+  },
+  {
+    "id": "bio-biodiversity-conservation",
+    "title": "Biodiversity and conservation",
+    "subject": "Biology",
+    "classes": [12],
+    "summary": "Biodiversity is the variety of species, genes and ecosystems, and conserving it protects ecosystem services and future options.",
+    "points": [
+      "Species diversity is highest in the tropics because of stable climate and long evolutionary history.",
+      "Loss of habitat, overexploitation, invasive species and pollution drive extinction.",
+      "In-situ conservation keeps species in their habitat through national parks and biosphere reserves.",
+      "Ex-situ conservation keeps species outside their habitat in zoos, seed banks and botanical gardens.",
+      "Hotspots and the species–area relationship guide conservation priorities."
+    ],
+    "formulas": [
+      { "name": "Species–area relationship", "expr": "log S = log C + z log A" }
+    ],
+    "example": "The Western Ghats is a biodiversity hotspot with many endemic species found nowhere else.",
+    "aliases": ["biodiversity", "conservation", "hotspots", "in situ ex situ", "species area relationship", "extinction"],
+    "mistakes": ["Thinking biodiversity means only the number of species.", "Assuming ex-situ conservation is enough on its own."]
+  }
+]

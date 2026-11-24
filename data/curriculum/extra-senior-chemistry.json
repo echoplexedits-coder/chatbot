@@ -1,0 +1,738 @@
+[
+  {
+    "id": "chem-redox",
+    "title": "Redox reactions",
+    "subject": "Chemistry",
+    "classes": [
+      11
+    ],
+    "summary": "Redox reactions involve simultaneous oxidation (loss of electrons) and reduction (gain of electrons).",
+    "points": [
+      "Oxidation number is a bookkeeping number that tracks electron loss and gain in a compound.",
+      "The oxidising agent is reduced and the reducing agent is oxidised.",
+      "Redox reactions balance by the oxidation-number method or the half-reaction (ion–electron) method.",
+      "Disproportionation is a reaction where one element is both oxidised and reduced."
+    ],
+    "formulas": [
+      {
+        "name": "Oxidation",
+        "expr": "loss of electrons, increase in oxidation number"
+      },
+      {
+        "name": "Reduction",
+        "expr": "gain of electrons, decrease in oxidation number"
+      }
+    ],
+    "example": "In Zn + Cu²⁺ → Zn²⁺ + Cu, zinc is oxidised and copper ions are reduced.",
+    "aliases": [
+      "redox",
+      "oxidation reduction",
+      "oxidation number",
+      "oxidising agent",
+      "half reaction method",
+      "disproportionation"
+    ],
+    "mistakes": [
+      "Assuming oxygen must be present for oxidation.",
+      "Forgetting that an oxidising agent is itself reduced."
+    ]
+  },
+  {
+    "id": "chem-states-of-matter",
+    "title": "States of matter and gas laws",
+    "subject": "Chemistry",
+    "classes": [
+      11
+    ],
+    "summary": "Gases are described by the gas laws, and deviations from ideal behaviour reveal intermolecular attraction and molecular volume.",
+    "points": [
+      "Boyle's law: at constant temperature PV is constant; Charles's law: V/T is constant at constant pressure.",
+      "The ideal gas equation PV = nRT combines the simple gas laws.",
+      "Dalton's law of partial pressures adds the contributions of each gas in a mixture.",
+      "Van der Waals equation corrects for molecular volume (b) and attraction (a).",
+      "Critical temperature is the highest temperature at which a gas can be liquefied by pressure alone."
+    ],
+    "formulas": [
+      {
+        "name": "Ideal gas",
+        "expr": "PV = nRT"
+      },
+      {
+        "name": "Van der Waals",
+        "expr": "(P + an²/V²)(V − nb) = nRT"
+      },
+      {
+        "name": "Partial pressure",
+        "expr": "p_i = x_i P_total"
+      },
+      {
+        "name": "Compressibility factor",
+        "expr": "Z = PV/nRT"
+      }
+    ],
+    "example": "At STP one mole of an ideal gas occupies 22.4 L.",
+    "aliases": [
+      "states of matter",
+      "gas laws",
+      "boyle charles",
+      "van der waals",
+      "partial pressure",
+      "critical temperature",
+      "kinetic molecular theory"
+    ],
+    "mistakes": [
+      "Using Celsius in gas-law calculations.",
+      "Expecting real gases to obey PV = nRT at high pressure."
+    ]
+  },
+  {
+    "id": "chem-hydrogen",
+    "title": "Hydrogen and its compounds",
+    "subject": "Chemistry",
+    "classes": [
+      11
+    ],
+    "summary": "Hydrogen is the lightest element and forms three isotopes; it shows both hydride-forming and unique bonding behaviour.",
+    "points": [
+      "The isotopes are protium, deuterium and tritium, differing only in neutron number.",
+      "Hydrogen forms ionic hydrides with alkali metals, covalent hydrides with non-metals and interstitial hydrides with transition metals.",
+      "Hydrogen peroxide acts as both oxidising and reducing agent; its strength is expressed in volume or percentage.",
+      "Heavy water (D₂O) is used as a moderator in nuclear reactors."
+    ],
+    "formulas": [
+      {
+        "name": "Water gas shift",
+        "expr": "CO + H₂O → CO₂ + H₂"
+      },
+      {
+        "name": "H₂O₂ volume strength",
+        "expr": "volume strength = 5.6 × normality"
+      }
+    ],
+    "example": "2H₂ + O₂ → 2H₂O releases a large amount of energy, which is why hydrogen is studied as a fuel.",
+    "aliases": [
+      "hydrogen",
+      "isotopes of hydrogen",
+      "hydrides",
+      "hydrogen peroxide",
+      "heavy water",
+      "hydrogen fuel"
+    ],
+    "mistakes": [
+      "Treating hydrogen as a halogen-like element in all reactions.",
+      "Forgetting that H₂O₂ can act as a reducing agent."
+    ]
+  },
+  {
+    "id": "chem-s-block",
+    "title": "The s-block elements",
+    "subject": "Chemistry",
+    "classes": [
+      11
+    ],
+    "summary": "Group 1 (alkali metals) and group 2 (alkaline earth metals) have outer ns¹ and ns² configurations and are highly reactive.",
+    "points": [
+      "Alkali metals are soft, low density, and react vigorously with water to give hydroxides and hydrogen.",
+      "Reactivity increases down group 1 and down group 2 because ionisation energy falls.",
+      "Group 2 metals are harder and less reactive than group 1 and form mainly ionic compounds.",
+      "Compounds of group 1 and 2 are important industrially: sodium carbonate, plaster of Paris, lime, bleaching powder."
+    ],
+    "formulas": [
+      {
+        "name": "Reaction with water",
+        "expr": "2M + 2H₂O → 2MOH + H₂ (group 1)"
+      },
+      {
+        "name": "Group 2 with water",
+        "expr": "M + 2H₂O → M(OH)₂ + H₂"
+      }
+    ],
+    "example": "Sodium reacts with water giving sodium hydroxide and hydrogen, and the heat released can ignite the hydrogen.",
+    "aliases": [
+      "s block elements",
+      "alkali metals",
+      "alkaline earth metals",
+      "group 1 group 2",
+      "lithium sodium potassium",
+      "plaster of paris"
+    ],
+    "mistakes": [
+      "Expecting beryllium to behave like other group 2 metals.",
+      "Forgetting that group 2 hydroxides become more soluble down the group."
+    ]
+  },
+  {
+    "id": "chem-p-block",
+    "title": "The p-block elements",
+    "subject": "Chemistry",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "The p-block covers groups 13 to 18, from boron and carbon families through the halogens to the noble gases.",
+    "points": [
+      "p-block elements have outer configuration ns²np¹⁻⁶ and show a wide range of oxidation states.",
+      "Down a group, metallic character increases and the inert-pair effect appears for heavier elements.",
+      "Group 15 includes nitrogen and phosphorus; group 16 includes oxygen and sulphur; group 18 are noble gases.",
+      "Anomalies at the top of each group (boron, carbon, nitrogen, oxygen, fluorine) come from their small size."
+    ],
+    "formulas": [
+      {
+        "name": "Ammonia preparation",
+        "expr": "N₂ + 3H₂ ⇌ 2NH₃ (Haber process)"
+      },
+      {
+        "name": "Sulphuric acid",
+        "expr": "2SO₂ + O₂ ⇌ 2SO₃, then SO₃ + H₂O → H₂SO₄"
+      }
+    ],
+    "example": "Phosphorus exists as white (P₄) and red allotropes; white phosphorus is far more reactive and is stored under water.",
+    "aliases": [
+      "p block elements",
+      "group 13 14 15 16 17 18",
+      "nitrogen family",
+      "oxygen family",
+      "halogens",
+      "noble gases",
+      "inert pair effect"
+    ],
+    "mistakes": [
+      "Assuming all p-block elements are non-metals.",
+      "Ignoring the inert-pair effect for heavier elements."
+    ]
+  },
+  {
+    "id": "chem-organic-basics",
+    "title": "Organic chemistry: basic principles",
+    "subject": "Chemistry",
+    "classes": [
+      11
+    ],
+    "summary": "Organic chemistry studies carbon compounds; structure, bonding and electronic effects explain their reactions.",
+    "points": [
+      "Carbon shows tetravalency and catenation, which is why it forms chains, branches and rings.",
+      "Functional groups such as −OH, −CHO, −COOH and −NH₂ decide the chemical behaviour of a molecule.",
+      "Inductive, resonance and hyperconjugation effects explain stability and acidity.",
+      "Electrophiles accept electron pairs and nucleophiles donate them; reaction types are substitution, addition and elimination."
+    ],
+    "formulas": [
+      {
+        "name": "Degree of unsaturation",
+        "expr": "DU = (2C + 2 + N − H − X)/2"
+      },
+      {
+        "name": "IUPAC order",
+        "expr": "prefix + word root + primary suffix + secondary suffix"
+      }
+    ],
+    "example": "CH₃CH₂OH and CH₃OCH₃ are isomers with very different chemistry because their functional groups differ.",
+    "aliases": [
+      "organic chemistry",
+      "iupac nomenclature",
+      "functional groups",
+      "isomerism",
+      "inductive effect",
+      "resonance effect",
+      "electrophile nucleophile"
+    ],
+    "mistakes": [
+      "Naming the longest chain incorrectly.",
+      "Confusing structural with stereoisomerism."
+    ]
+  },
+  {
+    "id": "chem-hydrocarbons",
+    "title": "Hydrocarbons",
+    "subject": "Chemistry",
+    "classes": [
+      11
+    ],
+    "summary": "Hydrocarbons contain only carbon and hydrogen and are classified as alkanes, alkenes, alkynes or aromatics.",
+    "points": [
+      "Alkanes are saturated and react mainly by free-radical substitution.",
+      "Alkenes and alkynes are unsaturated and undergo addition reactions; Markovnikov's rule predicts where hydrogen adds.",
+      "Benzene is aromatic: its delocalised six π electrons give extra stability and substitution rather than addition is preferred.",
+      "Ozonolysis and oxidation locate double bonds and distinguish unsaturated hydrocarbons."
+    ],
+    "formulas": [
+      {
+        "name": "Alkane",
+        "expr": "CₙH₂ₙ₊₂"
+      },
+      {
+        "name": "Alkene",
+        "expr": "CₙH₂ₙ"
+      },
+      {
+        "name": "Alkyne",
+        "expr": "CₙH₂ₙ₋₂"
+      },
+      {
+        "name": "Markovnikov",
+        "expr": "H adds to the carbon with more hydrogens"
+      }
+    ],
+    "example": "Ethene + Br₂ in CCl₄ decolourises bromine water, a test for unsaturation.",
+    "aliases": [
+      "hydrocarbons",
+      "alkanes alkenes alkynes",
+      "benzene aromatic",
+      "markovnikov",
+      "ozonolysis",
+      "unsaturation test"
+    ],
+    "mistakes": [
+      "Expecting benzene to add bromine easily.",
+      "Forgetting Markovnikov's rule for unsymmetrical alkenes."
+    ]
+  },
+  {
+    "id": "chem-environment",
+    "title": "Environmental chemistry",
+    "subject": "Chemistry",
+    "classes": [
+      11
+    ],
+    "summary": "Environmental chemistry studies how chemical substances move through air, water and soil and how they affect life.",
+    "points": [
+      "Air pollution includes oxides of sulphur and nitrogen, carbon monoxide and particulates; some form acid rain.",
+      "Photochemical smog forms when nitrogen oxides and hydrocarbons react in sunlight.",
+      "Water pollution is measured by dissolved oxygen, BOD and COD; excess nutrients cause eutrophication.",
+      "Green chemistry aims to design processes that use fewer hazardous substances and produce less waste."
+    ],
+    "formulas": [
+      {
+        "name": "Acid rain",
+        "expr": "SO₂ + O₂ + H₂O → H₂SO₄"
+      },
+      {
+        "name": "BOD",
+        "expr": "oxygen consumed by microbes per litre of water"
+      }
+    ],
+    "example": "Acid rain lowers soil pH and leaches aluminium, damaging roots and aquatic life.",
+    "aliases": [
+      "environmental chemistry",
+      "air pollution",
+      "water pollution",
+      "acid rain",
+      "smog",
+      "green chemistry",
+      "bod"
+    ],
+    "mistakes": [
+      "Confusing BOD with COD.",
+      "Thinking ozone in the troposphere is protective."
+    ]
+  },
+  {
+    "id": "chem-solid-state",
+    "title": "The solid state",
+    "subject": "Chemistry",
+    "classes": [
+      12
+    ],
+    "summary": "Solids are crystalline or amorphous; the arrangement of particles decides their density, melting point and electrical behaviour.",
+    "points": [
+      "Crystalline solids have long-range order and sharp melting points; amorphous solids do not.",
+      "Unit cells are primitive, body-centred or face-centred, with coordination numbers 6, 8 and 12.",
+      "Packing efficiency is 52% for simple cubic, 68% for body-centred and 74% for face-centred cubic.",
+      "Defects such as Schottky and Frenkel change density and sometimes conductivity.",
+      "Solids are classified as ionic, covalent, metallic or molecular on the basis of the forces holding them."
+    ],
+    "formulas": [
+      {
+        "name": "Density of unit cell",
+        "expr": "d = ZM/(a³N_A)"
+      },
+      {
+        "name": "Packing efficiency FCC",
+        "expr": "74%"
+      },
+      {
+        "name": "Radius relation FCC",
+        "expr": "r = a/(2√2)"
+      }
+    ],
+    "example": "Sodium chloride has a face-centred cubic chloride lattice with sodium ions in octahedral holes.",
+    "aliases": [
+      "solid state",
+      "unit cell",
+      "packing efficiency",
+      "crystal lattice",
+      "schottky defect",
+      "frenkel defect",
+      "coordination number"
+    ],
+    "mistakes": [
+      "Forgetting Z, the number of atoms per unit cell.",
+      "Mixing up Schottky (missing pair) and Frenkel (displaced ion) defects."
+    ]
+  },
+  {
+    "id": "chem-solutions",
+    "title": "Solutions and colligative properties",
+    "subject": "Chemistry",
+    "classes": [
+      12
+    ],
+    "summary": "A solution is a homogeneous mixture; its concentration can be expressed in several ways and its properties depend on solute amount.",
+    "points": [
+      "Molarity changes with temperature because volume changes; molality and mole fraction do not.",
+      "Raoult's law states that the vapour pressure of a solvent falls in proportion to the solute's mole fraction.",
+      "Colligative properties — vapour pressure lowering, boiling point elevation, freezing point depression and osmotic pressure — depend on the number of particles, not their identity.",
+      "Van't Hoff factor accounts for association or dissociation of solute particles."
+    ],
+    "formulas": [
+      {
+        "name": "Molality",
+        "expr": "m = moles of solute / kg of solvent"
+      },
+      {
+        "name": "Raoult's law",
+        "expr": "P = x_solvent × P⁰"
+      },
+      {
+        "name": "Boiling point elevation",
+        "expr": "ΔT_b = i K_b m"
+      },
+      {
+        "name": "Freezing point depression",
+        "expr": "ΔT_f = i K_f m"
+      },
+      {
+        "name": "Osmotic pressure",
+        "expr": "π = iCRT"
+      }
+    ],
+    "example": "Adding salt lowers the freezing point of water, which is why it melts ice on roads.",
+    "aliases": [
+      "solutions",
+      "colligative properties",
+      "raoults law",
+      "osmotic pressure",
+      "molality molarity",
+      "vant hoff factor",
+      "boiling point elevation"
+    ],
+    "mistakes": [
+      "Using molarity in temperature-dependent formulas.",
+      "Ignoring the van't Hoff factor for electrolytes."
+    ]
+  },
+  {
+    "id": "chem-surface-chemistry",
+    "title": "Surface chemistry",
+    "subject": "Chemistry",
+    "classes": [
+      12
+    ],
+    "summary": "Surface chemistry studies phenomena at interfaces: adsorption, catalysis, colloids and emulsions.",
+    "points": [
+      "Adsorption is the accumulation of molecules on a surface; physisorption is weak and reversible, chemisorption is strong and specific.",
+      "A catalyst speeds a reaction without being consumed and provides an alternative path with lower activation energy.",
+      "Colloids have particles between 1 nm and 1000 nm; they scatter light (Tyndall effect) and carry charge.",
+      "Coagulation, peptisation and dialysis are ways of handling colloidal systems."
+    ],
+    "formulas": [
+      {
+        "name": "Freundlich isotherm",
+        "expr": "x/m = kP^(1/n)"
+      },
+      {
+        "name": "Colloid size range",
+        "expr": "1 nm to 1000 nm"
+      }
+    ],
+    "example": "Milk is an emulsion of fat in water, stabilised by protein emulsifiers.",
+    "aliases": [
+      "surface chemistry",
+      "adsorption",
+      "catalysis",
+      "colloids",
+      "tyndall effect",
+      "emulsion",
+      "freundlich"
+    ],
+    "mistakes": [
+      "Confusing adsorption with absorption.",
+      "Assuming a catalyst changes the equilibrium position."
+    ]
+  },
+  {
+    "id": "chem-d-f-block",
+    "title": "The d- and f-block elements",
+    "subject": "Chemistry",
+    "classes": [
+      12
+    ],
+    "summary": "Transition metals have partially filled d orbitals, giving variable oxidation states, colour and catalytic activity.",
+    "points": [
+      "Transition metals show variable oxidation states because 4s and 3d electrons are close in energy.",
+      "Colour arises from d–d transitions; ions with empty or full d subshells are usually colourless.",
+      "They form complex compounds and are good catalysts due to variable oxidation states and surface adsorption.",
+      "The lanthanoids show the lanthanoid contraction, which makes later elements smaller than expected.",
+      "Metallurgy of these metals involves concentration, roasting or calcination, reduction and refining."
+    ],
+    "formulas": [
+      {
+        "name": "Magnetic moment",
+        "expr": "μ = √(n(n + 2)) BM"
+      },
+      {
+        "name": "Lanthanoid contraction",
+        "expr": "poor shielding by 4f electrons"
+      }
+    ],
+    "example": "Fe²⁺ is green and Fe³⁺ is yellow-brown because their d–d transitions absorb different wavelengths.",
+    "aliases": [
+      "d block",
+      "transition elements",
+      "f block",
+      "lanthanoids",
+      "actinoids",
+      "metallurgy",
+      "variable oxidation state",
+      "magnetic moment",
+      "general principles and processes of isolation of elements",
+      "isolation of elements"
+    ],
+    "mistakes": [
+      "Calling zinc a typical transition metal; its d subshell is full.",
+      "Ignoring the lanthanoid contraction when comparing radii."
+    ]
+  },
+  {
+    "id": "chem-haloalkanes",
+    "title": "Haloalkanes and haloarenes",
+    "subject": "Chemistry",
+    "classes": [
+      12
+    ],
+    "summary": "Haloalkanes and haloarenes contain halogen atoms attached to sp³ and sp² carbons respectively and differ markedly in reactivity.",
+    "points": [
+      "Haloalkanes undergo nucleophilic substitution by SN1 or SN2 pathways.",
+      "SN1 goes through a carbocation and is favoured by tertiary halides and polar protic solvents.",
+      "SN2 is a one-step backside attack favoured by primary halides and strong nucleophiles.",
+      "Haloarenes are much less reactive because of partial double-bond character and resonance stabilisation.",
+      "Elimination competes with substitution when a strong base is used."
+    ],
+    "formulas": [
+      {
+        "name": "SN2 rate",
+        "expr": "rate = k[substrate][nucleophile]"
+      },
+      {
+        "name": "SN1 rate",
+        "expr": "rate = k[substrate]"
+      }
+    ],
+    "example": "Chlorobenzene resists hydrolysis while chloroethane reacts with aqueous alkali on heating.",
+    "aliases": [
+      "haloalkanes",
+      "haloarenes",
+      "sn1 sn2",
+      "nucleophilic substitution",
+      "chlorobenzene",
+      "elimination reaction"
+    ],
+    "mistakes": [
+      "Assuming all halides react at the same rate.",
+      "Forgetting that SN1 racemises the product."
+    ]
+  },
+  {
+    "id": "chem-alcohols-phenols-ethers",
+    "title": "Alcohols, phenols and ethers",
+    "subject": "Chemistry",
+    "classes": [
+      12
+    ],
+    "summary": "Alcohols have −OH on an sp³ carbon, phenols have −OH on a benzene ring, and ethers have an oxygen bridging two carbon groups.",
+    "points": [
+      "Alcohols are classified as primary, secondary or tertiary, which decides their oxidation products.",
+      "Phenol is more acidic than alcohols because the phenoxide ion is resonance-stabilised.",
+      "Alcohols react with sodium, undergo dehydration and esterification; phenols undergo electrophilic substitution readily.",
+      "Williamson synthesis makes ethers from an alkoxide and a primary alkyl halide."
+    ],
+    "formulas": [
+      {
+        "name": "Esterification",
+        "expr": "RCOOH + R′OH ⇌ RCOOR′ + H₂O"
+      },
+      {
+        "name": "Williamson",
+        "expr": "R−O⁻Na⁺ + R′X → R−O−R′"
+      }
+    ],
+    "example": "Ethanol on oxidation with acidified K₂Cr₂O₇ gives ethanal and then ethanoic acid.",
+    "aliases": [
+      "alcohols phenols ethers",
+      "phenol acidity",
+      "williamson synthesis",
+      "esterification",
+      "dehydration of alcohol",
+      "oxidation of alcohol"
+    ],
+    "mistakes": [
+      "Thinking phenol is a typical alcohol.",
+      "Using a tertiary halide in Williamson synthesis; elimination dominates."
+    ]
+  },
+  {
+    "id": "chem-aldehydes-ketones-acids",
+    "title": "Aldehydes, ketones and carboxylic acids",
+    "subject": "Chemistry",
+    "classes": [
+      12
+    ],
+    "summary": "Aldehydes and ketones contain the carbonyl group, and carboxylic acids combine a carbonyl with a hydroxyl group.",
+    "points": [
+      "Aldehydes are oxidised easily; ketones resist oxidation, which distinguishes them.",
+      "Tollens' and Fehling's tests detect aldehydes through silver mirror or red precipitate formation.",
+      "Nucleophilic addition is the characteristic reaction of carbonyl compounds.",
+      "Carboxylic acids are acidic because the carboxylate ion is resonance-stabilised.",
+      "Aldol condensation and Cannizzaro reaction are important carbonyl reactions."
+    ],
+    "formulas": [
+      {
+        "name": "Tollens' reagent",
+        "expr": "[Ag(NH₃)₂]⁺ reduces to Ag mirror with aldehydes"
+      },
+      {
+        "name": "Acid strength",
+        "expr": "Ka = [H⁺][A⁻]/[HA]"
+      }
+    ],
+    "example": "Propanal gives a silver mirror with Tollens' reagent; propanone does not.",
+    "aliases": [
+      "aldehydes ketones",
+      "carboxylic acids",
+      "carbonyl",
+      "tollens test",
+      "fehlings test",
+      "aldol condensation",
+      "cannizzaro"
+    ],
+    "mistakes": [
+      "Expecting ketones to give Tollens' test.",
+      "Forgetting that formic acid also reduces Tollens' reagent."
+    ]
+  },
+  {
+    "id": "chem-amines",
+    "title": "Amines",
+    "subject": "Chemistry",
+    "classes": [
+      12
+    ],
+    "summary": "Amines are derivatives of ammonia in which one or more hydrogens are replaced by alkyl or aryl groups.",
+    "points": [
+      "Amines are classified as primary, secondary or tertiary by the number of carbon groups on nitrogen.",
+      "Aliphatic amines are more basic than ammonia; aromatic amines are much less basic because the lone pair is delocalised.",
+      "Hofmann bromamide degradation converts an amide to a primary amine with one carbon less.",
+      "Amines react with nitrous acid differently depending on class, which is a useful test.",
+      "Diazonium salts are versatile intermediates for preparing substituted aromatic compounds."
+    ],
+    "formulas": [
+      {
+        "name": "Hofmann degradation",
+        "expr": "RCONH₂ + Br₂ + 4KOH → RNH₂ + K₂CO₃ + 2KBr + 2H₂O"
+      },
+      {
+        "name": "Basicity order",
+        "expr": "secondary aliphatic > primary > tertiary > NH₃ > aromatic amine"
+      }
+    ],
+    "example": "Aniline is a weaker base than ammonia because its lone pair participates in the ring's resonance.",
+    "aliases": [
+      "amines",
+      "basicity of amines",
+      "hofmann bromamide",
+      "diazonium salt",
+      "aniline",
+      "carbylamine test"
+    ],
+    "mistakes": [
+      "Assuming aromatic amines are stronger bases.",
+      "Confusing primary amine with primary alcohol."
+    ]
+  },
+  {
+    "id": "chem-polymers",
+    "title": "Polymers",
+    "subject": "Chemistry",
+    "classes": [
+      12
+    ],
+    "summary": "Polymers are large molecules built from repeating monomer units by addition or condensation polymerisation.",
+    "points": [
+      "Addition polymerisation joins monomers with double bonds without losing any small molecule.",
+      "Condensation polymerisation releases a small molecule such as water at each linkage.",
+      "Polymers may be linear, branched or cross-linked, which changes strength and flexibility.",
+      "Natural polymers include starch, cellulose, proteins and rubber; synthetic ones include polythene, PVC and nylon."
+    ],
+    "formulas": [
+      {
+        "name": "Degree of polymerisation",
+        "expr": "number of monomer units in the chain"
+      },
+      {
+        "name": "Nylon-6,6 monomers",
+        "expr": "hexamethylenediamine + adipic acid"
+      }
+    ],
+    "example": "Bakelite is a thermosetting cross-linked polymer and cannot be remelted, unlike polythene.",
+    "aliases": [
+      "polymers",
+      "polymerisation",
+      "addition condensation polymerisation",
+      "nylon bakelite",
+      "thermoplastic",
+      "elastomer"
+    ],
+    "mistakes": [
+      "Calling all plastics thermoplastics.",
+      "Mixing up the monomers of nylon and polyester."
+    ]
+  },
+  {
+    "id": "chem-everyday-life",
+    "title": "Chemistry in everyday life",
+    "subject": "Chemistry",
+    "classes": [
+      12
+    ],
+    "summary": "Chemistry explains drugs, food additives, soaps and detergents, and the materials used in daily life.",
+    "points": [
+      "Drugs act by affecting enzymes, receptors or cell membranes; antibiotics target bacteria specifically.",
+      "Soap is a sodium salt of a fatty acid and cleans by forming micelles around grease.",
+      "Detergents work in hard water because their calcium salts are soluble, unlike those of soap.",
+      "Artificial sweeteners, preservatives and antioxidants are food additives used in controlled amounts."
+    ],
+    "formulas": [
+      {
+        "name": "Soap",
+        "expr": "RCOONa, with a long hydrocarbon tail"
+      },
+      {
+        "name": "Micelle",
+        "expr": "tails inward in grease, heads outward in water"
+      }
+    ],
+    "example": "Soap forms scum in hard water because calcium and magnesium salts of fatty acids are insoluble.",
+    "aliases": [
+      "chemistry in everyday life",
+      "drugs",
+      "soap and detergent",
+      "food additives",
+      "antibiotics",
+      "antacids",
+      "micelle"
+    ],
+    "mistakes": [
+      "Thinking detergents are biodegradable in all cases.",
+      "Assuming all drugs cure rather than manage symptoms."
+    ]
+  }
+]

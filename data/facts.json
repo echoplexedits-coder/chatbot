@@ -1,0 +1,1194 @@
+[
+  {
+    "id": "capital-france",
+    "title": "Capital of France",
+    "keywords": ["france", "paris", "capital", "french"],
+    "examples": ["what is the capital of france", "capital city of france", "where is paris"],
+    "casual": ["capitol of france", "whats the capital of france", "france capital"],
+    "answer": "The capital of France is **Paris**, also its largest city and the country's main cultural and economic centre."
+  },
+  {
+    "id": "capital-japan",
+    "title": "Capital of Japan",
+    "keywords": ["japan", "tokyo", "capital"],
+    "examples": ["what is the capital of japan", "capital city of japan", "is tokyo the capital of japan"],
+    "casual": ["capitol of japan", "japans capital", "whats japans capital city"],
+    "answer": "The capital of Japan is **Tokyo**, which took over from Kyoto in 1868 and is now one of the largest metropolitan areas in the world."
+  },
+  {
+    "id": "capital-australia",
+    "title": "Capital of Australia",
+    "keywords": ["australia", "canberra", "sydney", "capital"],
+    "examples": ["what is the capital of australia", "capital city of australia", "is sydney the capital of australia"],
+    "casual": ["capitol of australia", "australias capital", "why is canberra the capital"],
+    "answer": "The capital of Australia is **Canberra**, not Sydney or Melbourne. It was purpose-built as a compromise between the two rival cities."
+  },
+  {
+    "id": "capital-canada",
+    "title": "Capital of Canada",
+    "keywords": ["canada", "ottawa", "capital", "toronto"],
+    "examples": ["what is the capital of canada", "capital city of canada", "is toronto the capital"],
+    "casual": ["capitol of canada", "canadas capital", "whats canadas capital city"],
+    "answer": "The capital of Canada is **Ottawa**, in Ontario. Toronto is larger, but Ottawa is the seat of the federal government."
+  },
+  {
+    "id": "capital-brazil",
+    "title": "Capital of Brazil",
+    "keywords": ["brazil", "brasilia", "rio", "capital"],
+    "examples": ["what is the capital of brazil", "capital city of brazil", "is rio the capital of brazil"],
+    "casual": ["capitol of brazil", "brazils capital", "whats the capital of brazil"],
+    "answer": "The capital of Brazil is **Brasília**, a planned city built in the 1950s. Rio de Janeiro was the capital before that."
+  },
+  {
+    "id": "capital-egypt",
+    "title": "Capital of Egypt",
+    "keywords": ["egypt", "cairo", "capital"],
+    "examples": ["what is the capital of egypt", "capital city of egypt"],
+    "casual": ["capitol of egypt", "egypts capital"],
+    "answer": "The capital of Egypt is **Cairo**, the largest city in the Arab world, sitting on the Nile."
+  },
+  {
+    "id": "capital-india",
+    "title": "Capital of India",
+    "keywords": ["india", "delhi", "new delhi", "capital"],
+    "examples": ["what is the capital of india", "capital city of india"],
+    "casual": ["capitol of india", "indias capital", "delhi or new delhi capital"],
+    "answer": "The capital of India is **New Delhi**, part of the larger Delhi metropolitan area in the north of the country."
+  },
+  {
+    "id": "capital-kenya",
+    "title": "Capital of Kenya",
+    "keywords": ["kenya", "nairobi", "capital"],
+    "examples": ["what is the capital of kenya", "capital city of kenya"],
+    "casual": ["capitol of kenya", "kenyas capital"],
+    "answer": "The capital of Kenya is **Nairobi**, which is also a major regional hub for business and transport in East Africa."
+  },
+  {
+    "id": "capital-norway",
+    "title": "Capital of Norway",
+    "keywords": ["norway", "oslo", "capital"],
+    "examples": ["what is the capital of norway", "capital city of norway"],
+    "casual": ["capitol of norway", "norways capital"],
+    "answer": "The capital of Norway is **Oslo**, on the country's southern coast."
+  },
+  {
+    "id": "capital-argentina",
+    "title": "Capital of Argentina",
+    "keywords": ["argentina", "buenos aires", "capital"],
+    "examples": ["what is the capital of argentina", "capital city of argentina"],
+    "casual": ["capitol of argentina", "argentinas capital"],
+    "answer": "The capital of Argentina is **Buenos Aires**, on the Río de la Plata, and home to about a third of the population."
+  },
+  {
+    "id": "capital-usa",
+    "title": "Capital of the United States",
+    "keywords": ["usa", "united states", "washington", "capital", "new york"],
+    "examples": ["what is the capital of the usa", "capital of the united states", "is new york the capital"],
+    "casual": ["capitol of usa", "us capital city", "whats the capital of america"],
+    "answer": "The capital of the United States is **Washington, D.C.** New York City is bigger, but it is not the capital."
+  },
+  {
+    "id": "largest-country",
+    "title": "Largest country",
+    "keywords": ["largest country", "russia", "area", "biggest"],
+    "examples": ["what is the largest country in the world", "biggest country by area", "how big is russia"],
+    "casual": ["largest country", "whats the biggest country", "bigest country in the world"],
+    "answer": "**Russia** is the largest country by area at about 17.1 million square kilometres, roughly 11% of the world's land. Canada is second and China third."
+  },
+  {
+    "id": "smallest-country",
+    "title": "Smallest country",
+    "keywords": ["smallest country", "vatican", "monaco"],
+    "examples": ["what is the smallest country in the world", "smallest country by area"],
+    "casual": ["smallest country", "wat is the tiniest country"],
+    "answer": "**Vatican City** is the smallest country, at about 0.44 square kilometres and roughly 800 residents. Monaco is the second smallest."
+  },
+  {
+    "id": "longest-river",
+    "title": "Longest river",
+    "keywords": ["longest river", "nile", "amazon"],
+    "examples": ["what is the longest river in the world", "how long is the nile", "is the amazon longer than the nile"],
+    "casual": ["longest river", "nile or amazon which is longer"],
+    "answer": "The **Nile** is usually listed as the longest river at about 6,650 km, with the Amazon close behind at roughly 6,400 km. The Amazon carries far more water."
+  },
+  {
+    "id": "largest-ocean",
+    "title": "Oceans",
+    "keywords": ["ocean", "pacific", "atlantic", "deepest", "mariana"],
+    "examples": ["what is the largest ocean", "how deep is the ocean", "what is the deepest ocean"],
+    "casual": ["bigest ocean", "wat is the deepest place in the ocean"],
+    "answer": "The **Pacific** is the largest and deepest ocean, covering about a third of the planet. Its Challenger Deep is roughly 10,900 m down, deeper than Everest is tall."
+  },
+  {
+    "id": "highest-mountain",
+    "title": "Highest mountain",
+    "keywords": ["highest mountain", "everest", "himalaya", "tallest"],
+    "examples": ["what is the highest mountain in the world", "how tall is mount everest"],
+    "casual": ["tallest mountain", "highest mountin", "how high is everest"],
+    "answer": "**Mount Everest** is the highest mountain above sea level at 8,849 m. Measured from base to peak, Mauna Kea in Hawaii is taller."
+  },
+  {
+    "id": "largest-desert",
+    "title": "Deserts",
+    "keywords": ["desert", "sahara", "antarctica", "largest"],
+    "examples": ["what is the largest desert in the world", "how big is the sahara"],
+    "casual": ["bigest desert", "is antarctica a desert"],
+    "answer": "**Antarctica** is the largest desert, because a desert is defined by low precipitation rather than sand. The Sahara is the largest hot desert."
+  },
+  {
+    "id": "continents",
+    "title": "Continents",
+    "keywords": ["continent", "how many", "asia", "africa"],
+    "examples": ["how many continents are there", "what are the seven continents"],
+    "casual": ["how many continants", "7 continents names"],
+    "answer": "There are **seven** continents: Asia, Africa, North America, South America, Antarctica, Europe and Australia. Some countries teach six by combining Europe and Asia."
+  },
+  {
+    "id": "world-population",
+    "title": "World population",
+    "keywords": ["population", "world", "people", "billion"],
+    "examples": ["what is the world population", "how many people are there in the world"],
+    "casual": ["world population", "how many ppl on earth"],
+    "answer": "The world population passed **8 billion** in 2022 and is still growing, though the rate is slowing. India is now the most populous country, ahead of China."
+  },
+  {
+    "id": "languages",
+    "title": "Most spoken languages",
+    "keywords": ["language", "mandarin", "english", "spanish", "spoken"],
+    "examples": ["what is the most spoken language", "how many languages are there", "what language has the most native speakers"],
+    "casual": ["most spoken langauge", "how many langauges exist"],
+    "answer": "**Mandarin Chinese** has the most native speakers, around 940 million, while **English** has the most total speakers once second-language users are counted. There are about 7,000 living languages."
+  },
+  {
+    "id": "time-zones",
+    "title": "Time zones",
+    "keywords": ["time zone", "utc", "gmt", "daylight saving"],
+    "examples": ["why do we have time zones", "how many time zones are there", "what is utc"],
+    "casual": ["timezones explined", "why is there a time difference"],
+    "answer": "Time zones exist because the Sun cannot be overhead everywhere at once. Earth rotates 15 degrees per hour, so the world is divided into 24 nominal zones of one hour each, though real borders make about 38 different offsets. **UTC** is the reference clock; GMT is the older equivalent."
+  },
+  {
+    "id": "planets",
+    "title": "Planets",
+    "keywords": ["planet", "solar system", "jupiter", "mercury", "pluto"],
+    "examples": ["how many planets are there", "what is the largest planet", "why is pluto not a planet"],
+    "casual": ["how many planets in the solar system", "is pluto a planet", "whats the biggest planet"],
+    "answer": "There are **eight** planets: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune. **Jupiter** is the largest. Pluto was reclassified as a dwarf planet in 2006 because it has not cleared its orbit of other debris."
+  },
+  {
+    "id": "distance-moon",
+    "title": "Distance to the Moon",
+    "keywords": ["moon", "distance", "kilometres", "light"],
+    "examples": ["how far away is the moon", "how long does light take from the moon"],
+    "casual": ["distance to the moon", "how far is the moon from earth"],
+    "answer": "The Moon is about **384,400 km** away on average. Light takes roughly 1.3 seconds to cover that, which is why radio commands to the Moon have a noticeable delay."
+  },
+  {
+    "id": "distance-sun",
+    "title": "Distance to the Sun",
+    "keywords": ["sun", "distance", "astronomical unit", "light"],
+    "examples": ["how far away is the sun", "how long does sunlight take to reach earth"],
+    "casual": ["distance to the sun", "how far is the sun"],
+    "answer": "The Sun is about **150 million km** away, which is one astronomical unit. Sunlight takes about **8 minutes 20 seconds** to reach us, so you always see the Sun as it was eight minutes ago."
+  },
+  {
+    "id": "galaxy",
+    "title": "The Milky Way",
+    "keywords": ["galaxy", "milky way", "stars", "universe"],
+    "examples": ["what galaxy are we in", "how big is the milky way", "how many stars are in our galaxy"],
+    "casual": ["which galaxy do we live in", "milky way explined"],
+    "answer": "We live in the **Milky Way**, a barred spiral galaxy roughly 100,000 light years across with an estimated 100 to 400 billion stars. The nearest large galaxy is Andromeda, about 2.5 million light years away."
+  },
+  {
+    "id": "nearest-star",
+    "title": "Nearest star",
+    "keywords": ["star", "proxima centauri", "alpha centauri", "light year"],
+    "examples": ["what is the nearest star to earth", "how far is the closest star"],
+    "casual": ["closest star", "nearest star besides the sun"],
+    "answer": "The nearest star is the Sun. The nearest star other than the Sun is **Proxima Centauri**, about 4.24 light years away."
+  },
+  {
+    "id": "twinkle",
+    "title": "Why stars twinkle",
+    "keywords": ["star", "twinkle", "atmosphere", "refraction"],
+    "examples": ["why do stars twinkle", "why do stars flicker at night"],
+    "casual": ["why do stars twinkel", "why do stars blink"],
+    "answer": "Stars twinkle because their light passes through moving layers of atmosphere that bend it slightly, so brightness and position flicker. Planets look steadier because they appear as small discs rather than points."
+  },
+  {
+    "id": "mars-red",
+    "title": "Why Mars is red",
+    "keywords": ["mars", "red", "iron oxide", "planet"],
+    "examples": ["why is mars red", "what makes mars look red"],
+    "casual": ["why is mars redish", "mars colour explined"],
+    "answer": "Mars looks red because its surface dust is rich in **iron oxide**, essentially rust. The dust also fills the thin atmosphere, tinting the sky a butterscotch colour."
+  },
+  {
+    "id": "saturn-rings",
+    "title": "Saturn's rings",
+    "keywords": ["saturn", "rings", "ice", "planet"],
+    "examples": ["what are saturns rings made of", "why does saturn have rings"],
+    "casual": ["saturns rings", "what are the rings of saturn"],
+    "answer": "Saturn's rings are made of countless pieces of **water ice and rock**, from grains to house-sized chunks. They are probably remnants of a destroyed moon or comet, and they are only tens of metres thick."
+  },
+  {
+    "id": "bones",
+    "title": "Bones",
+    "keywords": ["bones", "skeleton", "body", "how many"],
+    "examples": ["how many bones are in the human body", "how many bones does an adult have"],
+    "casual": ["how many bones do we have", "bone count in body"],
+    "answer": "An adult has **206 bones**. Babies are born with roughly 270, and many fuse together as they grow."
+  },
+  {
+    "id": "heart-rate",
+    "title": "Heart rate",
+    "keywords": ["heart", "beats", "bpm", "pulse"],
+    "examples": ["how many times does the heart beat a day", "what is a normal resting heart rate"],
+    "casual": ["how many times does ur heart beat", "normal heart rate bpm"],
+    "answer": "A resting heart rate is typically **60 to 100 beats per minute**, and at about 70 bpm the heart beats roughly 100,000 times a day. Athletes often sit lower, sometimes in the 40s."
+  },
+  {
+    "id": "blood",
+    "title": "Blood",
+    "keywords": ["blood", "litres", "blood type", "abo", "rhesus"],
+    "examples": ["how much blood is in the human body", "what are the blood types"],
+    "casual": ["how much blood do we have", "blood types explined"],
+    "answer": "An adult has roughly **5 litres** of blood. Blood types come from the ABO system (A, B, AB, O) plus the Rh factor, giving eight common combinations; O negative is the universal red-cell donor."
+  },
+  {
+    "id": "body-temperature",
+    "title": "Body temperature",
+    "keywords": ["temperature", "fever", "37", "celsius"],
+    "examples": ["what is normal body temperature", "what counts as a fever"],
+    "casual": ["body temp normal", "what temp is a fever"],
+    "answer": "Normal body temperature is about **37°C (98.6°F)**, though healthy people vary by half a degree or so and it dips in the morning. A fever is generally above 38°C."
+  },
+  {
+    "id": "neurons",
+    "title": "Neurons",
+    "keywords": ["brain", "neurons", "synapse", "ten percent"],
+    "examples": ["how many neurons are in the brain", "do we only use 10 percent of our brain"],
+    "casual": ["how many brain cells", "is the 10 percent brain myth true"],
+    "answer": "The brain has roughly **86 billion neurons**, wired through trillions of synapses. The idea that we use only 10% of it is a myth: you use essentially all of your brain, just not all at once."
+  },
+  {
+    "id": "largest-organ",
+    "title": "Largest organ",
+    "keywords": ["skin", "organ", "largest", "body"],
+    "examples": ["what is the largest organ in the body", "how much skin does a person have"],
+    "casual": ["biggest organ in human body", "is skin an organ"],
+    "answer": "The **skin** is the largest organ, about 1.5 to 2 square metres and roughly 15% of body weight. The liver is the largest internal organ."
+  },
+  {
+    "id": "teeth",
+    "title": "Teeth",
+    "keywords": ["teeth", "wisdom", "adult", "molars"],
+    "examples": ["how many teeth do adults have", "how many baby teeth are there"],
+    "casual": ["how many teeth do we have", "wisdom teeth how many"],
+    "answer": "Adults have **32 teeth** including four wisdom teeth; children have 20 baby teeth. Not everyone develops wisdom teeth, and many people have them removed."
+  },
+  {
+    "id": "fastest-animal",
+    "title": "Fastest animals",
+    "keywords": ["fastest", "cheetah", "peregrine", "falcon", "animal"],
+    "examples": ["what is the fastest land animal", "what is the fastest animal in the world"],
+    "casual": ["fastest animal", "how fast is a cheetah"],
+    "answer": "The **cheetah** is the fastest land animal, reaching about 100 to 120 km/h in short bursts. Overall the **peregrine falcon** wins, exceeding 300 km/h in a dive."
+  },
+  {
+    "id": "largest-animal",
+    "title": "Largest animal",
+    "keywords": ["blue whale", "largest animal", "whale", "ocean"],
+    "examples": ["what is the largest animal in the world", "how big is a blue whale"],
+    "casual": ["bigest animal ever", "how long is a blue whale"],
+    "answer": "The **blue whale** is the largest animal known to have lived, around 30 m long and 150 tonnes. Its heart alone can weigh as much as a small car."
+  },
+  {
+    "id": "octopus",
+    "title": "Octopuses",
+    "keywords": ["octopus", "hearts", "blue blood", "tentacles"],
+    "examples": ["how many hearts does an octopus have", "why is octopus blood blue"],
+    "casual": ["octopus hearts", "do octopus have 3 hearts"],
+    "answer": "An octopus has **three hearts** and blue blood, because it uses copper-based haemocyanin instead of iron-based haemoglobin to carry oxygen. Two hearts pump blood to the gills and one to the body."
+  },
+  {
+    "id": "giraffe",
+    "title": "Giraffes",
+    "keywords": ["giraffe", "tallest", "neck", "animal"],
+    "examples": ["what is the tallest animal", "how tall is a giraffe"],
+    "casual": ["tallest animal", "how tall are giraffes"],
+    "answer": "The **giraffe** is the tallest living animal, with males reaching about 5.5 m. Its neck has the same seven vertebrae as yours, just much larger ones."
+  },
+  {
+    "id": "cats-purr",
+    "title": "Why cats purr",
+    "keywords": ["cat", "purr", "vibration", "why"],
+    "examples": ["why do cats purr", "how do cats purr"],
+    "casual": ["why do cats purr", "cat purring meaning"],
+    "answer": "Cats purr by rapidly vibrating muscles in the larynx while breathing, producing 25 to 150 Hz. It usually signals contentment, but cats also purr when anxious or in pain, and the vibration may aid healing."
+  },
+  {
+    "id": "bees",
+    "title": "Bees and pollination",
+    "keywords": ["bees", "pollination", "honey", "food"],
+    "examples": ["why are bees important", "how do bees pollinate"],
+    "casual": ["why do we need bees", "bees pollination explined"],
+    "answer": "Bees move pollen between flowers as they feed, which fertilises plants. Roughly a third of the food we eat depends on animal pollination, and honeybees are only one of thousands of pollinating bee species."
+  },
+  {
+    "id": "water-intake",
+    "title": "How much water to drink",
+    "keywords": ["water", "drink", "hydration", "litres"],
+    "examples": ["how much water should i drink a day", "do i need 8 glasses of water"],
+    "casual": ["how much water per day", "is 8 glasses of water enough"],
+    "answer": "Most adults need roughly **2 to 2.5 litres of fluid a day**, and a good chunk of that comes from food, tea and coffee. Thirst and pale urine are better guides than a fixed number, and needs rise with heat and exercise."
+  },
+  {
+    "id": "coffee",
+    "title": "Coffee",
+    "keywords": ["coffee", "caffeine", "safe", "how much"],
+    "examples": ["is coffee bad for you", "how much coffee is too much"],
+    "casual": ["is cofee bad", "how much caffiene is safe"],
+    "answer": "For most adults, up to about **400 mg of caffeine a day** (roughly three to four cups of coffee) is considered safe. It can disturb sleep and raise anxiety, so the cutoff time matters as much as the amount."
+  },
+  {
+    "id": "onions-crying",
+    "title": "Why onions make you cry",
+    "keywords": ["onion", "cry", "tears", "sulfur"],
+    "examples": ["why do onions make you cry", "how do i stop crying when cutting onions"],
+    "casual": ["why do onoins make u cry", "onions tears explined"],
+    "answer": "Cutting an onion breaks cells and releases enzymes that produce a volatile sulfur compound, which reacts with the water in your eyes to make mild acid. Chilling the onion first slows the reaction, and a sharp knife does less cell damage."
+  },
+  {
+    "id": "bread-rises",
+    "title": "Why bread rises",
+    "keywords": ["bread", "yeast", "rise", "baking", "co2"],
+    "examples": ["why does bread rise", "how does yeast make bread rise"],
+    "casual": ["why does bred rise", "how does yeast work in bread"],
+    "answer": "Yeast eats sugars in the dough and releases **carbon dioxide**, which inflates the gluten network into bubbles. Baking sets that structure, and the steam and gas expand it further before the crust hardens."
+  },
+  {
+    "id": "boiling-freezing",
+    "title": "Boiling and freezing points",
+    "keywords": ["boiling", "freezing", "celsius", "fahrenheit", "water"],
+    "examples": ["what temperature does water boil", "what temperature does water freeze"],
+    "casual": ["boiling point of water", "freezing temp of water"],
+    "answer": "Water boils at **100°C (212°F)** and freezes at **0°C (32°F)** at sea level. At altitude the boiling point drops, which is why cooking takes longer in the mountains."
+  },
+  {
+    "id": "boiled-egg",
+    "title": "Boiling an egg",
+    "keywords": ["egg", "boil", "minutes", "cook"],
+    "examples": ["how long do i boil an egg", "how long to boil a soft boiled egg"],
+    "casual": ["how long to boil eggs", "egg boiling time"],
+    "answer": "About **6 minutes** gives a set white with a runny yolk, 8 minutes a jammy middle, and 10 to 12 minutes a fully hard egg. Start from boiling water and cool them in cold water afterwards."
+  },
+  {
+    "id": "bananas",
+    "title": "Why bananas ripen",
+    "keywords": ["banana", "ripen", "ethylene", "fruit"],
+    "examples": ["why do bananas ripen so fast", "what is ethylene"],
+    "casual": ["why do bannanas ripen", "how do bananas ripen"],
+    "answer": "Bananas release **ethylene** gas, which speeds up ripening in the fruit itself and in anything stored nearby. That is why a ripe banana makes other fruit ripen faster, and why separating them slows it down."
+  },
+  {
+    "id": "miles-km",
+    "title": "Miles and kilometres",
+    "keywords": ["mile", "kilometre", "convert", "distance"],
+    "examples": ["how many kilometres are in a mile", "convert 10 miles to km"],
+    "casual": ["km in a mile", "miles to km conversion"],
+    "answer": "One mile is **1.609 kilometres**, so a 10 km run is about 6.2 miles. A rough rule of thumb is to multiply miles by 1.6."
+  },
+  {
+    "id": "pounds-kg",
+    "title": "Pounds and kilograms",
+    "keywords": ["pound", "kilogram", "convert", "weight"],
+    "examples": ["how many pounds are in a kilogram", "convert 70 kg to pounds"],
+    "casual": ["kg to lbs", "how many lbs in a kilo"],
+    "answer": "One kilogram is **2.205 pounds**, and one pound is about 0.45 kg. To go from kg to pounds, roughly double and add 10%."
+  },
+  {
+    "id": "metres-feet",
+    "title": "Metres and feet",
+    "keywords": ["metre", "foot", "feet", "convert", "height"],
+    "examples": ["how many feet are in a metre", "convert 1.8 metres to feet"],
+    "casual": ["meters to feet", "how tall is 180 cm in feet"],
+    "answer": "One metre is **3.281 feet**, so 1.8 m is about 5 feet 11 inches. One foot is 0.3048 m."
+  },
+  {
+    "id": "gallons-litres",
+    "title": "Gallons and litres",
+    "keywords": ["gallon", "litre", "convert", "volume"],
+    "examples": ["how many litres are in a gallon", "convert 5 gallons to litres"],
+    "casual": ["liters in a gallon", "gallon to litre"],
+    "answer": "One US gallon is **3.785 litres**; an imperial gallon is 4.546 litres. That difference is why fuel economy figures do not match between the US and the UK."
+  },
+  {
+    "id": "hectare",
+    "title": "Hectares",
+    "keywords": ["hectare", "area", "acre", "square metres"],
+    "examples": ["what is a hectare", "how many acres in a hectare"],
+    "casual": ["hectare explined", "how big is a hectare"],
+    "answer": "A hectare is **10,000 square metres**, a square 100 m on a side, or about 2.47 acres. It is the standard unit for land area in most of the world."
+  },
+  {
+    "id": "celsius-fahrenheit",
+    "title": "Celsius to Fahrenheit",
+    "keywords": ["celsius", "fahrenheit", "convert", "temperature formula"],
+    "examples": ["how do i convert celsius to fahrenheit", "what is 20 celsius in fahrenheit"],
+    "casual": ["c to f formula", "celsius to farenheit"],
+    "answer": "Multiply by 9, divide by 5, then add 32: `F = C × 9/5 + 32`. So 20°C is 68°F, and 37°C is 98.6°F."
+  },
+  {
+    "id": "bytes",
+    "title": "Bytes and file sizes",
+    "keywords": ["byte", "kilobyte", "megabyte", "gigabyte", "storage"],
+    "examples": ["how many bytes are in a kilobyte", "megabyte vs gigabyte"],
+    "casual": ["how many mb in a gb", "bytes explined"],
+    "answer": "A kilobyte is 1,000 bytes in SI terms, though operating systems often show 1,024. A megabyte is 1,000 kilobytes and a gigabyte is 1,000 megabytes, so a 1 GB file is a billion bytes."
+  },
+  {
+    "id": "seconds-day",
+    "title": "Seconds in a day",
+    "keywords": ["seconds", "day", "hours", "minutes", "time"],
+    "examples": ["how many seconds are in a day", "how many minutes in a day"],
+    "casual": ["seconds in a day", "how many hours in a week"],
+    "answer": "A day has **86,400 seconds**: 24 hours, 1,440 minutes. A week is 168 hours, and a year is about 31.5 million seconds."
+  },
+  {
+    "id": "ww2-end",
+    "title": "End of World War II",
+    "keywords": ["ww2", "world war", "1945", "history", "ended"],
+    "examples": ["when did world war 2 end", "what year did ww2 end"],
+    "casual": ["when did ww2 end", "world war 2 end date"],
+    "answer": "World War II ended in **1945**: Germany surrendered in May, and Japan in August after the atomic bombings and the Soviet declaration of war. The formal surrender was signed on 2 September 1945."
+  },
+  {
+    "id": "berlin-wall",
+    "title": "The Berlin Wall",
+    "keywords": ["berlin wall", "1989", "germany", "cold war"],
+    "examples": ["when did the berlin wall fall", "why was the berlin wall built"],
+    "casual": ["berlin wall fell when", "when did the wall come down"],
+    "answer": "The Berlin Wall fell in **November 1989** after East Germany opened its borders, and Germany reunified in 1990. It had been built in 1961 to stop people fleeing to the West."
+  },
+  {
+    "id": "moon-landing",
+    "title": "The Moon landing",
+    "keywords": ["moon landing", "apollo", "1969", "armstrong"],
+    "examples": ["when did humans land on the moon", "who was the first person on the moon"],
+    "casual": ["moon landing year", "when did apollo 11 land"],
+    "answer": "Apollo 11 landed on **20 July 1969**, and Neil Armstrong became the first person to walk on the Moon, followed by Buzz Aldrin. Twelve people have walked on the Moon in total, all between 1969 and 1972."
+  },
+  {
+    "id": "titanic",
+    "title": "The Titanic",
+    "keywords": ["titanic", "1912", "ship", "sank"],
+    "examples": ["when did the titanic sink", "how many people died on the titanic"],
+    "casual": ["titanic sank when", "what year did titanic sink"],
+    "answer": "The Titanic struck an iceberg late on 14 April **1912** and sank early the next morning. About 1,500 of the roughly 2,200 people aboard died, largely because there were too few lifeboats."
+  },
+  {
+    "id": "printing-press",
+    "title": "The printing press",
+    "keywords": ["printing press", "gutenberg", "1440", "books"],
+    "examples": ["who invented the printing press", "when was the printing press invented"],
+    "casual": ["printing press invented when", "gutenberg printing press"],
+    "answer": "Johannes Gutenberg built the movable-type printing press in Europe around **1440**. It made books cheap enough to spread literacy and helped drive the Reformation and the scientific revolution."
+  },
+  {
+    "id": "french-revolution",
+    "title": "The French Revolution",
+    "keywords": ["french revolution", "1789", "bastille", "history"],
+    "examples": ["when did the french revolution start", "what caused the french revolution"],
+    "casual": ["french revolution year", "when was the french revolution"],
+    "answer": "The French Revolution began in **1789** with the storming of the Bastille on 14 July. It ended the monarchy, reshaped French society, and led to Napoleon's rise."
+  },
+  {
+    "id": "first-president",
+    "title": "First US president",
+    "keywords": ["president", "washington", "usa", "1789"],
+    "examples": ["who was the first president of the united states", "when did george washington become president"],
+    "casual": ["first us president", "who was the 1st president"],
+    "answer": "**George Washington** was the first US president, taking office in 1789 and serving two terms. He was elected unanimously by the Electoral College both times."
+  },
+  {
+    "id": "wifi",
+    "title": "Wi-Fi",
+    "keywords": ["wifi", "router", "radio", "wireless", "2.4ghz"],
+    "examples": ["how does wifi work", "what is the difference between 2.4 and 5 ghz"],
+    "casual": ["wifi explined", "why is my wifi slow", "2.4 vs 5 ghz"],
+    "answer": "Wi-Fi is radio communication on unlicensed bands, mostly 2.4 GHz and 5 GHz, between your device and an access point. The 2.4 GHz band reaches further but is slower and more crowded; 5 GHz is faster at shorter range."
+  },
+  {
+    "id": "gps",
+    "title": "GPS",
+    "keywords": ["gps", "satellite", "location", "trilateration"],
+    "examples": ["how does gps work", "how does my phone know where i am"],
+    "casual": ["gps explined", "how does gps know my location"],
+    "answer": "GPS receivers listen to timing signals from satellites with known orbits. The travel time of each signal gives a distance, and four or more distances pin down your position and the clock error. It is receive-only, so your phone does not transmit to the satellites."
+  },
+  {
+    "id": "browser-cache",
+    "title": "Browser cache",
+    "keywords": ["cache", "browser", "refresh", "stale"],
+    "examples": ["what is a browser cache", "why do i need to clear my cache"],
+    "casual": ["browser cache explined", "why does clearing cache fix things"],
+    "answer": "The cache is a local store of files the browser already downloaded, so pages load faster. It causes trouble when a site updates but the browser keeps serving an old file, which is why a hard refresh or clearing the cache fixes odd bugs."
+  },
+  {
+    "id": "restart",
+    "title": "Why restarting helps",
+    "keywords": ["restart", "reboot", "fix", "memory leak"],
+    "examples": ["why does restarting fix so many problems", "does turning it off and on again work"],
+    "casual": ["why does restarting help", "turn it off and on again"],
+    "answer": "Restarting clears memory that leaked, resets drivers and network state, and ends stuck processes. Most 'turn it off and on again' success comes from resetting state that accumulated into a bad configuration."
+  },
+  {
+    "id": "mobile-battery",
+    "title": "Phone battery life",
+    "keywords": ["battery", "phone", "drain", "charge", "screen"],
+    "examples": ["why does my phone battery drain so fast", "how do i make my battery last longer"],
+    "casual": ["battery draining fast", "why is my battery so bad"],
+    "answer": "The screen, radios and background apps dominate battery use. Lowering brightness, limiting background refresh, and keeping the phone out of extreme heat will do more than most 'battery saver' tricks; heat is what actually wears the cells out."
+  },
+  {
+    "id": "cellular",
+    "title": "4G and 5G",
+    "keywords": ["4g", "5g", "cellular", "mobile data", "lte"],
+    "examples": ["what is the difference between 4g and 5g", "how does mobile data work"],
+    "casual": ["4g vs 5g", "what does 5g mean"],
+    "answer": "4G and 5G are generations of mobile data standards. 5G uses wider channels and higher frequencies for more speed and lower latency, but at shorter range, so it needs more cell sites to cover the same area."
+  },
+  {
+    "id": "credit-score",
+    "title": "Credit scores",
+    "keywords": ["credit score", "credit", "loan", "borrowing"],
+    "examples": ["what is a credit score", "how do i improve my credit score"],
+    "casual": ["credit score explined", "why does my credit score matter"],
+    "answer": "A credit score estimates how reliably you repay debt, based on your history of payments, how much credit you use, and how long you have held accounts. Paying on time and keeping balances low relative to your limits are the two biggest levers."
+  },
+  {
+    "id": "mortgage",
+    "title": "Mortgages",
+    "keywords": ["mortgage", "house", "loan", "interest", "deposit"],
+    "examples": ["what is a mortgage", "how does a mortgage work"],
+    "casual": ["mortgage explined", "what does mortgage mean"],
+    "answer": "A mortgage is a loan secured against a property: the lender can repossess the home if you stop paying. You pay interest plus principal over a fixed term, and a bigger deposit lowers both the rate and the monthly cost."
+  },
+  {
+    "id": "ocean-salty",
+    "title": "Why the ocean is salty",
+    "keywords": ["ocean", "salt", "salty", "erosion", "minerals"],
+    "examples": ["why is the ocean salty", "where does sea salt come from"],
+    "casual": ["why is the sea salty", "ocean salt explined"],
+    "answer": "Rain slightly dissolves rock and carries minerals to the sea, where water evaporates but the salts stay behind. Over hundreds of millions of years this accumulated to about 3.5% salinity."
+  },
+  {
+    "id": "grass-green",
+    "title": "Why plants are green",
+    "keywords": ["green", "chlorophyll", "plants", "colour", "light"],
+    "examples": ["why is grass green", "why are plants green"],
+    "casual": ["why is grass green", "why are leaves green"],
+    "answer": "Chlorophyll absorbs red and blue light for photosynthesis but reflects green, so green is the part that reaches your eyes. It is the light the plant does not use."
+  },
+  {
+    "id": "leaves-colour",
+    "title": "Autumn leaves",
+    "keywords": ["leaves", "autumn", "fall", "colour", "chlorophyll"],
+    "examples": ["why do leaves change colour in autumn", "why do leaves turn red and yellow"],
+    "casual": ["why do leaves change color", "autumn leaves explined"],
+    "answer": "In autumn, shorter days and cold slow chlorophyll production, so the green fades and the yellows and oranges that were already there become visible. Reds often come from new pigments the tree makes as it withdraws nutrients before dropping the leaf."
+  },
+  {
+    "id": "magnets",
+    "title": "Magnets",
+    "keywords": ["magnet", "magnetism", "poles", "electron", "field"],
+    "examples": ["how do magnets work", "why do magnets attract metal"],
+    "casual": ["magnets explined", "how do magnets work really"],
+    "answer": "Magnetism comes from moving and spinning electric charges. In a magnet, electron spins line up so their fields add, producing a field with a north and south pole. Opposite poles attract, like poles repel, and cutting a magnet just makes two smaller magnets."
+  },
+  {
+    "id": "ice-slippery",
+    "title": "Why ice is slippery",
+    "keywords": ["ice", "slippery", "water layer", "friction", "skating"],
+    "examples": ["why is ice slippery", "why can you skate on ice"],
+    "casual": ["why is ice slippy", "ice slippery explined"],
+    "answer": "Ice is slippery because a thin, mobile layer of water molecules sits on its surface even well below freezing. Pressure and friction add a little more melt, which is why skates glide, but the surface layer does most of the work."
+  },
+  {
+    "id": "goosebumps",
+    "title": "Goosebumps",
+    "keywords": ["goosebumps", "cold", "hair", "reflex", "emotion"],
+    "examples": ["why do we get goosebumps", "what causes goosebumps"],
+    "casual": ["goosebumps explined", "why do i get goosebumps when cold"],
+    "answer": "Tiny muscles at the base of each hair contract, lifting the hair and dimpling the skin. It is a leftover reflex for trapping warmth and looking bigger, and it still fires with cold or strong emotion."
+  },
+  {
+    "id": "dreams",
+    "title": "Dreams",
+    "keywords": ["dream", "sleep", "rem", "brain", "nightmare"],
+    "examples": ["why do we dream", "what do dreams mean"],
+    "casual": ["why do we dream", "do dreams mean anything"],
+    "answer": "Dreams happen mostly in REM sleep, when the brain is highly active while the body is paralysed. The leading explanations are memory consolidation and emotional processing; there is no good evidence that dreams predict the future or carry coded messages."
+  },
+  {
+    "id": "brain-percent",
+    "title": "The 10% brain myth",
+    "keywords": ["brain", "ten percent", "myth", "capacity"],
+    "examples": ["do we only use 10 percent of our brain", "is the 10 percent brain myth true"],
+    "casual": ["10 percent of brain myth", "how much of our brain do we use"],
+    "answer": "The claim that we use only 10% of our brain is false. Imaging shows activity across the whole brain over a day, and damage to almost any area causes problems. The myth survives because it is flattering and simple."
+  },
+  {
+    "id": "why-rain-smell",
+    "title": "The smell of rain",
+    "keywords": ["rain", "smell", "petrichor", "soil"],
+    "examples": ["why does rain smell so good", "what is petrichor"],
+    "casual": ["why does it smell after rain", "rain smell explined"],
+    "answer": "That scent is called **petrichor**. Rain hits soil and releases oils from plants plus a compound made by soil bacteria, and the drops also trap and carry airborne molecules into your nose."
+  },
+  {
+    "id": "fireflies",
+    "title": "Fireflies",
+    "keywords": ["firefly", "glow", "bioluminescence", "light"],
+    "examples": ["why do fireflies glow", "how do fireflies make light"],
+    "casual": ["why do fireflys glow", "how do fireflies light up"],
+    "answer": "Fireflies produce light through a chemical reaction between luciferin and oxygen, catalysed by an enzyme, which releases almost no heat. The flashes are mainly courtship signals, and each species has its own pattern."
+  },
+  {
+    "id": "why-we-yawn",
+    "title": "Yawning",
+    "keywords": ["yawn", "tired", "contagious", "brain"],
+    "examples": ["why do we yawn", "why is yawning contagious"],
+    "casual": ["why do we yawn", "is yawning contagious"],
+    "answer": "Yawning probably helps regulate brain temperature and alertness, though the exact purpose is still debated. Contagious yawning is real and is linked to empathy; it appears in humans and some other primates."
+  },
+  {
+    "id": "space-dark",
+    "title": "Why space is dark",
+    "keywords": ["space", "dark", "night", "stars", "olbers"],
+    "examples": ["why is space dark", "why is it black in space"],
+    "casual": ["why is space black", "space dark explined"],
+    "answer": "Space looks black because it is almost empty, so there is nothing to scatter light toward your eyes. The night sky is also dark because the universe has a finite age, so light from the most distant stars has not reached us yet."
+  },
+  {
+    "id": "thunder-lightning",
+    "title": "Thunder and lightning",
+    "keywords": ["thunder", "lightning", "storm", "sound", "seconds"],
+    "examples": ["why is there thunder after lightning", "how do i tell how far away lightning is"],
+    "casual": ["why does thunder happen", "how far is lightning if i count seconds"],
+    "answer": "Lightning heats the air to about 30,000°C in a fraction of a second, and the air expands explosively, producing thunder. Count the seconds between flash and boom and divide by three to get the distance in kilometres."
+  },
+  {
+    "id": "rainbow",
+    "title": "Rainbows",
+    "keywords": ["rainbow", "light", "refraction", "colours", "rain"],
+    "examples": ["how does a rainbow form", "why are rainbows curved"],
+    "casual": ["how do rainbows work", "why do rainbows happen"],
+    "answer": "Sunlight entering a raindrop refracts, reflects off the back and refracts again, splitting into colours at about 42 degrees from the direction opposite the Sun. A rainbow is actually a full circle; the ground hides the lower half."
+  },
+  {
+    "id": "hot-air-balloon",
+    "title": "Hot air balloons",
+    "keywords": ["balloon", "hot air", "density", "float", "buoyancy"],
+    "examples": ["how do hot air balloons work", "why do hot air balloons float"],
+    "casual": ["hot air balloon explined", "how does a balloon float"],
+    "answer": "Heating the air inside the envelope makes it less dense than the cooler air outside, so it rises, much like a bubble in water. The pilot controls altitude by heating or letting the air cool."
+  },
+  {
+    "id": "airplane-fly",
+    "title": "How planes fly",
+    "keywords": ["airplane", "flight", "lift", "wing", "aeroplane"],
+    "examples": ["how do airplanes fly", "what keeps a plane in the air"],
+    "casual": ["how do planes fly", "how does a plane stay up"],
+    "answer": "Wings generate **lift** by turning the airflow downward. The curved shape and the angle of the wing accelerate air over the top and deflect it down, and by Newton's third law the wing is pushed up. It is not simply that air has to travel faster over the top."
+  },
+  {
+    "id": "radio",
+    "title": "Radio",
+    "keywords": ["radio", "waves", "frequency", "am", "fm", "antenna"],
+    "examples": ["how does radio work", "what is the difference between am and fm"],
+    "casual": ["radio explined", "am vs fm radio"],
+    "answer": "Radio carries information on electromagnetic waves far below visible light. AM varies the strength of the wave, which survives distance but picks up noise; FM varies its frequency, which sounds cleaner but needs a stronger signal."
+  },
+  {
+    "id": "soap",
+    "title": "How soap works",
+    "keywords": ["soap", "germs", "handwashing", "virus", "oil"],
+    "examples": ["how does soap clean", "why does soap kill viruses"],
+    "casual": ["how does soap work", "why is soap better than water"],
+    "answer": "Soap molecules have a water-loving end and a fat-loving end, so they surround oils and dirt and let water rinse them away. They also break apart the fatty outer layer of many viruses. Friction and 20 seconds of scrubbing matter as much as the soap."
+  },
+  {
+    "id": "vaccine-herd",
+    "title": "Herd immunity",
+    "keywords": ["herd immunity", "vaccine", "spread", "population"],
+    "examples": ["what is herd immunity", "why does vaccination protect others"],
+    "casual": ["herd imunity explined", "what does herd immunity mean"],
+    "answer": "Herd immunity is when enough people are immune that the pathogen cannot find new hosts easily, so outbreaks fizzle out. The threshold differs by disease and is higher for measles, which is extremely contagious."
+  },
+  {
+    "id": "sunscreen",
+    "title": "Sunscreen",
+    "keywords": ["sunscreen", "spf", "uv", "sunburn", "skin"],
+    "examples": ["what does spf mean", "how does sunscreen work"],
+    "casual": ["spf explined", "what does spf 30 mean"],
+    "answer": "SPF mostly measures protection from UVB, the burning rays: SPF 30 blocks about 97% of UVB versus 93% for SPF 15. You still need UVA protection, and reapplication matters more than a high number because sweat and rubbing remove it."
+  },
+  {
+    "id": "sugar-drinks",
+    "title": "Sugar in drinks",
+    "keywords": ["sugar", "soda", "drink", "calories", "cola"],
+    "examples": ["how much sugar is in a can of soda", "is juice as bad as soda"],
+    "casual": ["sugar in coke", "how much sugar in soft drinks"],
+    "answer": "A standard 330 ml can of cola has about **35 g of sugar**, roughly seven teaspoons, and around 140 calories. Fruit juice is similar in sugar, just with a different vitamin profile."
+  },
+  {
+    "id": "food-spoil",
+    "title": "Why food spoils",
+    "keywords": ["food", "spoil", "bacteria", "fridge", "preservation"],
+    "examples": ["why does food go bad", "how does a fridge keep food fresh"],
+    "casual": ["why does food spoil", "how does refrigeration work for food"],
+    "answer": "Food spoils because bacteria, moulds and enzymes break it down, and their growth is fastest in warmth and moisture. Refrigeration slows them, salt and acid inhibit them, and canning removes the oxygen they need."
+  },
+  {
+    "id": "km-per-hour",
+    "title": "Speed and distance",
+    "keywords": ["speed", "distance", "time", "kmh", "mph"],
+    "examples": ["how far do you travel at 100 kmh in an hour", "convert 100 kmh to mph"],
+    "casual": ["kmh to mph", "how fast is 100 kmh"],
+    "answer": "At 100 km/h you cover 100 km in an hour, so speed is simply distance divided by time. 100 km/h is about 62 mph; multiply km/h by 0.62 for mph."
+  },
+  {
+    "id": "dog-years",
+    "title": "Dog years",
+    "keywords": ["dog", "age", "years", "lifespan"],
+    "examples": ["how do dog years work", "is one dog year seven human years"],
+    "casual": ["dog years explined", "how old is my dog in human years"],
+    "answer": "The seven-to-one rule is a rough myth. Dogs mature much faster early on, so the first year is roughly 15 human years, the second about 9 more, and after that it depends heavily on size: small dogs age more slowly than large ones."
+  },
+  {
+    "id": "sleep-cycle",
+    "title": "Sleep cycles",
+    "keywords": ["sleep cycle", "rem", "deep sleep", "90 minutes"],
+    "examples": ["how long is a sleep cycle", "what is rem sleep"],
+    "casual": ["sleep cycles explined", "how long are sleep cycles"],
+    "answer": "A sleep cycle lasts about **90 minutes** and moves through light sleep, deep sleep and REM. Deep sleep dominates early in the night and REM later, which is why a short night cuts REM more than deep sleep."
+  },
+  {
+    "id": "cold-water",
+    "title": "Cold showers",
+    "keywords": ["cold shower", "cold water", "benefit", "alertness"],
+    "examples": ["are cold showers good for you", "what does a cold shower do"],
+    "casual": ["cold showers good or bad", "do cold showers help"],
+    "answer": "Cold water makes you alert and can lift mood for a while, and it is safe for most healthy people. Claims about fat loss or immunity are much weaker than the marketing suggests; the main benefit is that it wakes you up."
+  },
+  {
+    "id": "stretch",
+    "title": "Stretching",
+    "keywords": ["stretch", "flexibility", "warm up", "injury"],
+    "examples": ["should i stretch before exercise", "does stretching prevent injury"],
+    "casual": ["stretching before workout", "does stretching help"],
+    "answer": "Dynamic movement before exercise warms you up better than long static holds, which can slightly reduce power if done immediately before. Static stretching is most useful afterwards or as its own session for flexibility."
+  },
+  {
+    "id": "coffee-sleep",
+    "title": "Caffeine and sleep",
+    "keywords": ["caffeine", "sleep", "half life", "coffee", "afternoon"],
+    "examples": ["how long does caffeine stay in your body", "does coffee affect sleep"],
+    "casual": ["caffeine half life", "coffee before bed bad"],
+    "answer": "Caffeine has a half-life of about **5 hours**, and up to 6 or more in some people, so an afternoon coffee is still partly active at bedtime. It also reduces deep sleep even when you fall asleep fine."
+  },
+  {
+    "id": "sitting",
+    "title": "Sitting all day",
+    "keywords": ["sitting", "desk", "back pain", "movement", "posture"],
+    "examples": ["is sitting all day bad for you", "how do i fix back pain from sitting"],
+    "casual": ["sitting all day bad", "how to survive a desk job"],
+    "answer": "Long uninterrupted sitting is linked to back and neck trouble and worse metabolic health. The fix is frequent movement rather than a perfect posture: stand or walk for a few minutes every half hour and vary how you sit."
+  },
+  {
+    "id": "noise-headphones",
+    "title": "Headphone volume and hearing",
+    "keywords": ["headphones", "hearing", "volume", "decibels", "ear"],
+    "examples": ["how loud is too loud for headphones", "can headphones damage my hearing"],
+    "casual": ["headphone volume hearing loss", "how loud should headphones be"],
+    "answer": "Sustained exposure above about **85 decibels** risks hearing damage, and earbuds at high volume easily exceed that. The practical rule is the 60/60 one: no more than 60% volume for no more than 60 minutes at a time."
+  },
+  {
+    "id": "left-handed",
+    "title": "Left-handedness",
+    "keywords": ["left handed", "handedness", "brain", "percentage"],
+    "examples": ["why are some people left handed", "what percentage of people are left handed"],
+    "casual": ["why are people left handed", "how many people are lefties"],
+    "answer": "About **10%** of people are left-handed. Handedness comes from a mix of genetics and early development rather than a single gene, and it is not a sign of anything else about intelligence."
+  },
+  {
+    "id": "hiccups",
+    "title": "Hiccups",
+    "keywords": ["hiccups", "diaphragm", "cure", "breathing"],
+    "examples": ["what causes hiccups", "how do i stop hiccups"],
+    "casual": ["how to get rid of hicups", "why do i get hiccups"],
+    "answer": "Hiccups are involuntary spasms of the diaphragm followed by a sudden closure of the vocal cords. They usually stop on their own; slow breathing, sipping water or holding your breath can interrupt the cycle."
+  },
+  {
+    "id": "sneeze",
+    "title": "Sneezing",
+    "keywords": ["sneeze", "nose", "reflex", "eyes"],
+    "examples": ["why do we sneeze", "why do we close our eyes when we sneeze"],
+    "casual": ["why do we sneeze", "can you sneeze with eyes open"],
+    "answer": "A sneeze clears irritants from the nasal passages, triggered by nerves in the nose. Most people close their eyes reflexively, but nothing bursts if you keep them open; the pressure simply takes another path."
+  },
+  {
+    "id": "brain-food",
+    "title": "Food and concentration",
+    "keywords": ["food", "concentration", "blood sugar", "breakfast", "diet"],
+    "examples": ["what should i eat to focus better", "does breakfast help concentration"],
+    "casual": ["food for focus", "what to eat before studying"],
+    "answer": "Stable blood sugar helps attention, so meals with protein, fibre and slow carbohydrates beat a sugar spike. Hydration matters too: mild dehydration reliably worsens concentration and mood before you feel thirsty."
+  },
+  {
+    "id": "tallest-building",
+    "title": "Tallest building",
+    "keywords": ["tallest building", "burj khalifa", "dubai", "skyscraper"],
+    "examples": ["what is the tallest building in the world", "how tall is the burj khalifa"],
+    "casual": ["tallest building", "highest building on earth", "how tall is the tallest skyscraper"],
+    "answer": "The **Burj Khalifa** in Dubai is the tallest building at **828 metres** with 163 floors. It has held the record since 2010."
+  },
+  {
+    "id": "largest-island",
+    "title": "Largest island",
+    "keywords": ["largest island", "greenland", "australia", "island"],
+    "examples": ["what is the largest island in the world", "is australia an island"],
+    "casual": ["biggest island", "largest island on earth", "why is australia not an island"],
+    "answer": "**Greenland** is the largest island, at about 2.2 million square kilometres. Australia is larger but is classed as a continent rather than an island, which is a convention more than a physical rule."
+  },
+  {
+    "id": "how-many-countries",
+    "title": "Number of countries",
+    "keywords": ["countries", "how many", "united nations", "world"],
+    "examples": ["how many countries are there in the world", "how many countries are in the un"],
+    "casual": ["how many countrys are there", "number of countries on earth", "total countries in the world"],
+    "answer": "The usual figure is **195**: 193 member states of the United Nations plus two observer states, the Vatican and Palestine. Some territories and disputed regions are counted differently, which is why you also see numbers like 193 or 197."
+  },
+  {
+    "id": "roman-numerals",
+    "title": "Roman numerals",
+    "keywords": ["roman numerals", "numbers", "i", "v", "x", "l", "c", "m"],
+    "examples": ["how do roman numerals work", "what is x in roman numerals", "how do i read roman numerals"],
+    "casual": ["roman numerals explined", "what does iv mean in roman numerals", "how to write 2024 in roman numerals"],
+    "answer": "Roman numerals use **I = 1, V = 5, X = 10, L = 50, C = 100, D = 500, M = 1,000**. Symbols are added left to right, except when a smaller symbol comes before a larger one: IV is 4, IX is 9, XL is 40, and CM is 900. So 2024 is MMXXIV."
+  },
+  {
+    "id": "binary-numbers",
+    "title": "Binary numbers",
+    "keywords": ["binary", "base 2", "bits", "computer", "number system"],
+    "examples": ["how does binary work", "what is binary", "how do computers count"],
+    "casual": ["binary explined", "what does 1011 mean in binary", "why do computers use binary", "how to read binary"],
+    "answer": "Binary is base 2: each place is worth twice the one to its right, using only 0 and 1. So **1011** means 8 + 0 + 2 + 1 = **11**. Computers use it because a switch has two reliable states, on and off, which is far easier to build and detect than ten distinct voltage levels."
+  },
+  {
+    "id": "pi",
+    "title": "Pi",
+    "keywords": ["pi", "circle", "3.14", "mathematics", "constant", "circumference"],
+    "examples": ["what is pi", "what is the value of pi", "why is pi important"],
+    "casual": ["pi explined", "whats pi exactly", "how many digits of pi are there", "what is pi used for"],
+    "answer": "**Pi** is the ratio of a circle's circumference to its diameter, about **3.14159**. It appears wherever circles, waves or rotations do. It is irrational, so its decimal never ends or repeats; for almost any real calculation, a handful of digits is plenty."
+  },
+  {
+    "id": "golden-ratio",
+    "title": "Golden ratio",
+    "keywords": ["golden ratio", "1.618", "phi", "fibonacci", "proportion", "design"],
+    "examples": ["what is the golden ratio", "what is 1.618", "is the golden ratio in nature"],
+    "casual": ["golden ratio explined", "whats the golden ratio used for", "golden ratio and fibonacci"],
+    "answer": "The **golden ratio** is about **1.618**, the proportion where the whole relates to the larger part as the larger part relates to the smaller. It is the limit of ratios of consecutive Fibonacci numbers. Claims that it explains all of art and nature are often exaggerated, but it genuinely shows up in some growth patterns and tilings."
+  },
+  {
+    "id": "speed-of-sound",
+    "title": "Speed of sound",
+    "keywords": ["speed of sound", "mach", "sound", "metres per second"],
+    "examples": ["what is the speed of sound", "how fast does sound travel", "what is mach 1"],
+    "casual": ["speed of sound in air", "how fast is sound", "what does mach mean", "why do i see lightning before thunder"],
+    "answer": "Sound travels at about **343 metres per second** in air at 20 °C, roughly 1,235 km/h. It moves faster in water and much faster in steel, because the particles are packed closer. Mach 1 means the speed of sound; the delay between lightning and thunder is the same difference, about three seconds per kilometre."
+  },
+  {
+    "id": "light-year",
+    "title": "Light-year",
+    "keywords": ["light year", "distance", "space", "astronomy", "speed of light"],
+    "examples": ["what is a light year", "how far is a light year", "is a light year a measure of time"],
+    "casual": ["lightyear explined", "how many km in a light year", "why is a light year called a year"],
+    "answer": "A **light-year** is a distance, not a time: the distance light travels in one year, about **9.46 trillion kilometres**. Astronomers use it because space is huge and kilometres become unwieldy. The nearest star beyond the Sun, Proxima Centauri, is about 4.2 light-years away."
+  },
+  {
+    "id": "absolute-zero",
+    "title": "Absolute zero",
+    "keywords": ["absolute zero", "kelvin", "temperature", "cold", "celsius"],
+    "examples": ["what is absolute zero", "how cold can it get", "what is zero kelvin in celsius"],
+    "casual": ["absolute zero explined", "is absolute zero possible", "why can nothing be colder than absolute zero"],
+    "answer": "Absolute zero is **-273.15 °C**, or 0 kelvin, the point where a system has the least possible thermal energy. You cannot reach it exactly: cooling something requires removing heat, and the closer you get, the harder the last bit is to remove. Particles still have quantum zero-point motion at that temperature."
+  },
+  {
+    "id": "earth-circumference",
+    "title": "Size of the Earth",
+    "keywords": ["earth", "circumference", "diameter", "size", "radius", "planet"],
+    "examples": ["what is the circumference of the earth", "how big is the earth", "what is the diameter of earth"],
+    "casual": ["how round is the earth", "earth size in km", "how long is the equator"],
+    "answer": "Earth's circumference around the equator is about **40,075 km**, and its mean diameter is about **12,742 km**. It bulges slightly at the equator because of rotation, so the polar diameter is about 43 km smaller."
+  },
+  {
+    "id": "aurora",
+    "title": "Auroras",
+    "keywords": ["aurora", "northern lights", "southern lights", "solar wind", "magnetic field"],
+    "examples": ["what causes the northern lights", "what is an aurora", "why are auroras green"],
+    "casual": ["northern lights explined", "how do auroras form", "where can i see the northern lights", "why is the aurora green and purple"],
+    "answer": "Charged particles from the Sun stream toward Earth and are funnelled by the magnetic field toward the poles. There they collide with gas in the upper atmosphere, exciting it, and the gas releases the energy as light. **Oxygen** glows green and red; **nitrogen** gives blue and purple. Auroras are strongest near the poles and during high solar activity."
+  },
+  {
+    "id": "meteor-shower",
+    "title": "Meteor showers",
+    "keywords": ["meteor", "shooting star", "meteor shower", "comet", "debris"],
+    "examples": ["what causes a meteor shower", "what is a shooting star", "when is the next meteor shower"],
+    "casual": ["shooting star explined", "how do meteor showers happen", "are shooting stars actually stars"],
+    "answer": "A meteor shower happens when Earth passes through debris left by a comet or asteroid. The grains hit the atmosphere at tens of kilometres per second, heat up and burn, and we see a streak. A **shooting star** is not a star at all, just a small piece of rock or dust."
+  },
+  {
+    "id": "north-star",
+    "title": "The North Star",
+    "keywords": ["north star", "polaris", "navigation", "night sky", "constellation"],
+    "examples": ["what is the north star", "how do i find the north star", "is polaris the brightest star"],
+    "casual": ["north star explined", "why is polaris always north", "how to find polaris", "is the north star the brightest"],
+    "answer": "**Polaris** sits almost directly above Earth's north pole, so it barely moves while the rest of the sky rotates around it. That makes it useful for finding north in the northern hemisphere. It is not the brightest star, only about the 48th, and it is a multiple star system about 430 light-years away."
+  },
+  {
+    "id": "deja-vu",
+    "title": "Déjà vu",
+    "keywords": ["deja vu", "memory", "brain", "familiarity", "psychology"],
+    "examples": ["what causes deja vu", "what is deja vu", "why do i get deja vu"],
+    "casual": ["deja vu explined", "is deja vu a glitch", "why does deja vu happen"],
+    "answer": "Déjà vu is the strong feeling that a new situation has happened before, without being able to place it. The leading explanations involve a brief mismatch in memory processing, where familiarity is triggered without the recollection that normally goes with it. It is common, especially when tired, and usually harmless; frequent episodes alongside other symptoms are worth a doctor's opinion."
+  },
+  {
+    "id": "muscle-memory",
+    "title": "Muscle memory",
+    "keywords": ["muscle memory", "practice", "motor learning", "cerebellum", "skill"],
+    "examples": ["what is muscle memory", "how does muscle memory work", "why can i still ride a bike"],
+    "casual": ["muscle memory explined", "is muscle memory in the muscles", "how do skills become automatic"],
+    "answer": "**Muscle memory** is motor learning, not memory stored in muscle. Repeated practice builds and prunes connections in the brain, especially the cerebellum and motor cortex, so a movement becomes automatic and needs less conscious attention. The muscles change too, but the skill itself lives in the nervous system, which is why it comes back quickly after a long break."
+  },
+  {
+    "id": "shiver",
+    "title": "Shivering",
+    "keywords": ["shiver", "cold", "body temperature", "muscles", "heat"],
+    "examples": ["why do we shiver when cold", "what causes shivering", "why do i shiver when i have a fever"],
+    "casual": ["shivering explined", "why do i shake when im cold", "does shivering warm you up"],
+    "answer": "Shivering is rapid, involuntary muscle contraction that produces heat as a by-product, a way for the body to defend its core temperature. It is triggered when the hypothalamus decides you are losing heat too fast. With a fever, the set point rises, so you feel cold and shiver until the body reaches the new target."
+  },
+  {
+    "id": "vitamin-d",
+    "title": "Vitamin D",
+    "keywords": ["vitamin d", "sunlight", "bones", "deficiency", "supplement"],
+    "examples": ["how do i get vitamin d", "what does vitamin d do", "how much sun do i need for vitamin d"],
+    "casual": ["vitamin d explined", "why is vitamin d important", "do i need vitamin d supplements in winter"],
+    "answer": "Vitamin D helps the body absorb calcium and is needed for healthy bones and muscles. Skin makes it from **UVB sunlight**, and only a few foods contain much. People with dark skin, little sun exposure or who cover up are more likely to be low; a blood test is the way to know, and supplements should be dosed sensibly rather than guessed at large amounts."
+  },
+  {
+    "id": "vitamin-c",
+    "title": "Vitamin C",
+    "keywords": ["vitamin c", "scurvy", "citrus", "immunity", "fruit"],
+    "examples": ["what does vitamin c do", "what foods have vitamin c", "does vitamin c prevent colds"],
+    "casual": ["vitamin c explined", "how much vitamin c do i need", "does vitamin c stop colds"],
+    "answer": "Vitamin C is needed to build collagen, the protein in skin, blood vessels and bone, and it helps the body absorb iron. A severe lack causes **scurvy**, with bleeding gums and slow healing. Citrus, peppers, broccoli and kiwi are rich sources. For most people it does not prevent colds, though it may slightly shorten one."
+  },
+  {
+    "id": "allergies",
+    "title": "Allergies",
+    "keywords": ["allergy", "allergies", "histamine", "immune", "pollen", "antihistamine"],
+    "examples": ["what causes allergies", "why do i sneeze in spring", "how do antihistamines work"],
+    "casual": ["allergies explined", "why am i allergic to pollen", "what is hay fever", "do allergies ever go away"],
+    "answer": "An allergy is the immune system treating a harmless protein, such as pollen or peanut protein, as a threat. It produces **IgE** antibodies, and the next exposure triggers cells to release **histamine**, causing sneezing, itching, swelling or wheezing. Antihistamines block histamine receptors and reduce the symptoms. Some childhood allergies fade, others persist, and severe reactions need urgent medical help."
+  },
+  {
+    "id": "virus-vs-bacteria",
+    "title": "Viruses and bacteria",
+    "keywords": ["virus", "bacteria", "antibiotic", "infection", "cold", "difference"],
+    "examples": ["what is the difference between a virus and a bacteria", "do antibiotics kill viruses", "are viruses alive"],
+    "casual": ["virus vs bacteria", "why dont antibiotics work on a cold", "is a virus alive", "bacteria or virus difference"],
+    "answer": "Bacteria are single-celled organisms that can live and reproduce on their own, and most are harmless or useful. Viruses are much smaller packages of genetic material that need a host cell to copy themselves. **Antibiotics** target bacterial machinery, so they do nothing against viruses. That is why a cold, which is usually viral, does not improve with antibiotics."
+  },
+  {
+    "id": "common-cold",
+    "title": "The common cold",
+    "keywords": ["cold", "rhinovirus", "symptoms", "cure", "rest"],
+    "examples": ["how do i get rid of a cold fast", "how long does a cold last", "is there a cure for the common cold"],
+    "casual": ["cold explined", "why do colds last so long", "what helps a cold", "can you cure a cold"],
+    "answer": "Colds are caused by many different viruses, most often **rhinoviruses**, which is why there is no single vaccine or cure. Symptoms usually peak in two to three days and clear within about a week to ten. Rest, fluids and simple symptom relief help; antibiotics do not. See a doctor if symptoms last much longer, or if breathing becomes difficult."
+  },
+  {
+    "id": "fever",
+    "title": "Fever",
+    "keywords": ["fever", "temperature", "infection", "immune", "thermometer"],
+    "examples": ["what is a normal body temperature", "is a fever dangerous", "should i treat a fever"],
+    "casual": ["fever explined", "what temperature is a fever", "why do we get fevers", "how to bring down a fever"],
+    "answer": "A fever is a raised body temperature, usually above about **38 °C**, and it is a controlled response that makes it harder for some germs to multiply. Normal temperature varies by person and time of day. A mild fever is often best left to do its job with fluids and rest; babies, pregnant people and anyone with a very high or persistent fever should get medical advice."
+  },
+  {
+    "id": "alcohol-sleep",
+    "title": "Alcohol and sleep",
+    "keywords": ["alcohol", "sleep", "rem", "nightcap", "drinking"],
+    "examples": ["does alcohol help you sleep", "why do i wake up after drinking", "how does alcohol affect sleep"],
+    "casual": ["alcohol and sleep", "does a nightcap help sleep", "why is sleep bad after drinking"],
+    "answer": "Alcohol can make you fall asleep faster, which is why it feels like a nightcap helps, but it fragments sleep later in the night and suppresses **REM** sleep. It also relaxes the muscles of the airway, worsening snoring and sleep apnoea. The result is a shorter, lighter night even when the total hours look fine."
+  },
+  {
+    "id": "screen-bed",
+    "title": "Screens before bed",
+    "keywords": ["screen", "phone", "sleep", "blue light", "bedtime"],
+    "examples": ["do screens before bed affect sleep", "is blue light bad before bed", "how do i stop using my phone at night"],
+    "casual": ["phone before bed bad", "does blue light ruin sleep", "why cant i sleep after scrolling"],
+    "answer": "Screens affect sleep two ways: the content keeps your attention and delays bedtime, and bright light near the eyes can shift the body clock. Blue-light filters reduce one part but do not fix the arousal from messages, games or videos. The reliable fix is putting the phone out of reach for the last 30 to 60 minutes before bed."
+  },
+  {
+    "id": "nap",
+    "title": "Napping",
+    "keywords": ["nap", "napping", "rest", "afternoon", "sleep"],
+    "examples": ["how long should a nap be", "is napping good for you", "when should i take a nap"],
+    "casual": ["nap explined", "how long is a good nap", "why do i feel groggy after a nap", "should i nap after work"],
+    "answer": "A **10 to 20 minute** nap improves alertness without grogginess. Longer naps let you enter deep sleep, and waking from that leaves sleep inertia for a while. Early afternoon is the easiest time to nap because of a natural dip in alertness; napping late in the day can make it harder to fall asleep at night."
+  },
+  {
+    "id": "steps",
+    "title": "Daily steps",
+    "keywords": ["steps", "walking", "10,000", "exercise", "health"],
+    "examples": ["do i need 10,000 steps a day", "how many steps should i walk", "is walking enough exercise"],
+    "casual": ["10000 steps myth", "how many steps a day is healthy", "is walking good exercise"],
+    "answer": "The 10,000 figure started as a marketing number, not a medical threshold. Large studies link lower mortality with walking, with benefits rising up to roughly **7,000 to 8,000 steps a day** and flattening after that. Any increase from a very low baseline helps, and brisk walking counts more than a slow stroll."
+  },
+  {
+    "id": "sore-muscles",
+    "title": "Muscle soreness",
+    "keywords": ["sore muscles", "doms", "lactic acid", "recovery", "exercise"],
+    "examples": ["why are my muscles sore after exercise", "how long does muscle soreness last", "is soreness a sign of a good workout"],
+    "casual": ["doms explined", "why am i sore two days later", "does lactic acid make you sore", "should i train sore muscles"],
+    "answer": "Delayed onset muscle soreness usually peaks **24 to 72 hours** after unfamiliar or intense exercise. It comes from microscopic damage and the repair response, not from lactic acid, which clears within hours. Soreness is not a reliable measure of a good session; light movement, sleep and protein help recovery, and sharp pain during exercise is a reason to stop."
+  },
+  {
+    "id": "emergency-fund",
+    "title": "Emergency fund",
+    "keywords": ["emergency fund", "savings", "money", "buffer", "expenses"],
+    "examples": ["how big should my emergency fund be", "what is an emergency fund", "where should i keep my emergency savings"],
+    "casual": ["emergency savings explined", "how much savings should i have", "why do i need an emergency fund"],
+    "answer": "An emergency fund covers essential expenses if income stops or a large unexpected bill lands. The common target is **three to six months** of necessities, more if your income is irregular or you support others. Keep it somewhere safe and easy to reach, such as a savings account, rather than in investments that can fall just when you need them."
+  },
+  {
+    "id": "email-etiquette",
+    "title": "Email etiquette",
+    "keywords": ["email", "etiquette", "subject line", "reply", "work", "writing"],
+    "examples": ["how do i write a good email", "what should an email subject line say", "how long should a work email be"],
+    "casual": ["email tips", "how to write a professional email", "email etiquette rules", "how to ask for something by email"],
+    "answer": "Put the ask in the subject line or the first sentence, keep the body to a few short paragraphs, and make the next action obvious. One email should carry one request. Reply within a working day when you can, use reply-all sparingly, and avoid sarcasm that text cannot carry. If a thread has gone back and forth more than twice, a short call usually saves time."
+  },
+  {
+    "id": "http-status-codes",
+    "title": "HTTP status codes",
+    "keywords": ["http", "status code", "404", "500", "api", "error"],
+    "examples": ["what does a 404 mean", "what is the difference between 400 and 500", "what are http status codes"],
+    "casual": ["http status codes explined", "what does 403 mean", "why do i get a 500 error", "404 vs 500"],
+    "answer": "HTTP status codes group by first digit: **2xx** success, **3xx** redirect, **4xx** the client's request is wrong, **5xx** the server failed. Common ones: 200 OK, 301 moved permanently, 400 bad request, 401 not authenticated, 403 forbidden, 404 not found, 429 too many requests, 500 internal error. A 400 means fix the request; a 500 means the server should be fixed."
+  },
+  {
+    "id": "js-null-undefined",
+    "title": "null and undefined",
+    "keywords": ["javascript", "null", "undefined", "typescript", "programming"],
+    "examples": ["what is the difference between null and undefined", "should i use null or undefined in javascript"],
+    "casual": ["null vs undefined", "why is my variable undefined", "javascript null undefined difference"],
+    "answer": "In JavaScript, **undefined** usually means a value was never assigned, and it is what you get from a missing property or an omitted argument. **null** is an explicit \"no value\" that a programmer sets on purpose. `typeof null` returning `'object'` is a long-standing bug kept for compatibility. TypeScript's strict null checks make the distinction useful rather than annoying."
+  },
+  {
+    "id": "flexbox-grid",
+    "title": "Flexbox and grid",
+    "keywords": ["flexbox", "css grid", "layout", "css", "responsive"],
+    "examples": ["what is the difference between flexbox and grid", "should i use flexbox or grid", "how do i choose a css layout"],
+    "casual": ["flexbox vs grid", "when to use grid", "css layout explined", "flex or grid"],
+    "answer": "**Flexbox** lays items out along one axis, a row or a column, and is best for a toolbar, a card's internal layout or distributing space between items. **Grid** defines rows and columns at the same time, and is best for page-level layouts and anything that needs alignment in two directions. They compose well: use grid for the page and flexbox inside the components."
+  },
+  {
+    "id": "sql-joins",
+    "title": "SQL joins",
+    "keywords": ["sql", "join", "inner join", "left join", "database", "query"],
+    "examples": ["what is the difference between inner join and left join", "how do sql joins work", "what is a full outer join"],
+    "casual": ["sql joins explined", "inner vs left join", "when to use left join", "sql join types"],
+    "answer": "A join combines rows from two tables on a matching condition. **INNER JOIN** keeps only rows with a match in both tables. **LEFT JOIN** keeps every row from the left table and fills unmatched right columns with null; **RIGHT JOIN** is the mirror. **FULL OUTER JOIN** keeps unmatched rows from both sides. Most reporting bugs come from an inner join silently dropping rows you expected to keep."
+  },
+  {
+    "id": "db-index",
+    "title": "Database indexes",
+    "keywords": ["index", "database", "query", "b tree", "performance", "sql"],
+    "examples": ["what is a database index", "why do indexes make queries faster", "why not index every column"],
+    "casual": ["database index explined", "how do indexes work in sql", "do indexes slow down writes", "should i index every column"],
+    "answer": "An index is a sorted side structure, usually a **B-tree**, that lets the database find rows without scanning the whole table. Reads that filter or sort on the indexed column get much faster. The cost is space and slower writes, because every insert, update and delete must update the index too, so index the columns you actually query rather than everything."
+  },
+  {
+    "id": "api-keys",
+    "title": "API key safety",
+    "keywords": ["api key", "secret", "security", "environment variable", "frontend"],
+    "examples": ["where should i store an api key", "can i put an api key in frontend code", "how do i keep secrets safe"],
+    "casual": ["api key safety", "is it ok to put api keys in javascript", "how to hide api keys", "why are secrets in frontend bad"],
+    "answer": "Anything shipped to a browser can be read, so an API key in frontend code or a public repository is already leaked. Keep keys on the server, load them from environment variables or a secret store, and give each one the narrowest scope possible. If a key has been exposed, rotate it rather than hoping nobody noticed; bots scan public repositories within minutes."
+  },
+  {
+    "id": "two-factor",
+    "title": "Two-factor authentication",
+    "keywords": ["two factor", "2fa", "authentication", "security", "password", "totp"],
+    "examples": ["what is two factor authentication", "why should i use 2fa", "is sms 2fa safe"],
+    "casual": ["2fa explined", "what is mfa", "how does two factor auth work", "is text message 2fa secure"],
+    "answer": "Two-factor authentication asks for something you know, like a password, plus something you have or are, like a code from an app or a security key. That means a stolen password alone is not enough. Authenticator apps and hardware keys are safer than SMS, which can be intercepted or hijacked through SIM swapping, but any second factor beats none."
+  },
+  {
+    "id": "vpn",
+    "title": "VPNs",
+    "keywords": ["vpn", "privacy", "encryption", "tunnel", "public wifi"],
+    "examples": ["what does a vpn do", "does a vpn make me anonymous", "should i use a vpn on public wifi"],
+    "casual": ["vpn explined", "is a vpn worth it", "does a vpn hide everything", "vpn and privacy"],
+    "answer": "A VPN encrypts traffic between your device and the VPN server, so your local network and internet provider cannot read it or see which sites you visit. It does not make you anonymous: the VPN provider can see your traffic, and sites still recognise logins, cookies and browser fingerprints. It is most useful on untrusted networks and for hiding traffic from a local network operator."
+  },
+  {
+    "id": "cookies",
+    "title": "Browser cookies",
+    "keywords": ["cookies", "browser", "privacy", "session", "tracking", "web"],
+    "examples": ["what are browser cookies", "what is the difference between session and persistent cookies", "are cookies bad"],
+    "casual": ["cookies explined", "why do websites ask about cookies", "do cookies track me", "session vs persistent cookie"],
+    "answer": "A cookie is a small piece of data a site asks your browser to store and send back on later requests. **Session cookies** disappear when the browser closes and keep you logged in; **persistent cookies** have an expiry and remember preferences. First-party cookies are usually functional, while third-party tracking cookies are the ones privacy rules target. Blocking all cookies tends to break logins and carts."
+  },
+  {
+    "id": "url-parts",
+    "title": "Parts of a URL",
+    "keywords": ["url", "link", "scheme", "domain", "query string", "web"],
+    "examples": ["what are the parts of a url", "what is a query string in a url", "what does https mean in a url"],
+    "casual": ["url explined", "what is the bit after the question mark in a url", "url structure", "what is a fragment in a url"],
+    "answer": "A URL has a **scheme** (`https`), a **host** (`example.com`), an optional **port**, a **path** (`/blog/post`), an optional **query string** (`?page=2&sort=new`) and an optional **fragment** (`#section`) that points inside the page. The query string is data sent to the server; the fragment is handled by the browser and never sent in the request."
+  },
+  {
+    "id": "backups",
+    "title": "Backups",
+    "keywords": ["backup", "3-2-1", "data loss", "restore", "storage"],
+    "examples": ["how should i back up my files", "what is the 3-2-1 backup rule", "how often should i back up"],
+    "casual": ["backup rule explined", "how to not lose my files", "3 2 1 backup", "do i need a backup"],
+    "answer": "The **3-2-1 rule** is a good default: keep three copies of important data, on two different kinds of media, with one copy off-site. A backup you have never restored is only a hope, so test a restore occasionally. Synchronising to a cloud drive is not a full backup, because a deletion or ransomware infection gets synced too."
+  },
+  {
+    "id": "git-merge-rebase",
+    "title": "Git merge and rebase",
+    "keywords": ["git", "merge", "rebase", "history", "branch", "version control"],
+    "examples": ["what is the difference between merge and rebase", "should i merge or rebase", "what does git rebase do"],
+    "casual": ["merge vs rebase", "git rebase explined", "why is rebase dangerous", "when to use rebase"],
+    "answer": "**Merge** joins two branches and keeps the real history, adding a merge commit. **Rebase** replays your commits on top of another branch, producing a straight line, but it rewrites commit hashes. Rebase your own local branch before sharing it; once commits are pushed and others may have built on them, merge instead, or you will force everyone to reconcile rewritten history."
+  },
+  {
+    "id": "semver",
+    "title": "Semantic versioning",
+    "keywords": ["semver", "versioning", "major minor patch", "npm", "releases"],
+    "examples": ["how does semantic versioning work", "what does 1.2.3 mean in a version number", "what is a major version bump"],
+    "casual": ["semver explined", "what does the version number mean", "major minor patch meaning", "why do versions have three numbers"],
+    "answer": "Semantic versioning uses **major.minor.patch**. Patch increases for backward-compatible bug fixes, minor for backward-compatible features, and major for breaking changes. A version like `2.4.1` is therefore the second major line, fourth feature release, first patch. Pre-release labels such as `3.0.0-beta.1` sort before the final release."
+  }
+]

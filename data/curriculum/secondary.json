@@ -1,0 +1,1848 @@
+[
+  {
+    "id": "math-real-numbers",
+    "title": "Real numbers",
+    "subject": "Mathematics",
+    "classes": [
+      9,
+      10
+    ],
+    "summary": "Real numbers include every rational and irrational number, so they cover all points on the number line.",
+    "points": [
+      "A rational number can be written as p/q; an irrational number cannot, such as √2 or π.",
+      "Every composite number has a unique prime factorisation (Fundamental Theorem of Arithmetic).",
+      "Rational numbers have terminating or repeating decimal expansions; irrational ones do not repeat."
+    ],
+    "formulas": [
+      {
+        "name": "HCF and LCM",
+        "expr": "HCF(a, b) × LCM(a, b) = a × b",
+        "symbols": "a, b positive integers"
+      }
+    ],
+    "example": "√2 is irrational because it cannot be written as a fraction of integers; 0.75 = 3/4 is rational.",
+    "aliases": [
+      "real numbers",
+      "irrational numbers",
+      "euclid division lemma",
+      "fundamental theorem of arithmetic"
+    ],
+    "mistakes": [
+      "Thinking every square root is irrational; √9 = 3 is rational."
+    ]
+  },
+  {
+    "id": "math-polynomials",
+    "title": "Polynomials",
+    "subject": "Mathematics",
+    "classes": [
+      9,
+      10
+    ],
+    "summary": "A polynomial is a sum of terms with non-negative integer powers of a variable; its degree is the highest power.",
+    "points": [
+      "A zero of a polynomial is a value that makes it equal zero.",
+      "The Remainder Theorem says p(x) divided by (x − a) leaves remainder p(a).",
+      "The Factor Theorem says (x − a) is a factor exactly when p(a) = 0."
+    ],
+    "formulas": [
+      {
+        "name": "Remainder theorem",
+        "expr": "remainder of p(x) ÷ (x − a) = p(a)"
+      },
+      {
+        "name": "Sum of zeroes (quadratic)",
+        "expr": "α + β = −b/a",
+        "symbols": "for ax² + bx + c"
+      },
+      {
+        "name": "Product of zeroes",
+        "expr": "αβ = c/a"
+      }
+    ],
+    "example": "For x² − 5x + 6, the zeroes are 2 and 3, and 2 + 3 = 5 = −(−5)/1.",
+    "aliases": [
+      "polynomial",
+      "zeroes",
+      "remainder theorem",
+      "factor theorem",
+      "degree",
+      "polynomials class 10",
+      "polynomials class 9"
+    ],
+    "mistakes": [
+      "Writing the sum of zeroes as b/a instead of −b/a."
+    ]
+  },
+  {
+    "id": "math-linear-equations-two-variables",
+    "title": "Pair of linear equations in two variables",
+    "subject": "Mathematics",
+    "classes": [
+      9,
+      10
+    ],
+    "summary": "Two linear equations in two variables can be solved graphically or algebraically to find values satisfying both.",
+    "points": [
+      "The graph of each equation is a straight line; the solution is their intersection.",
+      "Substitution and elimination are the main algebraic methods.",
+      "The pair has one solution, no solution or infinitely many depending on the ratios of coefficients."
+    ],
+    "formulas": [
+      {
+        "name": "Unique solution condition",
+        "expr": "a₁/a₂ ≠ b₁/b₂"
+      },
+      {
+        "name": "No solution condition",
+        "expr": "a₁/a₂ = b₁/b₂ ≠ c₁/c₂"
+      },
+      {
+        "name": "Infinitely many solutions",
+        "expr": "a₁/a₂ = b₁/b₂ = c₁/c₂"
+      }
+    ],
+    "example": "x + y = 10 and x − y = 2 give x = 6 and y = 4.",
+    "aliases": [
+      "linear equations",
+      "two variables",
+      "elimination",
+      "substitution",
+      "simultaneous equations",
+      "pair of linear equations"
+    ],
+    "mistakes": [
+      "Forgetting to multiply the constant term as well when scaling an equation."
+    ]
+  },
+  {
+    "id": "math-quadratic-equations",
+    "title": "Quadratic equations",
+    "subject": "Mathematics",
+    "classes": [
+      10,
+      11
+    ],
+    "summary": "A quadratic equation has the form ax² + bx + c = 0 with a ≠ 0, and it has at most two roots.",
+    "points": [
+      "The discriminant D = b² − 4ac decides the nature of the roots.",
+      "D > 0 gives two distinct real roots, D = 0 gives equal roots, D < 0 gives no real roots.",
+      "Roots can be found by factorisation, completing the square or the quadratic formula."
+    ],
+    "formulas": [
+      {
+        "name": "Quadratic formula",
+        "expr": "x = (−b ± √(b² − 4ac)) / 2a",
+        "symbols": "a ≠ 0"
+      },
+      {
+        "name": "Discriminant",
+        "expr": "D = b² − 4ac"
+      },
+      {
+        "name": "Sum and product of roots",
+        "expr": "α + β = −b/a, αβ = c/a"
+      }
+    ],
+    "example": "x² − 7x + 12 = 0 factors as (x − 3)(x − 4), so x = 3 and x = 4.",
+    "aliases": [
+      "quadratic",
+      "quadratic formula",
+      "discriminant",
+      "roots of quadratic"
+    ],
+    "mistakes": [
+      "Using the formula without dividing by 2a.",
+      "Dropping the ± sign and reporting only one root."
+    ]
+  },
+  {
+    "id": "math-arithmetic-progression",
+    "title": "Arithmetic progressions",
+    "subject": "Mathematics",
+    "classes": [
+      10,
+      11
+    ],
+    "summary": "An arithmetic progression (AP) is a sequence in which each term differs from the previous one by a fixed common difference d.",
+    "points": [
+      "The nth term is aₙ = a + (n − 1)d.",
+      "The sum of n terms is Sₙ = n/2 [2a + (n − 1)d] or n/2 (a + l) where l is the last term.",
+      "A sequence is an AP only if the difference between consecutive terms is constant."
+    ],
+    "formulas": [
+      {
+        "name": "nth term",
+        "expr": "aₙ = a + (n − 1)d",
+        "symbols": "a = first term, d = common difference"
+      },
+      {
+        "name": "Sum of n terms",
+        "expr": "Sₙ = n/2 [2a + (n − 1)d]"
+      },
+      {
+        "name": "Sum with last term",
+        "expr": "Sₙ = n/2 (a + l)"
+      }
+    ],
+    "example": "For 3, 7, 11, …, a = 3 and d = 4, so a₁₀ = 3 + 9 × 4 = 39.",
+    "aliases": [
+      "ap",
+      "arithmetic sequence",
+      "common difference",
+      "nth term",
+      "sum of ap"
+    ],
+    "mistakes": [
+      "Using n instead of (n − 1) in the nth-term formula."
+    ]
+  },
+  {
+    "id": "math-coordinate-geometry",
+    "title": "Coordinate geometry",
+    "subject": "Mathematics",
+    "classes": [
+      9,
+      10
+    ],
+    "summary": "Coordinate geometry places points on a plane using ordered pairs (x, y) and uses formulas to find distances, midpoints and areas.",
+    "points": [
+      "The x-coordinate is the distance from the y-axis; the y-coordinate is the distance from the x-axis.",
+      "The distance formula comes from the Pythagoras theorem.",
+      "The section formula divides a segment in a given ratio."
+    ],
+    "formulas": [
+      {
+        "name": "Distance formula",
+        "expr": "d = √((x₂ − x₁)² + (y₂ − y₁)²)"
+      },
+      {
+        "name": "Midpoint formula",
+        "expr": "M = ((x₁ + x₂)/2, (y₁ + y₂)/2)"
+      },
+      {
+        "name": "Section formula",
+        "expr": "((m x₂ + n x₁)/(m + n), (m y₂ + n y₁)/(m + n))",
+        "symbols": "ratio m : n"
+      }
+    ],
+    "example": "Distance between (1, 2) and (4, 6) is √(9 + 16) = 5.",
+    "aliases": [
+      "coordinate geometry",
+      "distance formula",
+      "midpoint",
+      "section formula",
+      "cartesian plane"
+    ],
+    "mistakes": [
+      "Subtracting coordinates in a different order inside each bracket, which flips signs inconsistently."
+    ]
+  },
+  {
+    "id": "math-triangles-similarity",
+    "title": "Triangles: congruence and similarity",
+    "subject": "Mathematics",
+    "classes": [
+      9,
+      10
+    ],
+    "summary": "Congruent triangles are identical in shape and size; similar triangles have the same shape with proportional sides and equal angles.",
+    "points": [
+      "Congruence tests: SSS, SAS, ASA, AAS and RHS.",
+      "Similarity tests: AA, SSS (proportional sides) and SAS (proportional sides with included angle).",
+      "In similar triangles, corresponding sides are in the same ratio."
+    ],
+    "formulas": [
+      {
+        "name": "Basic proportionality (Thales)",
+        "expr": "DE ∥ BC ⇒ AD/DB = AE/EC",
+        "symbols": "in triangle ABC"
+      }
+    ],
+    "example": "If two triangles have two pairs of equal angles, the third pair is also equal, so they are similar by AA.",
+    "aliases": [
+      "similar triangles",
+      "congruence",
+      "sss",
+      "sas",
+      "aa similarity",
+      "thales theorem"
+    ],
+    "mistakes": [
+      "Assuming AAA proves congruence; it proves similarity only."
+    ]
+  },
+  {
+    "id": "math-trigonometry",
+    "title": "Trigonometry",
+    "subject": "Mathematics",
+    "classes": [
+      10,
+      11
+    ],
+    "summary": "Trigonometric ratios relate the angles of a right triangle to the ratios of its sides.",
+    "points": [
+      "sin θ = opposite/hypotenuse, cos θ = adjacent/hypotenuse, tan θ = opposite/adjacent.",
+      "sin²θ + cos²θ = 1, and tan θ = sin θ / cos θ.",
+      "Standard values: sin 30° = 1/2, cos 60° = 1/2, tan 45° = 1."
+    ],
+    "formulas": [
+      {
+        "name": "Trigonometric ratios",
+        "expr": "sin θ = P/H, cos θ = B/H, tan θ = P/B",
+        "symbols": "P perpendicular, B base, H hypotenuse"
+      },
+      {
+        "name": "Pythagorean identity",
+        "expr": "sin²θ + cos²θ = 1"
+      },
+      {
+        "name": "Tangent identity",
+        "expr": "tan θ = sin θ / cos θ"
+      }
+    ],
+    "example": "If the angle of elevation to a tower is 45° and you stand 20 m away, the height is 20 × tan 45° = 20 m.",
+    "aliases": [
+      "trigonometry",
+      "sin cos tan",
+      "trigonometric ratios",
+      "heights and distances",
+      "angle of elevation",
+      "introduction to trigonometry"
+    ],
+    "mistakes": [
+      "Using the adjacent side where the opposite side is needed.",
+      "Forgetting that tan 90° is undefined."
+    ]
+  },
+  {
+    "id": "math-circles-tangents",
+    "title": "Circles and tangents",
+    "subject": "Mathematics",
+    "classes": [
+      9,
+      10
+    ],
+    "summary": "A tangent touches a circle at exactly one point, and its properties connect lengths, angles and chords.",
+    "points": [
+      "The tangent at any point is perpendicular to the radius at that point.",
+      "Tangents drawn from an external point are equal in length.",
+      "The angle between a tangent and a chord equals the angle in the alternate segment."
+    ],
+    "example": "If two tangents from P touch a circle at A and B, then PA = PB.",
+    "aliases": [
+      "tangent",
+      "circle theorems",
+      "alternate segment",
+      "chord",
+      "cyclic quadrilateral"
+    ],
+    "mistakes": [
+      "Assuming a chord through the centre is a tangent; it is a diameter."
+    ]
+  },
+  {
+    "id": "math-surface-area-volume",
+    "title": "Surface areas and volumes",
+    "subject": "Mathematics",
+    "classes": [
+      9,
+      10
+    ],
+    "summary": "Surface area measures the outside of a solid and volume measures the space inside it.",
+    "points": [
+      "Cylinder: curved surface 2πrh, total 2πr(r + h), volume πr²h.",
+      "Cone: curved surface πrl, volume ⅓πr²h, where l = √(r² + h²).",
+      "Sphere: surface 4πr², volume 4/3 πr³; hemisphere is half of each."
+    ],
+    "formulas": [
+      {
+        "name": "Volume of a cylinder",
+        "expr": "V = πr²h"
+      },
+      {
+        "name": "Volume of a cone",
+        "expr": "V = ⅓πr²h"
+      },
+      {
+        "name": "Volume of a sphere",
+        "expr": "V = 4/3 πr³"
+      },
+      {
+        "name": "Surface area of a sphere",
+        "expr": "A = 4πr²"
+      }
+    ],
+    "example": "A cylinder of radius 7 cm and height 10 cm has volume π × 49 × 10 ≈ 1540 cm³.",
+    "aliases": [
+      "surface area",
+      "volume",
+      "cylinder",
+      "cone",
+      "sphere",
+      "frustum"
+    ],
+    "mistakes": [
+      "Using diameter instead of radius.",
+      "Forgetting to add the base areas for total surface area."
+    ]
+  },
+  {
+    "id": "math-statistics",
+    "title": "Statistics",
+    "subject": "Mathematics",
+    "classes": [
+      9,
+      10,
+      11
+    ],
+    "summary": "Statistics summarises data using measures of central tendency and spread, especially for grouped data.",
+    "points": [
+      "For grouped data, the mean uses class midpoints: x̄ = Σf x / Σf.",
+      "The median class is found from cumulative frequency.",
+      "The mode is the most frequent value or class."
+    ],
+    "formulas": [
+      {
+        "name": "Mean of grouped data",
+        "expr": "x̄ = Σfᵢxᵢ / Σfᵢ"
+      },
+      {
+        "name": "Median (grouped)",
+        "expr": "l + [(n/2 − cf)/f] × h",
+        "symbols": "l lower limit, cf cumulative frequency before, f frequency, h class size"
+      },
+      {
+        "name": "Mode (grouped)",
+        "expr": "l + [(f₁ − f₀)/(2f₁ − f₀ − f₂)] × h"
+      }
+    ],
+    "example": "For classes 0–10 (f = 4) and 10–20 (f = 6), the mean uses midpoints 5 and 15: (4×5 + 6×15)/10 = 11.",
+    "aliases": [
+      "statistics",
+      "mean median mode",
+      "grouped data",
+      "cumulative frequency",
+      "ogive"
+    ],
+    "mistakes": [
+      "Using class limits instead of midpoints when calculating the mean."
+    ]
+  },
+  {
+    "id": "math-probability-10",
+    "title": "Probability",
+    "subject": "Mathematics",
+    "classes": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "summary": "Probability measures the chance of an event and is calculated from equally likely outcomes.",
+    "points": [
+      "0 ≤ P(E) ≤ 1, with 0 impossible and 1 certain.",
+      "P(E) + P(not E) = 1.",
+      "The empirical probability comes from actual trials; theoretical probability comes from counting outcomes."
+    ],
+    "formulas": [
+      {
+        "name": "Theoretical probability",
+        "expr": "P(E) = favourable outcomes / total outcomes"
+      },
+      {
+        "name": "Complement rule",
+        "expr": "P(E′) = 1 − P(E)"
+      }
+    ],
+    "example": "Drawing a king from a standard deck: 4/52 = 1/13.",
+    "aliases": [
+      "probability",
+      "cards probability",
+      "dice",
+      "complement",
+      "sample space"
+    ],
+    "mistakes": [
+      "Forgetting to reduce the fraction or exceeding 1."
+    ]
+  },
+  {
+    "id": "phy-motion-equations",
+    "title": "Motion and equations of motion",
+    "subject": "Physics",
+    "classes": [
+      9,
+      11
+    ],
+    "summary": "For uniformly accelerated motion, three equations connect initial velocity, final velocity, acceleration, time and displacement.",
+    "points": [
+      "Acceleration is the rate of change of velocity.",
+      "The equations apply only when acceleration is constant.",
+      "Distance–time and velocity–time graphs describe motion visually."
+    ],
+    "formulas": [
+      {
+        "name": "First equation",
+        "expr": "v = u + at",
+        "symbols": "u initial, v final velocity (m/s), a (m/s²), t (s)"
+      },
+      {
+        "name": "Second equation",
+        "expr": "s = ut + ½at²",
+        "symbols": "s displacement (m)"
+      },
+      {
+        "name": "Third equation",
+        "expr": "v² = u² + 2as"
+      }
+    ],
+    "example": "A car from rest accelerates at 2 m/s² for 5 s: v = 0 + 2 × 5 = 10 m/s.",
+    "aliases": [
+      "equations of motion",
+      "kinematics",
+      "acceleration",
+      "uniform acceleration",
+      "velocity time graph",
+      "motion in a straight line"
+    ],
+    "mistakes": [
+      "Using these equations when acceleration is not constant."
+    ]
+  },
+  {
+    "id": "phy-newtons-laws",
+    "title": "Newton's laws of motion",
+    "subject": "Physics",
+    "classes": [
+      9,
+      11
+    ],
+    "summary": "Newton's three laws explain how forces change motion, from inertia to action and reaction.",
+    "points": [
+      "First law: an object stays at rest or in uniform motion unless a net force acts.",
+      "Second law: F = ma, so force equals the rate of change of momentum.",
+      "Third law: every action has an equal and opposite reaction on a different body."
+    ],
+    "formulas": [
+      {
+        "name": "Second law",
+        "expr": "F = m a",
+        "symbols": "newtons"
+      },
+      {
+        "name": "Momentum",
+        "expr": "p = m v",
+        "symbols": "kg m/s"
+      },
+      {
+        "name": "Impulse",
+        "expr": "F Δt = Δp"
+      }
+    ],
+    "example": "A 10 kg cart pushed with 20 N accelerates at 2 m/s².",
+    "aliases": [
+      "newton's laws",
+      "inertia",
+      "f=ma",
+      "momentum",
+      "action reaction",
+      "laws of motion"
+    ],
+    "mistakes": [
+      "Thinking action and reaction cancel because they are equal; they act on different bodies."
+    ]
+  },
+  {
+    "id": "phy-gravitation",
+    "title": "Gravitation",
+    "subject": "Physics",
+    "classes": [
+      9,
+      11
+    ],
+    "summary": "Every mass attracts every other mass with a force proportional to the product of the masses and inversely proportional to the square of the distance.",
+    "points": [
+      "F = G m₁m₂ / r², with G = 6.67 × 10⁻¹¹ N m²/kg².",
+      "Weight = mg, and g is about 9.8 m/s² near Earth's surface.",
+      "Orbital motion is free fall around a planet."
+    ],
+    "formulas": [
+      {
+        "name": "Universal gravitation",
+        "expr": "F = G m₁m₂ / r²"
+      },
+      {
+        "name": "Weight",
+        "expr": "W = m g"
+      },
+      {
+        "name": "Escape velocity",
+        "expr": "vₑ = √(2GM/R)",
+        "symbols": "≈ 11.2 km/s for Earth"
+      }
+    ],
+    "example": "Doubling the distance between two masses reduces the gravitational force to one quarter.",
+    "aliases": [
+      "gravitation",
+      "gravity",
+      "escape velocity",
+      "free fall",
+      "weight"
+    ],
+    "mistakes": [
+      "Saying astronauts in orbit have no gravity; they are in continuous free fall."
+    ]
+  },
+  {
+    "id": "phy-work-energy-power",
+    "title": "Work, energy and power",
+    "subject": "Physics",
+    "classes": [
+      9,
+      11
+    ],
+    "summary": "Work transfers energy, energy is the capacity to do work, and power is the rate of doing work.",
+    "points": [
+      "Work = force × displacement in the direction of the force.",
+      "Kinetic energy is ½mv² and potential energy near Earth is mgh.",
+      "Power = work ÷ time, measured in watts."
+    ],
+    "formulas": [
+      {
+        "name": "Work",
+        "expr": "W = F s cos θ",
+        "symbols": "θ angle between force and displacement"
+      },
+      {
+        "name": "Kinetic energy",
+        "expr": "KE = ½ m v²"
+      },
+      {
+        "name": "Potential energy",
+        "expr": "PE = m g h"
+      },
+      {
+        "name": "Power",
+        "expr": "P = W / t",
+        "symbols": "watts"
+      }
+    ],
+    "example": "A 60 W bulb left on for 2 hours uses 60 × 7200 = 432,000 J.",
+    "aliases": [
+      "work energy power",
+      "kinetic energy",
+      "potential energy",
+      "watt",
+      "joule"
+    ],
+    "mistakes": [
+      "Ignoring the angle between force and displacement."
+    ]
+  },
+  {
+    "id": "phy-sound-waves",
+    "title": "Sound and waves",
+    "subject": "Physics",
+    "classes": [
+      9,
+      11
+    ],
+    "summary": "Sound is a longitudinal mechanical wave, and its frequency, wavelength and speed are linked.",
+    "points": [
+      "Sound needs a medium and cannot travel through a vacuum.",
+      "Audible range for humans is about 20 Hz to 20 kHz.",
+      "Echoes are reflected sound; reverberation is repeated reflection in a hall."
+    ],
+    "formulas": [
+      {
+        "name": "Wave equation",
+        "expr": "v = f λ"
+      },
+      {
+        "name": "Time for an echo",
+        "expr": "2d = v t",
+        "symbols": "d distance to reflector"
+      }
+    ],
+    "example": "An echo returns after 0.6 s at 340 m/s, so the reflector is 340 × 0.6 / 2 = 102 m away.",
+    "aliases": [
+      "sound",
+      "echo",
+      "frequency",
+      "wavelength",
+      "longitudinal wave",
+      "reverberation"
+    ],
+    "mistakes": [
+      "Forgetting to halve the distance in echo calculations."
+    ]
+  },
+  {
+    "id": "phy-electricity",
+    "title": "Electricity and Ohm's law",
+    "subject": "Physics",
+    "classes": [
+      10,
+      11,
+      12
+    ],
+    "summary": "Ohm's law relates potential difference, current and resistance in a conductor at constant temperature.",
+    "points": [
+      "V = IR, with V in volts, I in amperes and R in ohms.",
+      "Resistance depends on length, area and material: R = ρl/A.",
+      "In series, resistances add; in parallel, the reciprocals add."
+    ],
+    "formulas": [
+      {
+        "name": "Ohm's law",
+        "expr": "V = I R"
+      },
+      {
+        "name": "Resistivity",
+        "expr": "R = ρ l / A",
+        "symbols": "ρ resistivity, l length, A area"
+      },
+      {
+        "name": "Power",
+        "expr": "P = V I = I²R = V²/R",
+        "symbols": "watts"
+      },
+      {
+        "name": "Series resistance",
+        "expr": "R = R₁ + R₂ + …"
+      },
+      {
+        "name": "Parallel resistance",
+        "expr": "1/R = 1/R₁ + 1/R₂ + …"
+      }
+    ],
+    "example": "Two 6 Ω resistors in parallel give 1/R = 1/6 + 1/6 = 1/3, so R = 3 Ω.",
+    "aliases": [
+      "ohm's law",
+      "resistance",
+      "series",
+      "parallel",
+      "electric power",
+      "resistivity"
+    ],
+    "mistakes": [
+      "Adding parallel resistances directly."
+    ]
+  },
+  {
+    "id": "phy-magnetic-effects",
+    "title": "Magnetic effects of electric current",
+    "subject": "Physics",
+    "classes": [
+      10,
+      12
+    ],
+    "summary": "A current-carrying conductor creates a magnetic field, and a conductor in a changing magnetic field can have a current induced in it.",
+    "points": [
+      "The field around a straight wire forms concentric circles; a solenoid produces a uniform field like a bar magnet.",
+      "The direction is given by the right-hand thumb rule and Fleming's rules.",
+      "Electromagnetic induction is the basis of generators."
+    ],
+    "formulas": [
+      {
+        "name": "Force on a conductor",
+        "expr": "F = B I l sin θ",
+        "symbols": "B field, I current, l length"
+      },
+      {
+        "name": "Induced emf",
+        "expr": "ε = −dΦ/dt",
+        "symbols": "Φ magnetic flux"
+      }
+    ],
+    "example": "Moving a magnet into a coil deflects the galvanometer, showing induced current.",
+    "aliases": [
+      "magnetic effect",
+      "electromagnetic induction",
+      "fleming's rule",
+      "solenoid",
+      "generator"
+    ],
+    "mistakes": [
+      "Thinking a magnet at rest inside a coil induces a steady current; the flux must change."
+    ]
+  },
+  {
+    "id": "phy-light-refraction",
+    "title": "Light: reflection, refraction and lenses",
+    "subject": "Physics",
+    "classes": [
+      10,
+      12
+    ],
+    "summary": "Light changes direction when it reflects from a surface or refracts as it passes between media of different optical density.",
+    "points": [
+      "The angle of incidence equals the angle of reflection.",
+      "Snell's law: n₁ sin i = n₂ sin r.",
+      "A convex lens converges light and a concave lens diverges it."
+    ],
+    "formulas": [
+      {
+        "name": "Snell's law",
+        "expr": "n₁ sin i = n₂ sin r"
+      },
+      {
+        "name": "Lens formula",
+        "expr": "1/f = 1/v − 1/u",
+        "symbols": "cartesian sign convention"
+      },
+      {
+        "name": "Magnification",
+        "expr": "m = h′/h = v/u"
+      },
+      {
+        "name": "Power of a lens",
+        "expr": "P = 1/f (in metres)",
+        "symbols": "dioptres"
+      }
+    ],
+    "example": "An object 30 cm from a convex lens of focal length 10 cm gives 1/v = 1/10 + 1/(−30) = 1/15, so v = 15 cm.",
+    "aliases": [
+      "refraction",
+      "lens formula",
+      "snell's law",
+      "convex lens",
+      "concave lens",
+      "mirror formula"
+    ],
+    "mistakes": [
+      "Ignoring the sign convention for object distance."
+    ]
+  },
+  {
+    "id": "phy-human-eye",
+    "title": "The human eye and optical defects",
+    "subject": "Physics",
+    "classes": [
+      10
+    ],
+    "summary": "The eye focuses light on the retina using the cornea and a variable lens, and common defects can be corrected with lenses.",
+    "points": [
+      "The retina detects light and sends signals through the optic nerve.",
+      "Myopia (short sight) is corrected with a concave lens; hypermetropia with a convex lens.",
+      "Presbyopia is the loss of near focusing with age."
+    ],
+    "example": "A myopic person cannot see distant objects clearly because the image forms in front of the retina.",
+    "aliases": [
+      "human eye",
+      "myopia",
+      "hypermetropia",
+      "presbyopia",
+      "retina",
+      "eye defect",
+      "human eye and colourful world"
+    ],
+    "mistakes": [
+      "Mixing up which lens corrects myopia; it needs a concave (diverging) lens."
+    ]
+  },
+  {
+    "id": "chem-chemical-reactions",
+    "title": "Chemical reactions and equations",
+    "subject": "Chemistry",
+    "classes": [
+      9,
+      10
+    ],
+    "summary": "A chemical equation represents a reaction with formulas, and it must be balanced so atoms are conserved.",
+    "points": [
+      "Types include combination, decomposition, displacement, double displacement and redox.",
+      "Oxidation is loss of electrons or gain of oxygen; reduction is the reverse.",
+      "State symbols (s), (l), (g) and (aq) describe conditions."
+    ],
+    "formulas": [
+      {
+        "name": "Example, balanced",
+        "expr": "2Mg + O₂ → 2MgO"
+      }
+    ],
+    "example": "Rusting is oxidation of iron in the presence of oxygen and moisture.",
+    "aliases": [
+      "chemical reaction",
+      "balancing equations",
+      "redox",
+      "oxidation",
+      "decomposition",
+      "displacement"
+    ],
+    "mistakes": [
+      "Changing subscripts to balance an equation instead of coefficients."
+    ]
+  },
+  {
+    "id": "chem-acids-bases-salts",
+    "title": "Acids, bases and salts",
+    "subject": "Chemistry",
+    "classes": [
+      9,
+      10
+    ],
+    "summary": "Acids release H⁺ ions in water, bases release OH⁻ ions, and their neutralisation produces salt and water.",
+    "points": [
+      "pH below 7 is acidic, 7 is neutral and above 7 is basic.",
+      "Strong acids and bases ionise completely; weak ones partially.",
+      "Common salts include sodium chloride, baking soda and washing soda."
+    ],
+    "formulas": [
+      {
+        "name": "pH",
+        "expr": "pH = −log[H⁺]",
+        "symbols": "[H⁺] in mol/L"
+      },
+      {
+        "name": "Neutralisation",
+        "expr": "acid + base → salt + water"
+      }
+    ],
+    "example": "A solution with [H⁺] = 10⁻³ mol/L has pH 3 and is acidic.",
+    "aliases": [
+      "ph",
+      "acids bases salts",
+      "neutralisation",
+      "baking soda",
+      "indicator"
+    ],
+    "mistakes": [
+      "Thinking pH 7 is always neutral in every solvent; it is neutral in water at 25 °C."
+    ]
+  },
+  {
+    "id": "chem-metals-nonmetals-10",
+    "title": "Metals, non-metals and metallurgy",
+    "subject": "Chemistry",
+    "classes": [
+      10,
+      12
+    ],
+    "summary": "Metals are extracted from ores by reduction, while non-metals vary widely in properties.",
+    "points": [
+      "Ores are minerals from which a metal can be extracted profitably.",
+      "Roasting heats a sulphide ore in air; calcination heats a carbonate ore.",
+      "The reactivity series decides the extraction method: electrolysis for reactive metals, reduction for moderate ones."
+    ],
+    "example": "Iron is extracted in a blast furnace by reducing iron oxide with carbon.",
+    "aliases": [
+      "metallurgy",
+      "ores",
+      "roasting",
+      "calcination",
+      "extraction of metals",
+      "alloy"
+    ],
+    "mistakes": [
+      "Thinking all ores are minerals but all minerals are ores; only profitable ones are ores."
+    ]
+  },
+  {
+    "id": "chem-carbon-compounds",
+    "title": "Carbon and its compounds",
+    "subject": "Chemistry",
+    "classes": [
+      10,
+      11,
+      12
+    ],
+    "summary": "Carbon forms covalent bonds with itself and other elements, giving millions of compounds including hydrocarbons and functional groups.",
+    "points": [
+      "Carbon has four valence electrons, so it forms four bonds.",
+      "Homologous series differ by CH₂ and share similar chemical properties.",
+      "Functional groups such as –OH, –COOH and –CHO determine properties."
+    ],
+    "formulas": [
+      {
+        "name": "Alkane",
+        "expr": "CₙH₂ₙ₊₂",
+        "symbols": "single bonds"
+      },
+      {
+        "name": "Alkene",
+        "expr": "CₙH₂ₙ",
+        "symbols": "one double bond"
+      },
+      {
+        "name": "Alcohol group",
+        "expr": "–OH"
+      }
+    ],
+    "example": "Ethanol (C₂H₅OH) contains the alcohol group; ethanoic acid (CH₃COOH) contains the carboxyl group.",
+    "aliases": [
+      "carbon compounds",
+      "hydrocarbons",
+      "functional groups",
+      "alkane alkene alkyne",
+      "ethanol",
+      "ethanoic acid"
+    ],
+    "mistakes": [
+      "Writing the alkene formula as CₙH₂ₙ₊₂."
+    ]
+  },
+  {
+    "id": "chem-periodic-classification",
+    "title": "Periodic classification",
+    "subject": "Chemistry",
+    "classes": [
+      10,
+      11
+    ],
+    "summary": "The periodic table arranges elements by increasing atomic number, so elements with similar properties fall in the same group.",
+    "points": [
+      "Groups are vertical columns and periods are horizontal rows.",
+      "Atomic radius decreases across a period and increases down a group.",
+      "Metallic character decreases across a period and increases down a group."
+    ],
+    "example": "Lithium, sodium and potassium are all group 1 alkali metals and react similarly with water.",
+    "aliases": [
+      "periodic table",
+      "groups",
+      "periods",
+      "periodic trends",
+      "mendeleev",
+      "classification of elements and periodicity"
+    ],
+    "mistakes": [
+      "Thinking atomic size increases across a period; it decreases as nuclear charge grows."
+    ]
+  },
+  {
+    "id": "chem-bonding",
+    "title": "Chemical bonding",
+    "subject": "Chemistry",
+    "classes": [
+      10,
+      11
+    ],
+    "summary": "Atoms bond to gain a stable electron arrangement, forming ionic bonds by transfer and covalent bonds by sharing.",
+    "points": [
+      "Ionic compounds form between metals and non-metals and conduct electricity when molten or dissolved.",
+      "Covalent compounds form between non-metals and usually have low melting points.",
+      "Metallic bonding explains conductivity and malleability."
+    ],
+    "example": "NaCl is ionic: sodium loses an electron and chlorine gains it.",
+    "aliases": [
+      "chemical bonding",
+      "ionic bond",
+      "covalent bond",
+      "metallic bond",
+      "valence electrons",
+      "chemical bonding and molecular structure"
+    ],
+    "mistakes": [
+      "Saying ionic compounds conduct as solids; the ions must be free to move."
+    ]
+  },
+  {
+    "id": "chem-mole-concept",
+    "title": "Mole concept",
+    "subject": "Chemistry",
+    "classes": [
+      9,
+      10,
+      11
+    ],
+    "summary": "One mole contains 6.022 × 10²³ particles and equals the molar mass in grams of a substance.",
+    "points": [
+      "n = given mass ÷ molar mass.",
+      "One mole of any gas occupies 22.4 L at STP.",
+      "Avogadro's number is 6.022 × 10²³ particles per mole."
+    ],
+    "formulas": [
+      {
+        "name": "Moles",
+        "expr": "n = m / M",
+        "symbols": "m mass in g, M molar mass in g/mol"
+      },
+      {
+        "name": "Particles",
+        "expr": "N = n × N_A",
+        "symbols": "N_A = 6.022 × 10²³ /mol"
+      },
+      {
+        "name": "Molarity",
+        "expr": "M = n / V (litres)"
+      }
+    ],
+    "example": "18 g of water is 1 mol, containing 6.022 × 10²³ molecules.",
+    "aliases": [
+      "mole",
+      "avogadro",
+      "molar mass",
+      "molarity",
+      "stoichiometry",
+      "some basic concepts of chemistry"
+    ],
+    "mistakes": [
+      "Using mass in kg in n = m/M."
+    ]
+  },
+  {
+    "id": "bio-life-processes-nutrition",
+    "title": "Life processes: nutrition",
+    "subject": "Biology",
+    "classes": [
+      9,
+      10
+    ],
+    "summary": "Nutrition provides organisms with energy and materials, through photosynthesis in plants and digestion in animals.",
+    "points": [
+      "Autotrophic nutrition makes food from simple substances; heterotrophic nutrition depends on others.",
+      "Human digestion uses mechanical and chemical breakdown with enzymes.",
+      "Balanced nutrition needs carbohydrates, proteins, fats, vitamins, minerals and water."
+    ],
+    "example": "Amoeba engulfs food by pseudopodia, a form of holozoic nutrition.",
+    "aliases": [
+      "nutrition",
+      "autotrophic",
+      "heterotrophic",
+      "digestion",
+      "life processes",
+      "enzymes"
+    ],
+    "mistakes": [
+      "Thinking digestion is only mechanical; enzymes do the chemical work."
+    ]
+  },
+  {
+    "id": "bio-respiration-transport",
+    "title": "Respiration and transport",
+    "subject": "Biology",
+    "classes": [
+      9,
+      10
+    ],
+    "summary": "Respiration releases energy from food, and transport systems carry oxygen, nutrients and waste around the body.",
+    "points": [
+      "Human respiration uses lungs with alveoli for gas exchange.",
+      "The heart has four chambers; arteries, veins and capillaries form the circulation.",
+      "Plants transport water through xylem and food through phloem."
+    ],
+    "example": "Alveoli have thin walls and a large surface area for efficient gas exchange.",
+    "aliases": [
+      "respiration",
+      "transport",
+      "heart",
+      "alveoli",
+      "xylem",
+      "phloem",
+      "blood"
+    ],
+    "mistakes": [
+      "Saying arteries always carry oxygenated blood; the pulmonary artery carries deoxygenated blood."
+    ]
+  },
+  {
+    "id": "bio-excretion",
+    "title": "Excretion",
+    "subject": "Biology",
+    "classes": [
+      10,
+      11
+    ],
+    "summary": "Excretion removes metabolic waste, and the kidneys filter blood to produce urine.",
+    "points": [
+      "The nephron is the functional unit of the kidney.",
+      "Filtration, reabsorption and secretion produce urine.",
+      "Plants excrete waste through leaves, bark and roots."
+    ],
+    "example": "Useful glucose and most water are reabsorbed in the kidney tubule, so urine is concentrated.",
+    "aliases": [
+      "excretion",
+      "kidney",
+      "nephron",
+      "urine",
+      "dialysis"
+    ],
+    "mistakes": [
+      "Confusing excretion (removing metabolic waste) with egestion (removing undigested food)."
+    ]
+  },
+  {
+    "id": "bio-control-coordination",
+    "title": "Control and coordination",
+    "subject": "Biology",
+    "classes": [
+      10,
+      11
+    ],
+    "summary": "The nervous and endocrine systems coordinate body responses, using electrical impulses and hormones.",
+    "points": [
+      "A neuron carries impulses; synapses pass them to the next cell.",
+      "The brain and spinal cord form the central nervous system.",
+      "Hormones such as insulin and adrenaline act more slowly than nerves."
+    ],
+    "example": "Adrenaline raises heart rate and prepares the body for a quick response.",
+    "aliases": [
+      "nervous system",
+      "hormones",
+      "neuron",
+      "reflex action",
+      "endocrine",
+      "insulin"
+    ],
+    "mistakes": [
+      "Thinking reflex actions are decided by the brain; the spinal cord handles many of them."
+    ]
+  },
+  {
+    "id": "bio-reproduction",
+    "title": "Reproduction",
+    "subject": "Biology",
+    "classes": [
+      10,
+      11,
+      12
+    ],
+    "summary": "Reproduction produces new individuals, asexually in many organisms and sexually through specialised gametes.",
+    "points": [
+      "Asexual methods include binary fission, budding and regeneration.",
+      "In humans, fertilisation occurs in the fallopian tube and the embryo develops in the uterus.",
+      "Flowers are the reproductive organs of angiosperms."
+    ],
+    "example": "Hydra reproduces by budding, while humans reproduce sexually.",
+    "aliases": [
+      "reproduction",
+      "fertilisation",
+      "human reproduction",
+      "asexual reproduction",
+      "pollination",
+      "embryo"
+    ],
+    "mistakes": [
+      "Saying fertilisation happens in the uterus; it normally happens in the fallopian tube."
+    ]
+  },
+  {
+    "id": "bio-heredity-evolution",
+    "title": "Heredity and evolution",
+    "subject": "Biology",
+    "classes": [
+      10,
+      11,
+      12
+    ],
+    "summary": "Heredity is the passing of traits from parents to offspring through genes, and evolution is change in populations over generations.",
+    "points": [
+      "Genes are segments of DNA; alleles are alternative forms of a gene.",
+      "Mendel's laws explain dominant and recessive inheritance.",
+      "Natural selection favours traits that improve survival and reproduction."
+    ],
+    "example": "Crossing a pure tall pea plant with a pure short one gives tall offspring in the first generation.",
+    "aliases": [
+      "heredity",
+      "genetics",
+      "mendel",
+      "evolution",
+      "natural selection",
+      "dna",
+      "allele",
+      "principles of inheritance",
+      "inheritance and variation",
+      "mendelian genetics",
+      "laws of inheritance"
+    ],
+    "mistakes": [
+      "Thinking a dominant allele is more common; dominance is about expression, not frequency."
+    ]
+  },
+  {
+    "id": "bio-environment",
+    "title": "Environment and ecosystems",
+    "subject": "Biology",
+    "classes": [
+      10,
+      11,
+      12
+    ],
+    "summary": "Organisms depend on their environment, and human activity can damage the ecosystems that support them.",
+    "points": [
+      "Food chains and webs show energy flow; only about 10% passes to the next level.",
+      "Pollution, deforestation and waste reduce biodiversity.",
+      "Conservation and sustainable use protect ecosystems."
+    ],
+    "example": "Ozone depletion is caused mainly by chlorofluorocarbons and increases harmful UV radiation.",
+    "aliases": [
+      "environment",
+      "ecosystem",
+      "ozone",
+      "biodiversity",
+      "pollution",
+      "conservation",
+      "our environment"
+    ],
+    "mistakes": [
+      "Thinking the 10% energy rule means energy is destroyed; it is lost mainly as heat."
+    ]
+  },
+  {
+    "id": "hist-french-revolution",
+    "title": "The French Revolution",
+    "subject": "History",
+    "classes": [
+      9
+    ],
+    "summary": "The French Revolution (1789) overthrew the absolute monarchy and feudal privileges in France and spread ideas of liberty, equality and fraternity.",
+    "points": [
+      "Causes included financial crisis, heavy taxation of the Third Estate and Enlightenment ideas.",
+      "The storming of the Bastille on 14 July 1789 became its symbol.",
+      "It led to the Declaration of the Rights of Man and eventually to Napoleon's rise."
+    ],
+    "example": "The Third Estate paid most taxes but had little political power, which fuelled resentment.",
+    "aliases": [
+      "french revolution",
+      "bastille",
+      "1789",
+      "liberty equality fraternity",
+      "third estate"
+    ],
+    "mistakes": [
+      "Saying the revolution ended the monarchy immediately; France became a republic in 1792."
+    ]
+  },
+  {
+    "id": "hist-russian-revolution",
+    "title": "The Russian Revolution",
+    "subject": "History",
+    "classes": [
+      9
+    ],
+    "summary": "The Russian Revolution of 1917 ended tsarist rule and brought the Bolsheviks to power under Lenin.",
+    "points": [
+      "The February Revolution overthrew Tsar Nicholas II; the October Revolution brought the Bolsheviks to power.",
+      "Causes included war hardship, food shortages and inequality.",
+      "It created the Soviet Union and influenced socialist movements worldwide."
+    ],
+    "example": "The slogan 'peace, land and bread' addressed the main grievances of soldiers, peasants and workers.",
+    "aliases": [
+      "russian revolution",
+      "bolshevik",
+      "lenin",
+      "1917",
+      "soviet union",
+      "tsar",
+      "socialism in europe and the russian revolution"
+    ],
+    "mistakes": [
+      "Treating the February and October revolutions as a single event."
+    ]
+  },
+  {
+    "id": "hist-nationalism-europe",
+    "title": "Nationalism in Europe",
+    "subject": "History",
+    "classes": [
+      10
+    ],
+    "summary": "In nineteenth-century Europe, nationalism united some states and divided others, reshaping the map by 1914.",
+    "points": [
+      "The French Revolution spread ideas of the nation as a community of citizens.",
+      "Italy and Germany were unified in the nineteenth century.",
+      "Nationalism also produced aggressive imperialism and Balkan tensions."
+    ],
+    "example": "Giuseppe Garibaldi's volunteers helped unify Italy, while Bismarck unified Germany through war and diplomacy.",
+    "aliases": [
+      "nationalism in europe",
+      "unification of germany",
+      "unification of italy",
+      "bismarck",
+      "garibaldi",
+      "rise of nationalism in europe"
+    ],
+    "mistakes": [
+      "Assuming nationalism was only a force for liberation; it also drove expansion and conflict."
+    ]
+  },
+  {
+    "id": "hist-nationalism-india",
+    "title": "Nationalism in India",
+    "subject": "History",
+    "classes": [
+      10
+    ],
+    "summary": "Indian nationalism grew into a mass movement against colonial rule, using non-violent protest, boycotts and civil disobedience.",
+    "points": [
+      "The Rowlatt Act and Jallianwala Bagh massacre deepened anger at British rule.",
+      "Gandhi linked swaraj to khadi, village industry and Hindu–Muslim unity.",
+      "The Salt March of 1930 began the Civil Disobedience Movement."
+    ],
+    "example": "The Simon Commission was boycotted because it had no Indian members.",
+    "aliases": [
+      "nationalism in india",
+      "jallianwala bagh",
+      "salt march",
+      "rowlatt act",
+      "swaraj",
+      "civil disobedience"
+    ],
+    "mistakes": [
+      "Describing the movement as only Gandhi's work; peasants, workers and women shaped it too."
+    ]
+  },
+  {
+    "id": "hist-nazism",
+    "title": "Nazism and the rise of Hitler",
+    "subject": "History",
+    "classes": [
+      9
+    ],
+    "summary": "Nazism was the fascist ideology of the German Nazi Party, which ruled Germany under Adolf Hitler from 1933 and carried out the Holocaust.",
+    "points": [
+      "The Great Depression and humiliation after the First World War weakened the Weimar Republic.",
+      "Nazi ideology promoted racial hierarchy, antisemitism and expansion.",
+      "The regime murdered six million Jews and millions of others in the Holocaust."
+    ],
+    "example": "The Nuremberg Laws of 1935 stripped Jewish Germans of citizenship rights.",
+    "aliases": [
+      "nazism",
+      "hitler",
+      "holocaust",
+      "weimar republic",
+      "fascism",
+      "nazism and the rise of hitler"
+    ],
+    "mistakes": [
+      "Treating Nazism as only a German problem; it drew on wider racist and imperial ideas."
+    ]
+  },
+  {
+    "id": "geo-india-location",
+    "title": "India: location and size",
+    "subject": "Geography",
+    "classes": [
+      9,
+      10
+    ],
+    "summary": "India lies in South Asia between latitudes 8°4′N and 37°6′N and longitudes 68°7′E and 97°25′E.",
+    "points": [
+      "The Tropic of Cancer passes through the middle of the country.",
+      "India has a long coastline and the Himalayas as a natural northern boundary.",
+      "The Indian Standard Meridian is 82°30′E."
+    ],
+    "example": "India's east–west extent creates a time difference of about two hours between Arunachal Pradesh and Gujarat.",
+    "aliases": [
+      "india size and location",
+      "tropic of cancer",
+      "standard meridian",
+      "india location"
+    ],
+    "mistakes": [
+      "Forgetting that the Tropic of Cancer divides India into almost two equal parts."
+    ]
+  },
+  {
+    "id": "geo-physical-features-india",
+    "title": "Physical features of India",
+    "subject": "Geography",
+    "classes": [
+      9,
+      10,
+      11
+    ],
+    "summary": "India has six major physical divisions: the Himalayas, northern plains, peninsular plateau, coastal plains, islands and the Indian desert.",
+    "points": [
+      "The Himalayas are young fold mountains with three ranges: Himadri, Himachal and Shivaliks.",
+      "The northern plains are formed by alluvium from the Indus, Ganga and Brahmaputra.",
+      "The peninsular plateau is old, stable and rich in minerals."
+    ],
+    "example": "The Deccan Plateau is part of the peninsular plateau and is made of old volcanic rock.",
+    "aliases": [
+      "physical features",
+      "himalayas",
+      "northern plains",
+      "peninsular plateau",
+      "deccan plateau"
+    ],
+    "mistakes": [
+      "Treating the Himalayas and the peninsular plateau as the same age; the plateau is much older."
+    ]
+  },
+  {
+    "id": "geo-drainage",
+    "title": "Drainage systems of India",
+    "subject": "Geography",
+    "classes": [
+      9,
+      10
+    ],
+    "summary": "India's rivers are grouped into Himalayan rivers, which are perennial, and peninsular rivers, which depend on rainfall.",
+    "points": [
+      "The Ganga, Indus and Brahmaputra rise beyond the Himalayas and flow all year.",
+      "Peninsular rivers such as the Godavari and Krishna are seasonal.",
+      "River basins supply water for irrigation, industry and cities."
+    ],
+    "example": "The Ganga basin is India's largest river basin and supports dense agriculture.",
+    "aliases": [
+      "drainage",
+      "himalayan rivers",
+      "peninsular rivers",
+      "ganga basin",
+      "godavari"
+    ],
+    "mistakes": [
+      "Assuming all Indian rivers flow east; the Narmada and Tapi flow west."
+    ]
+  },
+  {
+    "id": "geo-minerals-energy",
+    "title": "Minerals and energy resources",
+    "subject": "Geography",
+    "classes": [
+      10,
+      11
+    ],
+    "summary": "Minerals and energy resources power industry, but most are non-renewable and need careful use.",
+    "points": [
+      "Minerals occur in veins, beds, alluvial deposits and as rocks.",
+      "Conventional energy includes coal, petroleum and natural gas; non-conventional includes solar, wind and biogas.",
+      "Recycling and efficient use extend limited resources."
+    ],
+    "example": "Coal is used mainly for electricity generation and is a major source of carbon emissions.",
+    "aliases": [
+      "minerals",
+      "energy resources",
+      "coal",
+      "petroleum",
+      "solar energy",
+      "non conventional energy"
+    ],
+    "mistakes": [
+      "Calling coal renewable because it forms from plants; it takes millions of years."
+    ]
+  },
+  {
+    "id": "geo-manufacturing",
+    "title": "Manufacturing industries",
+    "subject": "Geography",
+    "classes": [
+      10,
+      11
+    ],
+    "summary": "Manufacturing turns raw materials into finished goods and is located where transport, labour, power and markets are favourable.",
+    "points": [
+      "Agro-based industries use farm products; mineral-based industries use minerals.",
+      "Iron and steel is a basic industry because others depend on it.",
+      "Industries cause pollution and need cleaner technology."
+    ],
+    "example": "Cotton textile mills cluster near cotton-growing areas and ports.",
+    "aliases": [
+      "industries",
+      "manufacturing",
+      "iron and steel",
+      "cotton textile",
+      "industrial location"
+    ],
+    "mistakes": [
+      "Thinking industry location depends on one factor; several costs interact."
+    ]
+  },
+  {
+    "id": "civ-power-sharing",
+    "title": "Power sharing and federalism",
+    "subject": "Political Science",
+    "classes": [
+      10,
+      11
+    ],
+    "summary": "Power sharing distributes authority among institutions and levels of government, and federalism divides power between the centre and states.",
+    "points": [
+      "Belgium and Sri Lanka show different approaches to ethnic power sharing.",
+      "India is a federal state with a strong centre, three lists and residuary powers.",
+      "Decentralisation to local bodies deepens participation."
+    ],
+    "example": "India's Union List, State List and Concurrent List divide legislative subjects.",
+    "aliases": [
+      "power sharing",
+      "federalism",
+      "union list",
+      "state list",
+      "concurrent list",
+      "decentralisation"
+    ],
+    "mistakes": [
+      "Calling India a pure confederation; the centre has significant powers."
+    ]
+  },
+  {
+    "id": "civ-electoral-politics",
+    "title": "Electoral politics",
+    "subject": "Political Science",
+    "classes": [
+      9,
+      10,
+      11
+    ],
+    "summary": "Elections are the mechanism through which citizens choose representatives, and their credibility depends on fairness and participation.",
+    "points": [
+      "The Election Commission conducts elections and enforces the model code of conduct.",
+      "Universal adult franchise gives every citizen aged 18 and above the vote.",
+      "Free and fair elections require an updated roll, secret ballot and fair campaign rules."
+    ],
+    "example": "An electronic voting machine records a vote in secret and reduces counting errors.",
+    "aliases": [
+      "elections",
+      "election commission",
+      "voting",
+      "electoral roll",
+      "model code of conduct"
+    ],
+    "mistakes": [
+      "Thinking elections alone make a democracy; rights, rule of law and accountability matter too."
+    ]
+  },
+  {
+    "id": "civ-political-parties",
+    "title": "Political parties",
+    "subject": "Political Science",
+    "classes": [
+      10,
+      11
+    ],
+    "summary": "Political parties organise people around programmes, contest elections and form or oppose governments.",
+    "points": [
+      "A party needs policies, members and a leadership structure.",
+      "India has national, state and regional parties.",
+      "Parties face challenges such as dynastic control and money power."
+    ],
+    "example": "A coalition government forms when no single party wins a majority.",
+    "aliases": [
+      "political parties",
+      "coalition",
+      "national party",
+      "regional party",
+      "opposition"
+    ],
+    "mistakes": [
+      "Assuming parties are only election machines; they also shape policy and public debate."
+    ]
+  },
+  {
+    "id": "civ-outcomes-democracy",
+    "title": "Outcomes of democracy",
+    "subject": "Political Science",
+    "classes": [
+      10
+    ],
+    "summary": "Democracy is judged by accountability, responsiveness, equality and the protection of rights, not only by economic growth.",
+    "points": [
+      "Democratic governments are accountable to citizens and can be voted out.",
+      "Democracy handles diversity and social conflict through negotiation.",
+      "It can be slow and may fail to reduce inequality without active participation."
+    ],
+    "example": "Transparency and the right to information let citizens question official decisions.",
+    "aliases": [
+      "outcomes of democracy",
+      "accountability",
+      "transparency",
+      "democratic government"
+    ],
+    "mistakes": [
+      "Judging democracy only by economic performance; political and social outcomes matter too."
+    ]
+  },
+  {
+    "id": "civ-gender-religion-caste",
+    "title": "Gender, religion and caste",
+    "subject": "Political Science",
+    "classes": [
+      10
+    ],
+    "summary": "Gender, religion and caste shape politics in India, and the Constitution tries to ensure equality while allowing diversity.",
+    "points": [
+      "Patriarchy limits women's public participation; reservations aim to correct this.",
+      "Communalism treats one religion as superior and threatens secularism.",
+      "Caste politics can mobilise excluded groups but also entrench divisions."
+    ],
+    "example": "One-third reservation for women in local bodies increased their political representation.",
+    "aliases": [
+      "gender and politics",
+      "religion and politics",
+      "caste politics",
+      "communalism",
+      "secularism",
+      "patriarchy"
+    ],
+    "mistakes": [
+      "Confusing secularism with anti-religion; Indian secularism treats all religions equally."
+    ]
+  },
+  {
+    "id": "eco-development",
+    "title": "Development",
+    "subject": "Economics",
+    "classes": [
+      10,
+      11
+    ],
+    "summary": "Development means improvement in people's lives, measured by income as well as health, education and freedom.",
+    "points": [
+      "Per capita income is average income, which hides inequality.",
+      "The Human Development Index combines income, education and health.",
+      "Different people and regions may want different things from development."
+    ],
+    "formulas": [
+      {
+        "name": "Per capita income",
+        "expr": "national income ÷ population"
+      }
+    ],
+    "example": "Two countries with the same average income can have very different literacy and health outcomes.",
+    "aliases": [
+      "development",
+      "per capita income",
+      "hdi",
+      "human development",
+      "standard of living"
+    ],
+    "mistakes": [
+      "Treating higher average income as the only sign of development."
+    ]
+  },
+  {
+    "id": "eco-sectors",
+    "title": "Sectors of the Indian economy",
+    "subject": "Economics",
+    "classes": [
+      10,
+      11
+    ],
+    "summary": "Economic activity is grouped into primary (extraction), secondary (manufacturing) and tertiary (services) sectors.",
+    "points": [
+      "Primary includes farming, mining and fishing.",
+      "Secondary turns raw materials into goods.",
+      "Tertiary provides services such as transport, banking and education."
+    ],
+    "example": "Turning cotton into cloth is secondary activity; selling the cloth is tertiary.",
+    "aliases": [
+      "sectors of economy",
+      "primary sector",
+      "secondary sector",
+      "tertiary sector",
+      "service sector",
+      "sectors of the indian economy"
+    ],
+    "mistakes": [
+      "Placing transport in the secondary sector; it is a service."
+    ]
+  },
+  {
+    "id": "eco-money-banking",
+    "title": "Money and banking",
+    "subject": "Economics",
+    "classes": [
+      10,
+      11,
+      12
+    ],
+    "summary": "Money is a medium of exchange, and banks accept deposits, lend and create credit.",
+    "points": [
+      "Money removes the need for a double coincidence of wants in barter.",
+      "The Reserve Bank of India issues currency and regulates banks.",
+      "Banks keep only a fraction of deposits as reserves and lend the rest."
+    ],
+    "formulas": [
+      {
+        "name": "Money multiplier",
+        "expr": "total deposits = initial deposit × 1/reserve ratio"
+      }
+    ],
+    "example": "With a 10% reserve ratio, ₹1,000 of new deposits can support up to ₹10,000 of deposits.",
+    "aliases": [
+      "money",
+      "banking",
+      "credit",
+      "rbi",
+      "reserve ratio",
+      "deposits",
+      "money and credit"
+    ],
+    "mistakes": [
+      "Thinking banks keep all deposits available for withdrawal at once."
+    ]
+  },
+  {
+    "id": "eco-globalisation",
+    "title": "Globalisation",
+    "subject": "Economics",
+    "classes": [
+      10,
+      11,
+      12
+    ],
+    "summary": "Globalisation is the growing integration of economies through trade, investment, technology and migration.",
+    "points": [
+      "Multinational companies invest across borders and link production chains.",
+      "Trade barriers such as tariffs reduce integration; liberalisation removes them.",
+      "Globalisation can create jobs and cheaper goods but also insecurity for workers."
+    ],
+    "example": "A phone designed in one country, with parts from several and assembled in another, shows a global value chain.",
+    "aliases": [
+      "globalisation",
+      "liberalisation",
+      "multinational",
+      "trade barriers",
+      "outsourcing",
+      "globalisation and the indian economy"
+    ],
+    "mistakes": [
+      "Assuming globalisation benefits everyone equally; gains and losses are uneven."
+    ]
+  },
+  {
+    "id": "eco-consumer-rights",
+    "title": "Consumer rights",
+    "subject": "Economics",
+    "classes": [
+      10,
+      11,
+      12
+    ],
+    "summary": "Consumer rights protect buyers from unfair trade practices, unsafe goods and misleading information.",
+    "points": [
+      "Rights include safety, information, choice, being heard and redressal.",
+      "A consumer court can order compensation for defective goods.",
+      "The Consumer Protection Act and standardisation marks help enforce quality."
+    ],
+    "example": "A shop cannot refuse a bill for a product it sells; the bill is proof for a complaint.",
+    "aliases": [
+      "consumer rights",
+      "consumer protection",
+      "consumer court",
+      "right to redressal",
+      "isi mark"
+    ],
+    "mistakes": [
+      "Thinking consumer rights apply only to expensive purchases."
+    ]
+  },
+  {
+    "id": "eco-poverty-employment",
+    "title": "Poverty and employment",
+    "subject": "Economics",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Poverty is the inability to meet basic needs, and employment patterns decide whether work lifts people out of it.",
+    "points": [
+      "Poverty is measured using income or consumption lines and multidimensional indicators.",
+      "Informal and disguised unemployment are widespread in Indian agriculture.",
+      "Education, health and social protection reduce poverty."
+    ],
+    "example": "Five family members farming a small plot may all be working, but some are in disguised unemployment.",
+    "aliases": [
+      "poverty",
+      "unemployment",
+      "disguised unemployment",
+      "poverty line",
+      "employment"
+    ],
+    "mistakes": [
+      "Confusing unemployment with low wages; people can be working and still poor."
+    ]
+  }
+]

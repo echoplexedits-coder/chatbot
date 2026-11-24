@@ -1,0 +1,230 @@
+[
+  {
+    "id": "prac-science-lab-skills",
+    "title": "Science laboratory skills and safety",
+    "subject": "Science",
+    "classes": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "summary": "Good lab work depends on knowing the apparatus, following safety rules and recording observations honestly.",
+    "points": [
+      "Common apparatus includes beaker, test tube, funnel, tripod stand, burner, balance and measuring cylinder.",
+      "Safety rules: tie back hair, wear goggles where needed, never taste chemicals, heat test tubes away from yourself.",
+      "Record what you actually observe, not what you expected to observe.",
+      "Report a spill, break or burn to the teacher at once."
+    ],
+    "example": "While heating a liquid in a test tube, hold it with a holder and point the mouth away from everyone.",
+    "mistakes": [
+      "Reading a measuring cylinder at eye level from the wrong side (read the bottom of the meniscus).",
+      "Writing the expected result when the observation was different."
+    ],
+    "aliases": [
+      "science lab safety",
+      "laboratory apparatus",
+      "practical skills science",
+      "how to write observation table"
+    ]
+  },
+  {
+    "id": "prac-physics-experiments",
+    "title": "Physics practical work and experiments",
+    "subject": "Physics",
+    "classes": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "summary": "Physics practicals test measurement, circuit work and optics, and need correct least count and error handling.",
+    "points": [
+      "Frequent experiments include vernier and screw gauge measurement, simple pendulum, Ohm's law, meter bridge and prism refraction.",
+      "Least count of vernier callipers is 1 main scale division divided by the number of vernier divisions.",
+      "Record readings in a table with units, then take the mean and state the error.",
+      "Draw the circuit or ray diagram with correct symbols before starting."
+    ],
+    "formulas": [
+      {
+        "name": "Least count (vernier)",
+        "expr": "LC = 1 MSD − 1 VSD"
+      },
+      {
+        "name": "Simple pendulum period",
+        "expr": "T = 2π√(L ÷ g)"
+      }
+    ],
+    "example": "A vernier with 10 divisions matching 9 main scale divisions has a least count of 0.1 mm.",
+    "mistakes": [
+      "Forgetting to note the zero error.",
+      "Connecting the ammeter in parallel with the resistor."
+    ],
+    "aliases": [
+      "physics practical",
+      "physics experiments class 12",
+      "vernier callipers least count",
+      "ohm's law experiment",
+      "meter bridge"
+    ]
+  },
+  {
+    "id": "prac-chemistry-experiments",
+    "title": "Chemistry practical work and qualitative analysis",
+    "subject": "Chemistry",
+    "classes": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "summary": "Chemistry practicals cover salt analysis, titrations and preparation, with careful observation and calculation.",
+    "points": [
+      "Qualitative analysis identifies cations and anions from colour, gas, flame test and solubility.",
+      "A titration finds an unknown concentration using a standard solution and an indicator.",
+      "Common indicators are phenolphthalein (colourless to pink in base) and methyl orange.",
+      "Record flame colour, gas evolved and precipitate colour exactly as seen."
+    ],
+    "formulas": [
+      {
+        "name": "Titration relation",
+        "expr": "M₁V₁ ÷ n₁ = M₂V₂ ÷ n₂"
+      }
+    ],
+    "example": "A salt giving a brick-red flame and a white precipitate with barium chloride contains calcium and sulphate.",
+    "mistakes": [
+      "Naming a salt from one test instead of the full set.",
+      "Forgetting to note the end point colour change."
+    ],
+    "aliases": [
+      "chemistry practical",
+      "salt analysis",
+      "titration experiment",
+      "qualitative analysis cations anions",
+      "flame test"
+    ]
+  },
+  {
+    "id": "prac-biology-experiments",
+    "title": "Biology practical work: slides, specimens and experiments",
+    "subject": "Biology",
+    "classes": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "summary": "Biology practicals use microscopes, slides, specimens and simple experiments to observe life processes.",
+    "points": [
+      "Microscope skills: focus on low power first, then high power, and never use the coarse knob on high power.",
+      "Common slides include onion peel (plant cell), cheek cells (animal cell), stomata and root tip mitosis.",
+      "Experiments include testing for starch with iodine, oxygen evolution in photosynthesis and osmosis in potato.",
+      "Draw labelled diagrams with straight lines and correct proportions."
+    ],
+    "example": "A potato strip placed in salt solution loses water by osmosis and becomes limp.",
+    "mistakes": [
+      "Drawing freehand, unlabelled diagrams.",
+      "Using the coarse adjustment while on high power and cracking the slide."
+    ],
+    "aliases": [
+      "biology practical",
+      "onion peel experiment",
+      "osmosis potato experiment",
+      "microscope parts",
+      "stomata slide"
+    ]
+  },
+  {
+    "id": "prac-map-india",
+    "title": "Map work: India",
+    "subject": "Geography",
+    "classes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "summary": "Map work locates physical features, states, rivers and resources of India accurately and with proper symbols.",
+    "points": [
+      "Learn the outline first: latitude and longitude limits, neighbouring countries and the coastline.",
+      "Physical features: Himalayas, Indo-Gangetic plain, peninsular plateau, Western and Eastern Ghats, Thar desert.",
+      "Rivers: Himalayan (Ganga, Brahmaputra, Indus) and peninsular (Godavari, Krishna, Kaveri, Narmada, Tapi).",
+      "Use a key and label neatly; marks are lost for unlabelled or misplaced features."
+    ],
+    "example": "Marking the Tropic of Cancer across Rajasthan, Madhya Pradesh, Chhattisgarh and West Bengal shows it crosses central India.",
+    "mistakes": [
+      "Confusing the Western Ghats with the Aravalli range.",
+      "Writing labels outside the map or without a key."
+    ],
+    "aliases": [
+      "map work india",
+      "india map practice",
+      "physical features map india",
+      "rivers of india map"
+    ]
+  },
+  {
+    "id": "prac-map-world",
+    "title": "Map work: the world",
+    "subject": "Geography",
+    "classes": [
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "summary": "World map work covers continents, oceans, climate zones, pressure belts and major regions of conflict or trade.",
+    "points": [
+      "Know the seven continents and five oceans with their relative positions.",
+      "Mark the equator, tropics, prime meridian, Arctic and Antarctic circles.",
+      "Locate major mountain systems, deserts, rivers and industrial regions.",
+      "For exam maps, mark only what is asked and label with a key."
+    ],
+    "example": "The Sahara lies across northern Africa between the Mediterranean coast and the Sahel.",
+    "mistakes": [
+      "Placing the prime meridian through Europe instead of Greenwich.",
+      "Mixing up the Atlantic and Pacific positions."
+    ],
+    "aliases": [
+      "world map work",
+      "continents and oceans",
+      "map pointing geography",
+      "world map practice"
+    ]
+  },
+  {
+    "id": "prac-history-project",
+    "title": "History source work and project files",
+    "subject": "History",
+    "classes": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "summary": "History assessments use sources, maps and project files, and reward evidence over opinion.",
+    "points": [
+      "A source question asks what the source says, what it leaves out, and how reliable it is.",
+      "Distinguish primary sources (from the period) from secondary sources (later accounts).",
+      "A project file needs a title, aim, sources, findings and a short bibliography.",
+      "Quote briefly and cite where the extract came from."
+    ],
+    "example": "A traveller's account is a primary source but reflects the traveller's own bias, so both value and limitation should be stated.",
+    "mistakes": [
+      "Treating a textbook as a primary source.",
+      "Writing a project with no cited sources."
+    ],
+    "aliases": [
+      "history project file",
+      "source based questions history",
+      "primary and secondary sources",
+      "history map work"
+    ]
+  }
+]

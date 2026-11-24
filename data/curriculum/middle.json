@@ -1,0 +1,2286 @@
+[
+  {
+    "id": "math-integers",
+    "title": "Integers",
+    "subject": "Mathematics",
+    "classes": [
+      6,
+      7
+    ],
+    "summary": "Integers are the whole numbers together with their negatives: …, −3, −2, −1, 0, 1, 2, 3, …",
+    "points": [
+      "On a number line, numbers increase to the right and decrease to the left.",
+      "Adding a negative moves left; subtracting a negative is the same as adding a positive.",
+      "The product of two integers with the same sign is positive; with opposite signs it is negative."
+    ],
+    "example": "(−7) + 4 = −3, and (−6) × (−3) = 18.",
+    "aliases": [
+      "integer",
+      "negative numbers",
+      "number line",
+      "directed numbers",
+      "integers class 6"
+    ],
+    "mistakes": [
+      "Thinking −8 is greater than −3 because 8 is greater than 3.",
+      "Forgetting that (−2) × (−2) = 4, not −4."
+    ]
+  },
+  {
+    "id": "math-rational-numbers",
+    "title": "Rational numbers",
+    "subject": "Mathematics",
+    "classes": [
+      7,
+      8
+    ],
+    "summary": "A rational number can be written as p/q where p and q are integers and q is not zero.",
+    "points": [
+      "Every integer and every terminating decimal is rational.",
+      "Equivalent forms come from multiplying or dividing the numerator and denominator by the same non-zero number.",
+      "Between any two rational numbers there is another rational number."
+    ],
+    "example": "3/4 = 6/8 = 0.75, and −2 = −2/1, so both are rational.",
+    "aliases": [
+      "rational number",
+      "p by q",
+      "fractions and decimals"
+    ],
+    "mistakes": [
+      "Assuming decimals like 0.333… are irrational; 1/3 is rational."
+    ]
+  },
+  {
+    "id": "math-hcf-lcm",
+    "title": "HCF and LCM",
+    "subject": "Mathematics",
+    "classes": [
+      6,
+      7,
+      8
+    ],
+    "summary": "The highest common factor (HCF) is the largest number dividing two or more numbers exactly; the lowest common multiple (LCM) is the smallest number they all divide.",
+    "points": [
+      "Prime factorisation: HCF takes the lowest power of each common prime, LCM the highest power of every prime.",
+      "For two numbers, HCF × LCM = product of the numbers.",
+      "HCF is used for splitting into equal groups; LCM for events repeating together."
+    ],
+    "formulas": [
+      {
+        "name": "Relation for two numbers",
+        "expr": "HCF(a, b) × LCM(a, b) = a × b",
+        "symbols": "a, b positive integers"
+      }
+    ],
+    "example": "12 = 2² × 3 and 18 = 2 × 3², so HCF = 2 × 3 = 6 and LCM = 2² × 3² = 36.",
+    "aliases": [
+      "highest common factor",
+      "lowest common multiple",
+      "gcd",
+      "lcm",
+      "hcf"
+    ],
+    "mistakes": [
+      "Using the highest power for the HCF as well as the LCM."
+    ]
+  },
+  {
+    "id": "math-exponents",
+    "title": "Exponents and powers",
+    "subject": "Mathematics",
+    "classes": [
+      7,
+      8
+    ],
+    "summary": "An exponent says how many times a number is multiplied by itself: aⁿ means a used as a factor n times.",
+    "points": [
+      "aᵐ × aⁿ = aᵐ⁺ⁿ and aᵐ ÷ aⁿ = aᵐ⁻ⁿ.",
+      "(aᵐ)ⁿ = aᵐⁿ and a⁰ = 1 for any non-zero a.",
+      "A negative exponent means a reciprocal: a⁻ⁿ = 1/aⁿ."
+    ],
+    "formulas": [
+      {
+        "name": "Product law",
+        "expr": "aᵐ × aⁿ = aᵐ⁺ⁿ",
+        "symbols": "a ≠ 0"
+      },
+      {
+        "name": "Power of a power",
+        "expr": "(aᵐ)ⁿ = aᵐⁿ"
+      },
+      {
+        "name": "Negative exponent",
+        "expr": "a⁻ⁿ = 1/aⁿ",
+        "symbols": "a ≠ 0"
+      }
+    ],
+    "example": "2³ × 2⁴ = 2⁷ = 128, and 5⁻² = 1/25.",
+    "aliases": [
+      "powers",
+      "indices",
+      "laws of exponents",
+      "scientific notation",
+      "exponents and powers"
+    ],
+    "mistakes": [
+      "Adding the exponents when multiplying powers of different bases, such as 2³ × 3²."
+    ]
+  },
+  {
+    "id": "math-ratio-proportion",
+    "title": "Ratio and proportion",
+    "subject": "Mathematics",
+    "classes": [
+      6,
+      7,
+      8
+    ],
+    "summary": "A ratio compares two quantities of the same kind; a proportion says two ratios are equal.",
+    "points": [
+      "A ratio 3:5 can be written as the fraction 3/5.",
+      "In a proportion a:b = c:d, the product of the extremes equals the product of the means: ad = bc.",
+      "The unitary method finds the value of one unit first, then multiplies."
+    ],
+    "formulas": [
+      {
+        "name": "Proportion",
+        "expr": "a : b = c : d ⇒ ad = bc",
+        "symbols": "b, d ≠ 0"
+      }
+    ],
+    "example": "If 4 pens cost ₹60, one pen costs ₹15, so 7 pens cost ₹105.",
+    "aliases": [
+      "ratio",
+      "proportion",
+      "unitary method",
+      "direct proportion",
+      "inverse proportion"
+    ],
+    "mistakes": [
+      "Comparing quantities with different units without converting them first."
+    ]
+  },
+  {
+    "id": "math-profit-loss",
+    "title": "Percentage, profit and loss",
+    "subject": "Mathematics",
+    "classes": [
+      7,
+      8
+    ],
+    "summary": "Profit or loss compares the selling price with the cost price, usually as a percentage of the cost price.",
+    "points": [
+      "Profit = SP − CP when SP is greater; loss = CP − SP otherwise.",
+      "Profit % = (profit ÷ CP) × 100 and loss % = (loss ÷ CP) × 100.",
+      "Discount is a reduction on the marked price, not on the cost price."
+    ],
+    "formulas": [
+      {
+        "name": "Profit percentage",
+        "expr": "profit % = (SP − CP)/CP × 100",
+        "symbols": "SP = selling price, CP = cost price"
+      },
+      {
+        "name": "Loss percentage",
+        "expr": "loss % = (CP − SP)/CP × 100"
+      }
+    ],
+    "example": "CP ₹400, SP ₹460: profit ₹60, so profit % = 60/400 × 100 = 15%.",
+    "aliases": [
+      "profit and loss",
+      "selling price",
+      "cost price",
+      "discount",
+      "marked price"
+    ],
+    "mistakes": [
+      "Calculating profit percentage on the selling price instead of the cost price."
+    ]
+  },
+  {
+    "id": "math-simple-interest",
+    "title": "Simple interest",
+    "subject": "Mathematics",
+    "classes": [
+      7,
+      8
+    ],
+    "summary": "Simple interest is charged only on the original principal, not on interest already earned.",
+    "points": [
+      "Interest = principal × rate × time ÷ 100, with time in years.",
+      "Amount = principal + interest.",
+      "Compound interest grows faster because interest is added to the principal each period."
+    ],
+    "formulas": [
+      {
+        "name": "Simple interest",
+        "expr": "SI = P × R × T / 100",
+        "symbols": "P = principal, R = rate % per year, T = years"
+      },
+      {
+        "name": "Amount",
+        "expr": "A = P + SI"
+      }
+    ],
+    "example": "₹5,000 at 8% for 3 years gives SI = 5000 × 8 × 3 / 100 = ₹1,200.",
+    "aliases": [
+      "interest",
+      "principal",
+      "rate of interest",
+      "compound interest"
+    ],
+    "mistakes": [
+      "Using months as years without dividing by 12."
+    ]
+  },
+  {
+    "id": "math-speed-distance-time",
+    "title": "Speed, distance and time",
+    "subject": "Mathematics",
+    "classes": [
+      7,
+      8
+    ],
+    "summary": "Speed is the distance covered in unit time, so distance = speed × time and time = distance ÷ speed.",
+    "points": [
+      "Units must match: km/h with hours, or m/s with seconds.",
+      "1 km/h = 5/18 m/s.",
+      "Average speed = total distance ÷ total time, not the average of the speeds."
+    ],
+    "formulas": [
+      {
+        "name": "Speed",
+        "expr": "speed = distance ÷ time",
+        "symbols": "km/h or m/s"
+      },
+      {
+        "name": "Distance",
+        "expr": "distance = speed × time"
+      },
+      {
+        "name": "Time",
+        "expr": "time = distance ÷ speed"
+      }
+    ],
+    "example": "A train covers 180 km in 3 hours, so its speed is 60 km/h.",
+    "aliases": [
+      "speed",
+      "distance",
+      "time",
+      "average speed",
+      "relative speed"
+    ],
+    "mistakes": [
+      "Averaging two speeds directly when the distances are equal."
+    ]
+  },
+  {
+    "id": "math-algebraic-expressions",
+    "title": "Algebraic expressions",
+    "subject": "Mathematics",
+    "classes": [
+      6,
+      7,
+      8
+    ],
+    "summary": "An algebraic expression combines variables, constants and operations, such as 3x + 5.",
+    "points": [
+      "Terms with the same variable and power are like terms and can be combined.",
+      "The coefficient is the number multiplying a variable.",
+      "Substituting a value means replacing the variable with that number and simplifying."
+    ],
+    "example": "5x + 3 − 2x = 3x + 3, and if x = 4 the value is 15.",
+    "aliases": [
+      "expressions",
+      "variables",
+      "like terms",
+      "coefficient",
+      "simplify"
+    ],
+    "mistakes": [
+      "Combining unlike terms such as 3x and 3."
+    ]
+  },
+  {
+    "id": "math-linear-equations",
+    "title": "Linear equations in one variable",
+    "subject": "Mathematics",
+    "classes": [
+      7,
+      8
+    ],
+    "summary": "A linear equation contains a variable to the first power, and solving it means finding the value that makes both sides equal.",
+    "points": [
+      "Do the same operation to both sides to keep the equation balanced.",
+      "Move variable terms to one side and numbers to the other, then divide.",
+      "Always substitute the answer back to check."
+    ],
+    "example": "3x + 4 = 19 → 3x = 15 → x = 5. Check: 3(5) + 4 = 19.",
+    "aliases": [
+      "linear equation",
+      "solve for x",
+      "one variable",
+      "balancing equations",
+      "simple equations"
+    ],
+    "mistakes": [
+      "Changing the sign of only one side when moving a term across."
+    ]
+  },
+  {
+    "id": "math-identities",
+    "title": "Algebraic identities",
+    "subject": "Mathematics",
+    "classes": [
+      8,
+      9
+    ],
+    "summary": "An identity is true for every value of its variables, and the standard identities let you expand and factorise quickly.",
+    "points": [
+      "(a + b)² = a² + 2ab + b² and (a − b)² = a² − 2ab + b².",
+      "(a + b)(a − b) = a² − b².",
+      "(x + a)(x + b) = x² + (a + b)x + ab."
+    ],
+    "formulas": [
+      {
+        "name": "Square of a sum",
+        "expr": "(a + b)² = a² + 2ab + b²"
+      },
+      {
+        "name": "Square of a difference",
+        "expr": "(a − b)² = a² − 2ab + b²"
+      },
+      {
+        "name": "Difference of squares",
+        "expr": "a² − b² = (a + b)(a − b)"
+      },
+      {
+        "name": "Product of binomials",
+        "expr": "(x + a)(x + b) = x² + (a + b)x + ab"
+      }
+    ],
+    "example": "101² = (100 + 1)² = 10000 + 200 + 1 = 10201.",
+    "aliases": [
+      "identities",
+      "expansion",
+      "a plus b whole square",
+      "difference of squares"
+    ],
+    "mistakes": [
+      "Writing (a + b)² as a² + b² and forgetting the 2ab term."
+    ]
+  },
+  {
+    "id": "math-factorisation",
+    "title": "Factorisation",
+    "subject": "Mathematics",
+    "classes": [
+      8,
+      9
+    ],
+    "summary": "Factorisation writes an expression as a product of factors, reversing expansion.",
+    "points": [
+      "Take out the highest common factor first.",
+      "Use identities such as a² − b² = (a + b)(a − b).",
+      "For x² + (a + b)x + ab, look for two numbers that add to the middle coefficient and multiply to the constant."
+    ],
+    "example": "x² + 5x + 6 = (x + 2)(x + 3), because 2 + 3 = 5 and 2 × 3 = 6.",
+    "aliases": [
+      "factorise",
+      "factorize",
+      "splitting the middle term",
+      "factors",
+      "factorisation class 8"
+    ],
+    "mistakes": [
+      "Writing x² + 5x + 6 = (x + 5)(x + 1); the constants must multiply to 6 as well as add to 5."
+    ]
+  },
+  {
+    "id": "math-lines-angles",
+    "title": "Lines and angles",
+    "subject": "Mathematics",
+    "classes": [
+      7,
+      8,
+      9
+    ],
+    "summary": "Angles are measured in degrees, and the relationships between angles on lines and between parallel lines let you find unknown angles.",
+    "points": [
+      "Angles on a straight line add to 180°; angles around a point add to 360°.",
+      "When two parallel lines are cut by a transversal, corresponding angles are equal and co-interior angles add to 180°.",
+      "Vertically opposite angles are equal."
+    ],
+    "example": "If two parallel lines are cut by a transversal and one angle is 65°, the alternate interior angle is also 65°.",
+    "aliases": [
+      "angles",
+      "parallel lines",
+      "transversal",
+      "corresponding angles",
+      "vertically opposite",
+      "lines and angles",
+      "shapes and angles"
+    ],
+    "mistakes": [
+      "Assuming lines are parallel because they look parallel; it must be given."
+    ]
+  },
+  {
+    "id": "math-triangles",
+    "title": "Triangles and their properties",
+    "subject": "Mathematics",
+    "classes": [
+      7,
+      8,
+      9
+    ],
+    "summary": "A triangle has three sides and three angles, and its interior angles always add to 180°.",
+    "points": [
+      "An exterior angle equals the sum of the two opposite interior angles.",
+      "A triangle is possible only if the sum of any two sides is greater than the third.",
+      "Triangles are classified by sides (equilateral, isosceles, scalene) and by angles (acute, right, obtuse)."
+    ],
+    "example": "Angles 50° and 60° leave 70° for the third angle, because 180 − 50 − 60 = 70.",
+    "aliases": [
+      "triangle",
+      "angle sum property",
+      "exterior angle",
+      "isosceles",
+      "equilateral",
+      "the triangle and its properties",
+      "congruence of triangles",
+      "congruent triangles"
+    ],
+    "mistakes": [
+      "Using the exterior angle as if it were inside the triangle."
+    ]
+  },
+  {
+    "id": "math-quadrilaterals",
+    "title": "Quadrilaterals and polygons",
+    "subject": "Mathematics",
+    "classes": [
+      8,
+      9
+    ],
+    "summary": "A quadrilateral has four sides, and its interior angles add to 360°; special quadrilaterals have their own properties.",
+    "points": [
+      "A parallelogram has opposite sides parallel and equal, and opposite angles equal.",
+      "A rectangle has four right angles; a rhombus has four equal sides; a square has both.",
+      "The angle sum of an n-sided polygon is (n − 2) × 180°."
+    ],
+    "formulas": [
+      {
+        "name": "Polygon angle sum",
+        "expr": "sum = (n − 2) × 180°",
+        "symbols": "n = number of sides"
+      }
+    ],
+    "example": "A pentagon has (5 − 2) × 180° = 540° in total.",
+    "aliases": [
+      "quadrilateral",
+      "parallelogram",
+      "rhombus",
+      "trapezium",
+      "polygon"
+    ],
+    "mistakes": [
+      "Assuming every parallelogram is a rectangle."
+    ]
+  },
+  {
+    "id": "math-circles-basic",
+    "title": "Circles",
+    "subject": "Mathematics",
+    "classes": [
+      7,
+      8,
+      9
+    ],
+    "summary": "A circle is the set of points at a fixed distance from its centre; the radius, diameter, chord and circumference describe it.",
+    "points": [
+      "Diameter = 2 × radius.",
+      "Circumference = 2πr and area = πr².",
+      "A tangent touches the circle at one point; a chord joins two points on it."
+    ],
+    "formulas": [
+      {
+        "name": "Circumference",
+        "expr": "C = 2πr",
+        "symbols": "r = radius, π ≈ 3.14 or 22/7"
+      },
+      {
+        "name": "Area of a circle",
+        "expr": "A = πr²"
+      }
+    ],
+    "example": "A circle of radius 7 cm has circumference 44 cm and area 154 cm² using π = 22/7.",
+    "aliases": [
+      "circle",
+      "radius",
+      "diameter",
+      "circumference",
+      "chord",
+      "tangent"
+    ],
+    "mistakes": [
+      "Using the diameter in place of the radius in πr²."
+    ]
+  },
+  {
+    "id": "math-mensuration-middle",
+    "title": "Mensuration: area and volume",
+    "subject": "Mathematics",
+    "classes": [
+      7,
+      8
+    ],
+    "summary": "Mensuration finds perimeter, area, surface area and volume of common plane and solid shapes.",
+    "points": [
+      "Area of a triangle = ½ × base × height; of a parallelogram = base × height.",
+      "Volume of a cuboid = l × b × h; of a cube = side³.",
+      "Total surface area of a cuboid = 2(lb + bh + hl)."
+    ],
+    "formulas": [
+      {
+        "name": "Area of a triangle",
+        "expr": "A = ½ × b × h"
+      },
+      {
+        "name": "Volume of a cuboid",
+        "expr": "V = l × b × h",
+        "symbols": "cubic units"
+      },
+      {
+        "name": "Surface area of a cuboid",
+        "expr": "TSA = 2(lb + bh + hl)"
+      },
+      {
+        "name": "Volume of a cube",
+        "expr": "V = a³"
+      }
+    ],
+    "example": "A cuboid 4 cm × 3 cm × 2 cm has volume 24 cm³ and surface area 2(12 + 6 + 8) = 52 cm².",
+    "aliases": [
+      "surface area",
+      "volume",
+      "cuboid",
+      "cube",
+      "mensuration"
+    ],
+    "mistakes": [
+      "Mixing units, such as cm with m, before multiplying."
+    ]
+  },
+  {
+    "id": "math-data-handling-middle",
+    "title": "Data handling: mean, median and mode",
+    "subject": "Mathematics",
+    "classes": [
+      7,
+      8,
+      9
+    ],
+    "summary": "Mean, median and mode are three ways to describe the centre of a data set.",
+    "points": [
+      "Mean = sum of values ÷ number of values.",
+      "Median is the middle value after sorting; with an even count it is the average of the two middle values.",
+      "Mode is the value that appears most often."
+    ],
+    "formulas": [
+      {
+        "name": "Mean",
+        "expr": "x̄ = Σx / n"
+      },
+      {
+        "name": "Median (odd n)",
+        "expr": "the ((n + 1)/2)-th value in order"
+      }
+    ],
+    "example": "For 3, 7, 7, 9, 12: mean 7.6, median 7, mode 7.",
+    "aliases": [
+      "mean median mode",
+      "average",
+      "frequency",
+      "bar graph",
+      "histogram"
+    ],
+    "mistakes": [
+      "Finding the median without sorting the data first."
+    ]
+  },
+  {
+    "id": "math-probability-basic",
+    "title": "Probability",
+    "subject": "Mathematics",
+    "classes": [
+      8,
+      9,
+      10
+    ],
+    "summary": "Probability measures how likely an event is, as a number from 0 (impossible) to 1 (certain).",
+    "points": [
+      "For equally likely outcomes, P(event) = favourable outcomes ÷ total outcomes.",
+      "P(not A) = 1 − P(A).",
+      "Probabilities of all possible outcomes add to 1."
+    ],
+    "formulas": [
+      {
+        "name": "Probability",
+        "expr": "P(A) = favourable outcomes / total outcomes"
+      },
+      {
+        "name": "Complement",
+        "expr": "P(A′) = 1 − P(A)"
+      }
+    ],
+    "example": "A fair die: P(even) = 3/6 = 1/2, so P(odd) = 1 − 1/2 = 1/2.",
+    "aliases": [
+      "probability",
+      "chance",
+      "dice",
+      "cards",
+      "complement"
+    ],
+    "mistakes": [
+      "Writing a probability greater than 1."
+    ]
+  },
+  {
+    "id": "sci-measurement",
+    "title": "Measurement and units",
+    "subject": "Science",
+    "classes": [
+      6,
+      7,
+      8
+    ],
+    "summary": "Measurement compares a quantity with a standard unit, and SI units keep measurements consistent.",
+    "points": [
+      "SI base units include metre (length), kilogram (mass), second (time) and kelvin (temperature).",
+      "1 m = 100 cm and 1 kg = 1000 g.",
+      "The least count of an instrument is the smallest value it can measure."
+    ],
+    "example": "A pencil measuring 15 cm is 0.15 m.",
+    "aliases": [
+      "units",
+      "SI units",
+      "measurement",
+      "least count",
+      "significant figures"
+    ],
+    "mistakes": [
+      "Writing a measurement without its unit."
+    ]
+  },
+  {
+    "id": "sci-motion",
+    "title": "Motion, speed and distance",
+    "subject": "Physics",
+    "classes": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "summary": "An object is in motion if its position changes with time relative to a reference point; speed describes how fast that change happens.",
+    "points": [
+      "Distance is the total path length; displacement is the straight-line change in position with direction.",
+      "Speed = distance ÷ time; velocity is speed in a given direction.",
+      "Uniform motion means equal distances in equal times."
+    ],
+    "formulas": [
+      {
+        "name": "Speed",
+        "expr": "v = s / t",
+        "symbols": "m/s"
+      },
+      {
+        "name": "Average speed",
+        "expr": "total distance ÷ total time"
+      }
+    ],
+    "example": "A car covering 150 m in 10 s has an average speed of 15 m/s.",
+    "aliases": [
+      "motion",
+      "speed",
+      "distance",
+      "displacement",
+      "velocity",
+      "uniform motion"
+    ],
+    "mistakes": [
+      "Treating distance and displacement as the same thing."
+    ]
+  },
+  {
+    "id": "sci-force-friction",
+    "title": "Force and friction",
+    "subject": "Physics",
+    "classes": [
+      6,
+      7,
+      8
+    ],
+    "summary": "A force is a push or pull that can change an object's speed, direction or shape, and friction is a force opposing motion between surfaces.",
+    "points": [
+      "Forces are measured in newtons and have both size and direction.",
+      "Friction depends on the surfaces and how hard they press together; it can be reduced with lubricants or wheels.",
+      "Balanced forces do not change motion; unbalanced forces do."
+    ],
+    "example": "A box slides more easily on a smooth floor than on a rough carpet because friction is smaller.",
+    "aliases": [
+      "force",
+      "friction",
+      "push and pull",
+      "newton",
+      "balanced forces",
+      "force and laws of motion"
+    ],
+    "mistakes": [
+      "Thinking a moving object always has a force pushing it along."
+    ]
+  },
+  {
+    "id": "sci-gravitation-pressure",
+    "title": "Gravitation and pressure",
+    "subject": "Physics",
+    "classes": [
+      7,
+      8,
+      9
+    ],
+    "summary": "Gravity pulls objects towards each other, and pressure is force spread over an area.",
+    "points": [
+      "Weight = mass × gravitational acceleration (g ≈ 9.8 m/s² on Earth).",
+      "Pressure = force ÷ area, measured in pascals.",
+      "A smaller area gives greater pressure for the same force, which is why a sharp knife cuts easily."
+    ],
+    "formulas": [
+      {
+        "name": "Weight",
+        "expr": "W = m g",
+        "symbols": "N; g ≈ 9.8 m/s²"
+      },
+      {
+        "name": "Pressure",
+        "expr": "P = F / A",
+        "symbols": "Pa = N/m²"
+      }
+    ],
+    "example": "A 60 kg student weighs about 588 N on Earth.",
+    "aliases": [
+      "gravity",
+      "weight",
+      "mass",
+      "pressure",
+      "pascal",
+      "buoyancy",
+      "force and pressure",
+      "gravitation"
+    ],
+    "mistakes": [
+      "Using mass and weight interchangeably; mass is in kg and weight in newtons."
+    ]
+  },
+  {
+    "id": "sci-work-energy",
+    "title": "Work and energy",
+    "subject": "Physics",
+    "classes": [
+      8,
+      9
+    ],
+    "summary": "Work is done when a force moves an object, and energy is the ability to do work.",
+    "points": [
+      "Work = force × distance moved in the direction of the force, measured in joules.",
+      "Kinetic energy = ½mv² and gravitational potential energy = mgh.",
+      "Energy is conserved: it changes form but is not created or destroyed."
+    ],
+    "formulas": [
+      {
+        "name": "Work",
+        "expr": "W = F s",
+        "symbols": "joules"
+      },
+      {
+        "name": "Kinetic energy",
+        "expr": "KE = ½ m v²"
+      },
+      {
+        "name": "Potential energy",
+        "expr": "PE = m g h"
+      }
+    ],
+    "example": "Lifting a 2 kg bag by 1.5 m does mgh = 2 × 9.8 × 1.5 ≈ 29.4 J of work.",
+    "aliases": [
+      "work",
+      "energy",
+      "kinetic energy",
+      "potential energy",
+      "joule"
+    ],
+    "mistakes": [
+      "Counting work when the force is perpendicular to the motion, as when carrying a bag horizontally."
+    ]
+  },
+  {
+    "id": "sci-heat-temperature",
+    "title": "Heat and temperature",
+    "subject": "Physics",
+    "classes": [
+      7,
+      8
+    ],
+    "summary": "Heat is energy transferred because of a temperature difference; temperature measures how hot or cold something is.",
+    "points": [
+      "Heat flows from a hotter body to a colder one until both reach the same temperature.",
+      "Temperature is measured in °C or kelvin; K = °C + 273.",
+      "Materials conduct heat at different rates; metals are good conductors."
+    ],
+    "example": "A metal spoon in hot tea warms up because metal conducts heat well.",
+    "aliases": [
+      "heat",
+      "temperature",
+      "conduction",
+      "convection",
+      "radiation",
+      "thermometer"
+    ],
+    "mistakes": [
+      "Saying an object contains heat; heat is energy in transfer."
+    ]
+  },
+  {
+    "id": "sci-light-reflection",
+    "title": "Light, reflection and shadows",
+    "subject": "Physics",
+    "classes": [
+      6,
+      7,
+      8
+    ],
+    "summary": "Light travels in straight lines; it reflects from surfaces and is blocked by opaque objects to form shadows.",
+    "points": [
+      "The angle of incidence equals the angle of reflection.",
+      "A plane mirror forms an upright image of the same size, as far behind the mirror as the object is in front.",
+      "Transparent, translucent and opaque materials let different amounts of light through."
+    ],
+    "example": "A shadow is formed because light cannot pass through an opaque object.",
+    "aliases": [
+      "light",
+      "reflection",
+      "shadow",
+      "mirror",
+      "ray",
+      "transparent"
+    ],
+    "mistakes": [
+      "Thinking a shadow has colour and detail; it only shows the outline."
+    ]
+  },
+  {
+    "id": "sci-sound",
+    "title": "Sound",
+    "subject": "Physics",
+    "classes": [
+      7,
+      8,
+      9
+    ],
+    "summary": "Sound is a vibration that travels as a wave through a medium and is heard when it reaches the ear.",
+    "points": [
+      "Sound needs a medium, so it cannot travel through a vacuum.",
+      "Frequency determines pitch and amplitude determines loudness.",
+      "Sound travels faster in solids than in gases."
+    ],
+    "formulas": [
+      {
+        "name": "Wave speed",
+        "expr": "v = f λ",
+        "symbols": "f = frequency (Hz), λ = wavelength (m)"
+      }
+    ],
+    "example": "A sound of frequency 500 Hz with wavelength 0.68 m travels at about 340 m/s.",
+    "aliases": [
+      "sound",
+      "frequency",
+      "pitch",
+      "loudness",
+      "echo",
+      "wave"
+    ],
+    "mistakes": [
+      "Saying sound travels fastest through air; it travels fastest through solids."
+    ]
+  },
+  {
+    "id": "sci-electricity-basic",
+    "title": "Electric current and circuits",
+    "subject": "Physics",
+    "classes": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "summary": "An electric current is a flow of charge through a conductor, driven by a potential difference and controlled by resistance.",
+    "points": [
+      "Current is measured in amperes, potential difference in volts and resistance in ohms.",
+      "Ohm's law: V = IR at constant temperature.",
+      "A series circuit has one path; a parallel circuit has several."
+    ],
+    "formulas": [
+      {
+        "name": "Ohm's law",
+        "expr": "V = I R",
+        "symbols": "V volts, I amperes, R ohms"
+      },
+      {
+        "name": "Electric power",
+        "expr": "P = V I = I²R",
+        "symbols": "watts"
+      }
+    ],
+    "example": "A 6 V battery across 3 Ω gives a current of 2 A.",
+    "aliases": [
+      "electricity",
+      "current",
+      "circuit",
+      "ohm's law",
+      "voltage",
+      "resistance",
+      "electricity class 10"
+    ],
+    "mistakes": [
+      "Adding resistances directly in a parallel circuit instead of using 1/R = 1/R₁ + 1/R₂."
+    ]
+  },
+  {
+    "id": "sci-magnets",
+    "title": "Magnets and magnetism",
+    "subject": "Physics",
+    "classes": [
+      6,
+      7,
+      8
+    ],
+    "summary": "Magnets attract magnetic materials and have north and south poles that repel like poles and attract opposite ones.",
+    "points": [
+      "A freely suspended magnet points north–south.",
+      "Magnetic field lines run from the north pole to the south pole outside the magnet.",
+      "Heating or hammering a magnet can weaken it."
+    ],
+    "example": "Two north poles pushed together repel; a north and a south pole attract.",
+    "aliases": [
+      "magnet",
+      "magnetism",
+      "poles",
+      "magnetic field",
+      "compass",
+      "fun with magnets"
+    ],
+    "mistakes": [
+      "Thinking a magnet attracts all metals; it does not attract copper or aluminium."
+    ]
+  },
+  {
+    "id": "sci-matter-states",
+    "title": "Matter and its states",
+    "subject": "Chemistry",
+    "classes": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "summary": "Matter is anything with mass and volume, and it exists as solid, liquid or gas depending on how its particles are arranged and move.",
+    "points": [
+      "Solids have fixed shape and volume; liquids have fixed volume but take the shape of the container; gases fill the container.",
+      "Particles are always in motion, and heating increases that motion.",
+      "Changing state is a physical change: melting, freezing, evaporation, condensation and sublimation."
+    ],
+    "example": "Ice melts to water and boils to steam, but the substance remains water.",
+    "aliases": [
+      "states of matter",
+      "solid liquid gas",
+      "melting",
+      "evaporation",
+      "condensation",
+      "sublimation",
+      "matter in our surroundings"
+    ],
+    "mistakes": [
+      "Thinking gas particles disappear or stop moving."
+    ]
+  },
+  {
+    "id": "sci-changes",
+    "title": "Physical and chemical changes",
+    "subject": "Chemistry",
+    "classes": [
+      6,
+      7,
+      8
+    ],
+    "summary": "A physical change alters form or state without making a new substance; a chemical change produces a new substance.",
+    "points": [
+      "Chemical changes usually release or absorb energy and are hard to reverse.",
+      "Signs include a new colour, gas, heat or a precipitate.",
+      "Rusting, burning and cooking are chemical changes; melting and dissolving are usually physical."
+    ],
+    "example": "Burning paper makes ash and gases, a chemical change; tearing paper is only physical.",
+    "aliases": [
+      "physical change",
+      "chemical change",
+      "reversible",
+      "rusting",
+      "combustion",
+      "physical and chemical changes",
+      "changes around us"
+    ],
+    "mistakes": [
+      "Calling dissolving sugar a chemical change; it can be recovered by evaporation."
+    ]
+  },
+  {
+    "id": "sci-elements-compounds",
+    "title": "Elements, compounds and mixtures",
+    "subject": "Chemistry",
+    "classes": [
+      7,
+      8,
+      9
+    ],
+    "summary": "An element is one kind of atom, a compound is two or more elements chemically combined, and a mixture contains substances not chemically combined.",
+    "points": [
+      "Compounds have a fixed ratio by mass and properties different from their elements.",
+      "Mixtures can be separated by physical methods.",
+      "Air is a mixture; water is a compound."
+    ],
+    "example": "Water is H₂O, a compound; salt solution is a mixture that can be separated by evaporation.",
+    "aliases": [
+      "element",
+      "compound",
+      "mixture",
+      "pure substance",
+      "atom",
+      "molecule"
+    ],
+    "mistakes": [
+      "Calling air a compound; it is a mixture of gases."
+    ]
+  },
+  {
+    "id": "sci-separation",
+    "title": "Separation techniques",
+    "subject": "Chemistry",
+    "classes": [
+      6,
+      7,
+      8
+    ],
+    "summary": "Mixtures are separated using differences in properties such as particle size, solubility, boiling point or magnetism.",
+    "points": [
+      "Filtration separates an insoluble solid from a liquid.",
+      "Evaporation recovers a dissolved solid; distillation separates liquids by boiling point.",
+      "Handpicking, sieving, threshing and magnetic separation work on visible differences."
+    ],
+    "example": "Sand and water are separated by filtration; salt and water by evaporation.",
+    "aliases": [
+      "filtration",
+      "evaporation",
+      "distillation",
+      "sieving",
+      "separating mixtures",
+      "separation of substances",
+      "is matter around us pure"
+    ],
+    "mistakes": [
+      "Using filtration to separate salt from water, which needs evaporation."
+    ]
+  },
+  {
+    "id": "sci-acids-bases",
+    "title": "Acids, bases and salts",
+    "subject": "Chemistry",
+    "classes": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "summary": "Acids taste sour and turn blue litmus red; bases taste bitter, feel soapy and turn red litmus blue; they neutralise each other to form salt and water.",
+    "points": [
+      "The pH scale runs from 0 (strongly acidic) through 7 (neutral) to 14 (strongly basic).",
+      "Acid + base → salt + water is a neutralisation reaction.",
+      "Indicators such as litmus, methyl orange and phenolphthalein show acidity."
+    ],
+    "formulas": [
+      {
+        "name": "Neutralisation",
+        "expr": "HCl + NaOH → NaCl + H₂O"
+      }
+    ],
+    "example": "Acid indigestion is treated with an antacid base such as magnesium hydroxide.",
+    "aliases": [
+      "acid",
+      "base",
+      "alkali",
+      "salt",
+      "ph scale",
+      "neutralisation",
+      "litmus"
+    ],
+    "mistakes": [
+      "Thinking a pH of 8 is acidic; above 7 is basic."
+    ]
+  },
+  {
+    "id": "sci-metals-nonmetals",
+    "title": "Metals and non-metals",
+    "subject": "Chemistry",
+    "classes": [
+      8,
+      9,
+      10
+    ],
+    "summary": "Metals are usually shiny, malleable, ductile and good conductors; non-metals are usually dull, brittle and poor conductors.",
+    "points": [
+      "Metals lose electrons to form positive ions; non-metals gain or share electrons.",
+      "The reactivity series orders metals by how readily they react.",
+      "Displacement occurs when a more reactive metal pushes a less reactive one out of its salt."
+    ],
+    "example": "Zinc displaces copper from copper sulphate solution: Zn + CuSO₄ → ZnSO₄ + Cu.",
+    "aliases": [
+      "metals",
+      "non-metals",
+      "reactivity series",
+      "displacement",
+      "alloy",
+      "materials metals and non metals"
+    ],
+    "mistakes": [
+      "Assuming all metals react with water; gold and silver do not."
+    ]
+  },
+  {
+    "id": "sci-atoms-molecules",
+    "title": "Atoms and molecules",
+    "subject": "Chemistry",
+    "classes": [
+      8,
+      9
+    ],
+    "summary": "An atom is the smallest particle of an element that keeps its properties; a molecule is two or more atoms bonded together.",
+    "points": [
+      "Protons and neutrons sit in the nucleus; electrons move around it.",
+      "Atomic number = number of protons; mass number = protons + neutrons.",
+      "A chemical formula shows the atoms in a compound, such as H₂O or CO₂."
+    ],
+    "example": "A water molecule has two hydrogen atoms and one oxygen atom.",
+    "aliases": [
+      "atom",
+      "molecule",
+      "atomic number",
+      "mass number",
+      "chemical formula"
+    ],
+    "mistakes": [
+      "Confusing atomic number with mass number."
+    ]
+  },
+  {
+    "id": "sci-combustion",
+    "title": "Combustion and fuels",
+    "subject": "Chemistry",
+    "classes": [
+      8,
+      9,
+      10
+    ],
+    "summary": "Combustion is a chemical reaction with oxygen that releases heat and light, usually producing carbon dioxide and water.",
+    "points": [
+      "A fuel needs oxygen and a temperature above its ignition temperature to burn.",
+      "Complete combustion gives carbon dioxide and water; incomplete combustion gives carbon monoxide and soot.",
+      "Water and carbon dioxide extinguishers cut off oxygen."
+    ],
+    "example": "Burning methane: CH₄ + 2O₂ → CO₂ + 2H₂O.",
+    "aliases": [
+      "combustion",
+      "burning",
+      "fuel",
+      "ignition temperature",
+      "carbon monoxide",
+      "combustion and flame"
+    ],
+    "mistakes": [
+      "Treating carbon monoxide as harmless; it binds haemoglobin and is dangerous."
+    ]
+  },
+  {
+    "id": "sci-cell",
+    "title": "The cell",
+    "subject": "Biology",
+    "classes": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "summary": "The cell is the basic unit of life, and its organelles carry out the functions that keep an organism alive.",
+    "points": [
+      "The cell membrane controls what enters and leaves; the nucleus contains genetic material.",
+      "Mitochondria release energy; chloroplasts in plant cells carry out photosynthesis.",
+      "Plant cells have a cell wall and a large vacuole, which animal cells do not have."
+    ],
+    "example": "A leaf cell has chloroplasts and a cell wall; a cheek cell does not.",
+    "aliases": [
+      "cell",
+      "cell organelles",
+      "nucleus",
+      "mitochondria",
+      "chloroplast",
+      "cell wall",
+      "cell membrane",
+      "the fundamental unit of life",
+      "cell structure and functions"
+    ],
+    "mistakes": [
+      "Thinking animal cells have a cell wall."
+    ]
+  },
+  {
+    "id": "sci-tissues",
+    "title": "Tissues",
+    "subject": "Biology",
+    "classes": [
+      7,
+      8,
+      9
+    ],
+    "summary": "A tissue is a group of similar cells working together for a particular function.",
+    "points": [
+      "Plant tissues include meristematic tissue for growth, and xylem and phloem for transport.",
+      "Animal tissues include epithelial, connective, muscular and nervous tissue.",
+      "Organs are made of several tissues working together."
+    ],
+    "example": "Xylem carries water upward, and phloem carries food made in leaves to the rest of the plant.",
+    "aliases": [
+      "tissue",
+      "xylem",
+      "phloem",
+      "epithelial",
+      "muscle tissue",
+      "meristem",
+      "tissues"
+    ],
+    "mistakes": [
+      "Mixing up xylem (water) and phloem (food)."
+    ]
+  },
+  {
+    "id": "sci-photosynthesis",
+    "title": "Photosynthesis",
+    "subject": "Biology",
+    "classes": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "summary": "Photosynthesis is how green plants use sunlight, water and carbon dioxide to make glucose and release oxygen, with chlorophyll capturing the light.",
+    "points": [
+      "It happens mainly in the chloroplasts of leaf cells.",
+      "Carbon dioxide enters through stomata and water arrives through the roots.",
+      "Glucose is used for energy or stored as starch; oxygen is released."
+    ],
+    "formulas": [
+      {
+        "name": "Photosynthesis",
+        "expr": "6CO₂ + 6H₂O → C₆H₁₂O₆ + 6O₂",
+        "symbols": "needs light and chlorophyll"
+      }
+    ],
+    "example": "A leaf kept in sunlight produces starch, which turns blue-black with iodine.",
+    "aliases": [
+      "photosynthesis",
+      "chlorophyll",
+      "stomata",
+      "how plants make food",
+      "nutrition in plants"
+    ],
+    "mistakes": [
+      "Saying plants get their food from the soil; they make it, and take only water and minerals from soil."
+    ]
+  },
+  {
+    "id": "sci-respiration",
+    "title": "Respiration",
+    "subject": "Biology",
+    "classes": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "summary": "Respiration releases energy from glucose inside cells, using oxygen in aerobic respiration and without it in anaerobic respiration.",
+    "points": [
+      "Aerobic respiration: glucose + oxygen → carbon dioxide + water + energy.",
+      "Anaerobic respiration in muscles produces lactic acid; in yeast it produces alcohol and carbon dioxide.",
+      "Respiration is not the same as breathing; breathing brings air in and out."
+    ],
+    "formulas": [
+      {
+        "name": "Aerobic respiration",
+        "expr": "C₆H₁₂O₆ + 6O₂ → 6CO₂ + 6H₂O + energy"
+      },
+      {
+        "name": "Anaerobic in yeast",
+        "expr": "C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂ + energy"
+      }
+    ],
+    "example": "Yeast in dough respires anaerobically and the carbon dioxide makes bread rise.",
+    "aliases": [
+      "respiration",
+      "aerobic",
+      "anaerobic",
+      "breathing",
+      "lactic acid",
+      "fermentation"
+    ],
+    "mistakes": [
+      "Using respiration and breathing as synonyms."
+    ]
+  },
+  {
+    "id": "sci-digestion",
+    "title": "Digestion and absorption",
+    "subject": "Biology",
+    "classes": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "summary": "Digestion breaks food into small soluble molecules that can be absorbed into the blood.",
+    "points": [
+      "Digestion begins in the mouth with teeth and saliva.",
+      "The stomach adds acid and enzymes; the small intestine completes digestion and absorbs nutrients.",
+      "The large intestine absorbs water and forms waste."
+    ],
+    "example": "Starch is broken down by salivary amylase into sugars, starting in the mouth.",
+    "aliases": [
+      "digestion",
+      "digestive system",
+      "small intestine",
+      "stomach",
+      "enzymes",
+      "absorption",
+      "nutrition in animals"
+    ],
+    "mistakes": [
+      "Thinking most absorption happens in the stomach; it happens mainly in the small intestine."
+    ]
+  },
+  {
+    "id": "sci-circulation",
+    "title": "Circulation and excretion",
+    "subject": "Biology",
+    "classes": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "summary": "The heart pumps blood through vessels to carry oxygen and nutrients, and the kidneys filter waste from the blood.",
+    "points": [
+      "Arteries carry blood away from the heart; veins carry it back; capillaries connect them.",
+      "The human heart has four chambers and a double circulation.",
+      "The kidneys filter blood and produce urine."
+    ],
+    "example": "Blood in the pulmonary artery is deoxygenated, even though it is an artery.",
+    "aliases": [
+      "circulation",
+      "heart",
+      "blood vessels",
+      "excretion",
+      "kidney",
+      "nephron"
+    ],
+    "mistakes": [
+      "Believing all arteries carry oxygenated blood; the pulmonary artery does not."
+    ]
+  },
+  {
+    "id": "sci-reproduction-basic",
+    "title": "Reproduction in plants and animals",
+    "subject": "Biology",
+    "classes": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "summary": "Reproduction produces new individuals, either asexually from one parent or sexually by the fusion of male and female gametes.",
+    "points": [
+      "Asexual reproduction includes budding, fragmentation and vegetative propagation.",
+      "Flowers contain male stamens and female pistils; pollination transfers pollen.",
+      "Fertilisation joins gametes to form a zygote."
+    ],
+    "example": "A potato tuber grows into a new plant, which is vegetative propagation.",
+    "aliases": [
+      "reproduction",
+      "pollination",
+      "fertilisation",
+      "asexual",
+      "sexual reproduction",
+      "zygote",
+      "reproduction in plants",
+      "reproduction in animals",
+      "how do organisms reproduce",
+      "reproduction in organisms"
+    ],
+    "mistakes": [
+      "Confusing pollination with fertilisation; pollination comes first."
+    ]
+  },
+  {
+    "id": "sci-microorganisms",
+    "title": "Microorganisms",
+    "subject": "Biology",
+    "classes": [
+      8,
+      9,
+      10
+    ],
+    "summary": "Microorganisms are living things too small to see without a microscope, including bacteria, fungi, protozoa and viruses.",
+    "points": [
+      "Some cause disease, while others are useful in food, medicine and decomposition.",
+      "Antibiotics kill bacteria but not viruses.",
+      "Handwashing, cooking and refrigeration reduce harmful microbes."
+    ],
+    "example": "Yeast makes bread rise, and Lactobacillus turns milk into curd.",
+    "aliases": [
+      "microorganisms",
+      "bacteria",
+      "virus",
+      "fungi",
+      "protozoa",
+      "antibiotics"
+    ],
+    "mistakes": [
+      "Taking antibiotics for a viral cold, which does not help."
+    ]
+  },
+  {
+    "id": "sci-ecosystem",
+    "title": "Ecosystems",
+    "subject": "Biology",
+    "classes": [
+      7,
+      8,
+      9,
+      10
+    ],
+    "summary": "An ecosystem is a community of living things interacting with each other and with their non-living surroundings.",
+    "points": [
+      "Producers make food, consumers eat it and decomposers break down dead matter.",
+      "Energy flows through food chains and is lost as heat at each step.",
+      "Biodiversity keeps ecosystems stable and resilient."
+    ],
+    "example": "In a pond ecosystem, algae are producers, small fish eat them and herons eat the fish.",
+    "aliases": [
+      "ecosystem",
+      "food web",
+      "decomposer",
+      "biodiversity",
+      "habitat",
+      "biome"
+    ],
+    "mistakes": [
+      "Thinking energy cycles; nutrients cycle, but energy flows and is lost."
+    ]
+  },
+  {
+    "id": "sci-adaptation",
+    "title": "Adaptation",
+    "subject": "Biology",
+    "classes": [
+      7,
+      8
+    ],
+    "summary": "An adaptation is a feature or behaviour that helps an organism survive in its habitat.",
+    "points": [
+      "Desert plants reduce water loss with thick waxy leaves or spines.",
+      "Polar animals have thick fur and a layer of fat.",
+      "Adaptations develop over many generations through natural selection."
+    ],
+    "example": "A cactus stores water in its stem and has spines instead of leaves.",
+    "aliases": [
+      "adaptation",
+      "camouflage",
+      "natural selection",
+      "survival",
+      "habitat"
+    ],
+    "mistakes": [
+      "Saying an animal chooses to adapt; populations change over generations."
+    ]
+  },
+  {
+    "id": "hist-indus-valley",
+    "title": "Indus Valley Civilisation",
+    "subject": "History",
+    "classes": [
+      6,
+      7,
+      8
+    ],
+    "summary": "The Indus Valley (Harappan) Civilisation was an urban civilisation of about 2600–1900 BCE in the north-west of the subcontinent, known for planned cities and drainage.",
+    "points": [
+      "Major sites include Harappa, Mohenjo-daro, Lothal and Dholavira.",
+      "Houses were built with baked bricks, and streets followed a grid plan.",
+      "Its script has not been deciphered, so much of its history comes from archaeology."
+    ],
+    "example": "Mohenjo-daro had covered drains and a Great Bath, showing advanced town planning.",
+    "aliases": [
+      "harappan civilisation",
+      "indus valley",
+      "mohenjo daro",
+      "harappa",
+      "lothal"
+    ],
+    "mistakes": [
+      "Claiming the Harappan script has been read; it has not."
+    ]
+  },
+  {
+    "id": "hist-vedic-period",
+    "title": "Vedic period",
+    "subject": "History",
+    "classes": [
+      6,
+      7,
+      8,
+      11
+    ],
+    "summary": "The Vedic period (roughly 1500–500 BCE) is named after the Vedas and saw the growth of early settlements, pastoral life and later kingdoms in northern India.",
+    "points": [
+      "The Rigveda is the oldest Veda and contains hymns.",
+      "Early Vedic society was largely pastoral; later Vedic society saw agriculture and towns grow.",
+      "The varna system became more rigid in the later Vedic period."
+    ],
+    "example": "The Gayatri Mantra comes from the Rigveda.",
+    "aliases": [
+      "vedic age",
+      "rigveda",
+      "vedas",
+      "early vedic",
+      "later vedic"
+    ],
+    "mistakes": [
+      "Treating the Vedic period as a single unchanging society; it changed over centuries."
+    ]
+  },
+  {
+    "id": "hist-mauryan",
+    "title": "Mauryan Empire",
+    "subject": "History",
+    "classes": [
+      6,
+      8,
+      11
+    ],
+    "summary": "The Mauryan Empire (c. 321–185 BCE) was the first large empire in India, founded by Chandragupta Maurya and expanded by Ashoka.",
+    "points": [
+      "Chanakya (Kautilya) wrote the Arthashastra on statecraft and economy.",
+      "Ashoka's edicts spread messages of dhamma after the Kalinga war.",
+      "The empire had a strong administration with provinces and officials."
+    ],
+    "example": "Ashoka's pillars and rock edicts are important sources for Mauryan history.",
+    "aliases": [
+      "maurya",
+      "ashoka",
+      "chandragupta maurya",
+      "arthashastra",
+      "kalinga war"
+    ],
+    "mistakes": [
+      "Thinking Ashoka founded the empire; Chandragupta did."
+    ]
+  },
+  {
+    "id": "hist-gupta",
+    "title": "Gupta Empire",
+    "subject": "History",
+    "classes": [
+      6,
+      8,
+      11
+    ],
+    "summary": "The Gupta Empire (c. 320–550 CE) is remembered for political unity, literature, science and art, and is often called a golden age of classical India.",
+    "points": [
+      "Chandragupta I, Samudragupta and Chandragupta II were major rulers.",
+      "Aryabhata worked on astronomy and mathematics, including the place-value system.",
+      "Temples, sculpture and Sanskrit literature flourished."
+    ],
+    "example": "Kalidasa wrote plays and poetry such as Abhijnanashakuntalam during this period.",
+    "aliases": [
+      "gupta age",
+      "golden age",
+      "samudragupta",
+      "aryabhata",
+      "kalidasa"
+    ],
+    "mistakes": [
+      "Assuming the 'golden age' was equally golden for everyone; it refers mainly to elite culture."
+    ]
+  },
+  {
+    "id": "hist-delhi-sultanate",
+    "title": "Delhi Sultanate",
+    "subject": "History",
+    "classes": [
+      7,
+      8,
+      11
+    ],
+    "summary": "The Delhi Sultanate (1206–1526) was a series of five dynasties that ruled much of northern India from Delhi.",
+    "points": [
+      "The five dynasties were the Slave, Khalji, Tughlaq, Sayyid and Lodi dynasties.",
+      "Alauddin Khalji and Muhammad bin Tughlaq carried out major administrative and military changes.",
+      "The Sultanate saw new architecture, Persian culture and market reforms."
+    ],
+    "example": "Alauddin Khalji fixed prices of goods in the market and reformed the army.",
+    "aliases": [
+      "sultanate",
+      "slave dynasty",
+      "khalji",
+      "tughlaq",
+      "lodi",
+      "aladdin khilji"
+    ],
+    "mistakes": [
+      "Confusing the Delhi Sultanate with the Mughal Empire, which came later."
+    ]
+  },
+  {
+    "id": "hist-mughal",
+    "title": "Mughal Empire",
+    "subject": "History",
+    "classes": [
+      7,
+      8,
+      11
+    ],
+    "summary": "The Mughal Empire (1526–1857) was founded by Babur after the First Battle of Panipat and became one of the largest empires in Indian history.",
+    "points": [
+      "Akbar expanded the empire and promoted sulh-i kul, a policy of tolerance.",
+      "Shah Jahan built the Taj Mahal and the Red Fort.",
+      "Aurangzeb's reign and later conflicts weakened the empire."
+    ],
+    "example": "The First Battle of Panipat in 1526 established Mughal rule in northern India.",
+    "aliases": [
+      "mughals",
+      "babur",
+      "akbar",
+      "shah jahan",
+      "aurangzeb",
+      "taj mahal"
+    ],
+    "mistakes": [
+      "Thinking the Taj Mahal was built by Akbar; Shah Jahan built it."
+    ]
+  },
+  {
+    "id": "hist-freedom-movement",
+    "title": "Indian freedom movement",
+    "subject": "History",
+    "classes": [
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "summary": "The Indian freedom movement grew from early reform and revolt into a mass struggle for independence, led by the Indian National Congress and many others.",
+    "points": [
+      "The Revolt of 1857 was a major uprising against Company rule.",
+      "Gandhi's Non-Cooperation (1920), Civil Disobedience (1930) and Quit India (1942) movements mobilised millions.",
+      "India became independent on 15 August 1947, with Partition creating Pakistan."
+    ],
+    "example": "The Dandi March of 1930 began the Civil Disobedience Movement against the salt tax.",
+    "aliases": [
+      "independence movement",
+      "revolt of 1857",
+      "quit india",
+      "civil disobedience",
+      "non cooperation",
+      "dandi march"
+    ],
+    "mistakes": [
+      "Treating the movement as the work of a single leader; it involved many groups and people."
+    ]
+  },
+  {
+    "id": "geo-earth-structure",
+    "title": "Earth and its structure",
+    "subject": "Geography",
+    "classes": [
+      6,
+      7,
+      8
+    ],
+    "summary": "Earth is the third planet from the Sun and has three main layers: the crust, mantle and core.",
+    "points": [
+      "The crust is the thin outer layer; the mantle lies beneath it; the core is at the centre.",
+      "Earth's rotation causes day and night, and its revolution around the Sun causes seasons.",
+      "About 71% of Earth's surface is water."
+    ],
+    "example": "The Earth completes one rotation in about 24 hours and one revolution in about 365¼ days.",
+    "aliases": [
+      "earth",
+      "crust",
+      "mantle",
+      "core",
+      "rotation",
+      "revolution",
+      "seasons"
+    ],
+    "mistakes": [
+      "Saying seasons are caused by distance from the Sun; they are caused by Earth's tilted axis."
+    ]
+  },
+  {
+    "id": "geo-latitudes-longitudes",
+    "title": "Latitudes and longitudes",
+    "subject": "Geography",
+    "classes": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "summary": "Latitudes are imaginary horizontal lines measured north and south of the equator, and longitudes are vertical lines measured east and west of the prime meridian.",
+    "points": [
+      "The equator is 0° latitude; the Tropic of Cancer is 23.5° N.",
+      "Longitudes are used for time zones; 15° of longitude corresponds to one hour.",
+      "The prime meridian passes through Greenwich."
+    ],
+    "example": "India's standard time is based on 82.5° E, which is 5 hours 30 minutes ahead of GMT.",
+    "aliases": [
+      "latitude",
+      "longitude",
+      "equator",
+      "prime meridian",
+      "time zone",
+      "tropic of cancer"
+    ],
+    "mistakes": [
+      "Confusing latitude lines (horizontal) with longitude lines (vertical)."
+    ]
+  },
+  {
+    "id": "geo-landforms",
+    "title": "Landforms",
+    "subject": "Geography",
+    "classes": [
+      6,
+      7,
+      8
+    ],
+    "summary": "Landforms are natural shapes of the land, such as mountains, plateaus, plains, valleys and deserts, shaped by internal and external forces.",
+    "points": [
+      "Mountains are high land with steep slopes; plateaus are elevated flat areas; plains are low and flat.",
+      "Rivers, glaciers, wind and waves erode and deposit material.",
+      "Fold mountains form where tectonic plates collide."
+    ],
+    "example": "The Himalayas are fold mountains formed by the collision of the Indian and Eurasian plates.",
+    "aliases": [
+      "mountains",
+      "plateau",
+      "plains",
+      "landform",
+      "erosion",
+      "himalayas"
+    ],
+    "mistakes": [
+      "Thinking landforms are permanent; they change over long periods."
+    ]
+  },
+  {
+    "id": "geo-rivers",
+    "title": "Rivers and drainage",
+    "subject": "Geography",
+    "classes": [
+      7,
+      8,
+      9
+    ],
+    "summary": "A river is a natural flow of water from higher to lower ground, and a drainage basin is the area it collects water from.",
+    "points": [
+      "The three stages of a river are upper, middle and lower course.",
+      "Himalayan rivers are perennial; peninsular rivers are seasonal.",
+      "Rivers build deltas, floodplains and meanders."
+    ],
+    "example": "The Ganga and Brahmaputra form the Sundarbans delta, the largest delta in the world.",
+    "aliases": [
+      "river",
+      "drainage basin",
+      "delta",
+      "ganga",
+      "brahmaputra",
+      "tributary"
+    ],
+    "mistakes": [
+      "Calling every river mouth a delta; some form estuaries instead."
+    ]
+  },
+  {
+    "id": "geo-climate-monsoon",
+    "title": "Climate and the monsoon",
+    "subject": "Geography",
+    "classes": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "summary": "Climate is the long-term pattern of weather, and the Indian monsoon is a seasonal reversal of winds that brings most of India's rainfall.",
+    "points": [
+      "The monsoon arrives from the south-west in June and retreats from September.",
+      "Differences in heating of land and sea, and the Himalayas, shape the monsoon.",
+      "India has tropical, arid, coastal and mountain climate regions."
+    ],
+    "example": "Mawsynram in Meghalaya receives some of the highest rainfall in the world because of the monsoon and the hills.",
+    "aliases": [
+      "monsoon",
+      "climate",
+      "rainfall",
+      "southwest monsoon",
+      "weather",
+      "seasons"
+    ],
+    "mistakes": [
+      "Treating weather and climate as identical; one is day to day, the other long term."
+    ]
+  },
+  {
+    "id": "geo-natural-vegetation",
+    "title": "Natural vegetation and wildlife",
+    "subject": "Geography",
+    "classes": [
+      7,
+      8,
+      9
+    ],
+    "summary": "Natural vegetation is the plant cover that grows without human planting, and it depends on climate and soil.",
+    "points": [
+      "Tropical rainforests grow in hot, wet regions; deciduous forests shed leaves in dry seasons.",
+      "Grasslands, thorn forests, mangroves and alpine vegetation each suit different conditions.",
+      "Wildlife is adapted to each habitat and protected in national parks and sanctuaries."
+    ],
+    "example": "Sundari trees grow in the Sundarbans mangroves, which are adapted to salty water.",
+    "aliases": [
+      "vegetation",
+      "forests",
+      "wildlife",
+      "mangroves",
+      "national park",
+      "biodiversity"
+    ],
+    "mistakes": [
+      "Thinking forests are the same everywhere; they vary with rainfall and temperature."
+    ]
+  },
+  {
+    "id": "geo-resources",
+    "title": "Resources and their types",
+    "subject": "Geography",
+    "classes": [
+      8,
+      9,
+      10
+    ],
+    "summary": "Resources are things from the environment that people use, and they can be natural or human-made, renewable or non-renewable.",
+    "points": [
+      "Renewable resources such as sunlight and wind are naturally replenished.",
+      "Non-renewable resources such as coal and petroleum are limited.",
+      "Sustainable use keeps resources available for future generations."
+    ],
+    "example": "Solar energy is renewable; coal is non-renewable.",
+    "aliases": [
+      "resources",
+      "renewable",
+      "non renewable",
+      "natural resources",
+      "sustainable"
+    ],
+    "mistakes": [
+      "Calling groundwater unlimited; it can be over-extracted."
+    ]
+  },
+  {
+    "id": "geo-agriculture",
+    "title": "Agriculture",
+    "subject": "Geography",
+    "classes": [
+      8,
+      9,
+      10
+    ],
+    "summary": "Agriculture is the cultivation of crops and rearing of animals, and its types depend on land, water, climate and technology.",
+    "points": [
+      "Subsistence farming feeds the farmer's family; commercial farming sells produce.",
+      "Kharif crops are sown with the monsoon and rabi crops in winter.",
+      "Irrigation, fertilisers and mechanisation raise yields but can harm the environment."
+    ],
+    "example": "Rice is a kharif crop, while wheat is mainly a rabi crop in India.",
+    "aliases": [
+      "farming",
+      "crops",
+      "kharif",
+      "rabi",
+      "irrigation",
+      "agriculture"
+    ],
+    "mistakes": [
+      "Mixing up kharif (monsoon) and rabi (winter) seasons."
+    ]
+  },
+  {
+    "id": "geo-population",
+    "title": "Population",
+    "subject": "Geography",
+    "classes": [
+      8,
+      9,
+      10
+    ],
+    "summary": "Population geography studies how many people live where, how they are distributed and how numbers change.",
+    "points": [
+      "Population density = population ÷ area.",
+      "Birth rate, death rate and migration change population.",
+      "A population pyramid shows the age and sex structure."
+    ],
+    "formulas": [
+      {
+        "name": "Population density",
+        "expr": "density = population / area",
+        "symbols": "people per km²"
+      }
+    ],
+    "example": "A region with 500,000 people in 1,000 km² has a density of 500 people per km².",
+    "aliases": [
+      "population density",
+      "birth rate",
+      "migration",
+      "census",
+      "population pyramid"
+    ],
+    "mistakes": [
+      "Confusing population growth with population density."
+    ]
+  },
+  {
+    "id": "civics-democracy",
+    "title": "Democracy",
+    "subject": "Civics",
+    "classes": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "summary": "Democracy is a system where people choose their rulers and hold them accountable through free and fair elections.",
+    "points": [
+      "Key features include universal adult franchise, rule of law and respect for rights.",
+      "Elections must be free, fair and held regularly.",
+      "Democracy also needs an informed public and protection of minorities."
+    ],
+    "example": "In India, every citizen aged 18 or above can vote regardless of caste, religion or gender.",
+    "aliases": [
+      "democracy",
+      "elections",
+      "voting",
+      "rule of law",
+      "majority rule",
+      "what is democracy why democracy"
+    ],
+    "mistakes": [
+      "Equating democracy with majority rule alone; rights and accountability also matter."
+    ]
+  },
+  {
+    "id": "civics-constitution",
+    "title": "The Indian Constitution",
+    "subject": "Civics",
+    "classes": [
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "summary": "The Constitution is the supreme law of India, adopted on 26 November 1949 and in force from 26 January 1950.",
+    "points": [
+      "It lays down the structure of government, the powers of each branch and citizens' rights.",
+      "Dr B. R. Ambedkar chaired the Drafting Committee of the Constituent Assembly.",
+      "It is a living document that can be amended."
+    ],
+    "example": "The Preamble declares India a sovereign, socialist, secular, democratic republic.",
+    "aliases": [
+      "constitution",
+      "constituent assembly",
+      "ambedkar",
+      "preamble",
+      "fundamental rights",
+      "constitutional design"
+    ],
+    "mistakes": [
+      "Saying the Constitution came into force in 1949; it was adopted then and enforced in 1950."
+    ]
+  },
+  {
+    "id": "civics-rights-duties",
+    "title": "Fundamental rights and duties",
+    "subject": "Civics",
+    "classes": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "summary": "Fundamental rights protect citizens against the state, and fundamental duties are responsibilities the Constitution expects of citizens.",
+    "points": [
+      "Rights include equality, freedom, protection from exploitation, religion, culture and education, and constitutional remedies.",
+      "Article 32 allows a person to approach the Supreme Court for enforcement of rights.",
+      "Fundamental duties were added by the 42nd Amendment in 1976."
+    ],
+    "example": "The right to education (Article 21A) makes free education a right for children aged 6–14.",
+    "aliases": [
+      "fundamental rights",
+      "fundamental duties",
+      "article 21",
+      "right to equality",
+      "writs"
+    ],
+    "mistakes": [
+      "Thinking fundamental rights are absolute; reasonable restrictions apply."
+    ]
+  },
+  {
+    "id": "civics-local-government",
+    "title": "Local government and Panchayati Raj",
+    "subject": "Civics",
+    "classes": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "summary": "Local government handles local matters through panchayats in villages and municipal bodies in towns.",
+    "points": [
+      "The 73rd Amendment (1992) gave constitutional status to Panchayati Raj.",
+      "A gram panchayat is elected by the village and works with the gram sabha.",
+      "One-third of seats are reserved for women in local bodies."
+    ],
+    "example": "A gram panchayat can maintain village roads, water supply and street lighting.",
+    "aliases": [
+      "panchayati raj",
+      "gram panchayat",
+      "municipality",
+      "local government",
+      "gram sabha"
+    ],
+    "mistakes": [
+      "Thinking panchayats are appointed; they are elected."
+    ]
+  },
+  {
+    "id": "civics-parliament",
+    "title": "Parliament and the judiciary",
+    "subject": "Civics",
+    "classes": [
+      8,
+      9,
+      10,
+      11
+    ],
+    "summary": "Parliament makes laws for the country, and the judiciary interprets the Constitution and settles disputes.",
+    "points": [
+      "Parliament has the President, the Lok Sabha and the Rajya Sabha.",
+      "The Supreme Court is the highest court, and judicial review lets it strike down unconstitutional laws.",
+      "The judiciary is independent of the legislature and executive."
+    ],
+    "example": "A bill becomes an Act after both Houses pass it and the President assents.",
+    "aliases": [
+      "parliament",
+      "lok sabha",
+      "rajya sabha",
+      "judiciary",
+      "supreme court",
+      "judicial review"
+    ],
+    "mistakes": [
+      "Saying the President makes laws alone; Parliament legislates."
+    ]
+  },
+  {
+    "id": "civics-diversity-equality",
+    "title": "Diversity and equality",
+    "subject": "Civics",
+    "classes": [
+      6,
+      7,
+      8
+    ],
+    "summary": "India is diverse in language, religion, culture and region, and equality means every person has the same rights and dignity.",
+    "points": [
+      "Diversity is protected by the right to freedom of religion and culture.",
+      "The Constitution forbids discrimination on grounds such as religion, race, caste, sex or place of birth.",
+      "Prejudice and stereotypes create inequality and must be challenged."
+    ],
+    "example": "Article 15 prohibits discrimination in public places and employment.",
+    "aliases": [
+      "diversity",
+      "equality",
+      "discrimination",
+      "prejudice",
+      "untouchability"
+    ],
+    "mistakes": [
+      "Thinking equality means treating everyone identically regardless of need; it can require support for disadvantaged groups."
+    ]
+  },
+  {
+    "id": "cs-fundamentals",
+    "title": "Computer fundamentals",
+    "subject": "Computer Science",
+    "classes": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "summary": "A computer takes input, processes it with a CPU, stores results and gives output, following instructions called programs.",
+    "points": [
+      "Hardware is the physical parts; software is the set of instructions.",
+      "Main memory (RAM) is temporary; storage such as a hard disk keeps data permanently.",
+      "Input devices include keyboards and cameras; output devices include screens and printers."
+    ],
+    "example": "Typing a letter uses the keyboard (input), RAM and CPU (processing), and the screen (output).",
+    "aliases": [
+      "computer",
+      "hardware",
+      "software",
+      "cpu",
+      "ram",
+      "input output",
+      "computer parts"
+    ],
+    "mistakes": [
+      "Confusing memory with storage; RAM loses its contents when power is off."
+    ]
+  },
+  {
+    "id": "cs-internet-safety",
+    "title": "Internet basics and online safety",
+    "subject": "Computer Science",
+    "classes": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "summary": "The internet is a network of networks that lets computers share information, and staying safe online means protecting accounts, data and privacy.",
+    "points": [
+      "The web is one service on the internet; browsers request pages using HTTP or HTTPS.",
+      "Use strong, different passwords and enable two-factor authentication.",
+      "Phishing messages pretend to be trusted senders to steal information."
+    ],
+    "example": "A bank will not ask for your password by email; such a message is likely phishing.",
+    "aliases": [
+      "internet",
+      "online safety",
+      "phishing",
+      "password",
+      "https",
+      "cyber security",
+      "browser"
+    ],
+    "mistakes": [
+      "Reusing one password everywhere, so one leak exposes every account."
+    ]
+  },
+  {
+    "id": "cs-algorithms",
+    "title": "Algorithms and flowcharts",
+    "subject": "Computer Science",
+    "classes": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "summary": "An algorithm is a finite sequence of clear steps that solves a problem, and a flowchart draws those steps with standard symbols.",
+    "points": [
+      "An algorithm must be finite, unambiguous and produce a result.",
+      "Flowchart symbols: oval for start/end, parallelogram for input/output, rectangle for process, diamond for decision.",
+      "Pseudocode writes an algorithm in plain structured language."
+    ],
+    "example": "To find the larger of two numbers: read A and B; if A > B, print A; otherwise print B.",
+    "aliases": [
+      "algorithm",
+      "flowchart",
+      "pseudocode",
+      "steps",
+      "decision box"
+    ],
+    "mistakes": [
+      "Writing steps that never end, so the algorithm is not finite."
+    ]
+  },
+  {
+    "id": "cs-programming-basics",
+    "title": "Programming basics",
+    "subject": "Computer Science",
+    "classes": [
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "summary": "Programming means writing precise instructions for a computer using variables, conditions, loops and functions.",
+    "points": [
+      "A variable stores a value under a name; data types decide what kind of value it holds.",
+      "Conditionals choose between paths, and loops repeat work.",
+      "A function groups reusable steps and can take inputs and return a result."
+    ],
+    "example": "```python\ntotal = 0\nfor n in range(1, 6):\n    total += n\nprint(total)  # 15\n```",
+    "aliases": [
+      "programming",
+      "code",
+      "variables",
+      "loops",
+      "functions",
+      "python",
+      "conditions"
+    ],
+    "mistakes": [
+      "Using a variable before giving it a value.",
+      "Writing a loop that never changes its condition, so it never ends."
+    ]
+  }
+]

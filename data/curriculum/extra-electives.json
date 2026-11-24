@@ -1,0 +1,1051 @@
+[
+  {
+    "id": "pe-changing-trends",
+    "title": "Changing trends and career in physical education",
+    "subject": "Physical Education",
+    "classes": [
+      11
+    ],
+    "summary": "Physical education uses movement and sport to develop the whole person, and it now offers a wide range of careers.",
+    "points": [
+      "The scope covers health, fitness, recreation, rehabilitation and competitive sport.",
+      "Careers include teaching, coaching, sports journalism, sports medicine, physiotherapy, sports management and fitness training.",
+      "Ancient and modern traditions both shaped physical education, from yoga and akharas to Olympic sport.",
+      "Competitions are organised at school, district, state, national and international levels."
+    ],
+    "example": "A student who enjoys sport can train as a coach, a physiotherapist or a sports manager without becoming a professional athlete.",
+    "mistakes": [
+      "Treating physical education as only games — it also covers health, first aid, yoga and recreation.",
+      "Assuming it is not an academic subject — it has a full board syllabus and theory paper."
+    ],
+    "aliases": [
+      "changing trends and career in physical education",
+      "physical education class 11 chapter 1",
+      "career in physical education",
+      "scope of physical education"
+    ]
+  },
+  {
+    "id": "pe-olympism",
+    "title": "Olympism and the Olympic movement",
+    "subject": "Physical Education",
+    "classes": [
+      11
+    ],
+    "summary": "The Olympic movement promotes sport with friendship, respect and fair play, and India has its own Olympic and Paralympic history.",
+    "points": [
+      "The ancient games were held at Olympia; the modern games were revived by Pierre de Coubertin in 1896.",
+      "The Olympic values are excellence, friendship and respect, expressed in the motto Faster, Higher, Stronger — Together.",
+      "The Olympic symbols include the five rings, the flame, the flag and the oath.",
+      "India has won Olympic medals mainly in hockey, shooting, wrestling, badminton, boxing and athletics."
+    ],
+    "example": "The five interlocking rings stand for the union of the five continents and athletes meeting in fair competition.",
+    "mistakes": [
+      "Confusing the Olympic motto with the Olympic oath.",
+      "Believing the modern Olympics began in ancient Greece — the modern series started in 1896 in Athens."
+    ],
+    "aliases": [
+      "olympism",
+      "olympic movement",
+      "olympic values",
+      "olympic symbols class 11"
+    ]
+  },
+  {
+    "id": "pe-yoga",
+    "title": "Yoga and lifestyle",
+    "subject": "Physical Education",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Yoga combines postures, breathing and meditation to improve physical and mental health and to prevent lifestyle diseases.",
+    "points": [
+      "Ashtanga yoga has eight limbs, from yama and niyama through asana and pranayama to dhyana and samadhi.",
+      "Common asanas include tadasana, vajrasana, bhujangasana, shavasana and trikonasana.",
+      "Pranayama such as anulom-vilom and kapalbhati works on breath control.",
+      "Yoga helps obesity, diabetes, asthma, hypertension and stress when practised regularly."
+    ],
+    "example": "Bhujangasana (cobra pose) strengthens the spine and opens the chest, and is often suggested for mild back stiffness.",
+    "mistakes": [
+      "Practising advanced asanas without warm-up or guidance.",
+      "Thinking yoga only means physical postures — the eight limbs include ethical and mental practice."
+    ],
+    "aliases": [
+      "yoga and lifestyle",
+      "yoga class 11 physical education",
+      "asana pranayama",
+      "benefits of yoga",
+      "ashtanga yoga eight limbs"
+    ]
+  },
+  {
+    "id": "pe-cwsn",
+    "title": "Physical education and sports for children with special needs",
+    "subject": "Physical Education",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Adapted physical education gives children with disabilities equal access to movement, sport and recreation.",
+    "points": [
+      "Disabilities may be physical, intellectual, visual, hearing or multiple.",
+      "Adapted programmes change equipment, rules, space and pace rather than excluding the child.",
+      "The Paralympics, Special Olympics and Deaflympics provide competitive pathways.",
+      "Inclusive teaching uses buddy support, modified equipment and clear demonstration."
+    ],
+    "example": "A seated volleyball game with a lower net lets a student using a wheelchair take part on equal terms.",
+    "mistakes": [
+      "Lowering expectations instead of adapting the activity.",
+      "Confusing the Paralympics (physical impairment) with the Special Olympics (intellectual disability)."
+    ],
+    "aliases": [
+      "physical education for cwsn",
+      "children with special needs",
+      "adapted physical education",
+      "paralympics special olympics"
+    ]
+  },
+  {
+    "id": "pe-fitness-wellness",
+    "title": "Physical fitness, wellness and lifestyle",
+    "subject": "Physical Education",
+    "classes": [
+      11
+    ],
+    "summary": "Physical fitness is the ability to carry out daily tasks without undue fatigue, and wellness adds mental and social health.",
+    "points": [
+      "Health-related components are cardiovascular endurance, muscular strength, muscular endurance, flexibility and body composition.",
+      "Skill-related components are speed, agility, balance, coordination, power and reaction time.",
+      "Exercise, balanced diet, sleep and stress control build wellness.",
+      "Lifestyle diseases such as obesity, diabetes and hypertension are largely preventable."
+    ],
+    "formulas": [
+      {
+        "name": "Body mass index",
+        "expr": "BMI = weight (kg) ÷ height (m)²"
+      },
+      {
+        "name": "Healthy BMI range",
+        "expr": "18.5 – 24.9"
+      }
+    ],
+    "example": "A student of 50 kg and 1.6 m height has a BMI of about 19.5, inside the healthy range.",
+    "mistakes": [
+      "Using centimetres instead of metres in the BMI formula.",
+      "Equating thinness with fitness."
+    ],
+    "aliases": [
+      "physical fitness wellness and lifestyle",
+      "components of physical fitness",
+      "health related fitness",
+      "bmi class 11"
+    ]
+  },
+  {
+    "id": "pe-test-measurement",
+    "title": "Test, measurement and evaluation in sports",
+    "subject": "Physical Education",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Tests measure fitness and skill so that training can be judged and improved.",
+    "points": [
+      "Measurement gives a number; evaluation judges that number against a standard.",
+      "Common fitness tests include the 50 m dash, sit-ups, sit-and-reach, shuttle run and 600 m or 12-minute run.",
+      "The Harvard step test estimates cardiovascular endurance from recovery heart rate.",
+      "Test selection depends on validity, reliability, objectivity and the group being tested."
+    ],
+    "formulas": [
+      {
+        "name": "Harvard step test score",
+        "expr": "fitness index = (duration of exercise in seconds × 100) ÷ (2 × sum of three recovery pulse counts)"
+      }
+    ],
+    "example": "A 12-minute run measures cardiovascular endurance; a sit-and-reach box measures flexibility.",
+    "mistakes": [
+      "Using one test for every fitness component.",
+      "Ignoring standardised procedure, which destroys reliability."
+    ],
+    "aliases": [
+      "test measurement and evaluation",
+      "fitness tests class 11",
+      "harvard step test",
+      "sit and reach"
+    ]
+  },
+  {
+    "id": "pe-anatomy-physiology",
+    "title": "Fundamentals of anatomy, physiology and kinesiology in sports",
+    "subject": "Physical Education",
+    "classes": [
+      11
+    ],
+    "summary": "Anatomy describes the body's structure, physiology its functions, and kinesiology the mechanics of movement.",
+    "points": [
+      "The skeletal system gives support, protection and leverage; the adult skeleton has 206 bones.",
+      "Muscles produce movement by contraction, working in opposing pairs.",
+      "The circulatory and respiratory systems supply oxygen and remove waste during exercise.",
+      "Kinesiology studies movement in terms of axes, planes and joint action."
+    ],
+    "example": "Bending the elbow is flexion, produced by the biceps contracting while the triceps relaxes.",
+    "mistakes": [
+      "Saying muscles push — they can only pull.",
+      "Mixing the sagittal plane with the frontal plane."
+    ],
+    "aliases": [
+      "anatomy physiology and kinesiology",
+      "skeletal system class 11 physical education",
+      "types of joints"
+    ]
+  },
+  {
+    "id": "pe-biomechanics",
+    "title": "Biomechanics in sports",
+    "subject": "Physical Education",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Biomechanics applies the laws of mechanics to human movement to improve technique and reduce injury.",
+    "points": [
+      "Newton's three laws explain force, acceleration and reaction in sport.",
+      "Levers in the body are first, second and third class, with most joints acting as third-class levers.",
+      "Projectile motion depends on angle, speed and height of release.",
+      "Balance depends on the base of support and the centre of gravity."
+    ],
+    "formulas": [
+      {
+        "name": "Force",
+        "expr": "F = m × a"
+      },
+      {
+        "name": "Optimum projection angle",
+        "expr": "about 45° for maximum range without air resistance"
+      }
+    ],
+    "example": "A long jumper raises the centre of gravity at take-off and lands with the feet forward to gain distance.",
+    "mistakes": [
+      "Thinking a larger angle always gives a longer throw — past about 45° range falls again.",
+      "Confusing mass with weight."
+    ],
+    "aliases": [
+      "biomechanics in sports",
+      "newton laws in sports",
+      "levers in human body",
+      "projectile motion sports"
+    ]
+  },
+  {
+    "id": "pe-psychology-sports",
+    "title": "Psychology and sports",
+    "subject": "Physical Education",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Sport psychology studies how personality, motivation, anxiety and aggression affect performance.",
+    "points": [
+      "Personality is described by trait and type approaches and by the big five factors.",
+      "Motivation is intrinsic or extrinsic, and drive theory links arousal to performance.",
+      "Anxiety can be cognitive or somatic; the inverted-U principle says moderate arousal helps performance.",
+      "Aggression may be hostile or instrumental, and can be channelled into assertive play."
+    ],
+    "example": "A cricketer who practises for the love of the game shows intrinsic motivation; one playing only for prize money is extrinsically motivated.",
+    "mistakes": [
+      "Believing the highest arousal always gives the best performance.",
+      "Treating assertion (fair, forceful play) as aggression."
+    ],
+    "aliases": [
+      "psychology and sports",
+      "sport psychology class 12",
+      "motivation in sports",
+      "inverted u hypothesis",
+      "aggression in sports"
+    ]
+  },
+  {
+    "id": "pe-training",
+    "title": "Training in sports",
+    "subject": "Physical Education",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Training is planned, repeated exercise that improves fitness and skill while allowing recovery.",
+    "points": [
+      "Strength, endurance, speed and flexibility each need their own training method.",
+      "A training session has a warm-up, the conditioning part and a cool-down.",
+      "The principles of training include overload, progression, specificity, reversibility and recovery.",
+      "Periodisation divides the year into preparatory, competition and transition phases."
+    ],
+    "formulas": [
+      {
+        "name": "Target heart rate",
+        "expr": "(220 − age) × intensity percentage"
+      }
+    ],
+    "example": "A 16-year-old training at 70 per cent of maximum has a target heart rate of about 143 beats per minute.",
+    "mistakes": [
+      "Increasing load too fast, which causes injury instead of progress.",
+      "Skipping rest days — adaptation happens during recovery."
+    ],
+    "aliases": [
+      "training in sports",
+      "principles of training",
+      "periodisation",
+      "types of endurance training"
+    ]
+  },
+  {
+    "id": "pe-doping",
+    "title": "Doping in sports",
+    "subject": "Physical Education",
+    "classes": [
+      11
+    ],
+    "summary": "Doping is the use of banned performance-enhancing substances or methods, and it is prohibited in sport.",
+    "points": [
+      "Banned classes include stimulants, anabolic steroids, peptide hormones, diuretics and narcotics.",
+      "Blood doping and gene doping are prohibited methods.",
+      "Doping harms health: liver damage, hormonal imbalance, heart problems and dependence.",
+      "WADA sets the code, and NADA enforces testing in India."
+    ],
+    "example": "An anabolic steroid may build muscle but can damage the liver and shut down natural hormone production.",
+    "mistakes": [
+      "Assuming only 'hard' drugs count — diuretics used to mask other substances are also banned.",
+      "Believing supplements are always safe — some contain prohibited substances."
+    ],
+    "aliases": [
+      "doping in sports",
+      "wada nada",
+      "banned substances in sports",
+      "anabolic steroids side effects"
+    ]
+  },
+  {
+    "id": "pe-planning-sports",
+    "title": "Planning in sports",
+    "subject": "Physical Education",
+    "classes": [
+      12
+    ],
+    "summary": "Planning organises tournaments and training so that time, money and facilities are used efficiently.",
+    "points": [
+      "Tournaments may be knockout, league, combination or challenge formats.",
+      "A knockout needs the number of matches to be counted in advance; a league gives every team a chance.",
+      "Fixtures for a league are drawn by the cyclic method; byes are given in knockouts when entries are not a power of two.",
+      "A good plan sets objectives, assigns duties, and prepares budget, schedule and equipment."
+    ],
+    "formulas": [
+      {
+        "name": "Knockout matches",
+        "expr": "matches = number of teams − 1"
+      },
+      {
+        "name": "Single league matches",
+        "expr": "matches = n(n − 1) ÷ 2"
+      },
+      {
+        "name": "Byes",
+        "expr": "byes = next power of two − number of teams"
+      }
+    ],
+    "example": "With 11 teams, a knockout needs 10 matches, and the next power of two is 16, so 5 byes are given.",
+    "mistakes": [
+      "Using the league formula for a knockout.",
+      "Ignoring byes, which leaves an uneven bracket."
+    ],
+    "aliases": [
+      "planning in sports",
+      "tournament fixtures",
+      "knockout league tournament",
+      "byes class 12 physical education"
+    ]
+  },
+  {
+    "id": "pe-sports-nutrition",
+    "title": "Sports and nutrition",
+    "subject": "Physical Education",
+    "classes": [
+      12
+    ],
+    "summary": "Athletes need a balanced diet matched to training load, with carbohydrate for fuel and protein for repair.",
+    "points": [
+      "Macronutrients are carbohydrates, proteins and fats; micronutrients are vitamins and minerals.",
+      "Carbohydrate loading raises glycogen stores before endurance events.",
+      "Protein needs rise with strength training; excess protein is not stored as muscle.",
+      "Hydration and electrolytes matter, and eating should be timed around training."
+    ],
+    "example": "A runner eats a carbohydrate-rich meal three hours before a race and drinks water at intervals during it.",
+    "mistakes": [
+      "Believing more protein alone builds muscle.",
+      "Cutting salt and water completely before competition."
+    ],
+    "aliases": [
+      "sports and nutrition",
+      "balanced diet athlete",
+      "carbohydrate loading",
+      "macronutrients micronutrients class 12"
+    ]
+  },
+  {
+    "id": "pe-children-women-sports",
+    "title": "Children and women in sports",
+    "subject": "Physical Education",
+    "classes": [
+      12
+    ],
+    "summary": "Motor development, exercise safety and equal opportunity shape sport for children and for women.",
+    "points": [
+      "Motor development proceeds from gross to fine movement and follows a predictable sequence.",
+      "Children need age-appropriate load, varied activity and protection from overtraining.",
+      "Girls face unequal access, fewer facilities and social expectations in sport.",
+      "Menarche, bone health and iron status need attention in female athletes."
+    ],
+    "example": "A primary child should build coordination through games rather than heavy strength training.",
+    "mistakes": [
+      "Applying adult training loads to growing children.",
+      "Using the female athlete triad — low energy, menstrual disruption, low bone density — as a training goal."
+    ],
+    "aliases": [
+      "children and women in sports",
+      "motor development class 12",
+      "female athlete triad",
+      "women participation in sports"
+    ]
+  },
+  {
+    "id": "pe-physiology-injuries",
+    "title": "Physiology and injuries in sports",
+    "subject": "Physical Education",
+    "classes": [
+      12
+    ],
+    "summary": "Exercise changes the heart, lungs and muscles, and injuries need prompt first aid and graded return.",
+    "points": [
+      "Cardiac output rises during exercise through higher heart rate and stroke volume.",
+      "Training enlarges stroke volume and improves oxygen uptake.",
+      "Soft-tissue injuries include sprain, strain and contusion; hard-tissue injuries include fracture and dislocation.",
+      "First aid follows rest, ice, compression and elevation, with medical help for serious injury."
+    ],
+    "formulas": [
+      {
+        "name": "Cardiac output",
+        "expr": "cardiac output = heart rate × stroke volume"
+      }
+    ],
+    "example": "A twisted ankle is a sprain: ice and compression for the first 24 to 48 hours reduce swelling.",
+    "mistakes": [
+      "Applying heat immediately to a fresh sprain.",
+      "Returning to play before a fracture has healed."
+    ],
+    "aliases": [
+      "physiology and injuries in sports",
+      "sports injuries first aid",
+      "sprain strain fracture",
+      "cardiac output exercise"
+    ]
+  },
+  {
+    "id": "art-elements-principles",
+    "title": "Elements and principles of visual art",
+    "subject": "Fine Arts",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Visual art is built from elements such as line, colour and form, organised by principles such as balance and rhythm.",
+    "points": [
+      "The elements are line, shape, form, space, texture, value and colour.",
+      "The principles are balance, rhythm, emphasis, proportion, unity, contrast and movement.",
+      "Colour theory covers primary, secondary and tertiary colours, and warm and cool families.",
+      "Composition decides where the eye goes first and how the parts hold together."
+    ],
+    "example": "A painting that repeats a curve in the drapery and the hills uses rhythm to hold the composition together.",
+    "mistakes": [
+      "Mixing the elements (line, colour) with the principles (balance, rhythm).",
+      "Using many strong colours without a focal point."
+    ],
+    "aliases": [
+      "elements and principles of art",
+      "elements of visual art",
+      "principles of design",
+      "colour theory fine arts"
+    ]
+  },
+  {
+    "id": "art-indian-ancient",
+    "title": "Indian art: prehistoric to early Buddhist art",
+    "subject": "Fine Arts",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Indian art begins with rock paintings and Indus seals, and matures in Buddhist stupas, sculpture and cave painting.",
+    "points": [
+      "Bhimbetka rock shelters show prehistoric hunting and dancing scenes.",
+      "Indus artefacts include the bronze dancing girl and steatite seals.",
+      "The Great Stupa at Sanchi has a hemispherical dome, gateways and carved railings.",
+      "Ajanta cave paintings depict Jataka stories with a strong sense of volume and gesture."
+    ],
+    "example": "The Sanchi gateway carvings show the Buddha through symbols such as footprints, a wheel and a tree rather than a human figure.",
+    "mistakes": [
+      "Calling every ancient Indian image of the Buddha anthropomorphic — early art used symbols.",
+      "Mixing Ajanta (Buddhist caves) with Ellora (Hindu, Buddhist and Jain caves)."
+    ],
+    "aliases": [
+      "indian art pre historic",
+      "bhimbetka paintings",
+      "sanchi stupa art",
+      "ajanta paintings"
+    ]
+  },
+  {
+    "id": "art-indian-medieval-modern",
+    "title": "Indian art: temple, Mughal, Rajput and modern",
+    "subject": "Fine Arts",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Indian art moves from temple sculpture and Mughal miniature painting to Rajput schools and the modern Indian artists.",
+    "points": [
+      "Nagara and Dravida temple styles differ in shikhara and gateway forms.",
+      "Mughal painting began with Akbar's illustrated manuscripts and peaked in Jahangir's naturalism.",
+      "Rajasthani and Pahari schools are known for Krishna themes, flat colour and lyrical composition.",
+      "The Bengal School and artists such as Amrita Sher-Gil and Jamini Roy shaped modern Indian art."
+    ],
+    "example": "A Pahari miniature often places Krishna and Radha in a lush landscape, using colour to carry the mood.",
+    "mistakes": [
+      "Treating Mughal and Rajput painting as the same school.",
+      "Assuming modern Indian art began only after independence."
+    ],
+    "aliases": [
+      "mughal miniature painting",
+      "rajasthani pahari painting",
+      "temple architecture nagara dravida",
+      "bengal school modern indian art"
+    ]
+  },
+  {
+    "id": "art-western",
+    "title": "Western art: Renaissance to modern",
+    "subject": "Fine Arts",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Western art moved from religious medieval imagery through Renaissance realism to modern abstraction.",
+    "points": [
+      "The Renaissance introduced perspective, anatomy and humanist subject matter.",
+      "Baroque art used dramatic light; impressionism turned to light and momentary effect.",
+      "Cubism broke form into facets, and expressionism used colour for feeling.",
+      "Each movement answered the technology and politics of its time, including photography."
+    ],
+    "example": "Impressionist painters worked outdoors to catch changing light, which became possible with portable paint tubes.",
+    "mistakes": [
+      "Calling all pre-modern Western art Renaissance.",
+      "Assuming abstraction means no skill — it is a deliberate choice about form."
+    ],
+    "aliases": [
+      "western art history",
+      "renaissance art",
+      "impressionism cubism",
+      "modern western art"
+    ]
+  },
+  {
+    "id": "hs-scope",
+    "title": "Home Science: concept and scope",
+    "subject": "Home Science",
+    "classes": [
+      11
+    ],
+    "summary": "Home Science applies science to everyday life in food, clothing, shelter, resource use and human development.",
+    "points": [
+      "Its fields are human development, food and nutrition, fabric and apparel, resource management and housing.",
+      "It is interdisciplinary, drawing on biology, chemistry, economics, sociology and psychology.",
+      "Careers include dietetics, textile design, interior design, early childhood education and consumer services.",
+      "The subject emphasises practical problem solving for families and communities."
+    ],
+    "example": "A Home Science student may plan a low-cost balanced diet for a family, which combines nutrition and resource management.",
+    "mistakes": [
+      "Treating Home Science as cooking only — it spans five distinct fields.",
+      "Ignoring the science behind the practice, such as nutrient loss in cooking."
+    ],
+    "aliases": [
+      "concept of home science",
+      "scope of home science",
+      "home science class 11 chapter 1",
+      "fields of home science"
+    ]
+  },
+  {
+    "id": "hs-human-development",
+    "title": "Human development across the life span",
+    "subject": "Home Science",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Development runs from infancy to old age through physical, cognitive, social and emotional change.",
+    "points": [
+      "Development is lifelong, multidimensional and influenced by heredity and environment.",
+      "Infancy and early childhood focus on attachment, motor skills and language.",
+      "Adolescence brings puberty, identity formation and peer influence.",
+      "Adulthood and old age bring career, family, health and adjustment tasks."
+    ],
+    "example": "A toddler learning to walk shows gross motor development before fine motor control such as holding a crayon.",
+    "mistakes": [
+      "Treating development as only physical growth.",
+      "Assuming all children reach milestones at exactly the same age."
+    ],
+    "aliases": [
+      "human development life span",
+      "stages of development",
+      "development milestones"
+    ]
+  },
+  {
+    "id": "hs-food-nutrition-health",
+    "title": "Food, nutrition and health",
+    "subject": "Home Science",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Nutrition studies how nutrients in food support growth, health and protection from disease.",
+    "points": [
+      "Nutrients are carbohydrates, proteins, fats, vitamins, minerals, water and fibre.",
+      "Deficiency diseases include anaemia from iron lack and goitre from iodine lack.",
+      "Food safety covers hygiene, storage, adulteration and preservation.",
+      "Meal planning balances nutrients, cost, season and family needs."
+    ],
+    "formulas": [
+      {
+        "name": "Body mass index",
+        "expr": "BMI = weight (kg) ÷ height (m)²"
+      }
+    ],
+    "example": "Adding lemon to a dal salad helps iron absorption because vitamin C aids it.",
+    "mistakes": [
+      "Assuming a costly diet is automatically nutritious.",
+      "Overcooking vegetables, which destroys water-soluble vitamins."
+    ],
+    "aliases": [
+      "food nutrition and health",
+      "nutrients and deficiency diseases",
+      "meal planning",
+      "food safety home science"
+    ]
+  },
+  {
+    "id": "hs-fabric-apparel",
+    "title": "Fabric and apparel",
+    "subject": "Home Science",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Fibre becomes yarn, yarn becomes fabric, and fabric becomes clothing chosen for climate, use and care.",
+    "points": [
+      "Fibres are natural (cotton, silk, wool) or man-made (rayon, polyester, nylon).",
+      "Yarn is made by spinning, and fabric by weaving, knitting or non-woven methods.",
+      "Fabric finishes such as mercerising, waterproofing and wrinkle resistance change performance.",
+      "Clothing choice considers fibre properties, care, cost and the wearer's needs."
+    ],
+    "example": "Cotton absorbs sweat well, which is why it suits summer clothing, while polyester dries faster.",
+    "mistakes": [
+      "Calling rayon natural — it is regenerated from cellulose.",
+      "Ignoring care labels, which leads to shrinkage or colour loss."
+    ],
+    "aliases": [
+      "fibre and fabric",
+      "fabric and apparel",
+      "natural and man made fibres",
+      "weaving knitting"
+    ]
+  },
+  {
+    "id": "hs-resource-management-housing",
+    "title": "Resource management and housing",
+    "subject": "Home Science",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Resource management uses time, money, energy and skills efficiently, and housing provides a safe, functional space.",
+    "points": [
+      "Resources are human (time, energy, skills) and non-human (money, material, facilities).",
+      "Management steps are planning, organising, controlling and evaluating.",
+      "Work simplification saves time and energy through better layout and equipment.",
+      "Housing needs light, ventilation, safety, privacy and space for activities."
+    ],
+    "example": "Keeping frequently used utensils near the cooking area is work simplification by layout.",
+    "mistakes": [
+      "Treating money as the only resource.",
+      "Planning a household budget without an emergency margin."
+    ],
+    "aliases": [
+      "resource management",
+      "housing home science",
+      "work simplification",
+      "household budget"
+    ]
+  },
+  {
+    "id": "ent-concept",
+    "title": "Entrepreneurship: concept and functions",
+    "subject": "Entrepreneurship",
+    "classes": [
+      11
+    ],
+    "summary": "An entrepreneur spots an opportunity, takes risk and organises resources to create value.",
+    "points": [
+      "Entrepreneurship is the process of setting up and running an enterprise while bearing risk.",
+      "Functions include idea generation, resource mobilisation, management and risk bearing.",
+      "An entrepreneur differs from a manager (employee) and from an intrapreneur (inside a firm).",
+      "Entrepreneurship drives innovation, employment and regional development."
+    ],
+    "example": "A student who starts a small tutoring service, rents a room and hires two tutors is performing the entrepreneurial functions.",
+    "mistakes": [
+      "Confusing an entrepreneur with an investor who only supplies money.",
+      "Assuming entrepreneurship needs a large initial investment."
+    ],
+    "aliases": [
+      "entrepreneurship concept and functions",
+      "who is an entrepreneur",
+      "functions of entrepreneur",
+      "intrapreneur"
+    ]
+  },
+  {
+    "id": "ent-journey",
+    "title": "Entrepreneurial journey and competencies",
+    "subject": "Entrepreneurship",
+    "classes": [
+      11
+    ],
+    "summary": "The entrepreneurial journey moves from idea to start-up to growth, and depends on specific competencies.",
+    "points": [
+      "The journey has idea generation, feasibility study, business plan, launch and growth.",
+      "Competencies include initiative, self-confidence, problem solving, perseverance and information seeking.",
+      "Ethics and social responsibility shape whether a venture lasts.",
+      "Failure is treated as learning, and pivoting is a normal part of the journey."
+    ],
+    "example": "A venture that starts as a home bakery may pivot to supplying cafés once demand is understood.",
+    "mistakes": [
+      "Skipping the feasibility check and launching on enthusiasm alone.",
+      "Treating one failed attempt as the end of the entrepreneurial career."
+    ],
+    "aliases": [
+      "entrepreneurial journey",
+      "entrepreneurial competencies",
+      "business idea generation",
+      "startup stages"
+    ]
+  },
+  {
+    "id": "ent-market",
+    "title": "Understanding the market",
+    "subject": "Entrepreneurship",
+    "classes": [
+      11
+    ],
+    "summary": "Understanding the market means knowing customers, competitors, price and the way value is delivered.",
+    "points": [
+      "Market research gathers primary and secondary information about demand.",
+      "Segmentation groups customers by need, age, income or location.",
+      "The marketing mix has product, price, place and promotion.",
+      "Competitor analysis shows where a venture can differentiate."
+    ],
+    "example": "A tiffin service segments students by hostel location and prices a weekly plan to suit them.",
+    "mistakes": [
+      "Assuming everyone is a customer.",
+      "Pricing by copying a competitor without checking costs."
+    ],
+    "aliases": [
+      "understanding the market",
+      "market research class 11 entrepreneurship",
+      "market segmentation"
+    ]
+  },
+  {
+    "id": "ent-finance-arithmetic",
+    "title": "Business finance and arithmetic",
+    "subject": "Entrepreneurship",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Ventures need capital for fixed and working needs, and break-even analysis shows when costs are recovered.",
+    "points": [
+      "Funds are raised through own capital, loans, angel investors or venture capital.",
+      "Fixed capital buys assets; working capital runs day-to-day operations.",
+      "Break-even point is where total revenue equals total cost.",
+      "Cash flow and margin matter more than turnover alone for survival."
+    ],
+    "formulas": [
+      {
+        "name": "Break-even quantity",
+        "expr": "BEP = fixed cost ÷ (selling price − variable cost per unit)"
+      },
+      {
+        "name": "Break-even sales",
+        "expr": "BEP sales = fixed cost ÷ contribution ratio"
+      },
+      {
+        "name": "Margin of safety",
+        "expr": "actual sales − break-even sales"
+      }
+    ],
+    "example": "Fixed cost ₹10,000, price ₹50 and variable cost ₹30 give a break-even of 500 units.",
+    "mistakes": [
+      "Using profit instead of contribution in the break-even formula.",
+      "Forgetting working capital when planning the launch."
+    ],
+    "aliases": [
+      "business finance and arithmetic",
+      "break even analysis",
+      "working capital entrepreneurship",
+      "cost and revenue"
+    ]
+  },
+  {
+    "id": "ent-planning-marketing",
+    "title": "Entrepreneurial planning, marketing and growth",
+    "subject": "Entrepreneurship",
+    "classes": [
+      12
+    ],
+    "summary": "A business plan turns an idea into a funded, launched and growing venture.",
+    "points": [
+      "A business plan covers the idea, market, operations, organisation, finance and risk.",
+      "Marketing for a start-up uses low-cost promotion, referrals and digital channels.",
+      "Growth strategies include franchising, licensing, mergers and diversification.",
+      "Resource mobilisation covers finance, people, technology and networks."
+    ],
+    "example": "A small café grows by franchising its format rather than opening every outlet itself.",
+    "mistakes": [
+      "Writing a plan with no realistic cash-flow projection.",
+      "Growing faster than working capital allows."
+    ],
+    "aliases": [
+      "entrepreneurial planning",
+      "business plan class 12",
+      "enterprise marketing",
+      "enterprise growth strategies"
+    ]
+  },
+  {
+    "id": "legal-indian-system",
+    "title": "Indian legal system and sources of law",
+    "subject": "Legal Studies",
+    "classes": [
+      11
+    ],
+    "summary": "Indian law comes from the Constitution, legislation, precedents, customs and personal laws.",
+    "points": [
+      "The Constitution is the supreme law, and all other law must conform to it.",
+      "Legislation is made by Parliament and state legislatures.",
+      "Precedent means following earlier judgments of higher courts.",
+      "Customs and personal laws govern marriage, inheritance and religious practice."
+    ],
+    "example": "A High Court judgment binds lower courts in its state, which is the doctrine of precedent.",
+    "mistakes": [
+      "Treating a statute and a judgment as the same kind of source.",
+      "Assuming customary law has no legal standing."
+    ],
+    "aliases": [
+      "indian legal system",
+      "sources of law",
+      "precedent in india",
+      "legal studies class 11 chapter 1"
+    ]
+  },
+  {
+    "id": "legal-courts-judiciary",
+    "title": "Courts and the judiciary",
+    "subject": "Legal Studies",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "The judiciary interprets law through a hierarchy from the Supreme Court down to district and subordinate courts.",
+    "points": [
+      "The Supreme Court is the apex court, followed by High Courts and district courts.",
+      "Jurisdiction may be original, appellate or advisory.",
+      "Judicial review lets courts strike down law that violates the Constitution.",
+      "Independence of the judiciary is protected by tenure, salary and appointment safeguards."
+    ],
+    "example": "A writ petition for a fundamental right can go directly to a High Court or the Supreme Court.",
+    "mistakes": [
+      "Thinking a district court can overrule a High Court.",
+      "Confusing appellate jurisdiction with original jurisdiction."
+    ],
+    "aliases": [
+      "courts and judiciary",
+      "supreme court high court",
+      "judicial review",
+      "jurisdiction of courts"
+    ]
+  },
+  {
+    "id": "legal-contract-torts",
+    "title": "Law of contract and law of torts",
+    "subject": "Legal Studies",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Contract law enforces agreements, while tort law compensates for civil wrongs outside contract.",
+    "points": [
+      "A valid contract needs offer, acceptance, consideration, capacity, free consent and lawful object.",
+      "A contract without consideration is generally void, apart from exceptions.",
+      "Torts include negligence, defamation, nuisance and trespass.",
+      "Remedies in tort are mainly damages and injunction."
+    ],
+    "example": "A cyclist who injures a pedestrian by careless riding commits the tort of negligence and may have to pay damages.",
+    "mistakes": [
+      "Calling every broken promise a tort — a breach of contract is not a tort.",
+      "Ignoring free consent, which makes an agreement voidable."
+    ],
+    "aliases": [
+      "law of contract",
+      "law of torts",
+      "essential elements of contract",
+      "negligence defamation"
+    ]
+  },
+  {
+    "id": "legal-criminal-family",
+    "title": "Criminal justice and family justice",
+    "subject": "Legal Studies",
+    "classes": [
+      12
+    ],
+    "summary": "Criminal law punishes offences against society, while family law deals with marriage, divorce, maintenance and custody.",
+    "points": [
+      "A crime has actus reus and mens rea, and the prosecution must prove guilt beyond reasonable doubt.",
+      "The criminal process runs from FIR to investigation, trial and appeal.",
+      "Family disputes are handled by family courts, with mediation often preferred.",
+      "Personal laws differ by religion, and the Special Marriage Act allows civil marriage."
+    ],
+    "example": "Theft requires both the act of taking and the intention to take dishonestly.",
+    "mistakes": [
+      "Applying the criminal standard of proof to a civil suit.",
+      "Assuming one personal law applies to every citizen."
+    ],
+    "aliases": [
+      "criminal justice system",
+      "family justice system",
+      "actus reus mens rea",
+      "fir and trial"
+    ]
+  },
+  {
+    "id": "legal-human-rights-adr",
+    "title": "Human rights, ADR and the legal profession",
+    "subject": "Legal Studies",
+    "classes": [
+      12
+    ],
+    "summary": "Human rights protect basic freedoms, alternative dispute resolution avoids full trials, and lawyers serve both clients and the court.",
+    "points": [
+      "Human rights are protected by the Constitution and by international instruments such as the UDHR.",
+      "ADR includes arbitration, mediation, conciliation and lok adalat.",
+      "ADR is faster and cheaper but may not suit cases needing enforcement or precedent.",
+      "Advocates have duties to the client, the court and the profession, set by the Bar Council."
+    ],
+    "example": "A consumer dispute settled in a lok adalat avoids years of litigation and court fees.",
+    "mistakes": [
+      "Thinking ADR awards never need enforcement.",
+      "Believing a lawyer's only duty is to win, ignoring duties to the court."
+    ],
+    "aliases": [
+      "human rights and adr",
+      "alternative dispute resolution",
+      "lok adalat",
+      "legal profession in india"
+    ]
+  },
+  {
+    "id": "ip-python-data",
+    "title": "Informatics Practices: Python and data handling",
+    "subject": "Informatics Practices",
+    "classes": [
+      11
+    ],
+    "summary": "Informatics Practices uses Python to handle data, from basic types and control flow to lists and dictionaries.",
+    "points": [
+      "Python data types include int, float, str, bool, list, tuple and dict.",
+      "Control flow uses if, for and while, with break and continue.",
+      "Lists are mutable and indexed from zero; dictionaries store key-value pairs.",
+      "Good practice means readable names, comments and testing small pieces."
+    ],
+    "example": "A dictionary of student marks allows lookup by name without scanning a list.",
+    "mistakes": [
+      "Expecting a tuple to change after creation — tuples are immutable.",
+      "Confusing = (assignment) with == (comparison)."
+    ],
+    "aliases": [
+      "informatics practices python",
+      "python data handling class 11",
+      "lists dictionaries ip",
+      "informatics practices class 11"
+    ]
+  },
+  {
+    "id": "ip-pandas-visualisation",
+    "title": "Data handling with pandas and visualisation",
+    "subject": "Informatics Practices",
+    "classes": [
+      12
+    ],
+    "summary": "pandas organises data into Series and DataFrames, and plotting turns it into readable charts.",
+    "points": [
+      "A Series is one-dimensional; a DataFrame is a table of columns.",
+      "Data can be read from CSV, cleaned, filtered and grouped.",
+      "Missing values are handled by dropping or filling them.",
+      "Matplotlib plots include line, bar, histogram and scatter charts."
+    ],
+    "example": "Grouping a marks DataFrame by section gives the average score per section in one line.",
+    "mistakes": [
+      "Forgetting that DataFrame indexing includes column names as well as rows.",
+      "Plotting without labels or a title, which makes the chart unreadable."
+    ],
+    "aliases": [
+      "pandas dataframe",
+      "data visualisation matplotlib",
+      "informatics practices class 12 pandas",
+      "series and dataframe"
+    ]
+  },
+  {
+    "id": "ip-sql-networks-society",
+    "title": "SQL, computer networks and societal impacts",
+    "subject": "Informatics Practices",
+    "classes": [
+      11,
+      12
+    ],
+    "summary": "Databases answer questions with SQL, networks connect systems, and both carry social and ethical consequences.",
+    "points": [
+      "SQL commands include SELECT, WHERE, ORDER BY, GROUP BY and aggregate functions.",
+      "Keys link tables: primary key, foreign key and candidate key.",
+      "Networks are described by topology and by device, such as LAN, WAN, switch and router.",
+      "Societal concerns include privacy, cyber crime, digital divide and e-waste."
+    ],
+    "example": "SELECT section, AVG(marks) FROM students GROUP BY section gives one average per section.",
+    "mistakes": [
+      "Using WHERE where HAVING is needed after grouping.",
+      "Assuming a foreign key must be unique — it may repeat."
+    ],
+    "aliases": [
+      "sql informatics practices",
+      "societal impacts of it"
+    ]
+  }
+]

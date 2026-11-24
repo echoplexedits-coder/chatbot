@@ -1,0 +1,10 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "lumen-chat",
+  "main": "src/worker/index.ts",
+  "compatibility_date": "2026-11-11",
+  "assets": {
+    "binding": "ASSETS",
+    "run_worker_first": true
+  }
+}

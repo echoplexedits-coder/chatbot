@@ -1,0 +1,1411 @@
+[
+  {
+    "id": "math-number-systems",
+    "title": "Number systems",
+    "subject": "Mathematics",
+    "classes": [
+      9
+    ],
+    "summary": "Real numbers include rational and irrational numbers, and they can be located on a number line.",
+    "points": [
+      "Rational numbers can be written as p/q with q ≠ 0; irrational numbers cannot.",
+      "Every real number has a decimal expansion that terminates or repeats (rational) or neither (irrational).",
+      "Between any two real numbers there are infinitely many rational and irrational numbers.",
+      "Rationalisation removes surds from a denominator by multiplying by the conjugate.",
+      "Laws of exponents extend to rational exponents."
+    ],
+    "formulas": [
+      {
+        "name": "Rationalisation",
+        "expr": "1/(√a + √b) = (√a − √b)/(a − b)"
+      },
+      {
+        "name": "Rational exponent",
+        "expr": "a^(m/n) = ⁿ√(aᵐ)"
+      }
+    ],
+    "example": "√2 is irrational: its decimal expansion neither terminates nor repeats.",
+    "aliases": [
+      "number systems",
+      "rational irrational numbers",
+      "surds",
+      "rationalisation",
+      "real numbers class 9"
+    ],
+    "mistakes": [
+      "Calling every square root irrational; √9 = 3 is rational.",
+      "Assuming a terminating decimal cannot be rational."
+    ]
+  },
+  {
+    "id": "math-coordinate-geometry-9",
+    "title": "Coordinate geometry: the Cartesian plane",
+    "subject": "Mathematics",
+    "classes": [
+      9
+    ],
+    "summary": "Points in a plane are located by an ordered pair of coordinates measured from two perpendicular axes.",
+    "points": [
+      "The x-axis is horizontal and the y-axis vertical; they meet at the origin (0, 0).",
+      "Coordinates are written (abscissa, ordinate) and signs decide the quadrant.",
+      "A point on the x-axis has y = 0; a point on the y-axis has x = 0.",
+      "Cartesian geometry links algebra and geometry so figures can be studied with coordinates."
+    ],
+    "formulas": [
+      {
+        "name": "Point on x-axis",
+        "expr": "(x, 0)"
+      },
+      {
+        "name": "Point on y-axis",
+        "expr": "(0, y)"
+      }
+    ],
+    "example": "(−3, 4) lies in the second quadrant because x is negative and y positive.",
+    "aliases": [
+      "coordinate geometry class 9",
+      "cartesian plane",
+      "quadrants",
+      "abscissa ordinate",
+      "plotting points"
+    ],
+    "mistakes": [
+      "Reversing the order of x and y.",
+      "Forgetting that the origin belongs to no quadrant."
+    ]
+  },
+  {
+    "id": "math-herons-formula",
+    "title": "Heron's formula",
+    "subject": "Mathematics",
+    "classes": [
+      9
+    ],
+    "summary": "Heron's formula gives the area of a triangle from the lengths of its three sides.",
+    "points": [
+      "First find the semi-perimeter s = (a + b + c)/2.",
+      "Area = √[s(s − a)(s − b)(s − c)].",
+      "The formula works for any triangle and is useful when height is unknown.",
+      "For a quadrilateral, split it into two triangles and add the areas."
+    ],
+    "formulas": [
+      {
+        "name": "Semi-perimeter",
+        "expr": "s = (a + b + c)/2"
+      },
+      {
+        "name": "Heron's formula",
+        "expr": "Area = √[s(s − a)(s − b)(s − c)]"
+      }
+    ],
+    "example": "Sides 3, 4, 5 give s = 6 and area = √(6 × 3 × 2 × 1) = 6 square units.",
+    "aliases": [
+      "heron formula",
+      "area of triangle three sides",
+      "herons formula",
+      "semi perimeter"
+    ],
+    "mistakes": [
+      "Using the perimeter instead of the semi-perimeter.",
+      "Forgetting to take the square root."
+    ]
+  },
+  {
+    "id": "math-areas-parallelograms",
+    "title": "Areas of parallelograms and triangles",
+    "subject": "Mathematics",
+    "classes": [
+      9
+    ],
+    "summary": "Parallelograms on the same base and between the same parallels have equal area, and a triangle is half the parallelogram on the same base.",
+    "points": [
+      "Area of a parallelogram is base × height.",
+      "Area of a triangle is ½ × base × height.",
+      "Figures on the same base and between the same parallels have equal areas.",
+      "A median divides a triangle into two triangles of equal area."
+    ],
+    "formulas": [
+      {
+        "name": "Parallelogram",
+        "expr": "Area = base × height"
+      },
+      {
+        "name": "Triangle",
+        "expr": "Area = ½ × base × height"
+      }
+    ],
+    "example": "A triangle and a parallelogram on the same base and between the same parallels: the triangle has half the area.",
+    "aliases": [
+      "areas of parallelograms and triangles",
+      "same base same parallels",
+      "area theorems class 9"
+    ],
+    "mistakes": [
+      "Using a slant side as the height.",
+      "Assuming equal perimeters mean equal areas."
+    ]
+  },
+  {
+    "id": "math-constructions",
+    "title": "Geometrical constructions",
+    "subject": "Mathematics",
+    "classes": [
+      9,
+      10
+    ],
+    "summary": "Constructions use compass and straightedge to build angles, triangles and circles with given conditions.",
+    "points": [
+      "Bisecting an angle and drawing a perpendicular bisector are the basic constructions.",
+      "A triangle can be constructed from SSS, SAS, ASA or RHS data.",
+      "Some constructions also require a given perimeter or a given base angle sum.",
+      "Justification requires stating which construction steps guarantee the result.",
+      "A ruler and compass only; measurement is used to check, not to draw."
+    ],
+    "example": "Construct a triangle with sides 4 cm, 5 cm and 6 cm by drawing the base and arcs from its ends.",
+    "aliases": [
+      "constructions",
+      "geometrical construction",
+      "compass construction",
+      "triangle construction",
+      "practical geometry"
+    ],
+    "mistakes": [
+      "Erasing construction arcs, which are part of the answer.",
+      "Skipping the justification step."
+    ]
+  },
+  {
+    "id": "math-circles-9",
+    "title": "Circles: chords and angles",
+    "subject": "Mathematics",
+    "classes": [
+      9
+    ],
+    "summary": "Equal chords subtend equal angles at the centre, and the perpendicular from the centre bisects a chord.",
+    "points": [
+      "Equal chords of a circle are equidistant from the centre.",
+      "The angle subtended by an arc at the centre is double the angle at any point on the remaining circle.",
+      "Angles in the same segment are equal.",
+      "The angle in a semicircle is a right angle.",
+      "A cyclic quadrilateral has opposite angles summing to 180°."
+    ],
+    "formulas": [
+      {
+        "name": "Central angle",
+        "expr": "∠AOB = 2∠ACB"
+      },
+      {
+        "name": "Cyclic quadrilateral",
+        "expr": "∠A + ∠C = 180°"
+      }
+    ],
+    "example": "If a chord subtends 80° at the centre, it subtends 40° at a point on the major arc.",
+    "aliases": [
+      "circles class 9",
+      "chords of a circle",
+      "cyclic quadrilateral",
+      "angle in semicircle",
+      "same segment"
+    ],
+    "mistakes": [
+      "Doubling instead of halving the central angle.",
+      "Assuming every quadrilateral is cyclic."
+    ]
+  },
+  {
+    "id": "math-statistics-9",
+    "title": "Statistics: presentation of data",
+    "subject": "Mathematics",
+    "classes": [
+      9
+    ],
+    "summary": "Data can be presented as frequency tables, bar graphs, histograms and frequency polygons.",
+    "points": [
+      "Ungrouped data lists values; grouped data uses class intervals.",
+      "Class mark is the midpoint of a class interval.",
+      "A histogram shows continuous grouped data with adjacent bars.",
+      "A frequency polygon joins midpoints of the tops of the bars.",
+      "Mean, median and mode are the three measures of central tendency."
+    ],
+    "formulas": [
+      {
+        "name": "Class mark",
+        "expr": "(upper limit + lower limit)/2"
+      },
+      {
+        "name": "Mean of grouped data",
+        "expr": "Σfᵢxᵢ / Σfᵢ"
+      }
+    ],
+    "example": "For classes 10–20, 20–30 the class marks are 15 and 25.",
+    "aliases": [
+      "statistics class 9",
+      "frequency table",
+      "histogram",
+      "frequency polygon",
+      "class mark"
+    ],
+    "mistakes": [
+      "Leaving gaps between bars in a histogram.",
+      "Using the class limit instead of the class mark."
+    ]
+  },
+  {
+    "id": "math-surface-area-volume-9",
+    "title": "Surface areas and volumes",
+    "subject": "Mathematics",
+    "classes": [
+      9
+    ],
+    "summary": "Solids such as cubes, cuboids, cylinders, cones and spheres have standard surface area and volume formulas.",
+    "points": [
+      "Curved surface area covers only the curved part; total surface area includes flat faces.",
+      "Volume is measured in cubic units and capacity in litres.",
+      "A hollow object's volume is the difference between outer and inner volumes.",
+      "Composite solids are handled by adding or subtracting the parts."
+    ],
+    "formulas": [
+      {
+        "name": "Cuboid",
+        "expr": "TSA = 2(lb + bh + hl), V = lbh"
+      },
+      {
+        "name": "Cylinder",
+        "expr": "CSA = 2πrh, V = πr²h"
+      },
+      {
+        "name": "Cone",
+        "expr": "CSA = πrl, V = ⅓πr²h"
+      },
+      {
+        "name": "Sphere",
+        "expr": "Surface = 4πr², V = 4/3 πr³"
+      },
+      {
+        "name": "Hemisphere",
+        "expr": "TSA = 3πr², V = ⅔πr³"
+      }
+    ],
+    "example": "A cylinder of radius 7 cm and height 10 cm has volume 22/7 × 49 × 10 = 1540 cm³.",
+    "aliases": [
+      "surface area and volume",
+      "mensuration class 9",
+      "cylinder cone sphere",
+      "total surface area"
+    ],
+    "mistakes": [
+      "Using diameter instead of radius.",
+      "Confusing CSA with TSA for a cylinder."
+    ]
+  },
+  {
+    "id": "sci-structure-atom",
+    "title": "Structure of the atom",
+    "subject": "Science",
+    "classes": [
+      9
+    ],
+    "summary": "Atoms contain protons, neutrons and electrons, and their arrangement explains valency and isotopes.",
+    "points": [
+      "Protons and neutrons form the nucleus; electrons occupy shells around it.",
+      "Atomic number is the number of protons; mass number is protons plus neutrons.",
+      "Electrons fill shells in the 2, 8, 8 pattern for the first twenty elements.",
+      "Valency depends on the number of electrons needed to complete the outermost shell.",
+      "Isotopes have the same atomic number but different mass numbers."
+    ],
+    "formulas": [
+      {
+        "name": "Mass number",
+        "expr": "A = Z + n"
+      },
+      {
+        "name": "Valency",
+        "expr": "electrons to gain, lose or share to complete the octet"
+      }
+    ],
+    "example": "Sodium (Z = 11) has configuration 2, 8, 1 and loses one electron to form Na⁺.",
+    "aliases": [
+      "structure of the atom",
+      "atomic number mass number",
+      "isotopes",
+      "valency",
+      "electron shells"
+    ],
+    "mistakes": [
+      "Confusing atomic number with mass number.",
+      "Thinking isotopes differ chemically in every way."
+    ]
+  },
+  {
+    "id": "sci-diversity-living",
+    "title": "Diversity in living organisms",
+    "subject": "Science",
+    "classes": [
+      9
+    ],
+    "summary": "Living organisms are classified into five kingdoms and further into phyla, classes and species by shared features.",
+    "points": [
+      "Classification uses cell type, body organisation, mode of nutrition and reproduction.",
+      "The five kingdoms are Monera, Protista, Fungi, Plantae and Animalia.",
+      "Plants are divided into thallophytes, bryophytes, pteridophytes, gymnosperms and angiosperms.",
+      "Animals are divided into invertebrates and vertebrates by the presence of a backbone.",
+      "Nomenclature follows binomial names in Latin."
+    ],
+    "example": "Frogs are amphibians: they live in water and on land and breathe through skin and lungs.",
+    "aliases": [
+      "diversity in living organisms",
+      "classification of organisms",
+      "five kingdoms",
+      "vertebrates invertebrates",
+      "nomenclature"
+    ],
+    "mistakes": [
+      "Classifying fungi as plants.",
+      "Using common names instead of binomial names."
+    ]
+  },
+  {
+    "id": "sci-why-fall-ill",
+    "title": "Why do we fall ill?",
+    "subject": "Science",
+    "classes": [
+      9
+    ],
+    "summary": "Health is a state of physical and mental well-being, and disease results from pathogens, deficiencies or environmental factors.",
+    "points": [
+      "Infectious diseases spread through air, water, food, vectors and contact.",
+      "Non-infectious diseases include deficiency diseases and genetic disorders.",
+      "Immunisation trains the body's immune system against specific pathogens.",
+      "Prevention through sanitation, clean water and vaccination is more effective than cure alone.",
+      "Antibiotics work against bacteria, not viruses."
+    ],
+    "example": "Malaria spreads through the bite of an infected female Anopheles mosquito.",
+    "aliases": [
+      "why do we fall ill",
+      "health and disease",
+      "infectious diseases",
+      "immunisation",
+      "pathogens",
+      "prevention"
+    ],
+    "mistakes": [
+      "Taking antibiotics for a viral cold.",
+      "Assuming all diseases are infectious."
+    ]
+  },
+  {
+    "id": "sci-natural-resources",
+    "title": "Natural resources",
+    "subject": "Science",
+    "classes": [
+      9
+    ],
+    "summary": "Air, water, soil, forests and minerals are natural resources that must be used sustainably.",
+    "points": [
+      "Resources are renewable (sunlight, wind, biomass) or non-renewable (fossil fuels, minerals).",
+      "The water cycle and groundwater recharge sustain freshwater supply.",
+      "Soil erosion and pollution reduce fertility and can be controlled by contour ploughing and afforestation.",
+      "The greenhouse effect and ozone depletion are consequences of air pollution.",
+      "Sustainable use means meeting present needs without destroying future supply."
+    ],
+    "formulas": [
+      {
+        "name": "Water cycle",
+        "expr": "evaporation → condensation → precipitation → runoff/infiltration"
+      }
+    ],
+    "example": "Planting trees on a slope reduces soil erosion by slowing runoff.",
+    "aliases": [
+      "natural resources",
+      "renewable non renewable",
+      "water cycle",
+      "soil erosion",
+      "ozone depletion",
+      "sustainable use"
+    ],
+    "mistakes": [
+      "Calling groundwater unlimited.",
+      "Confusing global warming with ozone hole formation."
+    ]
+  },
+  {
+    "id": "sci-improvement-food",
+    "title": "Improvement in food resources",
+    "subject": "Science",
+    "classes": [
+      9
+    ],
+    "summary": "Food production can be raised through better crop varieties, nutrients, irrigation, pest control and animal husbandry.",
+    "points": [
+      "Crop variety improvement uses hybridisation and selection for higher yield and disease resistance.",
+      "Macro and micro nutrients replenish soil fertility; organic manure improves soil texture.",
+      "Irrigation methods include canal, tube well, drip and sprinkler.",
+      "Integrated pest management reduces chemical pesticide use.",
+      "Animal husbandry covers cattle, poultry and fish farming."
+    ],
+    "example": "Drip irrigation saves water by delivering it directly to plant roots.",
+    "aliases": [
+      "improvement in food resources",
+      "crop production",
+      "irrigation",
+      "animal husbandry",
+      "manure fertiliser",
+      "pest management"
+    ],
+    "mistakes": [
+      "Thinking fertiliser alone guarantees higher yield.",
+      "Ignoring crop rotation for soil health."
+    ]
+  },
+  {
+    "id": "sci-sources-energy",
+    "title": "Sources of energy",
+    "subject": "Science",
+    "classes": [
+      10
+    ],
+    "summary": "Energy sources are renewable or non-renewable, and good sources are cheap, safe and environmentally clean.",
+    "points": [
+      "Fossil fuels are non-renewable and release carbon dioxide and pollutants.",
+      "Solar, wind, hydro, biomass and geothermal are renewable sources.",
+      "A solar cooker and solar cell both use sunlight but for different purposes.",
+      "Wind energy needs a minimum wind speed and large areas.",
+      "Biogas from anaerobic digestion provides clean fuel in rural areas."
+    ],
+    "example": "A solar cell converts light directly into electricity, while a solar water heater uses heat.",
+    "aliases": [
+      "sources of energy",
+      "renewable energy",
+      "solar wind biogas",
+      "fossil fuels",
+      "alternative energy"
+    ],
+    "mistakes": [
+      "Calling all renewable sources pollution free at every stage.",
+      "Confusing a solar cell with a solar heater."
+    ]
+  },
+  {
+    "id": "sci-management-natural-resources",
+    "title": "Management of natural resources",
+    "subject": "Science",
+    "classes": [
+      10
+    ],
+    "summary": "Sustainable management of forests, water, coal and petroleum protects resources for future generations.",
+    "points": [
+      "The three Rs — reduce, reuse, recycle — reduce waste.",
+      "Chipko and other movements show community participation in forest protection.",
+      "Water harvesting collects rainwater for groundwater recharge.",
+      "Dams generate power and irrigation but displace people and silt up.",
+      "Biodiversity must be preserved because species are interdependent."
+    ],
+    "example": "Rooftop rainwater harvesting recharges groundwater and reduces urban flooding.",
+    "aliases": [
+      "management of natural resources",
+      "sustainable management",
+      "reduce reuse recycle",
+      "water harvesting",
+      "chipko"
+    ],
+    "mistakes": [
+      "Assuming dams have no environmental cost.",
+      "Thinking recycling alone solves resource depletion."
+    ]
+  },
+  {
+    "id": "hist-forest-society",
+    "title": "Forest society and colonialism",
+    "subject": "History",
+    "classes": [
+      9
+    ],
+    "summary": "Colonial forest laws restricted villagers' use of forests for timber and revenue, provoking resistance.",
+    "points": [
+      "The Indian Forest Act 1865 and 1878 gave the state control over forests.",
+      "Villagers lost rights to graze, collect fuel and practise shifting cultivation.",
+      "Scientific forestry replaced mixed forests with single-species plantations.",
+      "The Bastar rebellion of 1910 opposed forest reservation.",
+      "Forest villages were used for labour, worsening their condition."
+    ],
+    "example": "The Bastar rebellion saw villagers attack forest offices and resist reservation of forests.",
+    "aliases": [
+      "forest society and colonialism",
+      "indian forest act",
+      "bastar rebellion",
+      "scientific forestry",
+      "colonial forest laws"
+    ],
+    "mistakes": [
+      "Thinking forest laws protected villagers' rights.",
+      "Ignoring the role of grazing and fuel collection."
+    ]
+  },
+  {
+    "id": "hist-pastoralists",
+    "title": "Pastoralists in the modern world",
+    "subject": "History",
+    "classes": [
+      9
+    ],
+    "summary": "Pastoral communities move with their herds and were affected by colonial borders, grazing restrictions and settlement policies.",
+    "points": [
+      "Pastoralists move seasonally between pastures to avoid overgrazing.",
+      "Colonial governments saw mobility as disorder and restricted grazing land.",
+      "Borders cut across traditional migration routes.",
+      "Pastoralists adapted by settling, changing herds or taking up trade and labour.",
+      "Their knowledge of dryland ecology is valuable for sustainable land use."
+    ],
+    "example": "Gujjar herders moving between summer and winter pastures were affected by new forest boundaries.",
+    "aliases": [
+      "pastoralists in the modern world",
+      "nomadic herders",
+      "grazing restrictions",
+      "pastoralism",
+      "migration routes"
+    ],
+    "mistakes": [
+      "Calling pastoralists wanderers without pattern.",
+      "Ignoring their adaptation to modern conditions."
+    ]
+  },
+  {
+    "id": "hist-print-culture",
+    "title": "Print culture and the modern world",
+    "subject": "History",
+    "classes": [
+      10
+    ],
+    "summary": "Printing made texts cheap and abundant, spreading ideas, literacy and new forms of public debate.",
+    "points": [
+      "Woodblock printing existed in China before movable type in Europe.",
+      "Gutenberg's press made books cheaper and faster to produce.",
+      "Print spread religious reform, scientific ideas and political criticism.",
+      "In India, print helped vernacular literature and nationalist opinion.",
+      "Censorship showed that print was seen as politically powerful."
+    ],
+    "example": "Newspapers and pamphlets carried nationalist arguments to a wide Indian readership.",
+    "aliases": [
+      "print culture",
+      "printing press",
+      "gutenberg",
+      "print and nationalism",
+      "history of print"
+    ],
+    "mistakes": [
+      "Crediting Gutenberg with inventing printing entirely.",
+      "Ignoring vernacular print in India."
+    ]
+  },
+  {
+    "id": "hist-age-industrialisation",
+    "title": "The age of industrialisation",
+    "subject": "History",
+    "classes": [
+      10
+    ],
+    "summary": "Industrialisation changed production, work and cities, and in India it took a colonial form.",
+    "points": [
+      "Proto-industrialisation was production by merchants for export before factories.",
+      "Factories concentrated machines, workers and discipline in one place.",
+      "In India, textile mills grew in Bombay and Calcutta in the nineteenth century.",
+      "Handicraft workers faced declining demand and shifted to other work.",
+      "Industrialisation created new social classes and urban problems."
+    ],
+    "example": "Indian hand weavers lost markets as machine-made British cloth entered India.",
+    "aliases": [
+      "age of industrialisation",
+      "proto industrialisation",
+      "factory system india",
+      "textile mills",
+      "industrialisation history",
+      "the age of industrialisation"
+    ],
+    "mistakes": [
+      "Assuming factories replaced handicrafts overnight.",
+      "Ignoring colonial trade policy."
+    ]
+  },
+  {
+    "id": "geo-climate-9",
+    "title": "Climate of India",
+    "subject": "Geography",
+    "classes": [
+      9
+    ],
+    "summary": "India has a tropical monsoon climate with seasonal reversal of winds and large regional variation.",
+    "points": [
+      "The monsoon arrives from the south-west in June and withdraws from the north by October.",
+      "The Western Ghats and Himalayas influence rainfall distribution.",
+      "Seasons are winter, summer, south-west monsoon and retreating monsoon.",
+      "Mawsynram and Cherrapunji receive very high rainfall due to relief.",
+      "El Niño and the Indian Ocean Dipole affect monsoon strength."
+    ],
+    "example": "The windward Western Ghats get heavy rain while the Deccan plateau lies in its rain shadow.",
+    "aliases": [
+      "climate of india",
+      "monsoon",
+      "seasons of india",
+      "rainfall distribution",
+      "rain shadow",
+      "climate class 9"
+    ],
+    "mistakes": [
+      "Saying all of India gets rain at the same time.",
+      "Confusing climate with weather."
+    ]
+  },
+  {
+    "id": "geo-drainage-9",
+    "title": "Drainage",
+    "subject": "Geography",
+    "classes": [
+      9
+    ],
+    "summary": "India's rivers are grouped as Himalayan and peninsular river systems, shaping plains, deltas and agriculture.",
+    "points": [
+      "Himalayan rivers are perennial because they are fed by snow and rain.",
+      "Peninsular rivers are seasonal and largely rain-fed.",
+      "The Ganga, Indus and Brahmaputra systems drain the northern plains.",
+      "The Godavari, Krishna, Kaveri and Narmada drain the peninsula.",
+      "Deltas form where rivers deposit sediment at the sea."
+    ],
+    "example": "The Ganga–Brahmaputra delta is the largest delta in the world.",
+    "aliases": [
+      "drainage",
+      "himalayan rivers",
+      "peninsular rivers",
+      "river systems india",
+      "delta",
+      "drainage class 9"
+    ],
+    "mistakes": [
+      "Calling all Indian rivers perennial.",
+      "Confusing tributaries with distributaries."
+    ]
+  },
+  {
+    "id": "geo-population-9",
+    "title": "Population of India",
+    "subject": "Geography",
+    "classes": [
+      9
+    ],
+    "summary": "India's population is large and unevenly distributed, with a young age structure and growing urban share.",
+    "points": [
+      "Density is highest in the northern plains and coastal lowlands.",
+      "Birth rate, death rate and migration change population size.",
+      "Sex ratio and literacy are key population characteristics.",
+      "A large young population is a demographic dividend if educated and employed.",
+      "Population policy aims at health, education and family welfare."
+    ],
+    "formulas": [
+      {
+        "name": "Density",
+        "expr": "population / area"
+      },
+      {
+        "name": "Growth rate",
+        "expr": "(births − deaths + net migration) / population × 100"
+      }
+    ],
+    "example": "Kerala has high density and high literacy, showing density does not imply poverty.",
+    "aliases": [
+      "population of india",
+      "population density",
+      "sex ratio",
+      "demographic dividend",
+      "census",
+      "population class 9"
+    ],
+    "mistakes": [
+      "Assuming high density always means low development.",
+      "Confusing growth rate with birth rate."
+    ]
+  },
+  {
+    "id": "geo-resources-development",
+    "title": "Resources and development",
+    "subject": "Geography",
+    "classes": [
+      10
+    ],
+    "summary": "Resources are classified by origin, exhaustibility, ownership and development status, and must be used sustainably.",
+    "points": [
+      "Resources may be renewable or non-renewable, individual or community owned, potential or developed.",
+      "Land degradation is caused by deforestation, overgrazing and mining.",
+      "Soil types include alluvial, black, red, laterite, arid and forest soils.",
+      "Soil erosion is controlled by contour ploughing, terracing and shelter belts.",
+      "Resource planning needs inventory, appropriate technology and matching with needs."
+    ],
+    "example": "Black soil retains moisture and suits cotton, which is why it is called cotton soil.",
+    "aliases": [
+      "resources and development",
+      "soil types",
+      "land degradation",
+      "resource planning",
+      "soil conservation"
+    ],
+    "mistakes": [
+      "Classifying all resources as renewable.",
+      "Ignoring ownership as a basis of classification."
+    ]
+  },
+  {
+    "id": "geo-water-resources",
+    "title": "Water resources",
+    "subject": "Geography",
+    "classes": [
+      10
+    ],
+    "summary": "Freshwater is scarce and unevenly distributed, so storage, irrigation and rainwater harvesting are essential.",
+    "points": [
+      "Dams provide irrigation, power and flood control but displace people and cause silting.",
+      "Multipurpose river valley projects have both benefits and costs.",
+      "Rainwater harvesting recharges groundwater and reduces runoff.",
+      "Over-irrigation causes waterlogging and salinity.",
+      "Water scarcity results from overuse, pollution and unequal access."
+    ],
+    "example": "Rooftop harvesting in Rajasthan's arid areas stores rainwater for the dry season.",
+    "aliases": [
+      "water resources",
+      "dams",
+      "rainwater harvesting",
+      "irrigation",
+      "water scarcity",
+      "multipurpose project"
+    ],
+    "mistakes": [
+      "Thinking dams have only benefits.",
+      "Ignoring groundwater depletion."
+    ]
+  },
+  {
+    "id": "geo-lifelines-economy",
+    "title": "Lifelines of national economy",
+    "subject": "Geography",
+    "classes": [
+      10
+    ],
+    "summary": "Transport, communication and international trade link production and consumption across India and the world.",
+    "points": [
+      "Roads are classified as national highways, state highways, district and village roads.",
+      "Railways carry bulk goods over long distances and are the main freight carrier.",
+      "Ports handle overseas trade; Kandla and Mumbai are major western ports.",
+      "Airways are fastest but costliest; pipelines carry oil and gas.",
+      "Tourism earns foreign exchange and supports local employment."
+    ],
+    "example": "The Golden Quadrilateral connects Delhi, Mumbai, Chennai and Kolkata by highway.",
+    "aliases": [
+      "lifelines of national economy",
+      "transport in india",
+      "national highways",
+      "ports railways",
+      "communication"
+    ],
+    "mistakes": [
+      "Confusing national and state highways.",
+      "Ignoring pipelines as a transport mode."
+    ]
+  },
+  {
+    "id": "civ-working-institutions",
+    "title": "Working of institutions",
+    "subject": "Civics",
+    "classes": [
+      9
+    ],
+    "summary": "In a democracy, the legislature, executive and judiciary each have defined powers and check one another.",
+    "points": [
+      "Parliament makes laws and controls the executive.",
+      "The Prime Minister and Council of Ministers form the political executive.",
+      "The President is the head of state and acts on the advice of the Council of Ministers.",
+      "The judiciary interprets laws and protects fundamental rights.",
+      "Rules and procedures prevent any one institution from becoming all-powerful."
+    ],
+    "example": "The Supreme Court can strike down a law that violates fundamental rights.",
+    "aliases": [
+      "working of institutions",
+      "separation of powers",
+      "parliament executive judiciary",
+      "checks and balances"
+    ],
+    "mistakes": [
+      "Thinking the President makes policy personally.",
+      "Ignoring the judiciary's power of review."
+    ]
+  },
+  {
+    "id": "civ-democratic-rights",
+    "title": "Democratic rights",
+    "subject": "Civics",
+    "classes": [
+      9
+    ],
+    "summary": "Fundamental rights protect citizens against arbitrary state power and are enforceable in court.",
+    "points": [
+      "Rights include equality, freedom, against exploitation, religion, cultural and educational rights, and constitutional remedies.",
+      "The right to constitutional remedies lets citizens approach courts for enforcement.",
+      "Rights are not absolute; reasonable restrictions apply.",
+      "National Human Rights Commission and courts provide protection.",
+      "Rights apply to citizens and, in some cases, to all persons."
+    ],
+    "example": "Article 32 allows a citizen to move the Supreme Court directly for enforcement of fundamental rights.",
+    "aliases": [
+      "democratic rights",
+      "fundamental rights",
+      "right to constitutional remedies",
+      "article 32",
+      "human rights"
+    ],
+    "mistakes": [
+      "Believing fundamental rights are unlimited.",
+      "Forgetting that some rights apply to non-citizens too."
+    ]
+  },
+  {
+    "id": "civ-popular-struggles",
+    "title": "Popular struggles and movements",
+    "subject": "Civics",
+    "classes": [
+      10
+    ],
+    "summary": "Democracy is strengthened when people organise movements and pressure groups outside formal institutions.",
+    "points": [
+      "The Nepal struggle of 2006 restored democracy through mass protest.",
+      "Bolivia's water war opposed privatisation of water supply.",
+      "Movements use protest, media, petitions and litigation.",
+      "Pressure groups pursue specific interests and influence policy.",
+      "Movements can complement parties but do not replace elections."
+    ],
+    "example": "Bolivia's 2000 protests reversed a water privatisation contract.",
+    "aliases": [
+      "popular struggles and movements",
+      "pressure groups",
+      "nepal democracy",
+      "bolivia water war",
+      "social movements"
+    ],
+    "mistakes": [
+      "Thinking movements alone can govern.",
+      "Assuming all pressure groups are democratic in method."
+    ]
+  },
+  {
+    "id": "eco-village-palampur",
+    "title": "The story of Village Palampur",
+    "subject": "Economics",
+    "classes": [
+      9
+    ],
+    "summary": "Palampur illustrates production, farming, non-farm activities and the role of capital and labour in a village economy.",
+    "points": [
+      "Production needs land, labour, capital and human capital.",
+      "Multiple cropping and modern inputs raise farm output.",
+      "Small farmers often borrow from moneylenders at high interest.",
+      "Non-farm activities include dairy, small manufacturing and transport.",
+      "Better infrastructure and credit support rural development."
+    ],
+    "example": "A farmer using HYV seeds, fertiliser and tubewell irrigation produces more than one crop a year.",
+    "aliases": [
+      "village palampur",
+      "production factors",
+      "rural economy",
+      "multiple cropping",
+      "farm and non farm activities",
+      "the story of village palampur"
+    ],
+    "mistakes": [
+      "Treating capital as only money.",
+      "Ignoring the role of irrigation in multiple cropping."
+    ]
+  },
+  {
+    "id": "eco-people-resource",
+    "title": "People as resource",
+    "subject": "Economics",
+    "classes": [
+      9
+    ],
+    "summary": "People are a resource when their skills and health are developed, contributing to production and growth.",
+    "points": [
+      "Human capital formation comes from education, health and training.",
+      "Educated and healthy workers are more productive.",
+      "Unemployment may be seasonal, disguised or educated unemployment.",
+      "Disguised unemployment means more workers than needed on a task.",
+      "Investment in education raises future income and national output."
+    ],
+    "example": "Five workers doing a job that needs three is disguised unemployment.",
+    "aliases": [
+      "people as resource",
+      "human capital",
+      "unemployment types",
+      "disguised unemployment",
+      "investment in education"
+    ],
+    "mistakes": [
+      "Calling all unemployment voluntary.",
+      "Confusing seasonal with disguised unemployment."
+    ]
+  },
+  {
+    "id": "eco-poverty-challenge",
+    "title": "Poverty as a challenge",
+    "subject": "Economics",
+    "classes": [
+      9
+    ],
+    "summary": "Poverty is measured by a minimum consumption level, and it has social as well as economic dimensions.",
+    "points": [
+      "The poverty line is based on minimum calorie and consumption requirements.",
+      "Poverty is higher in rural areas and among certain social groups.",
+      "Causes include low growth, inequality, unemployment and lack of education.",
+      "Anti-poverty measures include employment schemes, food security and education.",
+      "Poverty is multidimensional: health, shelter, sanitation and dignity matter."
+    ],
+    "example": "MGNREGA provides guaranteed wage employment to reduce rural poverty.",
+    "aliases": [
+      "poverty as a challenge",
+      "poverty line",
+      "anti poverty measures",
+      "multidimensional poverty",
+      "mgnrega"
+    ],
+    "mistakes": [
+      "Measuring poverty only by income.",
+      "Assuming poverty is uniform across regions."
+    ]
+  },
+  {
+    "id": "eco-food-security",
+    "title": "Food security in India",
+    "subject": "Economics",
+    "classes": [
+      9
+    ],
+    "summary": "Food security means availability, accessibility and affordability of food, supported by buffer stocks and the public distribution system.",
+    "points": [
+      "The FCI procures grain at minimum support prices and stores buffer stocks.",
+      "The PDS distributes subsidised grain through fair price shops.",
+      "Antyodaya cards target the poorest households.",
+      "Buffer stocks stabilise prices and cover shortages.",
+      "Problems include leakages, exclusion errors and storage losses."
+    ],
+    "example": "A drought year is cushioned by releasing buffer stock through fair price shops.",
+    "aliases": [
+      "food security",
+      "public distribution system",
+      "buffer stock",
+      "fci",
+      "minimum support price",
+      "antyodaya",
+      "food security in india"
+    ],
+    "mistakes": [
+      "Equating food security with food availability alone.",
+      "Ignoring leakages in the PDS."
+    ]
+  },
+  {
+    "id": "cs-office-tools",
+    "title": "Office tools: word processor, spreadsheet and presentation",
+    "subject": "Computer Science",
+    "classes": [
+      9,
+      10
+    ],
+    "summary": "Office software creates documents, calculates with data and presents information visually.",
+    "points": [
+      "A word processor handles text formatting, tables, headers and mail merge.",
+      "A spreadsheet stores data in cells and recalculates formulas automatically.",
+      "Common spreadsheet functions include SUM, AVERAGE, MAX, MIN and IF.",
+      "A presentation tool builds slides with text, images, charts and transitions.",
+      "Saving in different formats and printing settings matter for sharing work."
+    ],
+    "formulas": [
+      {
+        "name": "Cell formula",
+        "expr": "=SUM(A1:A10)"
+      },
+      {
+        "name": "Conditional",
+        "expr": "=IF(B2>=40, \"Pass\", \"Fail\")"
+      }
+    ],
+    "example": "=AVERAGE(B2:B6) gives the mean of marks in five cells.",
+    "aliases": [
+      "office tools",
+      "word processor",
+      "spreadsheet",
+      "presentation",
+      "mail merge",
+      "excel formulas"
+    ],
+    "mistakes": [
+      "Typing values instead of formulas so totals do not update.",
+      "Forgetting that formulas begin with =."
+    ]
+  },
+  {
+    "id": "cs-scratch-visual",
+    "title": "Visual programming with Scratch",
+    "subject": "Computer Science",
+    "classes": [
+      6,
+      7,
+      8,
+      9
+    ],
+    "summary": "Scratch builds programs by snapping together blocks, teaching sequencing, loops, conditions and events.",
+    "points": [
+      "Sprites are objects with costumes and scripts.",
+      "Blocks are grouped as motion, looks, sound, events, control, sensing, operators and variables.",
+      "Events such as 'when green flag clicked' start scripts.",
+      "Loops and conditions create repetition and decisions.",
+      "Variables and messages allow interaction between sprites."
+    ],
+    "example": "A 'repeat 10 — move 10 steps' script makes a sprite walk across the stage.",
+    "aliases": [
+      "scratch",
+      "block programming",
+      "visual programming",
+      "sprites",
+      "scratch animation"
+    ],
+    "mistakes": [
+      "Placing blocks outside any event so nothing runs.",
+      "Forgetting to initialise variables before a loop."
+    ]
+  },
+  {
+    "id": "eng-grammar-clauses",
+    "title": "English grammar: clauses, determiners and modals",
+    "subject": "English",
+    "classes": [
+      9,
+      10
+    ],
+    "summary": "Clauses combine subject and verb, determiners specify nouns, and modals express possibility, obligation and permission.",
+    "points": [
+      "A main clause stands alone; a subordinate clause depends on it.",
+      "Noun, adjective and adverb clauses do different jobs in a sentence.",
+      "Determiners include articles, possessives, demonstratives and quantifiers.",
+      "Modals such as can, may, must, should and might show attitude rather than tense.",
+      "Subject–verb agreement and correct connectors are commonly tested."
+    ],
+    "example": "\"Although it rained, we played\" has a subordinate clause followed by a main clause.",
+    "aliases": [
+      "clauses",
+      "determiners",
+      "modals",
+      "subject verb agreement",
+      "grammar class 10",
+      "connectors"
+    ],
+    "mistakes": [
+      "Writing a sentence fragment as a main clause.",
+      "Using 'must' for past obligation instead of 'had to'."
+    ]
+  },
+  {
+    "id": "eng-writing-10",
+    "title": "English writing: analytical paragraph and story",
+    "subject": "English",
+    "classes": [
+      9,
+      10
+    ],
+    "summary": "Class 9–10 writing tasks include analytical paragraphs based on data, stories and descriptive pieces.",
+    "points": [
+      "An analytical paragraph interprets a chart, table or graph in about 100–120 words.",
+      "It needs an opening statement, key comparisons and a conclusion.",
+      "A story needs a setting, characters, a complication and a resolution.",
+      "Descriptive writing uses sensory detail and varied sentence length.",
+      "Accuracy in tense and spelling matters more than long words."
+    ],
+    "example": "An analytical paragraph on a bar graph notes the highest and lowest values and the overall trend.",
+    "aliases": [
+      "analytical paragraph",
+      "story writing",
+      "descriptive writing",
+      "english writing class 10"
+    ],
+    "mistakes": [
+      "Describing every data point instead of the trend.",
+      "Writing a story without a complication."
+    ]
+  },
+  {
+    "id": "env-climate-change",
+    "title": "Climate change",
+    "subject": "Science",
+    "classes": [
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "summary": "Human emissions of greenhouse gases are warming the planet and changing rainfall, ice cover and sea level.",
+    "points": [
+      "Carbon dioxide from fossil fuels and methane from agriculture are the main added greenhouse gases.",
+      "Warming raises sea level through thermal expansion and melting ice.",
+      "Impacts include heatwaves, erratic monsoons, droughts, floods and shifting crop zones.",
+      "Mitigation reduces emissions; adaptation prepares for unavoidable change.",
+      "International agreements set targets but depend on national action."
+    ],
+    "example": "A glacier retreating over decades reduces dry-season river flow for downstream farmers.",
+    "aliases": [
+      "climate change",
+      "global warming",
+      "greenhouse gases",
+      "mitigation adaptation",
+      "sea level rise"
+    ],
+    "mistakes": [
+      "Confusing climate change with the ozone hole.",
+      "Assuming adaptation can replace mitigation."
+    ]
+  },
+  {
+    "id": "env-waste-management",
+    "title": "Waste management",
+    "subject": "Science",
+    "classes": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "summary": "Waste is managed by reducing, segregating, composting, recycling and safe disposal.",
+    "points": [
+      "Biodegradable waste can be composted; non-biodegradable waste needs recycling or safe disposal.",
+      "Segregation at source makes recycling possible.",
+      "Landfills must be lined to prevent leachate reaching groundwater.",
+      "Plastic waste harms animals and blocks drains, worsening flooding.",
+      "The 3Rs and extended producer responsibility reduce waste generation."
+    ],
+    "example": "Kitchen waste composted in a pit becomes manure instead of rotting in a landfill.",
+    "aliases": [
+      "waste management",
+      "biodegradable waste",
+      "composting",
+      "recycling",
+      "landfill",
+      "plastic pollution",
+      "pollution of air and water"
+    ],
+    "mistakes": [
+      "Burning plastic, which releases toxic gases.",
+      "Mixing wet and dry waste so neither can be processed."
+    ]
+  },
+  {
+    "id": "env-disaster-management",
+    "title": "Disaster management",
+    "subject": "Science",
+    "classes": [
+      8,
+      9,
+      10
+    ],
+    "summary": "Disaster management reduces risk before, during and after events such as floods, earthquakes, cyclones and fires.",
+    "points": [
+      "Disasters may be natural or human-made and their impact depends on vulnerability.",
+      "Preparedness includes early warning, drills, evacuation plans and safe buildings.",
+      "Earthquake safety is drop, cover and hold; do not use lifts.",
+      "Flood response needs higher ground, clean water and avoiding contaminated water.",
+      "Relief and rehabilitation follow rescue, with attention to health and livelihoods."
+    ],
+    "example": "Cyclone warnings issued days ahead allow evacuation and reduce deaths.",
+    "aliases": [
+      "disaster management",
+      "earthquake safety",
+      "flood response",
+      "cyclone preparedness",
+      "early warning"
+    ],
+    "mistakes": [
+      "Thinking disasters are only natural events.",
+      "Ignoring vulnerability and preparedness."
+    ]
+  },
+  {
+    "id": "env-road-safety",
+    "title": "Road safety",
+    "subject": "Science",
+    "classes": [
+      6,
+      7,
+      8,
+      9,
+      10
+    ],
+    "summary": "Road safety follows traffic rules, uses protective equipment and depends on attention and courtesy.",
+    "points": [
+      "Helmets and seat belts reduce injury severity in crashes.",
+      "Pedestrians should use footpaths and crossings; drivers must yield at zebra crossings.",
+      "Speed limits, no-drink-driving and no-phone rules prevent collisions.",
+      "Vehicle maintenance, especially brakes and tyres, affects stopping distance.",
+      "First aid and calling emergency services quickly save lives."
+    ],
+    "formulas": [
+      {
+        "name": "Stopping distance",
+        "expr": "thinking distance + braking distance"
+      }
+    ],
+    "example": "Stopping distance grows with the square of speed, so doubling speed roughly quadruples braking distance.",
+    "aliases": [
+      "road safety",
+      "traffic rules",
+      "helmet seat belt",
+      "stopping distance",
+      "pedestrian safety"
+    ],
+    "mistakes": [
+      "Thinking a short thinking time removes braking distance.",
+      "Assuming a helmet is needed only on highways."
+    ]
+  },
+  {
+    "id": "fin-financial-literacy",
+    "title": "Financial literacy",
+    "subject": "Economics",
+    "classes": [
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "summary": "Financial literacy is the ability to manage money: budgeting, saving, borrowing wisely and understanding risk.",
+    "points": [
+      "A budget compares income with planned expenditure and shows the surplus or deficit.",
+      "Savings can be held in bank deposits, post office schemes or other instruments with different risk and return.",
+      "Compound interest makes savings grow faster over long periods.",
+      "Loans must be repaid with interest; high-interest borrowing can trap households.",
+      "Insurance transfers risk, and digital payments need PIN and OTP safety."
+    ],
+    "formulas": [
+      {
+        "name": "Simple interest",
+        "expr": "SI = PRT/100"
+      },
+      {
+        "name": "Compound interest",
+        "expr": "A = P(1 + R/100)ⁿ"
+      },
+      {
+        "name": "Savings rate",
+        "expr": "savings / income × 100"
+      }
+    ],
+    "example": "₹10,000 at 8% compound interest grows to about ₹14,693 in five years.",
+    "aliases": [
+      "financial literacy",
+      "budgeting",
+      "savings",
+      "compound interest",
+      "insurance",
+      "digital payments safety"
+    ],
+    "mistakes": [
+      "Confusing simple and compound interest.",
+      "Borrowing without checking the total repayment."
+    ]
+  },
+  {
+    "id": "hist-world-war-1",
+    "title": "The First World War",
+    "subject": "History",
+    "classes": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "summary": "The First World War (1914–18) was caused by alliance rivalries, nationalism, militarism and imperial competition.",
+    "points": [
+      "The assassination of Archduke Franz Ferdinand triggered the alliance system into war.",
+      "Trench warfare on the western front caused enormous casualties.",
+      "India contributed soldiers and resources as part of the British Empire.",
+      "The Treaty of Versailles imposed reparations and territorial losses on Germany.",
+      "The war's aftermath contributed to revolution and eventually to the Second World War."
+    ],
+    "example": "The Treaty of Versailles' harsh terms are often linked to later German resentment.",
+    "aliases": [
+      "first world war",
+      "world war 1",
+      "treaty of versailles",
+      "1914 1918",
+      "trench warfare"
+    ],
+    "mistakes": [
+      "Blaming the war on a single cause.",
+      "Ignoring the colonial contribution of soldiers."
+    ]
+  },
+  {
+    "id": "hist-world-war-2",
+    "title": "The Second World War",
+    "subject": "History",
+    "classes": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "summary": "The Second World War (1939–45) was fought between the Axis and Allied powers and ended with the defeat of Germany and Japan.",
+    "points": [
+      "The invasion of Poland in 1939 began the war in Europe.",
+      "The Holocaust was the systematic murder of six million Jews and others by Nazi Germany.",
+      "The war was global, with major theatres in Europe, Africa and Asia-Pacific.",
+      "Atomic bombs were dropped on Hiroshima and Nagasaki in 1945.",
+      "The United Nations was founded in 1945 to prevent another world war."
+    ],
+    "example": "The war ended in Europe in May 1945 and in Asia in September 1945.",
+    "aliases": [
+      "second world war",
+      "world war 2",
+      "holocaust",
+      "hiroshima nagasaki",
+      "axis allied powers"
+    ],
+    "mistakes": [
+      "Saying the war began in 1941.",
+      "Treating the European and Pacific theatres as unrelated."
+    ]
+  },
+  {
+    "id": "pol-human-rights",
+    "title": "Human rights and the Universal Declaration",
+    "subject": "Political Science",
+    "classes": [
+      9,
+      10,
+      11,
+      12
+    ],
+    "summary": "The Universal Declaration of Human Rights, adopted in 1948, sets out rights belonging to every person.",
+    "points": [
+      "Rights include life, liberty, equality, fair trial and freedom of expression.",
+      "The UDHR is not a treaty but has influenced national constitutions and laws.",
+      "Civil and political rights are paired with economic, social and cultural rights.",
+      "Human rights bodies monitor abuses but enforcement depends on states.",
+      "India's fundamental rights reflect many UDHR provisions."
+    ],
+    "example": "Article 21 of the Indian Constitution on life and liberty echoes the UDHR's right to life.",
+    "aliases": [
+      "human rights",
+      "universal declaration of human rights",
+      "udhr 1948",
+      "civil political rights"
+    ],
+    "mistakes": [
+      "Thinking the UDHR is legally binding in itself.",
+      "Assuming rights are limited to political freedoms."
+    ]
+  }
+]

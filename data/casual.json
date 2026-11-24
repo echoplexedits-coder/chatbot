@@ -1,0 +1,584 @@
+{
+  "photosynthesis": [
+    "waht is photosynthsis",
+    "how do plants eat",
+    "plants making food from sun",
+    "why are leaves green",
+    "photo synthesis explained quick",
+    "how does a plant turn light into sugar"
+  ],
+  "gravity": [
+    "waht is graivty",
+    "why do things fall down",
+    "how does gravity actualy work",
+    "why dont we float away",
+    "gravity explained easy",
+    "does gravity pull on light",
+    "what stops us floating off the planet",
+    "why do we stay on the ground",
+    "what keeps us on the ground"
+  ],
+  "black-hole": [
+    "wat is a blak hole",
+    "black holes how do they form",
+    "is a black hole a hole",
+    "why cant light escape a black hole",
+    "what happens if u fall into a blackhole",
+    "are black holes real"
+  ],
+  "sky-blue": [
+    "why is the sky blu",
+    "y is the sky blue",
+    "why sky blue and sunset red",
+    "why does the sky change color",
+    "sky colour explined",
+    "why is space black if the sky is blue"
+  ],
+  "evolution": [
+    "waht is evolotion",
+    "how does evolution actualy work",
+    "survival of the fitest meaning",
+    "why do animals change over time",
+    "evolution simple explenation",
+    "did humans evolve from monkeys",
+    "why do animals change over time",
+    "how do animal species change"
+  ],
+  "dna": [
+    "waht is dna",
+    "how does dna work lol",
+    "what r genes",
+    "dna vs rna difference",
+    "why do kids look like their parents",
+    "whats inside a chromosome"
+  ],
+  "climate-change": [
+    "is climate change real",
+    "why is the earth geting hotter",
+    "global warming caus",
+    "greenhouse efect explained",
+    "what can i do about climate change",
+    "why is co2 bad"
+  ],
+  "electricity": [
+    "waht is electricty",
+    "how does a circuit work",
+    "volts amps watts difference",
+    "why dont i get shocked touching a wire",
+    "electric current explined",
+    "what is resistence",
+    "why do you get shocked by a wire",
+    "is it dangerous to touch a live wire"
+  ],
+  "atom": [
+    "waht is an atom",
+    "whats inside an atom",
+    "atoms explined for kids",
+    "why are atoms mostly empty space",
+    "protons neutrons electrons meaning",
+    "are atoms the smallest thing"
+  ],
+  "vaccine": [
+    "how do vacines work",
+    "why do vaccines work",
+    "whats in a vaccine",
+    "do i need a booster",
+    "how does immunity work simple",
+    "why do shots make u immune",
+    "do i need another booster",
+    "how long does a booster last"
+  ],
+  "seasons": [
+    "why do we have sesons",
+    "why is it hot in summer",
+    "y does it get dark early in winter",
+    "seasons explined",
+    "why is it summer in australia in december",
+    "does the earth being closer cause summer"
+  ],
+  "tides": [
+    "why does the sea go up and down",
+    "what causs tides",
+    "how does the moon cause tides",
+    "why 2 high tides a day",
+    "tides explined simple",
+    "whats a spring tide"
+  ],
+  "speed-of-light": [
+    "how fast is light",
+    "waht is the speed of light",
+    "can we go faster than light",
+    "why is light speed the limit",
+    "speed of light in km",
+    "is the speed of light constant"
+  ],
+  "entropy": [
+    "waht is entropy",
+    "entropy explined simple",
+    "why does everything get messy",
+    "second law of thermodynamics meaning",
+    "why does heat go from hot to cold",
+    "does life violate entropy"
+  ],
+  "api": [
+    "wat is an api",
+    "whats an api endpoint",
+    "apis how do they work",
+    "api explined simply",
+    "what does api stand for",
+    "why do apps need apis"
+  ],
+  "http-https": [
+    "http vs https difference",
+    "is http safe",
+    "what does https mean",
+    "how does tls work",
+    "why does my browser say not secure",
+    "http and https explined"
+  ],
+  "database": [
+    "wat is a database",
+    "sql or nosql which one",
+    "how do i store data",
+    "whats a database table",
+    "why use postgres",
+    "database explined for beginners"
+  ],
+  "git": [
+    "waht is git",
+    "git vs github difference",
+    "how do i commit",
+    "whats a branch in git",
+    "i broke my repo how do i undo",
+    "version control explined"
+  ],
+  "recursion": [
+    "waht is recusion",
+    "recursion explined",
+    "why does my recursive function crash",
+    "whats a base case",
+    "function calling itself",
+    "recursion vs loops"
+  ],
+  "big-o": [
+    "waht is big o",
+    "big oh notation explined",
+    "what does o(n) mean",
+    "why is o(n^2) slow",
+    "time complexity for beginners",
+    "is big o about speed",
+    "why is quadratic time slow",
+    "what makes o(n squared) bad",
+    "why is a quadratic algorithm slow"
+  ],
+  "oop": [
+    "waht is oop",
+    "object oriented programing explined",
+    "whats a class vs object",
+    "should i use inheritance",
+    "what is encapsulation",
+    "is oop still good"
+  ],
+  "async": [
+    "waht is async await",
+    "promises explined",
+    "why is my code not waiting",
+    "async vs sync javascript",
+    "whats the event loop",
+    "why do i get unhandled rejection"
+  ],
+  "llm": [
+    "how do llms work",
+    "waht is a language model",
+    "whats a transformer",
+    "why do ai models hallucinate",
+    "how is chatgpt trained",
+    "what are tokens in ai"
+  ],
+  "cloud": [
+    "waht is cloud computing",
+    "what does serverless mean",
+    "should i use aws",
+    "how does hosting work",
+    "why is my cloud bill so high",
+    "cloud explined simple"
+  ],
+  "prime": [
+    "waht is a prime number",
+    "is 1 a prime number",
+    "why are primes used in encryption",
+    "how do i check if a number is prime",
+    "primes explined",
+    "whats the biggest prime"
+  ],
+  "probability": [
+    "waht is probabillity",
+    "how do odds work",
+    "what are independent events",
+    "why did i lose 5 coin flips in a row",
+    "chance explined simple",
+    "what is expected value",
+    "why did i lose so many coin flips",
+    "if it landed heads 5 times is tails due",
+    "is a coin due to land heads",
+    "what are the odds of 3 heads in a row"
+  ],
+  "calculus": [
+    "waht is calculas",
+    "derivative vs integral",
+    "calculus explined simply",
+    "what is a limit in math",
+    "why do i need calculus",
+    "how do derivatives work"
+  ],
+  "pythagoras": [
+    "waht is the pythagorean theorum",
+    "how do i find the hypotenuse",
+    "a squared plus b squared",
+    "distance formula explined",
+    "pythagoras for dummies",
+    "why does a2 b2 c2 work",
+    "how to find the distance between two points"
+  ],
+  "averages": [
+    "mean vs median vs mode",
+    "waht is an average",
+    "why is median better than mean",
+    "how do i calculate the mean",
+    "average explined simple",
+    "what does outlier mean"
+  ],
+  "fibonacci": [
+    "waht is fibbonaci",
+    "fibonacci sequence explined",
+    "whats the golden ratio",
+    "why is fibonacci in nature",
+    "is the golden ratio real",
+    "fibonacci in sunflower seeds"
+  ],
+  "sleep": [
+    "how do i sleep beter",
+    "cant sleep at night",
+    "why cant i fall asleep",
+    "relly tired all the time",
+    "how many hours sleep do i need",
+    "is melatonin ok",
+    "waking up at 3am every night",
+    "why am i always so tired",
+    "im tired even after 8 hours",
+    "tired all the time"
+  ],
+  "focus": [
+    "how do i stop procastinating",
+    "i cant focus",
+    "why am i so distracted",
+    "how to concentrate while studying",
+    "focus tips that actualy work",
+    "i keep checking my phone",
+    "how do i concentrate better",
+    "i lose concentration easily"
+  ],
+  "clear-writing": [
+    "how do i write beter",
+    "my writing is confusing",
+    "tips for clearer sentences",
+    "how to edit my own writing",
+    "why is my essay so wordy",
+    "plain english writing tips"
+  ],
+  "study": [
+    "how do i study efectively",
+    "how to memorize stuff fast",
+    "is cramming bad",
+    "study tips for exams",
+    "how do i revise properly",
+    "why do i forget what i studied",
+    "how do i learn things faster",
+    "fastest way to learn a topic"
+  ],
+  "budgeting": [
+    "how do i make a buget",
+    "how to save money each month",
+    "im broke how do i budget",
+    "50 30 20 rule",
+    "budgeting for beginners",
+    "should i pay off debt or save",
+    "how do i split my income 50 30 20",
+    "whats a simple budget split"
+  ],
+  "exercise": [
+    "how do i start working out",
+    "beginner workout plan",
+    "i hate the gym what should i do",
+    "how often should i train",
+    "how do i get fit at home",
+    "is walking enough exercise"
+  ],
+  "presentation": [
+    "how do i stop being nervous presenting",
+    "public speaking tips",
+    "how to make good slides",
+    "my presentation is tomorrow help",
+    "how do i structure a talk",
+    "i have to present in front of people"
+  ],
+  "creativity": [
+    "how do i get more creative",
+    "creative block help",
+    "how do i come up with ideas",
+    "brainstorming techniqes",
+    "i have no ideas",
+    "how to think outside the box"
+  ],
+  "writers-block": [
+    "writers blok",
+    "i cant start writing",
+    "blank page problem",
+    "how do i beat writers block",
+    "my draft is stuck",
+    "why is writing so hard"
+  ],
+  "learning-to-code": [
+    "how do i learn to code",
+    "waht language should i learn first",
+    "is python or javascript better to start",
+    "coding for beginers",
+    "how long does it take to learn programming",
+    "i keep quitting tutorials"
+  ],
+  "debugging": [
+    "how do i debug",
+    "my code doesnt work",
+    "how do i read a stack trace",
+    "why is my code broken",
+    "debuging tips",
+    "i cant find the bug"
+  ],
+  "capabilities": [
+    "what can u do",
+    "how can u help me",
+    "wat topics do u know",
+    "what are you good at",
+    "help",
+    "what should i ask you",
+    "are you useful",
+    "what can i ask you",
+    "not sure what to ask"
+  ],
+  "who-are-you": [
+    "who r u",
+    "waht are you",
+    "are you gpt",
+    "did someone train you",
+    "what model are you using",
+    "is this chatgpt",
+    "where do your answers come from",
+    "who trained this model",
+    "how was this bot trained"
+  ],
+  "internet": [
+    "how does the internet actualy work",
+    "waht happens when i type a url",
+    "what is dns",
+    "how do packets travel",
+    "internet explined simple",
+    "why is my internet slow",
+    "who owns the internet",
+    "what is a router",
+    "why does my wifi drop"
+  ],
+  "encryption": [
+    "how does encryption work",
+    "waht is public key cryptography",
+    "symmetric vs asymmetric encryption",
+    "can encrypted messages be read",
+    "is encryption unbreakable",
+    "whats the difference between hashing and encryption",
+    "how do private keys work",
+    "what does aes mean"
+  ],
+  "passwords": [
+    "how do i make a strong password",
+    "is my password safe",
+    "should i use a password manager",
+    "what is 2fa",
+    "why do i need two factor auth",
+    "i use the same password everywhere is that bad"
+  ],
+  "scams": [
+    "how do i spot a scam",
+    "is this text message a scam",
+    "someone asked for my code is that legit",
+    "phishing email signs",
+    "i got a weird email from my bank",
+    "how do scams work"
+  ],
+  "inflation": [
+    "waht is inflation",
+    "why are prices going up",
+    "why is everything so expensive",
+    "how does inflation affect my savings",
+    "what causes inflation",
+    "inflation explined simple"
+  ],
+  "compound-interest": [
+    "waht is compound interest",
+    "how does compound interest work",
+    "why start saving early",
+    "rule of 72 explined",
+    "how much will my savings grow",
+    "interest on interest meaning"
+  ],
+  "recycling": [
+    "does recycling actualy work",
+    "what can i recycle",
+    "why is recycling confusing",
+    "is plastic recycling a lie",
+    "how do i reduce waste",
+    "what happens to my recycling"
+  ],
+  "solar-power": [
+    "how do solar panels work",
+    "is solar power worth it",
+    "why are solar panels so cheap now",
+    "what happens at night with solar",
+    "solar vs wind power",
+    "how eficient are solar panels"
+  ],
+  "water-cycle": [
+    "waht is the water cycle",
+    "why does it rain",
+    "where does rain come from",
+    "how do clouds form",
+    "water cycle explined for kids",
+    "why does water evaporate"
+  ],
+  "earthquakes": [
+    "why do earthquakes happen",
+    "waht causes an earthquake",
+    "can we predict earthquakes",
+    "what is a fault line",
+    "why are there aftershocks",
+    "magnitude vs intensity difference"
+  ],
+  "volcanoes": [
+    "why do volcanoes erupt",
+    "how do volcanoes form",
+    "waht is magma vs lava",
+    "are volcanoes useful",
+    "can we predict eruptions",
+    "what is a hotspot volcano",
+    "what happens in a supervolcano eruption",
+    "what is a super volcano"
+  ],
+  "moon-phases": [
+    "why does the moon change shape",
+    "waht are moon phases",
+    "why do we only see one side of the moon",
+    "is the moon a light source",
+    "why is the moon sometimes orange",
+    "moon phases explined"
+  ],
+  "memory": [
+    "how do i remember things beter",
+    "why do i forget names",
+    "memory techniqes",
+    "how does memory work in the brain",
+    "what is chunking",
+    "how do i improve my memory"
+  ],
+  "habits": [
+    "how do i build a habit",
+    "why do i keep breaking habits",
+    "how long does it take to form a habit",
+    "habit stacking meaning",
+    "how do i stop a bad habit",
+    "habits explined"
+  ],
+  "burnout": [
+    "am i burnt out",
+    "waht is burnout",
+    "i feel exhausted all the time from work",
+    "how do i recover from burnout",
+    "burnout vs depression",
+    "i have no energy for anything"
+  ],
+  "nutrition": [
+    "waht should i eat",
+    "how do i eat healthier",
+    "do i need protein powder",
+    "is carbs bad",
+    "healthy diet explined simple",
+    "how much protein do i need"
+  ],
+  "job-interview": [
+    "how do i prepare for an interview",
+    "waht to say in a job interview",
+    "how do i answer tell me about yourself",
+    "interview tips for nervous people",
+    "what questions should i ask them",
+    "i have an interview tomorow",
+    "how do i negotiate salary in an interview",
+    "talking about salary in an interview"
+  ],
+  "html-css": [
+    "waht is css",
+    "html vs css difference",
+    "how do i center a div",
+    "what is flexbox",
+    "css explined for beginners",
+    "why is my layout broken",
+    "how do i make a layout with css",
+    "why is my div not centered"
+  ],
+  "testing": [
+    "why should i write tests",
+    "waht is unit testing",
+    "unit vs integration vs e2e",
+    "how do i test my code",
+    "what is a flaky test",
+    "how much testing is enough"
+  ],
+  "regex": [
+    "waht is regex",
+    "how do regular expressions work",
+    "why is my regex so slow",
+    "regex explined simple",
+    "what does greedy mean in regex",
+    "how do i match an email with regex",
+    "regex to validate an email",
+    "how do i validate an email address"
+  ],
+  "docker": [
+    "waht is docker",
+    "containers vs virtual machines",
+    "why do i need a dockerfile",
+    "how does docker work",
+    "docker explined simple",
+    "why does it work on my machine",
+    "why does it work locally but not on the server",
+    "why is the server different from my machine"
+  ],
+  "machine-learning": [
+    "waht is machine learning",
+    "how does ml work",
+    "supervised vs unsupervised learning",
+    "what is overfitting",
+    "do i need a lot of data",
+    "ml explined for beginners",
+    "how do models learn from data",
+    "what does training a model mean",
+    "what is ml",
+    "how does a model learn"
+  ],
+  "correlation": [
+    "correlation vs causation",
+    "waht does correlation mean",
+    "why doesnt correlation prove causation",
+    "what is a confounding variable",
+    "is a strong correlation good",
+    "correlation explined simple",
+    "how do i know what causes what",
+    "does correlation prove anything"
+  ]
+}
